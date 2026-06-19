@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-19T16:21:00.941528+00:00",
-  "generated_human": "2026-06-19 16:21 UTC",
+  "generated_at": "2026-06-19T22:03:24.807812+00:00",
+  "generated_human": "2026-06-19 22:03 UTC",
   "demo": false,
   "items": [
     {
@@ -378,34 +378,6 @@
         "proceeding": "26-22"
       },
       "first_seen": "2026-06-17T03:11:28.889783+00:00",
-      "is_new": false
-    },
-    {
-      "id": "Congress.gov:119-hr-9129",
-      "source": "Congress.gov",
-      "category": "legislative",
-      "type": "Bill",
-      "title": "H.R. 9129: GUARD Act of 2026",
-      "url": "https://www.congress.gov/bill/119th-congress/house-bill/9129",
-      "agency": "Congress",
-      "identifier": "H.R. 9129",
-      "date": "2026-06-03",
-      "deadline": null,
-      "summary": "Referred to the House Committee on Energy and Commerce.",
-      "score": 80,
-      "domains": [
-        "ground",
-        "supply-chain"
-      ],
-      "matched_terms": [
-        "h.r. 9129"
-      ],
-      "watchlist": {
-        "key": "guard-act",
-        "label": "GUARD Act of 2026 (H.R. 9129, robotics on FCC Covered List)"
-      },
-      "extra": {},
-      "first_seen": "2026-06-17T20:59:37.523148+00:00",
       "is_new": false
     },
     {
@@ -1324,34 +1296,6 @@
         "proceeding": "26-22"
       },
       "first_seen": "2026-06-17T03:11:28.889783+00:00",
-      "is_new": false
-    },
-    {
-      "id": "Congress.gov:119-hr-8870",
-      "source": "Congress.gov",
-      "category": "legislative",
-      "type": "Bill",
-      "title": "H.R. 8870: BUILD America 250 Act",
-      "url": "https://www.congress.gov/bill/119th-congress/house-bill/8870",
-      "agency": "Congress",
-      "identifier": "H.R. 8870",
-      "date": "2026-05-22",
-      "deadline": null,
-      "summary": "Ordered to be Reported (Amended) by the Yeas and Nays: 62 - 2.",
-      "score": 80,
-      "domains": [
-        "ground",
-        "supply-chain"
-      ],
-      "matched_terms": [
-        "build america 250"
-      ],
-      "watchlist": {
-        "key": "build-america-250",
-        "label": "BUILD America 250 Act (Sec. 6009 LiDAR)"
-      },
-      "extra": {},
-      "first_seen": "2026-06-19T00:13:46.154414+00:00",
       "is_new": false
     },
     {
@@ -3434,34 +3378,6 @@
       "is_new": false
     },
     {
-      "id": "Congress.gov:119-s-3481",
-      "source": "Congress.gov",
-      "category": "legislative",
-      "type": "Bill",
-      "title": "S. 3481: SAFER SKIES Act",
-      "url": "https://www.congress.gov/bill/119th-congress/senate-bill/3481",
-      "agency": "Congress",
-      "identifier": "S. 3481",
-      "date": "2025-12-15",
-      "deadline": null,
-      "summary": "Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
-      "score": 80,
-      "domains": [
-        "air",
-        "defense"
-      ],
-      "matched_terms": [
-        "safer skies act"
-      ],
-      "watchlist": {
-        "key": "safer-skies",
-        "label": "Safer Skies Act (C-UAS)"
-      },
-      "extra": {},
-      "first_seen": "2026-06-19T00:13:46.154414+00:00",
-      "is_new": false
-    },
-    {
       "id": "USAspending:6973GH25F01296",
       "source": "USAspending",
       "category": "procurement",
@@ -4889,7 +4805,7 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-06-19T16:21:00.941528+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:SPE8EL26F14DF",
@@ -4981,7 +4897,7 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-06-19T16:21:00.941528+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:W58RGZ26F0139",
@@ -5073,7 +4989,7 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-06-19T16:21:00.941528+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:89233126FNA400749",
@@ -6645,8 +6561,8 @@
     {
       "name": "Congress.gov",
       "status": "ok",
-      "detail": "4 kept",
-      "count": 4
+      "detail": "1 kept; 4 query error(s)",
+      "count": 1
     },
     {
       "name": "SAM.gov",
@@ -6668,20 +6584,20 @@
     }
   ],
   "stats": {
-    "total": 237,
-    "new": 3,
+    "total": 234,
+    "new": 0,
     "by_category": {
       "regulatory": 133,
       "procurement": 91,
       "litigation": 9,
-      "legislative": 4
+      "legislative": 1
     },
     "by_domain": {
-      "air": 181,
-      "supply-chain": 118,
+      "air": 180,
+      "supply-chain": 116,
       "spectrum": 54,
-      "defense": 7,
-      "ground": 7,
+      "defense": 6,
+      "ground": 5,
       "maritime": 2
     },
     "by_source": {
@@ -6691,7 +6607,7 @@
       "Regulations.gov": 20,
       "Federal Register": 13,
       "CourtListener": 9,
-      "Congress.gov": 4
+      "Congress.gov": 1
     }
   },
   "watchlist": [
@@ -6786,45 +6702,6 @@
       "latest": "2026-02-26"
     },
     {
-      "key": "guard-act",
-      "label": "GUARD Act of 2026 (H.R. 9129, robotics on FCC Covered List)",
-      "category": "legislative",
-      "agency": "",
-      "domain": [
-        "ground",
-        "supply-chain"
-      ],
-      "deadline": null,
-      "count": 1,
-      "latest": "2026-06-03"
-    },
-    {
-      "key": "build-america-250",
-      "label": "BUILD America 250 Act (Sec. 6009 LiDAR)",
-      "category": "legislative",
-      "agency": "",
-      "domain": [
-        "ground",
-        "supply-chain"
-      ],
-      "deadline": null,
-      "count": 1,
-      "latest": "2026-05-22"
-    },
-    {
-      "key": "safer-skies",
-      "label": "Safer Skies Act (C-UAS)",
-      "category": "legislative",
-      "agency": "",
-      "domain": [
-        "defense",
-        "air"
-      ],
-      "deadline": null,
-      "count": 1,
-      "latest": "2025-12-15"
-    },
-    {
       "key": "ndaa",
       "label": "NDAA (UAS provisions)",
       "category": "legislative",
@@ -6856,6 +6733,45 @@
       "agency": "USTR",
       "domain": [
         "supply-chain",
+        "air"
+      ],
+      "deadline": null,
+      "count": 0,
+      "latest": ""
+    },
+    {
+      "key": "guard-act",
+      "label": "GUARD Act of 2026 (H.R. 9129, robotics on FCC Covered List)",
+      "category": "legislative",
+      "agency": "",
+      "domain": [
+        "ground",
+        "supply-chain"
+      ],
+      "deadline": null,
+      "count": 0,
+      "latest": ""
+    },
+    {
+      "key": "build-america-250",
+      "label": "BUILD America 250 Act (Sec. 6009 LiDAR)",
+      "category": "legislative",
+      "agency": "",
+      "domain": [
+        "ground",
+        "supply-chain"
+      ],
+      "deadline": null,
+      "count": 0,
+      "latest": ""
+    },
+    {
+      "key": "safer-skies",
+      "label": "Safer Skies Act (C-UAS)",
+      "category": "legislative",
+      "agency": "",
+      "domain": [
+        "defense",
         "air"
       ],
       "deadline": null,
