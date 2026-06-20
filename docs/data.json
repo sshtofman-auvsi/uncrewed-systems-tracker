@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-19T22:03:24.807812+00:00",
-  "generated_human": "2026-06-19 22:03 UTC",
+  "generated_at": "2026-06-20T10:28:54.699129+00:00",
+  "generated_human": "2026-06-20 10:28 UTC",
   "demo": false,
   "items": [
     {
@@ -1485,35 +1485,6 @@
       "is_new": false
     },
     {
-      "id": "FCC ECFS:1051812307908",
-      "source": "FCC ECFS",
-      "category": "regulatory",
-      "type": "Reply Comment",
-      "title": "Lower Colorado River Authority: REPLY TO COMMENTS (FCC 26-74)",
-      "url": "https://www.fcc.gov/ecfs/document/1051812307908/1",
-      "agency": "FCC",
-      "identifier": "FCC 26-74",
-      "date": "2026-05-19",
-      "deadline": null,
-      "summary": "",
-      "score": 80,
-      "domains": [
-        "air",
-        "spectrum",
-        "supply-chain"
-      ],
-      "matched_terms": [],
-      "watchlist": {
-        "key": "gn-26-74",
-        "label": "GN 26-74 (Unleashing American Drone Dominance)"
-      },
-      "extra": {
-        "proceeding": "26-74"
-      },
-      "first_seen": "2026-06-17T03:11:28.889783+00:00",
-      "is_new": false
-    },
-    {
       "id": "FCC ECFS:1051800837232",
       "source": "FCC ECFS",
       "category": "regulatory",
@@ -1636,6 +1607,35 @@
       "type": "LETTER",
       "title": "Aerospace and Flight Test Radio Coordinating Council, Inc.: LETTER (FCC 26-74)",
       "url": "https://www.fcc.gov/ecfs/document/105191287630717/1",
+      "agency": "FCC",
+      "identifier": "FCC 26-74",
+      "date": "2026-05-19",
+      "deadline": null,
+      "summary": "",
+      "score": 80,
+      "domains": [
+        "air",
+        "spectrum",
+        "supply-chain"
+      ],
+      "matched_terms": [],
+      "watchlist": {
+        "key": "gn-26-74",
+        "label": "GN 26-74 (Unleashing American Drone Dominance)"
+      },
+      "extra": {
+        "proceeding": "26-74"
+      },
+      "first_seen": "2026-06-17T03:11:28.889783+00:00",
+      "is_new": false
+    },
+    {
+      "id": "FCC ECFS:1051812307908",
+      "source": "FCC ECFS",
+      "category": "regulatory",
+      "type": "Reply Comment",
+      "title": "Lower Colorado River Authority: REPLY TO COMMENTS (FCC 26-74)",
+      "url": "https://www.fcc.gov/ecfs/document/1051812307908/1",
       "agency": "FCC",
       "identifier": "FCC 26-74",
       "date": "2026-05-19",
@@ -1891,6 +1891,35 @@
       "is_new": false
     },
     {
+      "id": "FCC ECFS:1051819049614",
+      "source": "FCC ECFS",
+      "category": "regulatory",
+      "type": "Reply Comment",
+      "title": "Alliance for Telecommunications Industry Solutions: REPLY TO COMMENTS (FCC 26-74)",
+      "url": "https://www.fcc.gov/ecfs/document/1051819049614/1",
+      "agency": "FCC",
+      "identifier": "FCC 26-74",
+      "date": "2026-05-19",
+      "deadline": null,
+      "summary": "",
+      "score": 80,
+      "domains": [
+        "air",
+        "spectrum",
+        "supply-chain"
+      ],
+      "matched_terms": [],
+      "watchlist": {
+        "key": "gn-26-74",
+        "label": "GN 26-74 (Unleashing American Drone Dominance)"
+      },
+      "extra": {
+        "proceeding": "26-74"
+      },
+      "first_seen": "2026-06-17T03:11:28.889783+00:00",
+      "is_new": false
+    },
+    {
       "id": "FCC ECFS:105190121800500",
       "source": "FCC ECFS",
       "category": "regulatory",
@@ -2013,35 +2042,6 @@
       "type": "Reply Comment",
       "title": "Association for Uncrewed Vehicle Systems International (AUVSI): REPLY TO COMMENTS (FCC 26-74)",
       "url": "https://www.fcc.gov/ecfs/document/105191161729005/1",
-      "agency": "FCC",
-      "identifier": "FCC 26-74",
-      "date": "2026-05-19",
-      "deadline": null,
-      "summary": "",
-      "score": 80,
-      "domains": [
-        "air",
-        "spectrum",
-        "supply-chain"
-      ],
-      "matched_terms": [],
-      "watchlist": {
-        "key": "gn-26-74",
-        "label": "GN 26-74 (Unleashing American Drone Dominance)"
-      },
-      "extra": {
-        "proceeding": "26-74"
-      },
-      "first_seen": "2026-06-17T03:11:28.889783+00:00",
-      "is_new": false
-    },
-    {
-      "id": "FCC ECFS:1051819049614",
-      "source": "FCC ECFS",
-      "category": "regulatory",
-      "type": "Reply Comment",
-      "title": "Alliance for Telecommunications Industry Solutions: REPLY TO COMMENTS (FCC 26-74)",
-      "url": "https://www.fcc.gov/ecfs/document/1051819049614/1",
       "agency": "FCC",
       "identifier": "FCC 26-74",
       "date": "2026-05-19",
@@ -3180,35 +3180,6 @@
         "naics": "541512",
         "setaside": null
       },
-      "first_seen": "2026-06-17T03:11:28.889783+00:00",
-      "is_new": false
-    },
-    {
-      "id": "Congress.gov:119-s-4429",
-      "source": "Congress.gov",
-      "category": "legislative",
-      "type": "Bill",
-      "title": "S. 4429: Connected Vehicle Security Act of 2026",
-      "url": "https://www.congress.gov/bill/119th-congress/senate-bill/4429",
-      "agency": "Congress",
-      "identifier": "S. 4429",
-      "date": "2026-04-29",
-      "deadline": null,
-      "summary": "Read twice and referred to the Committee on Commerce, Science, and Transportation.",
-      "score": 80,
-      "domains": [
-        "ground",
-        "supply-chain"
-      ],
-      "matched_terms": [
-        "connected vehicle",
-        "connected vehicle security act"
-      ],
-      "watchlist": {
-        "key": "connected-vehicle",
-        "label": "S. 4429 Connected Vehicle Security Act"
-      },
-      "extra": {},
       "first_seen": "2026-06-17T03:11:28.889783+00:00",
       "is_new": false
     },
@@ -4420,33 +4391,6 @@
       "is_new": false
     },
     {
-      "id": "SAM.gov:c9a5ea2425964b6a8c66d8fe9c7fc65c",
-      "source": "SAM.gov",
-      "category": "procurement",
-      "type": "Combined Synopsis",
-      "title": "Sole Source to Woods Hole Oceanographic Institute for Unmanned Underwater Vehicle Resilience In-Water Test Support  per attachments",
-      "url": "https://sam.gov/workspace/contract/opp/c9a5ea2425964b6a8c66d8fe9c7fc65c/view",
-      "agency": "DEPT OF DEFENSE",
-      "identifier": "N61331-26-Q-KS34",
-      "date": "2026-06-01",
-      "deadline": "2026-06-04",
-      "summary": "Sole Source to Woods Hole Oceanographic Institute for Unmanned Underwater Vehicle Resilience In-Water Test Support  per attachments",
-      "score": 35,
-      "domains": [
-        "maritime"
-      ],
-      "matched_terms": [
-        "unmanned underwater"
-      ],
-      "watchlist": null,
-      "extra": {
-        "naics": "541330",
-        "setaside": null
-      },
-      "first_seen": "2026-06-17T03:11:28.889783+00:00",
-      "is_new": false
-    },
-    {
       "id": "SAM.gov:b16aa9382413425c8bd8d246c72391a5",
       "source": "SAM.gov",
       "category": "procurement",
@@ -4496,33 +4440,6 @@
       "extra": {
         "naics": "541715",
         "setaside": null
-      },
-      "first_seen": "2026-06-17T03:11:28.889783+00:00",
-      "is_new": false
-    },
-    {
-      "id": "SAM.gov:d44ea5123ff647d19da5c1255eb4d2f8",
-      "source": "SAM.gov",
-      "category": "procurement",
-      "type": "Combined Synopsis",
-      "title": "Autonomous Drone and Systems Training",
-      "url": "https://sam.gov/workspace/contract/opp/d44ea5123ff647d19da5c1255eb4d2f8/view",
-      "agency": "DEPT OF DEFENSE",
-      "identifier": "N0016426Q0146Amendment",
-      "date": "2026-05-28",
-      "deadline": "2026-06-05",
-      "summary": "Autonomous Drone and Systems Training",
-      "score": 35,
-      "domains": [
-        "air"
-      ],
-      "matched_terms": [
-        "drone"
-      ],
-      "watchlist": null,
-      "extra": {
-        "naics": "611710",
-        "setaside": "SBA"
       },
       "first_seen": "2026-06-17T03:11:28.889783+00:00",
       "is_new": false
@@ -4785,6 +4702,29 @@
       "is_new": false
     },
     {
+      "id": "USAspending:W58RGZ26F0238",
+      "source": "USAspending",
+      "category": "procurement",
+      "type": "Award",
+      "title": "AEROVIRONMENT, INC: TUAS HAS A REQUIREMENT TO PROCURE 82X P550 LONG RANGE RECONNAISSANCE (LRR) SYSTEMS: LRR SYSTEM TO SUPPORT RECONNAISSANCE",
+      "url": "https://www.usaspending.gov/award/CONT_AWD_W58RGZ26F0238_9700_W58RGZ26G0005_9700",
+      "agency": "Department of Defense",
+      "identifier": "W58RGZ26F0238",
+      "date": "2026-03-20",
+      "deadline": null,
+      "summary": "TUAS HAS A REQUIREMENT TO PROCURE 82X P550 LONG RANGE RECONNAISSANCE (LRR) SYSTEMS: LRR SYSTEM TO SUPPORT RECONNAISSANCE, SURVEILLANCE, AND TARGET ACQUISITION (RSTA) CAPABILITIES FOR MANEUVER COMMANDERS.",
+      "score": 30,
+      "domains": [],
+      "matched_terms": [],
+      "watchlist": null,
+      "extra": {
+        "amount": 117306231.51,
+        "award_type": "DELIVERY ORDER"
+      },
+      "first_seen": "2026-06-20T10:28:54.699129+00:00",
+      "is_new": true
+    },
+    {
       "id": "USAspending:W58RGZ26F0223",
       "source": "USAspending",
       "category": "procurement",
@@ -4918,52 +4858,6 @@
       "extra": {
         "amount": 10582330.82,
         "award_type": "DELIVERY ORDER"
-      },
-      "first_seen": "2026-06-17T01:20:50.865308+00:00",
-      "is_new": false
-    },
-    {
-      "id": "USAspending:19AQMM26C0257",
-      "source": "USAspending",
-      "category": "procurement",
-      "type": "Award",
-      "title": "STREAM TECHNO LLC: INL DRONES AND GROUND CONTROL STATIONS",
-      "url": "https://www.usaspending.gov/award/CONT_AWD_19AQMM26C0257_1900_-NONE-_-NONE-",
-      "agency": "Department of State",
-      "identifier": "19AQMM26C0257",
-      "date": "2026-02-19",
-      "deadline": null,
-      "summary": "INL DRONES AND GROUND CONTROL STATIONS",
-      "score": 30,
-      "domains": [],
-      "matched_terms": [],
-      "watchlist": null,
-      "extra": {
-        "amount": 19342200.0,
-        "award_type": "DEFINITIVE CONTRACT"
-      },
-      "first_seen": "2026-06-17T01:20:50.865308+00:00",
-      "is_new": false
-    },
-    {
-      "id": "USAspending:19AQMM26C0264",
-      "source": "USAspending",
-      "category": "procurement",
-      "type": "Award",
-      "title": "STREAM TECHNO LLC: INL DRONES AND GROUND CONTROL STATIONS",
-      "url": "https://www.usaspending.gov/award/CONT_AWD_19AQMM26C0264_1900_-NONE-_-NONE-",
-      "agency": "Department of State",
-      "identifier": "19AQMM26C0264",
-      "date": "2026-02-19",
-      "deadline": null,
-      "summary": "INL DRONES AND GROUND CONTROL STATIONS",
-      "score": 30,
-      "domains": [],
-      "matched_terms": [],
-      "watchlist": null,
-      "extra": {
-        "amount": 12671100.0,
-        "award_type": "DEFINITIVE CONTRACT"
       },
       "first_seen": "2026-06-17T01:20:50.865308+00:00",
       "is_new": false
@@ -5155,6 +5049,29 @@
       },
       "first_seen": "2026-06-17T01:20:50.865308+00:00",
       "is_new": false
+    },
+    {
+      "id": "USAspending:FA862024F4040",
+      "source": "USAspending",
+      "category": "procurement",
+      "type": "Award",
+      "title": "AEVEX AEROSPACE, LLC: BIG SAFARI",
+      "url": "https://www.usaspending.gov/award/CONT_AWD_FA862024F4040_9700_FA862019G4023_9700",
+      "agency": "Department of Defense",
+      "identifier": "FA862024F4040",
+      "date": "2024-09-30",
+      "deadline": null,
+      "summary": "BIG SAFARI",
+      "score": 30,
+      "domains": [],
+      "matched_terms": [],
+      "watchlist": null,
+      "extra": {
+        "amount": 11882004.0,
+        "award_type": "DELIVERY ORDER"
+      },
+      "first_seen": "2026-06-20T10:28:54.699129+00:00",
+      "is_new": true
     },
     {
       "id": "USAspending:W58RGZ24C0031",
@@ -6560,15 +6477,15 @@
     },
     {
       "name": "Congress.gov",
-      "status": "ok",
-      "detail": "1 kept; 4 query error(s)",
-      "count": 1
+      "status": "error",
+      "detail": "offset 0: ReadTimeout: HTTPSConnectionPool(host='api.congress.gov', port=443): Read timed out. (read timeout=30); pinned guard-act: ReadTimeout: HTTPSConnectionPool(host='api.congress.gov', port=443): Read timed out. (read timeout=30); pinned build-america-250: ReadTimeout: HTTPSConnectionPool(host='api.congress.gov', port=443): Read timed out. (read timeout=30)",
+      "count": 0
     },
     {
       "name": "SAM.gov",
       "status": "ok",
-      "detail": "31 kept",
-      "count": 31
+      "detail": "29 kept",
+      "count": 29
     },
     {
       "name": "CourtListener",
@@ -6584,30 +6501,28 @@
     }
   ],
   "stats": {
-    "total": 234,
-    "new": 0,
+    "total": 231,
+    "new": 2,
     "by_category": {
       "regulatory": 133,
-      "procurement": 91,
-      "litigation": 9,
-      "legislative": 1
+      "procurement": 89,
+      "litigation": 9
     },
     "by_domain": {
-      "air": 180,
-      "supply-chain": 116,
+      "air": 179,
+      "supply-chain": 115,
       "spectrum": 54,
       "defense": 6,
-      "ground": 5,
-      "maritime": 2
+      "ground": 4,
+      "maritime": 1
     },
     "by_source": {
       "FCC ECFS": 100,
       "USAspending": 60,
-      "SAM.gov": 31,
+      "SAM.gov": 29,
       "Regulations.gov": 20,
       "Federal Register": 13,
-      "CourtListener": 9,
-      "Congress.gov": 1
+      "CourtListener": 9
     }
   },
   "watchlist": [
@@ -6714,19 +6629,6 @@
       "latest": "2026-06-11"
     },
     {
-      "key": "connected-vehicle",
-      "label": "S. 4429 Connected Vehicle Security Act",
-      "category": "legislative",
-      "agency": "",
-      "domain": [
-        "ground",
-        "supply-chain"
-      ],
-      "deadline": null,
-      "count": 1,
-      "latest": "2026-04-29"
-    },
-    {
       "key": "ustr-301",
       "label": "USTR Section 301 (Drone Investigation)",
       "category": "regulatory",
@@ -6779,6 +6681,19 @@
       "latest": ""
     },
     {
+      "key": "connected-vehicle",
+      "label": "S. 4429 Connected Vehicle Security Act",
+      "category": "legislative",
+      "agency": "",
+      "domain": [
+        "ground",
+        "supply-chain"
+      ],
+      "deadline": null,
+      "count": 0,
+      "latest": ""
+    },
+    {
       "key": "obbba-90005",
       "label": "OBBBA Sec. 90005 (C-UAS grants)",
       "category": "legislative",
@@ -6794,7 +6709,7 @@
   "deadlines": [
     {
       "deadline": "2026-06-25",
-      "days": 6,
+      "days": 5,
       "title": "Request for Information (RFI) for a Tactical Resupply Unmanned Aircraft System (TRUAS) Solution",
       "identifier": "N0001926RFPREQWPM2630125",
       "category": "procurement",
@@ -6803,7 +6718,7 @@
     },
     {
       "deadline": "2026-06-26",
-      "days": 7,
+      "days": 6,
       "title": "FY26 Small Unmanned Aerial Systems (sUAS) Detection, Identification and Tracking Equipment",
       "identifier": "F2X3B26120A001",
       "category": "procurement",
@@ -6812,7 +6727,7 @@
     },
     {
       "deadline": "2026-06-26",
-      "days": 7,
+      "days": 6,
       "title": "91st SFG Dronebuster",
       "identifier": "FA452826QML02",
       "category": "procurement",
@@ -6821,7 +6736,7 @@
     },
     {
       "deadline": "2026-06-26",
-      "days": 7,
+      "days": 6,
       "title": "Group 1 Unmanned Aerial System (UAS) – Blue UAS Cleared",
       "identifier": "W50S8526QA028",
       "category": "procurement",
@@ -6830,7 +6745,7 @@
     },
     {
       "deadline": "2026-06-26",
-      "days": 7,
+      "days": 6,
       "title": "Sources Sought - Design-Build to Budget (DB2B) Construction of Tactical Unmanned Aerial Vehicle Hangar",
       "identifier": "W912PL26S0031",
       "category": "procurement",
@@ -6839,7 +6754,7 @@
     },
     {
       "deadline": "2026-06-26",
-      "days": 7,
+      "days": 6,
       "title": "FY26 97 OSS DRONE HARDWARE AND PERPETUAL SOFTWARE",
       "identifier": "FA441926Q0030",
       "category": "procurement",
@@ -6848,7 +6763,7 @@
     },
     {
       "deadline": "2026-06-29",
-      "days": 10,
+      "days": 9,
       "title": "Drone Detection System",
       "identifier": "W50S8N26QA020",
       "category": "procurement",
@@ -6857,7 +6772,7 @@
     },
     {
       "deadline": "2026-06-29",
-      "days": 10,
+      "days": 9,
       "title": "INL_RFQ-PR15990513 DRONES AND PARTS",
       "identifier": "INL_RFQ-PR15990513",
       "category": "procurement",
@@ -6866,7 +6781,7 @@
     },
     {
       "deadline": "2026-07-06",
-      "days": 17,
+      "days": 16,
       "title": "Designation-Restrict the Operation of Unmanned Aircraft in Close Proximity to a Fixed Site Facility",
       "identifier": "Docket No. FAA-2026-4558",
       "category": "regulatory",
@@ -6875,7 +6790,7 @@
     },
     {
       "deadline": "2031-05-28",
-      "days": 1804,
+      "days": 1803,
       "title": "INVITATION TO PARTICIPATE IN THE DEPARTMENT OF WAR DRONE OTA CONSORTIUM",
       "identifier": "W58RGZ-26-2-SN01",
       "category": "procurement",
