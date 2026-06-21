@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-21T11:34:05.281225+00:00",
-  "generated_human": "2026-06-21 11:34 UTC",
+  "generated_at": "2026-06-21T17:13:28.428271+00:00",
+  "generated_human": "2026-06-21 17:13 UTC",
   "demo": false,
   "items": [
     {
@@ -1541,35 +1541,6 @@
       "is_new": false
     },
     {
-      "id": "FCC ECFS:1051812307908",
-      "source": "FCC ECFS",
-      "category": "regulatory",
-      "type": "Reply Comment",
-      "title": "Lower Colorado River Authority: REPLY TO COMMENTS (FCC 26-74)",
-      "url": "https://www.fcc.gov/ecfs/document/1051812307908/1",
-      "agency": "FCC",
-      "identifier": "FCC 26-74",
-      "date": "2026-05-19",
-      "deadline": null,
-      "summary": "",
-      "score": 80,
-      "domains": [
-        "air",
-        "spectrum",
-        "supply-chain"
-      ],
-      "matched_terms": [],
-      "watchlist": {
-        "key": "gn-26-74",
-        "label": "GN 26-74 (Unleashing American Drone Dominance)"
-      },
-      "extra": {
-        "proceeding": "26-74"
-      },
-      "first_seen": "2026-06-17T03:11:28.889783+00:00",
-      "is_new": false
-    },
-    {
       "id": "FCC ECFS:1051800837232",
       "source": "FCC ECFS",
       "category": "regulatory",
@@ -1692,6 +1663,35 @@
       "type": "LETTER",
       "title": "Aerospace and Flight Test Radio Coordinating Council, Inc.: LETTER (FCC 26-74)",
       "url": "https://www.fcc.gov/ecfs/document/105191287630717/1",
+      "agency": "FCC",
+      "identifier": "FCC 26-74",
+      "date": "2026-05-19",
+      "deadline": null,
+      "summary": "",
+      "score": 80,
+      "domains": [
+        "air",
+        "spectrum",
+        "supply-chain"
+      ],
+      "matched_terms": [],
+      "watchlist": {
+        "key": "gn-26-74",
+        "label": "GN 26-74 (Unleashing American Drone Dominance)"
+      },
+      "extra": {
+        "proceeding": "26-74"
+      },
+      "first_seen": "2026-06-17T03:11:28.889783+00:00",
+      "is_new": false
+    },
+    {
+      "id": "FCC ECFS:1051812307908",
+      "source": "FCC ECFS",
+      "category": "regulatory",
+      "type": "Reply Comment",
+      "title": "Lower Colorado River Authority: REPLY TO COMMENTS (FCC 26-74)",
+      "url": "https://www.fcc.gov/ecfs/document/1051812307908/1",
       "agency": "FCC",
       "identifier": "FCC 26-74",
       "date": "2026-05-19",
@@ -1947,6 +1947,35 @@
       "is_new": false
     },
     {
+      "id": "FCC ECFS:1051819049614",
+      "source": "FCC ECFS",
+      "category": "regulatory",
+      "type": "Reply Comment",
+      "title": "Alliance for Telecommunications Industry Solutions: REPLY TO COMMENTS (FCC 26-74)",
+      "url": "https://www.fcc.gov/ecfs/document/1051819049614/1",
+      "agency": "FCC",
+      "identifier": "FCC 26-74",
+      "date": "2026-05-19",
+      "deadline": null,
+      "summary": "",
+      "score": 80,
+      "domains": [
+        "air",
+        "spectrum",
+        "supply-chain"
+      ],
+      "matched_terms": [],
+      "watchlist": {
+        "key": "gn-26-74",
+        "label": "GN 26-74 (Unleashing American Drone Dominance)"
+      },
+      "extra": {
+        "proceeding": "26-74"
+      },
+      "first_seen": "2026-06-17T03:11:28.889783+00:00",
+      "is_new": false
+    },
+    {
       "id": "FCC ECFS:105190121800500",
       "source": "FCC ECFS",
       "category": "regulatory",
@@ -2069,35 +2098,6 @@
       "type": "Reply Comment",
       "title": "Association for Uncrewed Vehicle Systems International (AUVSI): REPLY TO COMMENTS (FCC 26-74)",
       "url": "https://www.fcc.gov/ecfs/document/105191161729005/1",
-      "agency": "FCC",
-      "identifier": "FCC 26-74",
-      "date": "2026-05-19",
-      "deadline": null,
-      "summary": "",
-      "score": 80,
-      "domains": [
-        "air",
-        "spectrum",
-        "supply-chain"
-      ],
-      "matched_terms": [],
-      "watchlist": {
-        "key": "gn-26-74",
-        "label": "GN 26-74 (Unleashing American Drone Dominance)"
-      },
-      "extra": {
-        "proceeding": "26-74"
-      },
-      "first_seen": "2026-06-17T03:11:28.889783+00:00",
-      "is_new": false
-    },
-    {
-      "id": "FCC ECFS:1051819049614",
-      "source": "FCC ECFS",
-      "category": "regulatory",
-      "type": "Reply Comment",
-      "title": "Alliance for Telecommunications Industry Solutions: REPLY TO COMMENTS (FCC 26-74)",
-      "url": "https://www.fcc.gov/ecfs/document/1051819049614/1",
       "agency": "FCC",
       "identifier": "FCC 26-74",
       "date": "2026-05-19",
@@ -4711,7 +4711,7 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-06-21T11:34:05.281225+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:W56KGU25C0003",
@@ -5094,7 +5094,7 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-06-21T11:34:05.281225+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:W15P7T25F0155",
@@ -6594,7 +6594,7 @@
   ],
   "stats": {
     "total": 234,
-    "new": 2,
+    "new": 0,
     "by_category": {
       "regulatory": 133,
       "procurement": 88,
