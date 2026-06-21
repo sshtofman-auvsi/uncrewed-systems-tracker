@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-20T21:58:20.194550+00:00",
-  "generated_human": "2026-06-20 21:58 UTC",
+  "generated_at": "2026-06-21T11:34:05.281225+00:00",
+  "generated_human": "2026-06-21 11:34 UTC",
   "demo": false,
   "items": [
     {
@@ -1541,6 +1541,35 @@
       "is_new": false
     },
     {
+      "id": "FCC ECFS:1051812307908",
+      "source": "FCC ECFS",
+      "category": "regulatory",
+      "type": "Reply Comment",
+      "title": "Lower Colorado River Authority: REPLY TO COMMENTS (FCC 26-74)",
+      "url": "https://www.fcc.gov/ecfs/document/1051812307908/1",
+      "agency": "FCC",
+      "identifier": "FCC 26-74",
+      "date": "2026-05-19",
+      "deadline": null,
+      "summary": "",
+      "score": 80,
+      "domains": [
+        "air",
+        "spectrum",
+        "supply-chain"
+      ],
+      "matched_terms": [],
+      "watchlist": {
+        "key": "gn-26-74",
+        "label": "GN 26-74 (Unleashing American Drone Dominance)"
+      },
+      "extra": {
+        "proceeding": "26-74"
+      },
+      "first_seen": "2026-06-17T03:11:28.889783+00:00",
+      "is_new": false
+    },
+    {
       "id": "FCC ECFS:1051800837232",
       "source": "FCC ECFS",
       "category": "regulatory",
@@ -1663,35 +1692,6 @@
       "type": "LETTER",
       "title": "Aerospace and Flight Test Radio Coordinating Council, Inc.: LETTER (FCC 26-74)",
       "url": "https://www.fcc.gov/ecfs/document/105191287630717/1",
-      "agency": "FCC",
-      "identifier": "FCC 26-74",
-      "date": "2026-05-19",
-      "deadline": null,
-      "summary": "",
-      "score": 80,
-      "domains": [
-        "air",
-        "spectrum",
-        "supply-chain"
-      ],
-      "matched_terms": [],
-      "watchlist": {
-        "key": "gn-26-74",
-        "label": "GN 26-74 (Unleashing American Drone Dominance)"
-      },
-      "extra": {
-        "proceeding": "26-74"
-      },
-      "first_seen": "2026-06-17T03:11:28.889783+00:00",
-      "is_new": false
-    },
-    {
-      "id": "FCC ECFS:1051812307908",
-      "source": "FCC ECFS",
-      "category": "regulatory",
-      "type": "Reply Comment",
-      "title": "Lower Colorado River Authority: REPLY TO COMMENTS (FCC 26-74)",
-      "url": "https://www.fcc.gov/ecfs/document/1051812307908/1",
       "agency": "FCC",
       "identifier": "FCC 26-74",
       "date": "2026-05-19",
@@ -1947,35 +1947,6 @@
       "is_new": false
     },
     {
-      "id": "FCC ECFS:1051819049614",
-      "source": "FCC ECFS",
-      "category": "regulatory",
-      "type": "Reply Comment",
-      "title": "Alliance for Telecommunications Industry Solutions: REPLY TO COMMENTS (FCC 26-74)",
-      "url": "https://www.fcc.gov/ecfs/document/1051819049614/1",
-      "agency": "FCC",
-      "identifier": "FCC 26-74",
-      "date": "2026-05-19",
-      "deadline": null,
-      "summary": "",
-      "score": 80,
-      "domains": [
-        "air",
-        "spectrum",
-        "supply-chain"
-      ],
-      "matched_terms": [],
-      "watchlist": {
-        "key": "gn-26-74",
-        "label": "GN 26-74 (Unleashing American Drone Dominance)"
-      },
-      "extra": {
-        "proceeding": "26-74"
-      },
-      "first_seen": "2026-06-17T03:11:28.889783+00:00",
-      "is_new": false
-    },
-    {
       "id": "FCC ECFS:105190121800500",
       "source": "FCC ECFS",
       "category": "regulatory",
@@ -2098,6 +2069,35 @@
       "type": "Reply Comment",
       "title": "Association for Uncrewed Vehicle Systems International (AUVSI): REPLY TO COMMENTS (FCC 26-74)",
       "url": "https://www.fcc.gov/ecfs/document/105191161729005/1",
+      "agency": "FCC",
+      "identifier": "FCC 26-74",
+      "date": "2026-05-19",
+      "deadline": null,
+      "summary": "",
+      "score": 80,
+      "domains": [
+        "air",
+        "spectrum",
+        "supply-chain"
+      ],
+      "matched_terms": [],
+      "watchlist": {
+        "key": "gn-26-74",
+        "label": "GN 26-74 (Unleashing American Drone Dominance)"
+      },
+      "extra": {
+        "proceeding": "26-74"
+      },
+      "first_seen": "2026-06-17T03:11:28.889783+00:00",
+      "is_new": false
+    },
+    {
+      "id": "FCC ECFS:1051819049614",
+      "source": "FCC ECFS",
+      "category": "regulatory",
+      "type": "Reply Comment",
+      "title": "Alliance for Telecommunications Industry Solutions: REPLY TO COMMENTS (FCC 26-74)",
+      "url": "https://www.fcc.gov/ecfs/document/1051819049614/1",
       "agency": "FCC",
       "identifier": "FCC 26-74",
       "date": "2026-05-19",
@@ -4685,31 +4685,33 @@
       "is_new": false
     },
     {
-      "id": "SAM.gov:e45eee819d1044cdbea1f41fc7d9bd5a",
-      "source": "SAM.gov",
+      "id": "USAspending:FA701425F0115",
+      "source": "USAspending",
       "category": "procurement",
-      "type": "Combined Synopsis",
-      "title": "DRONE",
-      "url": "https://sam.gov/workspace/contract/opp/e45eee819d1044cdbea1f41fc7d9bd5a/view",
-      "agency": "DEPT OF DEFENSE",
-      "identifier": "W911S226U3061",
-      "date": "2026-04-21",
-      "deadline": "2026-04-24",
-      "summary": "DRONE",
-      "score": 35,
+      "type": "Award",
+      "title": "CONNECTED ALLIANCES LLC: WIRELESS POWER FOR COUNTER UAS PATHFINDER",
+      "url": "https://www.usaspending.gov/award/CONT_AWD_FA701425F0115_9700_FA701423D0014_9700",
+      "agency": "Department of Defense",
+      "identifier": "FA701425F0115",
+      "date": "2025-03-14",
+      "deadline": null,
+      "summary": "WIRELESS POWER FOR COUNTER UAS PATHFINDER",
+      "score": 34,
       "domains": [
-        "air"
+        "air",
+        "defense"
       ],
       "matched_terms": [
-        "drone"
+        "uas",
+        "counter uas"
       ],
       "watchlist": null,
       "extra": {
-        "naics": "336411",
-        "setaside": "SBA"
+        "amount": 2500000.0,
+        "award_type": "DELIVERY ORDER"
       },
-      "first_seen": "2026-06-17T03:11:28.889783+00:00",
-      "is_new": false
+      "first_seen": "2026-06-21T11:34:05.281225+00:00",
+      "is_new": true
     },
     {
       "id": "USAspending:W56KGU25C0003",
@@ -5072,27 +5074,27 @@
       "is_new": false
     },
     {
-      "id": "USAspending:19AQMM25F1638",
+      "id": "USAspending:W15P7T25F0236",
       "source": "USAspending",
       "category": "procurement",
       "type": "Award",
-      "title": "QUANTUM-SYSTEMS INC: PURCHASE OF VECTOR DRONES SYSTEMS AND UPGRADES.",
-      "url": "https://www.usaspending.gov/award/CONT_AWD_19AQMM25F1638_1900_19AQMM25D0182_1900",
-      "agency": "Department of State",
-      "identifier": "19AQMM25F1638",
-      "date": "2025-09-22",
+      "title": "LEIDOS, INC.: PROCUREMENT OF COMMUNICATION EQUIPMENT, ANTENNAS, BATTERIES, CHARGERS, AND WIRELESS EQUIPMENT",
+      "url": "https://www.usaspending.gov/award/CONT_AWD_W15P7T25F0236_9700_W15P7T23D0003_9700",
+      "agency": "Department of Defense",
+      "identifier": "W15P7T25F0236",
+      "date": "2025-08-07",
       "deadline": null,
-      "summary": "PURCHASE OF VECTOR DRONES SYSTEMS AND UPGRADES.",
+      "summary": "PROCUREMENT OF COMMUNICATION EQUIPMENT, ANTENNAS, BATTERIES, CHARGERS, AND WIRELESS EQUIPMENT",
       "score": 30,
       "domains": [],
       "matched_terms": [],
       "watchlist": null,
       "extra": {
-        "amount": 27527527.27,
+        "amount": 2992398.0,
         "award_type": "DELIVERY ORDER"
       },
-      "first_seen": "2026-06-17T01:20:50.865308+00:00",
-      "is_new": false
+      "first_seen": "2026-06-21T11:34:05.281225+00:00",
+      "is_new": true
     },
     {
       "id": "USAspending:W15P7T25F0155",
@@ -5251,29 +5253,6 @@
       "extra": {
         "amount": 105233358.63,
         "award_type": "DEFINITIVE CONTRACT"
-      },
-      "first_seen": "2026-06-17T01:20:50.865308+00:00",
-      "is_new": false
-    },
-    {
-      "id": "USAspending:H9240224F0028",
-      "source": "USAspending",
-      "category": "procurement",
-      "type": "Award",
-      "title": "ANDURIL INDUSTRIES, INC.: ROADRUNNER SUBASSEMBLY COMPONENTS AND DRONEGUN",
-      "url": "https://www.usaspending.gov/award/CONT_AWD_H9240224F0028_9700_H9240222D0001_9700",
-      "agency": "Department of Defense",
-      "identifier": "H9240224F0028",
-      "date": "2024-02-29",
-      "deadline": null,
-      "summary": "ROADRUNNER SUBASSEMBLY COMPONENTS AND DRONEGUN",
-      "score": 30,
-      "domains": [],
-      "matched_terms": [],
-      "watchlist": null,
-      "extra": {
-        "amount": 10742187.0,
-        "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-06-17T01:20:50.865308+00:00",
       "is_new": false
@@ -6597,8 +6576,8 @@
     {
       "name": "SAM.gov",
       "status": "ok",
-      "detail": "29 kept",
-      "count": 29
+      "detail": "28 kept",
+      "count": 28
     },
     {
       "name": "CourtListener",
@@ -6614,11 +6593,11 @@
     }
   ],
   "stats": {
-    "total": 235,
-    "new": 0,
+    "total": 234,
+    "new": 2,
     "by_category": {
       "regulatory": 133,
-      "procurement": 89,
+      "procurement": 88,
       "litigation": 9,
       "legislative": 4
     },
@@ -6626,14 +6605,14 @@
       "air": 180,
       "supply-chain": 118,
       "spectrum": 54,
-      "defense": 7,
+      "defense": 8,
       "ground": 7,
       "maritime": 1
     },
     "by_source": {
       "FCC ECFS": 100,
       "USAspending": 60,
-      "SAM.gov": 29,
+      "SAM.gov": 28,
       "Regulations.gov": 20,
       "Federal Register": 13,
       "CourtListener": 9,
@@ -6824,7 +6803,7 @@
   "deadlines": [
     {
       "deadline": "2026-06-25",
-      "days": 5,
+      "days": 4,
       "title": "Request for Information (RFI) for a Tactical Resupply Unmanned Aircraft System (TRUAS) Solution",
       "identifier": "N0001926RFPREQWPM2630125",
       "category": "procurement",
@@ -6833,7 +6812,7 @@
     },
     {
       "deadline": "2026-06-26",
-      "days": 6,
+      "days": 5,
       "title": "FY26 Small Unmanned Aerial Systems (sUAS) Detection, Identification and Tracking Equipment",
       "identifier": "F2X3B26120A001",
       "category": "procurement",
@@ -6842,7 +6821,7 @@
     },
     {
       "deadline": "2026-06-26",
-      "days": 6,
+      "days": 5,
       "title": "91st SFG Dronebuster",
       "identifier": "FA452826QML02",
       "category": "procurement",
@@ -6851,7 +6830,7 @@
     },
     {
       "deadline": "2026-06-26",
-      "days": 6,
+      "days": 5,
       "title": "Group 1 Unmanned Aerial System (UAS) – Blue UAS Cleared",
       "identifier": "W50S8526QA028",
       "category": "procurement",
@@ -6860,7 +6839,7 @@
     },
     {
       "deadline": "2026-06-26",
-      "days": 6,
+      "days": 5,
       "title": "Sources Sought - Design-Build to Budget (DB2B) Construction of Tactical Unmanned Aerial Vehicle Hangar",
       "identifier": "W912PL26S0031",
       "category": "procurement",
@@ -6869,7 +6848,7 @@
     },
     {
       "deadline": "2026-06-26",
-      "days": 6,
+      "days": 5,
       "title": "FY26 97 OSS DRONE HARDWARE AND PERPETUAL SOFTWARE",
       "identifier": "FA441926Q0030",
       "category": "procurement",
@@ -6878,7 +6857,7 @@
     },
     {
       "deadline": "2026-06-29",
-      "days": 9,
+      "days": 8,
       "title": "Drone Detection System",
       "identifier": "W50S8N26QA020",
       "category": "procurement",
@@ -6887,7 +6866,7 @@
     },
     {
       "deadline": "2026-06-29",
-      "days": 9,
+      "days": 8,
       "title": "INL_RFQ-PR15990513 DRONES AND PARTS",
       "identifier": "INL_RFQ-PR15990513",
       "category": "procurement",
@@ -6896,7 +6875,7 @@
     },
     {
       "deadline": "2026-07-06",
-      "days": 16,
+      "days": 15,
       "title": "Designation-Restrict the Operation of Unmanned Aircraft in Close Proximity to a Fixed Site Facility",
       "identifier": "Docket No. FAA-2026-4558",
       "category": "regulatory",
@@ -6905,7 +6884,7 @@
     },
     {
       "deadline": "2031-05-28",
-      "days": 1803,
+      "days": 1802,
       "title": "INVITATION TO PARTICIPATE IN THE DEPARTMENT OF WAR DRONE OTA CONSORTIUM",
       "identifier": "W58RGZ-26-2-SN01",
       "category": "procurement",
