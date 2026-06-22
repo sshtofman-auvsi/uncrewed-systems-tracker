@@ -170,9 +170,14 @@ def build_watchlist(items: list[dict]) -> list[dict]:
     return out
 
 
+def _fcc_docket_url(proc: str) -> str:
+    return f"https://www.fcc.gov/ecfs/search/search-filings/results?q=(proceedings.name:%22{proc}%22)"
+
+
 def build_deadlines(items: list[dict]) -> list[dict]:
     today_iso = common.today().isoformat()
     rows = []
+    seen_keys = set()  # (watchlist_key, deadline) already represented by an item
     for it in items:
         dl = it.get("deadline")
         if dl and dl >= today_iso:
@@ -185,6 +190,34 @@ def build_deadlines(items: list[dict]) -> list[dict]:
                 "source": it.get("source"),
                 "url": it.get("url"),
             })
+            wk = (it.get("watchlist") or {}).get("key")
+            if wk:
+                seen_keys.add((wk, dl))
+
+    # Curated watchlist comment windows belong in the countdown even when no
+    # individual filing carries the date (FCC ECFS filings never do). A docket
+    # entry just needs a "deadline" in config; optionally a "url" or a
+    # "fcc_proceeding" to link to.
+    for entry in config.WATCHLIST_DOCKETS:
+        dl = entry.get("deadline")
+        if not dl or dl < today_iso:
+            continue
+        if (entry["key"], dl) in seen_keys:
+            continue
+        proc = entry.get("fcc_proceeding")
+        url = entry.get("url") or (_fcc_docket_url(proc) if proc else "")
+        ident = entry.get("agency", "") or (f"FCC {proc}" if proc else "")
+        rows.append({
+            "deadline": dl,
+            "days": common.days_until(dl),
+            "title": entry["label"],
+            "identifier": ident,
+            "category": entry.get("category", "regulatory"),
+            "source": "Watchlist",
+            "url": url,
+        })
+        seen_keys.add((entry["key"], dl))
+
     rows.sort(key=lambda r: r["deadline"])
     return rows[:40]
 
