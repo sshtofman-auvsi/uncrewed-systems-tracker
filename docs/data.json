@@ -1,38 +1,8 @@
 {
-  "generated_at": "2026-06-22T17:58:20.979820+00:00",
-  "generated_human": "2026-06-22 17:58 UTC",
+  "generated_at": "2026-06-22T23:08:23.366329+00:00",
+  "generated_human": "2026-06-22 23:08 UTC",
   "demo": false,
   "items": [
-    {
-      "id": "Regulations.gov:FAA-2026-4558-0367",
-      "source": "Regulations.gov",
-      "category": "regulatory",
-      "type": "Comment",
-      "title": "Comment on Designation – Restrict the Operation of Unmanned Aircraft in Close Proximity  to a Fixed Site Facility: Comment from Anonymous",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-0367",
-      "agency": "FAA",
-      "identifier": "FAA-2026-4558",
-      "date": "2026-06-22",
-      "deadline": null,
-      "summary": "Comment from Anonymous",
-      "score": 80,
-      "domains": [
-        "air"
-      ],
-      "matched_terms": [
-        "unmanned aircraft",
-        "faa-2026-4558"
-      ],
-      "watchlist": {
-        "key": "section-2209",
-        "label": "Section 2209 (Critical Infrastructure UAS Restrictions)"
-      },
-      "extra": {
-        "docket_total_comments": 389
-      },
-      "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
-    },
     {
       "id": "FCC ECFS:26109836012",
       "source": "FCC ECFS",
@@ -65,7 +35,7 @@
         "proceeding": "26-22"
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:26109834849",
@@ -96,7 +66,7 @@
         "proceeding": "26-22"
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:26109834829",
@@ -128,7 +98,7 @@
         "proceeding": "26-22"
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:1061694111687",
@@ -156,7 +126,7 @@
         "proceeding": "26-22"
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:10612309442224",
@@ -188,7 +158,7 @@
         "proceeding": "26-22"
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:1061156556347",
@@ -220,7 +190,7 @@
         "proceeding": "26-22"
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "SAM.gov:db602a17a6c44f72a46943f351b1febd",
@@ -254,7 +224,7 @@
         "setaside": "SBA"
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:1060906407077",
@@ -285,7 +255,7 @@
         "proceeding": "26-22"
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:10606830904798",
@@ -317,7 +287,7 @@
         "proceeding": "26-22"
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:1060600514683",
@@ -349,7 +319,7 @@
         "proceeding": "26-22"
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:10607179487916",
@@ -381,7 +351,7 @@
         "proceeding": "26-22"
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:10605021861770",
@@ -412,7 +382,7 @@
         "proceeding": "26-22"
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "Congress.gov:119-hr-9129",
@@ -440,7 +410,7 @@
       },
       "extra": {},
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:106020769100046",
@@ -474,7 +444,7 @@
         "proceeding": "26-22"
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:10531120907239",
@@ -505,7 +475,7 @@
         "proceeding": "26-22"
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:1053036535522",
@@ -533,7 +503,7 @@
         "proceeding": "26-22"
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:10531208705796",
@@ -561,7 +531,7 @@
         "proceeding": "26-22"
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:10530375403656",
@@ -589,7 +559,7 @@
         "proceeding": "26-22"
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:10531075320678",
@@ -617,7 +587,7 @@
         "proceeding": "26-22"
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:10529019151705",
@@ -648,7 +618,7 @@
         "proceeding": "26-22"
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:10530562813277",
@@ -676,7 +646,7 @@
         "proceeding": "26-22"
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:10530199008629",
@@ -708,7 +678,7 @@
         "proceeding": "26-22"
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:10529700607142",
@@ -740,7 +710,7 @@
         "proceeding": "26-22"
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:10529330518815",
@@ -772,7 +742,7 @@
         "proceeding": "26-22"
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:1052910512317",
@@ -803,7 +773,7 @@
         "proceeding": "26-22"
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:1052930205789",
@@ -836,7 +806,7 @@
         "proceeding": "26-22"
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:10529112901335",
@@ -867,7 +837,7 @@
         "proceeding": "26-22"
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:105291912712517",
@@ -898,7 +868,7 @@
         "proceeding": "26-22"
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:10528281610686",
@@ -927,7 +897,7 @@
         "proceeding": "26-74"
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:1052856555453",
@@ -958,7 +928,7 @@
         "proceeding": "26-22"
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:105270527114564",
@@ -990,7 +960,7 @@
         "proceeding": "26-22"
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:10526216301680",
@@ -1018,7 +988,7 @@
         "proceeding": "26-22"
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:10526071101068",
@@ -1050,7 +1020,7 @@
         "proceeding": "26-22"
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:105232344326479",
@@ -1081,7 +1051,7 @@
         "proceeding": "26-22"
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:10524825928619",
@@ -1112,7 +1082,7 @@
         "proceeding": "26-22"
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:105250785930931",
@@ -1144,7 +1114,7 @@
         "proceeding": "26-22"
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:10524473010322",
@@ -1175,7 +1145,7 @@
         "proceeding": "26-22"
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:1052433759093",
@@ -1207,7 +1177,7 @@
         "proceeding": "26-22"
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:10524943428097",
@@ -1235,7 +1205,7 @@
         "proceeding": "26-22"
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:105250471815580",
@@ -1266,7 +1236,7 @@
         "proceeding": "26-22"
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:10522205935493",
@@ -1294,7 +1264,7 @@
         "proceeding": "26-22"
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:105220526504741",
@@ -1325,7 +1295,7 @@
         "proceeding": "26-22"
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:10522021631087",
@@ -1358,7 +1328,7 @@
         "proceeding": "26-22"
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "Congress.gov:119-hr-8870",
@@ -1386,7 +1356,7 @@
       },
       "extra": {},
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:10521098824056",
@@ -1419,7 +1389,7 @@
         "proceeding": "26-22"
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:10520398508165",
@@ -1448,7 +1418,7 @@
         "proceeding": "26-74"
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:1052091483989",
@@ -1480,7 +1450,7 @@
         "proceeding": "26-22"
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:10519218515921",
@@ -1512,7 +1482,7 @@
         "proceeding": "26-22"
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:1051938005976",
@@ -1543,7 +1513,7 @@
         "proceeding": "26-22"
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:1051957007226",
@@ -1572,94 +1542,7 @@
         "proceeding": "26-74"
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
-    },
-    {
-      "id": "FCC ECFS:1051813119257",
-      "source": "FCC ECFS",
-      "category": "regulatory",
-      "type": "Reply Comment",
-      "title": "Aerospace Industries Association, Air Line Pilots Association International, AURA Network Systems, Inc., Aviation Spectrum Resources, Inc., The Boeing Company, Joby Aviation, and Vertical Aviation International: REPLY TO COMMENTS (FCC 26-74)",
-      "url": "https://www.fcc.gov/ecfs/document/1051813119257/1",
-      "agency": "FCC",
-      "identifier": "FCC 26-74",
-      "date": "2026-05-19",
-      "deadline": null,
-      "summary": "",
-      "score": 80,
-      "domains": [
-        "air",
-        "spectrum",
-        "supply-chain"
-      ],
-      "matched_terms": [],
-      "watchlist": {
-        "key": "gn-26-74",
-        "label": "GN 26-74 (Unleashing American Drone Dominance)"
-      },
-      "extra": {
-        "proceeding": "26-74"
-      },
-      "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
-    },
-    {
-      "id": "FCC ECFS:10518639213118",
-      "source": "FCC ECFS",
-      "category": "regulatory",
-      "type": "Reply Comment",
-      "title": "Silvus Technologies Inc.: REPLY TO COMMENTS (FCC 26-74)",
-      "url": "https://www.fcc.gov/ecfs/document/10518639213118/1",
-      "agency": "FCC",
-      "identifier": "FCC 26-74",
-      "date": "2026-05-19",
-      "deadline": null,
-      "summary": "",
-      "score": 80,
-      "domains": [
-        "air",
-        "spectrum",
-        "supply-chain"
-      ],
-      "matched_terms": [],
-      "watchlist": {
-        "key": "gn-26-74",
-        "label": "GN 26-74 (Unleashing American Drone Dominance)"
-      },
-      "extra": {
-        "proceeding": "26-74"
-      },
-      "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
-    },
-    {
-      "id": "FCC ECFS:10518843201689",
-      "source": "FCC ECFS",
-      "category": "regulatory",
-      "type": "Reply Comment",
-      "title": "Connected Devices for America Coalition, E-ZPass Group, American Trucking Associations (ATA), International Bridge, Tunnel, and Turnpike Association (IBTTA), LoRa Alliance, National Retail Federation (NRF), RAIN Alliance Inc., Wi-Fi Alliance, WISPA – The Association for Broadband Without Boundaries, Wi-SUN Alliance: REPLY TO COMMENTS (FCC 26-74)",
-      "url": "https://www.fcc.gov/ecfs/document/10518843201689/1",
-      "agency": "FCC",
-      "identifier": "FCC 26-74",
-      "date": "2026-05-19",
-      "deadline": null,
-      "summary": "",
-      "score": 80,
-      "domains": [
-        "air",
-        "spectrum",
-        "supply-chain"
-      ],
-      "matched_terms": [],
-      "watchlist": {
-        "key": "gn-26-74",
-        "label": "GN 26-74 (Unleashing American Drone Dominance)"
-      },
-      "extra": {
-        "proceeding": "26-74"
-      },
-      "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:105191287630717",
@@ -1688,15 +1571,15 @@
         "proceeding": "26-74"
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
-      "id": "FCC ECFS:1051800837232",
+      "id": "FCC ECFS:10518843201689",
       "source": "FCC ECFS",
       "category": "regulatory",
       "type": "Reply Comment",
-      "title": "Anne E Cortez: REPLY TO COMMENTS (FCC 26-74)",
-      "url": "https://www.fcc.gov/ecfs/document/1051800837232/1",
+      "title": "Connected Devices for America Coalition, E-ZPass Group, American Trucking Associations (ATA), International Bridge, Tunnel, and Turnpike Association (IBTTA), LoRa Alliance, National Retail Federation (NRF), RAIN Alliance Inc., Wi-Fi Alliance, WISPA – The Association for Broadband Without Boundaries, Wi-SUN Alliance: REPLY TO COMMENTS (FCC 26-74)",
+      "url": "https://www.fcc.gov/ecfs/document/10518843201689/1",
       "agency": "FCC",
       "identifier": "FCC 26-74",
       "date": "2026-05-19",
@@ -1717,7 +1600,7 @@
         "proceeding": "26-74"
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:1051812307908",
@@ -1746,7 +1629,94 @@
         "proceeding": "26-74"
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
+      "is_new": false
+    },
+    {
+      "id": "FCC ECFS:1051800837232",
+      "source": "FCC ECFS",
+      "category": "regulatory",
+      "type": "Reply Comment",
+      "title": "Anne E Cortez: REPLY TO COMMENTS (FCC 26-74)",
+      "url": "https://www.fcc.gov/ecfs/document/1051800837232/1",
+      "agency": "FCC",
+      "identifier": "FCC 26-74",
+      "date": "2026-05-19",
+      "deadline": null,
+      "summary": "",
+      "score": 80,
+      "domains": [
+        "air",
+        "spectrum",
+        "supply-chain"
+      ],
+      "matched_terms": [],
+      "watchlist": {
+        "key": "gn-26-74",
+        "label": "GN 26-74 (Unleashing American Drone Dominance)"
+      },
+      "extra": {
+        "proceeding": "26-74"
+      },
+      "first_seen": "2026-06-22T17:58:20.979820+00:00",
+      "is_new": false
+    },
+    {
+      "id": "FCC ECFS:1051813119257",
+      "source": "FCC ECFS",
+      "category": "regulatory",
+      "type": "Reply Comment",
+      "title": "Aerospace Industries Association, Air Line Pilots Association International, AURA Network Systems, Inc., Aviation Spectrum Resources, Inc., The Boeing Company, Joby Aviation, and Vertical Aviation International: REPLY TO COMMENTS (FCC 26-74)",
+      "url": "https://www.fcc.gov/ecfs/document/1051813119257/1",
+      "agency": "FCC",
+      "identifier": "FCC 26-74",
+      "date": "2026-05-19",
+      "deadline": null,
+      "summary": "",
+      "score": 80,
+      "domains": [
+        "air",
+        "spectrum",
+        "supply-chain"
+      ],
+      "matched_terms": [],
+      "watchlist": {
+        "key": "gn-26-74",
+        "label": "GN 26-74 (Unleashing American Drone Dominance)"
+      },
+      "extra": {
+        "proceeding": "26-74"
+      },
+      "first_seen": "2026-06-22T17:58:20.979820+00:00",
+      "is_new": false
+    },
+    {
+      "id": "FCC ECFS:10518639213118",
+      "source": "FCC ECFS",
+      "category": "regulatory",
+      "type": "Reply Comment",
+      "title": "Silvus Technologies Inc.: REPLY TO COMMENTS (FCC 26-74)",
+      "url": "https://www.fcc.gov/ecfs/document/10518639213118/1",
+      "agency": "FCC",
+      "identifier": "FCC 26-74",
+      "date": "2026-05-19",
+      "deadline": null,
+      "summary": "",
+      "score": 80,
+      "domains": [
+        "air",
+        "spectrum",
+        "supply-chain"
+      ],
+      "matched_terms": [],
+      "watchlist": {
+        "key": "gn-26-74",
+        "label": "GN 26-74 (Unleashing American Drone Dominance)"
+      },
+      "extra": {
+        "proceeding": "26-74"
+      },
+      "first_seen": "2026-06-22T17:58:20.979820+00:00",
+      "is_new": false
     },
     {
       "id": "FCC ECFS:105190835317675",
@@ -1775,36 +1745,7 @@
         "proceeding": "26-74"
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
-    },
-    {
-      "id": "FCC ECFS:10518100110610",
-      "source": "FCC ECFS",
-      "category": "regulatory",
-      "type": "Reply Comment",
-      "title": "Wireless Infrastructure Association (WIA): REPLY TO COMMENTS (FCC 26-74)",
-      "url": "https://www.fcc.gov/ecfs/document/10518100110610/1",
-      "agency": "FCC",
-      "identifier": "FCC 26-74",
-      "date": "2026-05-19",
-      "deadline": null,
-      "summary": "",
-      "score": 80,
-      "domains": [
-        "air",
-        "spectrum",
-        "supply-chain"
-      ],
-      "matched_terms": [],
-      "watchlist": {
-        "key": "gn-26-74",
-        "label": "GN 26-74 (Unleashing American Drone Dominance)"
-      },
-      "extra": {
-        "proceeding": "26-74"
-      },
-      "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:10518135533675",
@@ -1833,7 +1774,7 @@
         "proceeding": "26-74"
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:10518109165364",
@@ -1862,15 +1803,15 @@
         "proceeding": "26-74"
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
-      "id": "FCC ECFS:1051801407885",
+      "id": "FCC ECFS:10518100110610",
       "source": "FCC ECFS",
       "category": "regulatory",
       "type": "Reply Comment",
-      "title": "CTIA: REPLY TO COMMENTS (FCC 26-74)",
-      "url": "https://www.fcc.gov/ecfs/document/1051801407885/1",
+      "title": "Wireless Infrastructure Association (WIA): REPLY TO COMMENTS (FCC 26-74)",
+      "url": "https://www.fcc.gov/ecfs/document/10518100110610/1",
       "agency": "FCC",
       "identifier": "FCC 26-74",
       "date": "2026-05-19",
@@ -1891,7 +1832,7 @@
         "proceeding": "26-74"
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:10518138821895",
@@ -1920,36 +1861,7 @@
         "proceeding": "26-74"
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
-    },
-    {
-      "id": "FCC ECFS:1051801639043",
-      "source": "FCC ECFS",
-      "category": "regulatory",
-      "type": "Reply Comment",
-      "title": "D-Fend Solutions: REPLY TO COMMENTS (FCC 26-74)",
-      "url": "https://www.fcc.gov/ecfs/document/1051801639043/1",
-      "agency": "FCC",
-      "identifier": "FCC 26-74",
-      "date": "2026-05-19",
-      "deadline": null,
-      "summary": "",
-      "score": 80,
-      "domains": [
-        "air",
-        "spectrum",
-        "supply-chain"
-      ],
-      "matched_terms": [],
-      "watchlist": {
-        "key": "gn-26-74",
-        "label": "GN 26-74 (Unleashing American Drone Dominance)"
-      },
-      "extra": {
-        "proceeding": "26-74"
-      },
-      "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:10518822622475",
@@ -1978,7 +1890,65 @@
         "proceeding": "26-74"
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
+      "is_new": false
+    },
+    {
+      "id": "FCC ECFS:1051801639043",
+      "source": "FCC ECFS",
+      "category": "regulatory",
+      "type": "Reply Comment",
+      "title": "D-Fend Solutions: REPLY TO COMMENTS (FCC 26-74)",
+      "url": "https://www.fcc.gov/ecfs/document/1051801639043/1",
+      "agency": "FCC",
+      "identifier": "FCC 26-74",
+      "date": "2026-05-19",
+      "deadline": null,
+      "summary": "",
+      "score": 80,
+      "domains": [
+        "air",
+        "spectrum",
+        "supply-chain"
+      ],
+      "matched_terms": [],
+      "watchlist": {
+        "key": "gn-26-74",
+        "label": "GN 26-74 (Unleashing American Drone Dominance)"
+      },
+      "extra": {
+        "proceeding": "26-74"
+      },
+      "first_seen": "2026-06-22T17:58:20.979820+00:00",
+      "is_new": false
+    },
+    {
+      "id": "FCC ECFS:1051801407885",
+      "source": "FCC ECFS",
+      "category": "regulatory",
+      "type": "Reply Comment",
+      "title": "CTIA: REPLY TO COMMENTS (FCC 26-74)",
+      "url": "https://www.fcc.gov/ecfs/document/1051801407885/1",
+      "agency": "FCC",
+      "identifier": "FCC 26-74",
+      "date": "2026-05-19",
+      "deadline": null,
+      "summary": "",
+      "score": 80,
+      "domains": [
+        "air",
+        "spectrum",
+        "supply-chain"
+      ],
+      "matched_terms": [],
+      "watchlist": {
+        "key": "gn-26-74",
+        "label": "GN 26-74 (Unleashing American Drone Dominance)"
+      },
+      "extra": {
+        "proceeding": "26-74"
+      },
+      "first_seen": "2026-06-22T17:58:20.979820+00:00",
+      "is_new": false
     },
     {
       "id": "FCC ECFS:105190121800500",
@@ -2007,7 +1977,7 @@
         "proceeding": "26-74"
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:1051922013627",
@@ -2036,7 +2006,7 @@
         "proceeding": "26-74"
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:105191782521525",
@@ -2065,7 +2035,7 @@
         "proceeding": "26-74"
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:105190845717365",
@@ -2094,7 +2064,7 @@
         "proceeding": "26-74"
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:105191161729005",
@@ -2123,7 +2093,7 @@
         "proceeding": "26-74"
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:1051819049614",
@@ -2152,7 +2122,7 @@
         "proceeding": "26-74"
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:1051959350353",
@@ -2184,7 +2154,7 @@
         "proceeding": "26-22"
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:105191461711747",
@@ -2216,7 +2186,7 @@
         "proceeding": "26-22"
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:1051975535222",
@@ -2247,7 +2217,7 @@
         "proceeding": "26-22"
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:10519179054497",
@@ -2280,7 +2250,7 @@
         "proceeding": "26-22"
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:105190434202024",
@@ -2312,7 +2282,7 @@
         "proceeding": "26-22"
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:10518018872098",
@@ -2343,7 +2313,7 @@
         "proceeding": "26-22"
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:105181917128497",
@@ -2372,7 +2342,7 @@
         "proceeding": "26-74"
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:10518153927989",
@@ -2401,7 +2371,7 @@
         "proceeding": "26-74"
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:10518492919672",
@@ -2430,7 +2400,7 @@
         "proceeding": "26-74"
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:10518137996323",
@@ -2459,7 +2429,7 @@
         "proceeding": "26-74"
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:10518000401428",
@@ -2488,7 +2458,7 @@
         "proceeding": "26-74"
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:1051846612140",
@@ -2517,7 +2487,7 @@
         "proceeding": "26-74"
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:10518133444492",
@@ -2546,7 +2516,7 @@
         "proceeding": "26-74"
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:1051893709511",
@@ -2575,7 +2545,7 @@
         "proceeding": "26-74"
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:10518016405730",
@@ -2604,7 +2574,7 @@
         "proceeding": "26-74"
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:1051882602680",
@@ -2637,7 +2607,7 @@
         "proceeding": "26-74"
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:105181109819783",
@@ -2669,7 +2639,7 @@
         "proceeding": "26-74"
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:105180288203696",
@@ -2702,7 +2672,7 @@
         "proceeding": "26-74"
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:10516258935081",
@@ -2731,7 +2701,7 @@
         "proceeding": "26-74"
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:10515139713804",
@@ -2760,7 +2730,7 @@
         "proceeding": "26-74"
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:1051614927309",
@@ -2789,7 +2759,7 @@
         "proceeding": "26-74"
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:10518649125925",
@@ -2818,7 +2788,7 @@
         "proceeding": "26-74"
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:10517710321020",
@@ -2847,7 +2817,7 @@
         "proceeding": "26-74"
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:105130227416465",
@@ -2876,7 +2846,7 @@
         "proceeding": "26-74"
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:10513148533312",
@@ -2909,7 +2879,7 @@
         "proceeding": "26-74"
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:10512574830870",
@@ -2943,7 +2913,7 @@
         "proceeding": "26-74"
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:1051206317925",
@@ -2976,7 +2946,7 @@
         "proceeding": "26-74"
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:105120790505086",
@@ -3009,7 +2979,7 @@
         "proceeding": "26-74"
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:1051101407978",
@@ -3038,7 +3008,7 @@
         "proceeding": "26-74"
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:105111369429578",
@@ -3072,7 +3042,7 @@
         "proceeding": "26-74"
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:105080522809921",
@@ -3106,7 +3076,7 @@
         "proceeding": "26-74"
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:10510077598389",
@@ -3140,7 +3110,7 @@
         "proceeding": "26-74"
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:1051056840135",
@@ -3172,7 +3142,7 @@
         "proceeding": "26-74"
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "Federal Register:2026-08943",
@@ -3207,7 +3177,7 @@
         ]
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "SAM.gov:42aee566e9c74f5ea089d2b6e567ca68",
@@ -3240,7 +3210,7 @@
         "setaside": null
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "Congress.gov:119-s-4429",
@@ -3308,7 +3278,7 @@
         ]
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:W58RGZ26F0211",
@@ -3341,7 +3311,7 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:W58RGZ26F0206",
@@ -3374,38 +3344,7 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
-    },
-    {
-      "id": "Regulations.gov:FAA-2025-1908-3963",
-      "source": "Regulations.gov",
-      "category": "regulatory",
-      "type": "Comment",
-      "title": "Comment on Normalizing Unmanned Aircraft Systems Beyond Visual Line of Sight Operations: Comment from James Timm",
-      "url": "https://www.regulations.gov/comment/FAA-2025-1908-3963",
-      "agency": "FAA",
-      "identifier": "FAA-2025-1908",
-      "date": "2026-02-26",
-      "deadline": null,
-      "summary": "Comment from James Timm",
-      "score": 80,
-      "domains": [
-        "air"
-      ],
-      "matched_terms": [
-        "unmanned aircraft",
-        "beyond visual line of sight",
-        "faa-2025-1908"
-      ],
-      "watchlist": {
-        "key": "bvlos-part-108",
-        "label": "BVLOS / Part 108 NPRM"
-      },
-      "extra": {
-        "docket_total_comments": 3928
-      },
-      "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "CourtListener:72313063",
@@ -3434,7 +3373,7 @@
       },
       "extra": {},
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "Congress.gov:119-s-3481",
@@ -3462,7 +3401,7 @@
       },
       "extra": {},
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:6973GH25F01296",
@@ -3495,40 +3434,7 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
-    },
-    {
-      "id": "Regulations.gov:BIS-2025-0059-0088",
-      "source": "Regulations.gov",
-      "category": "regulatory",
-      "type": "Comment",
-      "title": "Comment on Notice of Request for Public Comments on Section 232 National Security Investigation of Imports of Unmanned Aircraft Systems (UAS) and Their Parts and Components: Individual. Ryan Latourette. 07/20/2025",
-      "url": "https://www.regulations.gov/comment/BIS-2025-0059-0088",
-      "agency": "BIS",
-      "identifier": "BIS-2025-0059",
-      "date": "2025-08-08",
-      "deadline": null,
-      "summary": "Individual. Ryan Latourette. 07/20/2025",
-      "score": 80,
-      "domains": [
-        "air",
-        "supply-chain"
-      ],
-      "matched_terms": [
-        "unmanned aircraft",
-        "uas",
-        "section 232",
-        "bis-2025-0059"
-      ],
-      "watchlist": {
-        "key": "commerce-icts-232",
-        "label": "Commerce ICTS / Section 232 (UAS supply chain)"
-      },
-      "extra": {
-        "docket_total_comments": 196
-      },
-      "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "Federal Register:2026-07585",
@@ -3559,7 +3465,7 @@
         "dockets": []
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "CourtListener:72502129",
@@ -3585,7 +3491,7 @@
       },
       "extra": {},
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "CourtListener:71665018",
@@ -3613,7 +3519,7 @@
       },
       "extra": {},
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "CourtListener:70808134",
@@ -3639,7 +3545,7 @@
       },
       "extra": {},
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "CourtListener:69153875",
@@ -3665,7 +3571,7 @@
       },
       "extra": {},
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "CourtListener:67042850",
@@ -3691,7 +3597,7 @@
       },
       "extra": {},
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "CourtListener:4139710",
@@ -3717,7 +3623,7 @@
       },
       "extra": {},
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "CourtListener:6225353",
@@ -3743,7 +3649,7 @@
       },
       "extra": {},
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "CourtListener:4139469",
@@ -3769,7 +3675,7 @@
       },
       "extra": {},
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:70RSAT26FR0000009",
@@ -3800,7 +3706,7 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:FA875026FB005",
@@ -3831,7 +3737,7 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "SAM.gov:171884ce03bf440f9c1beef1a5904e2f",
@@ -3862,6 +3768,64 @@
         "setaside": null
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
+      "is_new": false
+    },
+    {
+      "id": "SAM.gov:419b5b4538c6462c8c0704522542b2f1",
+      "source": "SAM.gov",
+      "category": "procurement",
+      "type": "Sources Sought",
+      "title": "Request for White Papers - Organic Counter Small Unmanned Aircraft System (O-CsUAS) Dismounted Sensors",
+      "url": "https://sam.gov/workspace/contract/opp/419b5b4538c6462c8c0704522542b2f1/view",
+      "agency": "DEPT OF DEFENSE",
+      "identifier": "M67854-26-R-0131",
+      "date": "2026-06-22",
+      "deadline": "2026-07-23",
+      "summary": "Request for White Papers - Organic Counter Small Unmanned Aircraft System (O-CsUAS) Dismounted Sensors",
+      "score": 52,
+      "domains": [
+        "air"
+      ],
+      "matched_terms": [
+        "unmanned aircraft",
+        "unmanned aircraft system",
+        "small unmanned"
+      ],
+      "watchlist": null,
+      "extra": {
+        "naics": null,
+        "setaside": null
+      },
+      "first_seen": "2026-06-22T23:08:23.366329+00:00",
+      "is_new": true
+    },
+    {
+      "id": "SAM.gov:00f0c762edaa476b9c446ed81bfe9249",
+      "source": "SAM.gov",
+      "category": "procurement",
+      "type": "Sources Sought",
+      "title": "Request for White Papers - Organic Counter Small Unmanned Aircraft System Dismounted Effectors",
+      "url": "https://sam.gov/workspace/contract/opp/00f0c762edaa476b9c446ed81bfe9249/view",
+      "agency": "DEPT OF DEFENSE",
+      "identifier": "M67854-26-R-0129",
+      "date": "2026-06-22",
+      "deadline": "2026-07-23",
+      "summary": "Request for White Papers - Organic Counter Small Unmanned Aircraft System Dismounted Effectors",
+      "score": 52,
+      "domains": [
+        "air"
+      ],
+      "matched_terms": [
+        "unmanned aircraft",
+        "unmanned aircraft system",
+        "small unmanned"
+      ],
+      "watchlist": null,
+      "extra": {
+        "naics": null,
+        "setaside": null
+      },
+      "first_seen": "2026-06-22T23:08:23.366329+00:00",
       "is_new": true
     },
     {
@@ -3893,7 +3857,7 @@
         ]
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "Federal Register:2026-04077",
@@ -3924,7 +3888,7 @@
         ]
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:FA807521F0060",
@@ -3953,7 +3917,7 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "SAM.gov:fc32f4cf10114737bb7b8ec767599777",
@@ -3981,7 +3945,7 @@
         "setaside": "NONE"
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:692M1523F00178",
@@ -4009,7 +3973,7 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:FA807523F0009",
@@ -4037,7 +4001,7 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:W15P7T21F0110",
@@ -4065,7 +4029,7 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "SAM.gov:9e4a72a78d5f4860b6490a18d60d8f9e",
@@ -4092,7 +4056,7 @@
         "setaside": "SBA"
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "SAM.gov:c90baa57c09640138a526eafa6fe07ed",
@@ -4120,7 +4084,7 @@
         "setaside": null
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "SAM.gov:a395d87f65164995b48985bc25adce79",
@@ -4143,7 +4107,7 @@
         "setaside": "NONE"
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "SAM.gov:90c29a0d88b742a8b2bfc6a3f1d1f1dd",
@@ -4172,7 +4136,7 @@
         "setaside": "SBA"
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "SAM.gov:4fef2dd359f8468a9a20ff631c2d4f52",
@@ -4199,7 +4163,7 @@
         "setaside": "SBA"
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "SAM.gov:21bee4f25244474e9769d6c4f37d2f95",
@@ -4222,7 +4186,7 @@
         "setaside": null
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "SAM.gov:3ab4c404e0f94d81a599b4519d5d0948",
@@ -4249,7 +4213,7 @@
         "setaside": "SBA"
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "SAM.gov:05597b63d4494c1d8f4d561fb4614577",
@@ -4276,7 +4240,7 @@
         "setaside": "NONE"
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "SAM.gov:9a03d2630fd948d49dd95de258461f25",
@@ -4299,7 +4263,7 @@
         "setaside": "SBA"
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "SAM.gov:dd47d0147e8247e89f24146afef3b297",
@@ -4326,7 +4290,7 @@
         "setaside": "SBA"
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "SAM.gov:bd3e1a72e2b8459eb427dc588b1a7d8f",
@@ -4349,7 +4313,7 @@
         "setaside": "SBA"
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "SAM.gov:4b754312673f44208871e59cf650d903",
@@ -4372,7 +4336,7 @@
         "setaside": null
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "SAM.gov:2b97a917630c430d98f762fc27533b18",
@@ -4395,7 +4359,7 @@
         "setaside": "WOSB"
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "SAM.gov:f4ac038426744930bf24127b4d36f215",
@@ -4422,7 +4386,7 @@
         "setaside": "SBA"
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "SAM.gov:89b9c04b072840ffae19375498c0e5de",
@@ -4449,7 +4413,7 @@
         "setaside": "NONE"
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "SAM.gov:35c60592208847d1b6b5dcb5db02d281",
@@ -4476,7 +4440,7 @@
         "setaside": "SBA"
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "SAM.gov:cb3f69683a8f44558a17dd1113a2323e",
@@ -4504,7 +4468,7 @@
         "setaside": "NONE"
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "SAM.gov:b16aa9382413425c8bd8d246c72391a5",
@@ -4531,7 +4495,7 @@
         "setaside": "NONE"
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "SAM.gov:b36be2c41929484491aa870a2bcf1e68",
@@ -4558,7 +4522,7 @@
         "setaside": null
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "SAM.gov:d51788bcc98a4e9c8ecbe440e6e0e77e",
@@ -4581,7 +4545,7 @@
         "setaside": "SBA"
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "SAM.gov:02ec5ed7969d4c249423beb4425ef8f5",
@@ -4608,7 +4572,7 @@
         "setaside": null
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "SAM.gov:aac611a16140462186fa904c0332ce1b",
@@ -4631,7 +4595,7 @@
         "setaside": "SBA"
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "SAM.gov:77c669fc2fa6436b83669b933c8891fd",
@@ -4658,7 +4622,7 @@
         "setaside": "SBA"
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "SAM.gov:f6673f1748674560907bcabc3a6048f0",
@@ -4685,7 +4649,7 @@
         "setaside": "SBA"
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:FA701425F0115",
@@ -4714,7 +4678,7 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:W56KGU25C0003",
@@ -4743,7 +4707,7 @@
         "award_type": "DEFINITIVE CONTRACT"
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:W31P4Q24FE001",
@@ -4771,7 +4735,7 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:89233126FNA400787",
@@ -4794,7 +4758,7 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:80NM0026F7025",
@@ -4817,7 +4781,7 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:W58RGZ26F0238",
@@ -4840,7 +4804,7 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:W58RGZ26F0223",
@@ -4863,7 +4827,7 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:SPE8EL26F14DF",
@@ -4886,7 +4850,7 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:W912CH26CA009",
@@ -4909,7 +4873,7 @@
         "award_type": "DEFINITIVE CONTRACT"
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:W58RGZ26F0205",
@@ -4932,7 +4896,7 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:W900KK26FA044",
@@ -4955,7 +4919,7 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:W58RGZ26F0139",
@@ -4978,7 +4942,7 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:FA868126FB012",
@@ -5001,7 +4965,7 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:89233126FNA400749",
@@ -5024,7 +4988,7 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:FA862926FB002",
@@ -5051,7 +5015,7 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:FA228025F0035",
@@ -5074,7 +5038,7 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:W15P7T25F0236",
@@ -5097,7 +5061,7 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:W15P7T25F0155",
@@ -5120,7 +5084,7 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:FA867825FB003",
@@ -5143,7 +5107,7 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:19AQMM25F0189",
@@ -5166,7 +5130,7 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:FA862024F4040",
@@ -5189,7 +5153,7 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:W58RGZ24C0031",
@@ -5212,7 +5176,7 @@
         "award_type": "DEFINITIVE CONTRACT"
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:FA868924F2451",
@@ -5235,7 +5199,7 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:FA868924C2020",
@@ -5258,7 +5222,7 @@
         "award_type": "DEFINITIVE CONTRACT"
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:W58RGZ24C0021",
@@ -5281,7 +5245,7 @@
         "award_type": "DEFINITIVE CONTRACT"
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:FA868923CB002",
@@ -5304,7 +5268,7 @@
         "award_type": "DEFINITIVE CONTRACT"
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:693KA923C00012",
@@ -5331,7 +5295,7 @@
         "award_type": "DEFINITIVE CONTRACT"
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:693KA823F00244",
@@ -5358,7 +5322,7 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:FA868923F2850",
@@ -5381,7 +5345,7 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:47QFWA23C0005",
@@ -5404,7 +5368,7 @@
         "award_type": "DEFINITIVE CONTRACT"
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:FA868923F2250",
@@ -5427,7 +5391,7 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:FA868923C2018",
@@ -5450,7 +5414,7 @@
         "award_type": "DEFINITIVE CONTRACT"
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:FA862023F4085",
@@ -5473,7 +5437,7 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:N0001923C0033",
@@ -5496,7 +5460,7 @@
         "award_type": "DEFINITIVE CONTRACT"
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:FA489023F0039",
@@ -5523,7 +5487,7 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:W519TC23C0003",
@@ -5550,7 +5514,7 @@
         "award_type": "DEFINITIVE CONTRACT"
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:N0001923C0021",
@@ -5573,7 +5537,7 @@
         "award_type": "DEFINITIVE CONTRACT"
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:N0001922C0048",
@@ -5596,7 +5560,7 @@
         "award_type": "DEFINITIVE CONTRACT"
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:FA868922FB001",
@@ -5619,7 +5583,7 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:FA875022F1008",
@@ -5646,7 +5610,7 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:FA862222F8449",
@@ -5673,7 +5637,7 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:FA868922F2400",
@@ -5696,7 +5660,7 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:FA807522F0011",
@@ -5723,7 +5687,7 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:W58RGZ22C0014",
@@ -5746,7 +5710,7 @@
         "award_type": "DEFINITIVE CONTRACT"
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:FA868921F2605",
@@ -5769,7 +5733,7 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:FA868921F2408",
@@ -5792,7 +5756,7 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:692M1521F00018",
@@ -5815,7 +5779,7 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:N0001919C0008",
@@ -5838,7 +5802,7 @@
         "award_type": "DEFINITIVE CONTRACT"
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:FA862019C2009",
@@ -5861,7 +5825,7 @@
         "award_type": "DEFINITIVE CONTRACT"
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:FA862018F2372",
@@ -5884,7 +5848,7 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:NNG17FD73C",
@@ -5907,7 +5871,7 @@
         "award_type": "DEFINITIVE CONTRACT"
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "Federal Register:2026-06297",
@@ -5936,7 +5900,7 @@
         ]
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "Federal Register:2026-07288",
@@ -5965,7 +5929,7 @@
         ]
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "Federal Register:2026-04730",
@@ -5994,30 +5958,33 @@
         ]
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
-      "id": "Regulations.gov:FAA-2026-7200-0001",
-      "source": "Regulations.gov",
-      "category": "regulatory",
-      "type": "Document",
-      "title": "High Ground Drone Service LLC - Exemption/Rulemaking",
-      "url": "https://www.regulations.gov/document/FAA-2026-7200-0001",
-      "agency": "FAA",
-      "identifier": "FAA-2026-7200",
+      "id": "SAM.gov:910bd025702a43e9ae758ef39e59cb88",
+      "source": "SAM.gov",
+      "category": "procurement",
+      "type": "Combined Synopsis",
+      "title": "Tactical sUAS Package",
+      "url": "https://sam.gov/workspace/contract/opp/910bd025702a43e9ae758ef39e59cb88/view",
+      "agency": "DEPT OF DEFENSE",
+      "identifier": "W50S7X26Q0004",
       "date": "2026-06-22",
-      "deadline": null,
-      "summary": "High Ground Drone Service LLC - Exemption/Rulemaking",
+      "deadline": "2026-07-20",
+      "summary": "Tactical sUAS Package",
       "score": 20,
       "domains": [
         "air"
       ],
       "matched_terms": [
-        "drone"
+        "suas"
       ],
       "watchlist": null,
-      "extra": {},
-      "first_seen": "2026-06-22T17:58:20.979820+00:00",
+      "extra": {
+        "naics": "336411",
+        "setaside": "SBA"
+      },
+      "first_seen": "2026-06-22T23:08:23.366329+00:00",
       "is_new": true
     },
     {
@@ -6047,367 +6014,7 @@
         ]
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
-    },
-    {
-      "id": "Regulations.gov:FAA-2022-1091-0005",
-      "source": "Regulations.gov",
-      "category": "regulatory",
-      "type": "Document",
-      "title": "A-T Drone Service LLC - Exemption/Rulemaking (Request for Extension)",
-      "url": "https://www.regulations.gov/document/FAA-2022-1091-0005",
-      "agency": "FAA",
-      "identifier": "FAA-2022-1091",
-      "date": "2026-06-16",
-      "deadline": null,
-      "summary": "A-T Drone Service LLC - Exemption/Rulemaking (Request for Extension)",
-      "score": 20,
-      "domains": [
-        "air"
-      ],
-      "matched_terms": [
-        "drone"
-      ],
-      "watchlist": null,
-      "extra": {},
-      "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
-    },
-    {
-      "id": "Regulations.gov:FAA-2026-3730-0004",
-      "source": "Regulations.gov",
-      "category": "regulatory",
-      "type": "Document",
-      "title": "Triple B Drone Services, LLC - Exemption/Rulemaking (Additional Information)",
-      "url": "https://www.regulations.gov/document/FAA-2026-3730-0004",
-      "agency": "FAA",
-      "identifier": "FAA-2026-3730",
-      "date": "2026-06-16",
-      "deadline": null,
-      "summary": "Triple B Drone Services, LLC - Exemption/Rulemaking (Additional Information)",
-      "score": 20,
-      "domains": [
-        "air"
-      ],
-      "matched_terms": [
-        "drone"
-      ],
-      "watchlist": null,
-      "extra": {},
-      "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
-    },
-    {
-      "id": "Regulations.gov:FAA-2026-7072-0001",
-      "source": "Regulations.gov",
-      "category": "regulatory",
-      "type": "Document",
-      "title": "Allen Drone Service, Inc - Exemption/Rulemaking",
-      "url": "https://www.regulations.gov/document/FAA-2026-7072-0001",
-      "agency": "FAA",
-      "identifier": "FAA-2026-7072",
-      "date": "2026-06-15",
-      "deadline": null,
-      "summary": "Allen Drone Service, Inc - Exemption/Rulemaking",
-      "score": 20,
-      "domains": [
-        "air"
-      ],
-      "matched_terms": [
-        "drone"
-      ],
-      "watchlist": null,
-      "extra": {},
-      "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
-    },
-    {
-      "id": "Regulations.gov:FAA-2026-7078-0001",
-      "source": "Regulations.gov",
-      "category": "regulatory",
-      "type": "Document",
-      "title": "C&C Drone Applications, LLC - Exemption/Rulemaking",
-      "url": "https://www.regulations.gov/document/FAA-2026-7078-0001",
-      "agency": "FAA",
-      "identifier": "FAA-2026-7078",
-      "date": "2026-06-15",
-      "deadline": null,
-      "summary": "C&C Drone Applications, LLC - Exemption/Rulemaking",
-      "score": 20,
-      "domains": [
-        "air"
-      ],
-      "matched_terms": [
-        "drone"
-      ],
-      "watchlist": null,
-      "extra": {},
-      "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
-    },
-    {
-      "id": "Regulations.gov:FAA-2023-1158-0003",
-      "source": "Regulations.gov",
-      "category": "regulatory",
-      "type": "Document",
-      "title": "AG DRONE, LLC - Exemption/Rulemaking (Request for Extension)",
-      "url": "https://www.regulations.gov/document/FAA-2023-1158-0003",
-      "agency": "FAA",
-      "identifier": "FAA-2023-1158",
-      "date": "2026-06-15",
-      "deadline": null,
-      "summary": "AG DRONE, LLC - Exemption/Rulemaking (Request for Extension)",
-      "score": 20,
-      "domains": [
-        "air"
-      ],
-      "matched_terms": [
-        "drone"
-      ],
-      "watchlist": null,
-      "extra": {},
-      "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
-    },
-    {
-      "id": "Regulations.gov:FAA-2026-2942-0007",
-      "source": "Regulations.gov",
-      "category": "regulatory",
-      "type": "Document",
-      "title": "Dearwester Drone Services LLC - Exemption/Rulemaking",
-      "url": "https://www.regulations.gov/document/FAA-2026-2942-0007",
-      "agency": "FAA",
-      "identifier": "FAA-2026-2942",
-      "date": "2026-06-12",
-      "deadline": null,
-      "summary": "Dearwester Drone Services LLC - Exemption/Rulemaking",
-      "score": 20,
-      "domains": [
-        "air"
-      ],
-      "matched_terms": [
-        "drone"
-      ],
-      "watchlist": null,
-      "extra": {},
-      "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
-    },
-    {
-      "id": "Regulations.gov:FAA-2024-2626-0008",
-      "source": "Regulations.gov",
-      "category": "regulatory",
-      "type": "Document",
-      "title": "Premier Outdoor Drone Services LLC - Exemption/Rulemaking (Additional Information)",
-      "url": "https://www.regulations.gov/document/FAA-2024-2626-0008",
-      "agency": "FAA",
-      "identifier": "FAA-2024-2626",
-      "date": "2026-06-12",
-      "deadline": null,
-      "summary": "Premier Outdoor Drone Services LLC - Exemption/Rulemaking (Additional Information)",
-      "score": 20,
-      "domains": [
-        "air"
-      ],
-      "matched_terms": [
-        "drone"
-      ],
-      "watchlist": null,
-      "extra": {},
-      "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
-    },
-    {
-      "id": "Regulations.gov:FAA-2026-6998-0001",
-      "source": "Regulations.gov",
-      "category": "regulatory",
-      "type": "Document",
-      "title": "Minnkota Drone Solutions LLC - Exemption/Rulemaking",
-      "url": "https://www.regulations.gov/document/FAA-2026-6998-0001",
-      "agency": "FAA",
-      "identifier": "FAA-2026-6998",
-      "date": "2026-06-11",
-      "deadline": null,
-      "summary": "Minnkota Drone Solutions LLC - Exemption/Rulemaking",
-      "score": 20,
-      "domains": [
-        "air"
-      ],
-      "matched_terms": [
-        "drone"
-      ],
-      "watchlist": null,
-      "extra": {},
-      "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
-    },
-    {
-      "id": "Regulations.gov:FAA-2024-1058-0003",
-      "source": "Regulations.gov",
-      "category": "regulatory",
-      "type": "Document",
-      "title": "Pin Point Drone Applications, LLC - Exemption/Rulemaking (Amendment)",
-      "url": "https://www.regulations.gov/document/FAA-2024-1058-0003",
-      "agency": "FAA",
-      "identifier": "FAA-2024-1058",
-      "date": "2026-06-11",
-      "deadline": null,
-      "summary": "Pin Point Drone Applications, LLC - Exemption/Rulemaking (Amendment)",
-      "score": 20,
-      "domains": [
-        "air"
-      ],
-      "matched_terms": [
-        "drone"
-      ],
-      "watchlist": null,
-      "extra": {},
-      "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
-    },
-    {
-      "id": "Regulations.gov:FAA-2026-4888-0003",
-      "source": "Regulations.gov",
-      "category": "regulatory",
-      "type": "Document",
-      "title": "Top Flight Drone Solutions LLC - Exemption/Rulemaking (Additional Information)",
-      "url": "https://www.regulations.gov/document/FAA-2026-4888-0003",
-      "agency": "FAA",
-      "identifier": "FAA-2026-4888",
-      "date": "2026-06-11",
-      "deadline": null,
-      "summary": "Top Flight Drone Solutions LLC - Exemption/Rulemaking (Additional Information)",
-      "score": 20,
-      "domains": [
-        "air"
-      ],
-      "matched_terms": [
-        "drone"
-      ],
-      "watchlist": null,
-      "extra": {},
-      "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
-    },
-    {
-      "id": "Regulations.gov:FAA-2023-1273-0005",
-      "source": "Regulations.gov",
-      "category": "regulatory",
-      "type": "Document",
-      "title": "Ag Drone LLC - Exemption/Rulemaking (Additional Information)",
-      "url": "https://www.regulations.gov/document/FAA-2023-1273-0005",
-      "agency": "FAA",
-      "identifier": "FAA-2023-1273",
-      "date": "2026-06-11",
-      "deadline": null,
-      "summary": "Ag Drone LLC - Exemption/Rulemaking (Additional Information)",
-      "score": 20,
-      "domains": [
-        "air"
-      ],
-      "matched_terms": [
-        "drone"
-      ],
-      "watchlist": null,
-      "extra": {},
-      "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
-    },
-    {
-      "id": "Regulations.gov:FAA-2025-0137-0003",
-      "source": "Regulations.gov",
-      "category": "regulatory",
-      "type": "Document",
-      "title": "Precision Drone Solutions LLC - Exemption/Rulemaking",
-      "url": "https://www.regulations.gov/document/FAA-2025-0137-0003",
-      "agency": "FAA",
-      "identifier": "FAA-2025-0137",
-      "date": "2026-06-10",
-      "deadline": null,
-      "summary": "Precision Drone Solutions LLC - Exemption/Rulemaking",
-      "score": 20,
-      "domains": [
-        "air"
-      ],
-      "matched_terms": [
-        "drone"
-      ],
-      "watchlist": null,
-      "extra": {},
-      "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
-    },
-    {
-      "id": "Regulations.gov:FAA-2023-0527-0005",
-      "source": "Regulations.gov",
-      "category": "regulatory",
-      "type": "Document",
-      "title": "Macon Ridge Specialty Drone Services, Inc. - Exemption/Rulemaking (Amendment)",
-      "url": "https://www.regulations.gov/document/FAA-2023-0527-0005",
-      "agency": "FAA",
-      "identifier": "FAA-2023-0527",
-      "date": "2026-06-09",
-      "deadline": null,
-      "summary": "Macon Ridge Specialty Drone Services, Inc. - Exemption/Rulemaking (Amendment)",
-      "score": 20,
-      "domains": [
-        "air"
-      ],
-      "matched_terms": [
-        "drone"
-      ],
-      "watchlist": null,
-      "extra": {},
-      "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
-    },
-    {
-      "id": "Regulations.gov:FAA-2026-6834-0001",
-      "source": "Regulations.gov",
-      "category": "regulatory",
-      "type": "Document",
-      "title": "Greiner Drone Solutions, LLC - Exemption/Rulemaking",
-      "url": "https://www.regulations.gov/document/FAA-2026-6834-0001",
-      "agency": "FAA",
-      "identifier": "FAA-2026-6834",
-      "date": "2026-06-08",
-      "deadline": null,
-      "summary": "Greiner Drone Solutions, LLC - Exemption/Rulemaking",
-      "score": 20,
-      "domains": [
-        "air"
-      ],
-      "matched_terms": [
-        "drone"
-      ],
-      "watchlist": null,
-      "extra": {},
-      "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
-    },
-    {
-      "id": "Regulations.gov:FAA-2026-6767-0001",
-      "source": "Regulations.gov",
-      "category": "regulatory",
-      "type": "Document",
-      "title": "SCHRADER DRONE SERVICES LLC - Exemption/Rulemaking",
-      "url": "https://www.regulations.gov/document/FAA-2026-6767-0001",
-      "agency": "FAA",
-      "identifier": "FAA-2026-6767",
-      "date": "2026-06-05",
-      "deadline": null,
-      "summary": "SCHRADER DRONE SERVICES LLC - Exemption/Rulemaking",
-      "score": 20,
-      "domains": [
-        "air"
-      ],
-      "matched_terms": [
-        "drone"
-      ],
-      "watchlist": null,
-      "extra": {},
-      "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "Federal Register:2026-11067",
@@ -6436,7 +6043,7 @@
         ]
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "Federal Register:2026-10394",
@@ -6465,7 +6072,7 @@
         ]
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "Federal Register:2026-10393",
@@ -6494,31 +6101,7 @@
         ]
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
-    },
-    {
-      "id": "Regulations.gov:FAA-2026-1717-0004",
-      "source": "Regulations.gov",
-      "category": "regulatory",
-      "type": "Document",
-      "title": "Northwest Drone Applications LLC - Exemption/Rulemaking (Amendment)",
-      "url": "https://www.regulations.gov/document/FAA-2026-1717-0004",
-      "agency": "FAA",
-      "identifier": "FAA-2026-1717",
-      "date": "2026-03-25",
-      "deadline": null,
-      "summary": "Northwest Drone Applications LLC - Exemption/Rulemaking (Amendment)",
-      "score": 20,
-      "domains": [
-        "air"
-      ],
-      "matched_terms": [
-        "drone"
-      ],
-      "watchlist": null,
-      "extra": {},
-      "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "Federal Register:2026-05239",
@@ -6548,7 +6131,7 @@
         ]
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": true
+      "is_new": false
     }
   ],
   "sources": [
@@ -6560,9 +6143,9 @@
     },
     {
       "name": "Regulations.gov",
-      "status": "ok",
-      "detail": "32 kept",
-      "count": 32
+      "status": "error",
+      "detail": "search 'unmanned aircraft': HTTP 500; search 'drone': HTTP 500; search 'BVLOS': HTTP 500",
+      "count": 0
     },
     {
       "name": "FCC ECFS",
@@ -6579,8 +6162,8 @@
     {
       "name": "SAM.gov",
       "status": "ok",
-      "detail": "28 kept",
-      "count": 28
+      "detail": "31 kept",
+      "count": 31
     },
     {
       "name": "CourtListener",
@@ -6596,17 +6179,17 @@
     }
   ],
   "stats": {
-    "total": 234,
-    "new": 233,
+    "total": 217,
+    "new": 3,
     "by_category": {
-      "regulatory": 133,
-      "procurement": 88,
+      "regulatory": 113,
+      "procurement": 91,
       "litigation": 9,
       "legislative": 4
     },
     "by_domain": {
-      "air": 180,
-      "supply-chain": 118,
+      "air": 163,
+      "supply-chain": 117,
       "spectrum": 54,
       "defense": 8,
       "ground": 7,
@@ -6615,8 +6198,7 @@
     "by_source": {
       "FCC ECFS": 100,
       "USAspending": 60,
-      "SAM.gov": 28,
-      "Regulations.gov": 20,
+      "SAM.gov": 31,
       "Federal Register": 13,
       "CourtListener": 9,
       "Congress.gov": 4
@@ -6632,8 +6214,8 @@
         "air"
       ],
       "deadline": "2026-07-06",
-      "count": 2,
-      "latest": "2026-06-22"
+      "count": 1,
+      "latest": "2026-05-06"
     },
     {
       "key": "et-26-22",
@@ -6676,19 +6258,6 @@
       "latest": "2026-03-11"
     },
     {
-      "key": "commerce-icts-232",
-      "label": "Commerce ICTS / Section 232 (UAS supply chain)",
-      "category": "regulatory",
-      "agency": "Commerce/BIS",
-      "domain": [
-        "supply-chain",
-        "air"
-      ],
-      "deadline": null,
-      "count": 2,
-      "latest": "2026-05-06"
-    },
-    {
       "key": "dji-cadc-1260h",
       "label": "DJI 1260H appeal (D.C. Circuit)",
       "category": "litigation",
@@ -6702,16 +6271,17 @@
       "latest": "2025-10-16"
     },
     {
-      "key": "bvlos-part-108",
-      "label": "BVLOS / Part 108 NPRM",
+      "key": "commerce-icts-232",
+      "label": "Commerce ICTS / Section 232 (UAS supply chain)",
       "category": "regulatory",
-      "agency": "FAA",
+      "agency": "Commerce/BIS",
       "domain": [
+        "supply-chain",
         "air"
       ],
       "deadline": null,
       "count": 1,
-      "latest": "2026-02-26"
+      "latest": "2026-05-06"
     },
     {
       "key": "guard-act",
@@ -6776,6 +6346,18 @@
       "deadline": null,
       "count": 1,
       "latest": "2026-04-29"
+    },
+    {
+      "key": "bvlos-part-108",
+      "label": "BVLOS / Part 108 NPRM",
+      "category": "regulatory",
+      "agency": "FAA",
+      "domain": [
+        "air"
+      ],
+      "deadline": null,
+      "count": 0,
+      "latest": ""
     },
     {
       "key": "ustr-301",
@@ -6893,6 +6475,33 @@
       "category": "regulatory",
       "source": "Federal Register",
       "url": "https://www.federalregister.gov/documents/2026/05/06/2026-08943/designation-restrict-the-operation-of-unmanned-aircraft-in-close-proximity-to-a-fixed-site-facility"
+    },
+    {
+      "deadline": "2026-07-20",
+      "days": 28,
+      "title": "Tactical sUAS Package",
+      "identifier": "W50S7X26Q0004",
+      "category": "procurement",
+      "source": "SAM.gov",
+      "url": "https://sam.gov/workspace/contract/opp/910bd025702a43e9ae758ef39e59cb88/view"
+    },
+    {
+      "deadline": "2026-07-23",
+      "days": 31,
+      "title": "Request for White Papers - Organic Counter Small Unmanned Aircraft System (O-CsUAS) Dismounted Sensors",
+      "identifier": "M67854-26-R-0131",
+      "category": "procurement",
+      "source": "SAM.gov",
+      "url": "https://sam.gov/workspace/contract/opp/419b5b4538c6462c8c0704522542b2f1/view"
+    },
+    {
+      "deadline": "2026-07-23",
+      "days": 31,
+      "title": "Request for White Papers - Organic Counter Small Unmanned Aircraft System Dismounted Effectors",
+      "identifier": "M67854-26-R-0129",
+      "category": "procurement",
+      "source": "SAM.gov",
+      "url": "https://sam.gov/workspace/contract/opp/00f0c762edaa476b9c446ed81bfe9249/view"
     },
     {
       "deadline": "2026-08-28",
