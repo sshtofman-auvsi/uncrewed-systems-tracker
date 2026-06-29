@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-06-28T21:47:23.315039+00:00",
-  "generated_human": "2026-06-28 21:47 UTC",
+  "generated_at": "2026-06-29T14:51:46.896184+00:00",
+  "generated_human": "2026-06-29 14:51 UTC",
   "demo": false,
   "items": [
     {
-      "id": "Regulations.gov:FAA-2026-4558-0426",
+      "id": "Regulations.gov:FAA-2026-4558-0432",
       "source": "Regulations.gov",
       "category": "regulatory",
       "type": "Comment",
-      "title": "Comment on Designation – Restrict the Operation of Unmanned Aircraft in Close Proximity  to a Fixed Site Facility: Comment from FPV Freedom Coalition",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-0426",
+      "title": "Comment on Designation – Restrict the Operation of Unmanned Aircraft in Close Proximity  to a Fixed Site Facility: Comment from Mike Scitt",
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-0432",
       "agency": "FAA",
       "identifier": "FAA-2026-4558",
-      "date": "2026-06-26",
+      "date": "2026-06-29",
       "deadline": null,
-      "summary": "Comment from FPV Freedom Coalition",
+      "summary": "Comment from Mike Scitt",
       "score": 80,
       "domains": [
         "air"
@@ -28,10 +28,10 @@
         "label": "Section 2209 (Critical Infrastructure UAS Restrictions)"
       },
       "extra": {
-        "docket_total_comments": 415
+        "docket_total_comments": 420
       },
-      "first_seen": "2026-06-26T18:14:12.459078+00:00",
-      "is_new": false
+      "first_seen": "2026-06-29T14:51:46.896184+00:00",
+      "is_new": true
     },
     {
       "id": "FCC ECFS:26109913227",
@@ -1667,12 +1667,12 @@
       "is_new": false
     },
     {
-      "id": "FCC ECFS:10518639213118",
+      "id": "FCC ECFS:1051813119257",
       "source": "FCC ECFS",
       "category": "regulatory",
       "type": "Reply Comment",
-      "title": "Silvus Technologies Inc.: REPLY TO COMMENTS (FCC 26-74)",
-      "url": "https://www.fcc.gov/ecfs/document/10518639213118/1",
+      "title": "Aerospace Industries Association, Air Line Pilots Association International, AURA Network Systems, Inc., Aviation Spectrum Resources, Inc., The Boeing Company, Joby Aviation, and Vertical Aviation International: REPLY TO COMMENTS (FCC 26-74)",
+      "url": "https://www.fcc.gov/ecfs/document/1051813119257/1",
       "agency": "FCC",
       "identifier": "FCC 26-74",
       "date": "2026-05-19",
@@ -1702,6 +1702,35 @@
       "type": "Reply Comment",
       "title": "Anne E Cortez: REPLY TO COMMENTS (FCC 26-74)",
       "url": "https://www.fcc.gov/ecfs/document/1051800837232/1",
+      "agency": "FCC",
+      "identifier": "FCC 26-74",
+      "date": "2026-05-19",
+      "deadline": null,
+      "summary": "",
+      "score": 80,
+      "domains": [
+        "air",
+        "spectrum",
+        "supply-chain"
+      ],
+      "matched_terms": [],
+      "watchlist": {
+        "key": "gn-26-74",
+        "label": "GN 26-74 (Unleashing American Drone Dominance)"
+      },
+      "extra": {
+        "proceeding": "26-74"
+      },
+      "first_seen": "2026-06-22T17:58:20.979820+00:00",
+      "is_new": false
+    },
+    {
+      "id": "FCC ECFS:10518639213118",
+      "source": "FCC ECFS",
+      "category": "regulatory",
+      "type": "Reply Comment",
+      "title": "Silvus Technologies Inc.: REPLY TO COMMENTS (FCC 26-74)",
+      "url": "https://www.fcc.gov/ecfs/document/10518639213118/1",
       "agency": "FCC",
       "identifier": "FCC 26-74",
       "date": "2026-05-19",
@@ -1812,35 +1841,6 @@
       "is_new": false
     },
     {
-      "id": "FCC ECFS:1051813119257",
-      "source": "FCC ECFS",
-      "category": "regulatory",
-      "type": "Reply Comment",
-      "title": "Aerospace Industries Association, Air Line Pilots Association International, AURA Network Systems, Inc., Aviation Spectrum Resources, Inc., The Boeing Company, Joby Aviation, and Vertical Aviation International: REPLY TO COMMENTS (FCC 26-74)",
-      "url": "https://www.fcc.gov/ecfs/document/1051813119257/1",
-      "agency": "FCC",
-      "identifier": "FCC 26-74",
-      "date": "2026-05-19",
-      "deadline": null,
-      "summary": "",
-      "score": 80,
-      "domains": [
-        "air",
-        "spectrum",
-        "supply-chain"
-      ],
-      "matched_terms": [],
-      "watchlist": {
-        "key": "gn-26-74",
-        "label": "GN 26-74 (Unleashing American Drone Dominance)"
-      },
-      "extra": {
-        "proceeding": "26-74"
-      },
-      "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": false
-    },
-    {
       "id": "FCC ECFS:105190835317675",
       "source": "FCC ECFS",
       "category": "regulatory",
@@ -1870,12 +1870,12 @@
       "is_new": false
     },
     {
-      "id": "FCC ECFS:10518109165364",
+      "id": "FCC ECFS:10518135533675",
       "source": "FCC ECFS",
       "category": "regulatory",
       "type": "Reply Comment",
-      "title": "AT&T Services, Inc.: REPLY TO COMMENTS (FCC 26-74)",
-      "url": "https://www.fcc.gov/ecfs/document/10518109165364/1",
+      "title": "CACI International: REPLY TO COMMENTS (FCC 26-74)",
+      "url": "https://www.fcc.gov/ecfs/document/10518135533675/1",
       "agency": "FCC",
       "identifier": "FCC 26-74",
       "date": "2026-05-19",
@@ -1928,12 +1928,12 @@
       "is_new": false
     },
     {
-      "id": "FCC ECFS:10518135533675",
+      "id": "FCC ECFS:10518109165364",
       "source": "FCC ECFS",
       "category": "regulatory",
       "type": "Reply Comment",
-      "title": "CACI International: REPLY TO COMMENTS (FCC 26-74)",
-      "url": "https://www.fcc.gov/ecfs/document/10518135533675/1",
+      "title": "AT&T Services, Inc.: REPLY TO COMMENTS (FCC 26-74)",
+      "url": "https://www.fcc.gov/ecfs/document/10518109165364/1",
       "agency": "FCC",
       "identifier": "FCC 26-74",
       "date": "2026-05-19",
@@ -2073,41 +2073,12 @@
       "is_new": false
     },
     {
-      "id": "FCC ECFS:1051819049614",
+      "id": "FCC ECFS:105190845717365",
       "source": "FCC ECFS",
       "category": "regulatory",
       "type": "Reply Comment",
-      "title": "Alliance for Telecommunications Industry Solutions: REPLY TO COMMENTS (FCC 26-74)",
-      "url": "https://www.fcc.gov/ecfs/document/1051819049614/1",
-      "agency": "FCC",
-      "identifier": "FCC 26-74",
-      "date": "2026-05-19",
-      "deadline": null,
-      "summary": "",
-      "score": 80,
-      "domains": [
-        "air",
-        "spectrum",
-        "supply-chain"
-      ],
-      "matched_terms": [],
-      "watchlist": {
-        "key": "gn-26-74",
-        "label": "GN 26-74 (Unleashing American Drone Dominance)"
-      },
-      "extra": {
-        "proceeding": "26-74"
-      },
-      "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": false
-    },
-    {
-      "id": "FCC ECFS:105190121800500",
-      "source": "FCC ECFS",
-      "category": "regulatory",
-      "type": "Reply Comment",
-      "title": "Utilities Technology Council: REPLY TO COMMENTS (FCC 26-74)",
-      "url": "https://www.fcc.gov/ecfs/document/105190121800500/1",
+      "title": "Echodyne Corp: REPLY TO COMMENTS (FCC 26-74)",
+      "url": "https://www.fcc.gov/ecfs/document/105190845717365/1",
       "agency": "FCC",
       "identifier": "FCC 26-74",
       "date": "2026-05-19",
@@ -2160,35 +2131,6 @@
       "is_new": false
     },
     {
-      "id": "FCC ECFS:105190845717365",
-      "source": "FCC ECFS",
-      "category": "regulatory",
-      "type": "Reply Comment",
-      "title": "Echodyne Corp: REPLY TO COMMENTS (FCC 26-74)",
-      "url": "https://www.fcc.gov/ecfs/document/105190845717365/1",
-      "agency": "FCC",
-      "identifier": "FCC 26-74",
-      "date": "2026-05-19",
-      "deadline": null,
-      "summary": "",
-      "score": 80,
-      "domains": [
-        "air",
-        "spectrum",
-        "supply-chain"
-      ],
-      "matched_terms": [],
-      "watchlist": {
-        "key": "gn-26-74",
-        "label": "GN 26-74 (Unleashing American Drone Dominance)"
-      },
-      "extra": {
-        "proceeding": "26-74"
-      },
-      "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": false
-    },
-    {
       "id": "FCC ECFS:105191782521525",
       "source": "FCC ECFS",
       "category": "regulatory",
@@ -2218,12 +2160,70 @@
       "is_new": false
     },
     {
+      "id": "FCC ECFS:1051819049614",
+      "source": "FCC ECFS",
+      "category": "regulatory",
+      "type": "Reply Comment",
+      "title": "Alliance for Telecommunications Industry Solutions: REPLY TO COMMENTS (FCC 26-74)",
+      "url": "https://www.fcc.gov/ecfs/document/1051819049614/1",
+      "agency": "FCC",
+      "identifier": "FCC 26-74",
+      "date": "2026-05-19",
+      "deadline": null,
+      "summary": "",
+      "score": 80,
+      "domains": [
+        "air",
+        "spectrum",
+        "supply-chain"
+      ],
+      "matched_terms": [],
+      "watchlist": {
+        "key": "gn-26-74",
+        "label": "GN 26-74 (Unleashing American Drone Dominance)"
+      },
+      "extra": {
+        "proceeding": "26-74"
+      },
+      "first_seen": "2026-06-22T17:58:20.979820+00:00",
+      "is_new": false
+    },
+    {
       "id": "FCC ECFS:105191161729005",
       "source": "FCC ECFS",
       "category": "regulatory",
       "type": "Reply Comment",
       "title": "Association for Uncrewed Vehicle Systems International (AUVSI): REPLY TO COMMENTS (FCC 26-74)",
       "url": "https://www.fcc.gov/ecfs/document/105191161729005/1",
+      "agency": "FCC",
+      "identifier": "FCC 26-74",
+      "date": "2026-05-19",
+      "deadline": null,
+      "summary": "",
+      "score": 80,
+      "domains": [
+        "air",
+        "spectrum",
+        "supply-chain"
+      ],
+      "matched_terms": [],
+      "watchlist": {
+        "key": "gn-26-74",
+        "label": "GN 26-74 (Unleashing American Drone Dominance)"
+      },
+      "extra": {
+        "proceeding": "26-74"
+      },
+      "first_seen": "2026-06-22T17:58:20.979820+00:00",
+      "is_new": false
+    },
+    {
+      "id": "FCC ECFS:105190121800500",
+      "source": "FCC ECFS",
+      "category": "regulatory",
+      "type": "Reply Comment",
+      "title": "Utilities Technology Council: REPLY TO COMMENTS (FCC 26-74)",
+      "url": "https://www.fcc.gov/ecfs/document/105190121800500/1",
       "agency": "FCC",
       "identifier": "FCC 26-74",
       "date": "2026-05-19",
@@ -2491,12 +2491,12 @@
       "is_new": false
     },
     {
-      "id": "FCC ECFS:10518000401428",
+      "id": "FCC ECFS:1051846612140",
       "source": "FCC ECFS",
       "category": "regulatory",
       "type": "Reply Comment",
-      "title": "MatrixSpace, Inc.: REPLY TO COMMENTS (FCC 26-74)",
-      "url": "https://www.fcc.gov/ecfs/document/10518000401428/1",
+      "title": "Utility Broadband Alliance: REPLY TO COMMENTS (FCC 26-74)",
+      "url": "https://www.fcc.gov/ecfs/document/1051846612140/1",
       "agency": "FCC",
       "identifier": "FCC 26-74",
       "date": "2026-05-18",
@@ -2520,12 +2520,12 @@
       "is_new": false
     },
     {
-      "id": "FCC ECFS:1051846612140",
+      "id": "FCC ECFS:10518000401428",
       "source": "FCC ECFS",
       "category": "regulatory",
       "type": "Reply Comment",
-      "title": "Utility Broadband Alliance: REPLY TO COMMENTS (FCC 26-74)",
-      "url": "https://www.fcc.gov/ecfs/document/1051846612140/1",
+      "title": "MatrixSpace, Inc.: REPLY TO COMMENTS (FCC 26-74)",
+      "url": "https://www.fcc.gov/ecfs/document/10518000401428/1",
       "agency": "FCC",
       "identifier": "FCC 26-74",
       "date": "2026-05-18",
@@ -3862,15 +3862,15 @@
       "is_new": false
     },
     {
-      "id": "SAM.gov:419b5b4538c6462c8c0704522542b2f1",
+      "id": "SAM.gov:72ca53ca70214f139a9c8fecb0c1d75b",
       "source": "SAM.gov",
       "category": "procurement",
       "type": "Sources Sought",
       "title": "Request for White Papers - Organic Counter Small Unmanned Aircraft System (O-CsUAS) Dismounted Sensors",
-      "url": "https://sam.gov/workspace/contract/opp/419b5b4538c6462c8c0704522542b2f1/view",
+      "url": "https://sam.gov/workspace/contract/opp/72ca53ca70214f139a9c8fecb0c1d75b/view",
       "agency": "DEPT OF DEFENSE",
       "identifier": "M67854-26-R-0131",
-      "date": "2026-06-22",
+      "date": "2026-06-29",
       "deadline": "2026-07-23",
       "summary": "Request for White Papers - Organic Counter Small Unmanned Aircraft System (O-CsUAS) Dismounted Sensors",
       "score": 52,
@@ -3887,8 +3887,8 @@
         "naics": null,
         "setaside": null
       },
-      "first_seen": "2026-06-22T23:08:23.366329+00:00",
-      "is_new": false
+      "first_seen": "2026-06-29T14:51:46.896184+00:00",
+      "is_new": true
     },
     {
       "id": "SAM.gov:00f0c762edaa476b9c446ed81bfe9249",
@@ -6061,6 +6061,78 @@
       "is_new": false
     },
     {
+      "id": "Regulations.gov:FAA-2026-7493-0001",
+      "source": "Regulations.gov",
+      "category": "regulatory",
+      "type": "Document",
+      "title": "3-Bar Drone Service, LLC - Exemption/Rulemaking",
+      "url": "https://www.regulations.gov/document/FAA-2026-7493-0001",
+      "agency": "FAA",
+      "identifier": "FAA-2026-7493",
+      "date": "2026-06-29",
+      "deadline": null,
+      "summary": "3-Bar Drone Service, LLC - Exemption/Rulemaking",
+      "score": 20,
+      "domains": [
+        "air"
+      ],
+      "matched_terms": [
+        "drone"
+      ],
+      "watchlist": null,
+      "extra": {},
+      "first_seen": "2026-06-29T14:51:46.896184+00:00",
+      "is_new": true
+    },
+    {
+      "id": "Regulations.gov:FAA-2026-7492-0001",
+      "source": "Regulations.gov",
+      "category": "regulatory",
+      "type": "Document",
+      "title": "Agri Drone Sprayers - Exemption/Rulemaking",
+      "url": "https://www.regulations.gov/document/FAA-2026-7492-0001",
+      "agency": "FAA",
+      "identifier": "FAA-2026-7492",
+      "date": "2026-06-29",
+      "deadline": null,
+      "summary": "Agri Drone Sprayers - Exemption/Rulemaking",
+      "score": 20,
+      "domains": [
+        "air"
+      ],
+      "matched_terms": [
+        "drone"
+      ],
+      "watchlist": null,
+      "extra": {},
+      "first_seen": "2026-06-29T14:51:46.896184+00:00",
+      "is_new": true
+    },
+    {
+      "id": "Regulations.gov:FAA-2025-2628-0004",
+      "source": "Regulations.gov",
+      "category": "regulatory",
+      "type": "Document",
+      "title": "Illinois Drone Solutions LLC - Exemption/Rulemaking (Amendment)",
+      "url": "https://www.regulations.gov/document/FAA-2025-2628-0004",
+      "agency": "FAA",
+      "identifier": "FAA-2025-2628",
+      "date": "2026-06-29",
+      "deadline": null,
+      "summary": "Illinois Drone Solutions LLC - Exemption/Rulemaking (Amendment)",
+      "score": 20,
+      "domains": [
+        "air"
+      ],
+      "matched_terms": [
+        "drone"
+      ],
+      "watchlist": null,
+      "extra": {},
+      "first_seen": "2026-06-29T14:51:46.896184+00:00",
+      "is_new": true
+    },
+    {
       "id": "Regulations.gov:FAA-2026-0902-0004",
       "source": "Regulations.gov",
       "category": "regulatory",
@@ -6367,78 +6439,6 @@
       "is_new": false
     },
     {
-      "id": "Regulations.gov:FAA-2023-1158-0003",
-      "source": "Regulations.gov",
-      "category": "regulatory",
-      "type": "Document",
-      "title": "AG DRONE, LLC - Exemption/Rulemaking (Request for Extension)",
-      "url": "https://www.regulations.gov/document/FAA-2023-1158-0003",
-      "agency": "FAA",
-      "identifier": "FAA-2023-1158",
-      "date": "2026-06-15",
-      "deadline": null,
-      "summary": "AG DRONE, LLC - Exemption/Rulemaking (Request for Extension)",
-      "score": 20,
-      "domains": [
-        "air"
-      ],
-      "matched_terms": [
-        "drone"
-      ],
-      "watchlist": null,
-      "extra": {},
-      "first_seen": "2026-06-23T11:44:45.742953+00:00",
-      "is_new": false
-    },
-    {
-      "id": "Regulations.gov:FAA-2026-2942-0007",
-      "source": "Regulations.gov",
-      "category": "regulatory",
-      "type": "Document",
-      "title": "Dearwester Drone Services LLC - Exemption/Rulemaking",
-      "url": "https://www.regulations.gov/document/FAA-2026-2942-0007",
-      "agency": "FAA",
-      "identifier": "FAA-2026-2942",
-      "date": "2026-06-12",
-      "deadline": null,
-      "summary": "Dearwester Drone Services LLC - Exemption/Rulemaking",
-      "score": 20,
-      "domains": [
-        "air"
-      ],
-      "matched_terms": [
-        "drone"
-      ],
-      "watchlist": null,
-      "extra": {},
-      "first_seen": "2026-06-23T11:44:45.742953+00:00",
-      "is_new": false
-    },
-    {
-      "id": "Regulations.gov:FAA-2024-2626-0008",
-      "source": "Regulations.gov",
-      "category": "regulatory",
-      "type": "Document",
-      "title": "Premier Outdoor Drone Services LLC - Exemption/Rulemaking (Additional Information)",
-      "url": "https://www.regulations.gov/document/FAA-2024-2626-0008",
-      "agency": "FAA",
-      "identifier": "FAA-2024-2626",
-      "date": "2026-06-12",
-      "deadline": null,
-      "summary": "Premier Outdoor Drone Services LLC - Exemption/Rulemaking (Additional Information)",
-      "score": 20,
-      "domains": [
-        "air"
-      ],
-      "matched_terms": [
-        "drone"
-      ],
-      "watchlist": null,
-      "extra": {},
-      "first_seen": "2026-06-23T11:44:45.742953+00:00",
-      "is_new": false
-    },
-    {
       "id": "Regulations.gov:FAA-2026-6998-0001",
       "source": "Regulations.gov",
       "category": "regulatory",
@@ -6498,30 +6498,6 @@
       "date": "2026-06-10",
       "deadline": null,
       "summary": "Precision Drone Solutions LLC - Exemption/Rulemaking",
-      "score": 20,
-      "domains": [
-        "air"
-      ],
-      "matched_terms": [
-        "drone"
-      ],
-      "watchlist": null,
-      "extra": {},
-      "first_seen": "2026-06-23T11:44:45.742953+00:00",
-      "is_new": false
-    },
-    {
-      "id": "Regulations.gov:FAA-2026-6834-0001",
-      "source": "Regulations.gov",
-      "category": "regulatory",
-      "type": "Document",
-      "title": "Greiner Drone Solutions, LLC - Exemption/Rulemaking",
-      "url": "https://www.regulations.gov/document/FAA-2026-6834-0001",
-      "agency": "FAA",
-      "identifier": "FAA-2026-6834",
-      "date": "2026-06-08",
-      "deadline": null,
-      "summary": "Greiner Drone Solutions, LLC - Exemption/Rulemaking",
       "score": 20,
       "domains": [
         "air"
@@ -6713,8 +6689,8 @@
     {
       "name": "Regulations.gov",
       "status": "ok",
-      "detail": "32 kept",
-      "count": 32
+      "detail": "31 kept",
+      "count": 31
     },
     {
       "name": "FCC ECFS",
@@ -6748,16 +6724,16 @@
     }
   ],
   "stats": {
-    "total": 239,
-    "new": 0,
+    "total": 238,
+    "new": 5,
     "by_category": {
-      "regulatory": 134,
+      "regulatory": 133,
       "procurement": 92,
       "litigation": 9,
       "legislative": 4
     },
     "by_domain": {
-      "air": 184,
+      "air": 183,
       "supply-chain": 118,
       "spectrum": 54,
       "defense": 9,
@@ -6768,7 +6744,7 @@
       "FCC ECFS": 100,
       "USAspending": 60,
       "SAM.gov": 32,
-      "Regulations.gov": 19,
+      "Regulations.gov": 18,
       "Federal Register": 15,
       "CourtListener": 9,
       "Congress.gov": 4
@@ -6785,7 +6761,7 @@
       ],
       "deadline": "2026-07-06",
       "count": 2,
-      "latest": "2026-06-26"
+      "latest": "2026-06-29"
     },
     {
       "key": "et-26-22",
@@ -6958,7 +6934,7 @@
   "deadlines": [
     {
       "deadline": "2026-06-29",
-      "days": 1,
+      "days": 0,
       "title": "FY26 97 OSS DRONE HARDWARE AND PERPETUAL SOFTWARE",
       "identifier": "FA441926Q0030",
       "category": "procurement",
@@ -6967,7 +6943,7 @@
     },
     {
       "deadline": "2026-06-29",
-      "days": 1,
+      "days": 0,
       "title": "ISR Drone Tethering Systems",
       "identifier": "W911S226U3428",
       "category": "procurement",
@@ -6976,7 +6952,7 @@
     },
     {
       "deadline": "2026-06-29",
-      "days": 1,
+      "days": 0,
       "title": "Drone Detection System",
       "identifier": "W50S8N26QA020",
       "category": "procurement",
@@ -6985,7 +6961,7 @@
     },
     {
       "deadline": "2026-06-29",
-      "days": 1,
+      "days": 0,
       "title": "INL_RFQ-PR15990513 DRONES AND PARTS",
       "identifier": "INL_RFQ-PR15990513",
       "category": "procurement",
@@ -6994,7 +6970,7 @@
     },
     {
       "deadline": "2026-06-30",
-      "days": 2,
+      "days": 1,
       "title": "ACC/A4SA Dronebuster Block 4 Requirement",
       "identifier": "FA489026Q0013",
       "category": "procurement",
@@ -7003,7 +6979,7 @@
     },
     {
       "deadline": "2026-07-01",
-      "days": 3,
+      "days": 2,
       "title": "C-UAS Radar Lease",
       "identifier": "FA480326Q0102",
       "category": "procurement",
@@ -7012,7 +6988,7 @@
     },
     {
       "deadline": "2026-07-06",
-      "days": 8,
+      "days": 7,
       "title": "Designation-Restrict the Operation of Unmanned Aircraft in Close Proximity to a Fixed Site Facility",
       "identifier": "Docket No. FAA-2026-4558",
       "category": "regulatory",
@@ -7021,7 +6997,7 @@
     },
     {
       "deadline": "2026-07-10",
-      "days": 12,
+      "days": 11,
       "title": "Call for Solutions for Portable Electronic Conspicuity Devices",
       "identifier": "W58RGZ-26-S-C001-0004",
       "category": "procurement",
@@ -7030,7 +7006,7 @@
     },
     {
       "deadline": "2026-07-16",
-      "days": 18,
+      "days": 17,
       "title": "Skydio X10 Drone Starter Kit, NightSense Infrared Attachment for X10 under Foreign Military Sales Case:  TU-B-UDO TUNISIA",
       "identifier": "W91CRB-26-R-DRNE",
       "category": "procurement",
@@ -7039,7 +7015,7 @@
     },
     {
       "deadline": "2026-07-20",
-      "days": 22,
+      "days": 21,
       "title": "Tactical sUAS Package",
       "identifier": "W50S7X26Q0004",
       "category": "procurement",
@@ -7048,16 +7024,16 @@
     },
     {
       "deadline": "2026-07-23",
-      "days": 25,
+      "days": 24,
       "title": "Request for White Papers - Organic Counter Small Unmanned Aircraft System (O-CsUAS) Dismounted Sensors",
       "identifier": "M67854-26-R-0131",
       "category": "procurement",
       "source": "SAM.gov",
-      "url": "https://sam.gov/workspace/contract/opp/419b5b4538c6462c8c0704522542b2f1/view"
+      "url": "https://sam.gov/workspace/contract/opp/72ca53ca70214f139a9c8fecb0c1d75b/view"
     },
     {
       "deadline": "2026-07-23",
-      "days": 25,
+      "days": 24,
       "title": "Request for White Papers - Organic Counter Small Unmanned Aircraft System Dismounted Effectors",
       "identifier": "M67854-26-R-0129",
       "category": "procurement",
@@ -7066,7 +7042,7 @@
     },
     {
       "deadline": "2026-07-24",
-      "days": 26,
+      "days": 25,
       "title": "Establishing the Digital Opportunity Data Collection; Modernizing the FCC Form 477 Data Program; Delete, Delete, Delete",
       "identifier": "WC Docket Nos. 19-195 and 11-10, GN Docket No. 25-133",
       "category": "regulatory",
@@ -7075,7 +7051,7 @@
     },
     {
       "deadline": "2026-07-27",
-      "days": 29,
+      "days": 28,
       "title": "USSOCOM Air Loitering Munition (ALM)",
       "identifier": "H9240826RFIALM",
       "category": "procurement",
@@ -7084,7 +7060,7 @@
     },
     {
       "deadline": "2026-07-31",
-      "days": 33,
+      "days": 32,
       "title": "Man-portable, Handheld, Counter-Unmanned System (MPHC)",
       "identifier": "FA852026MPHC",
       "category": "procurement",
@@ -7093,7 +7069,7 @@
     },
     {
       "deadline": "2026-08-28",
-      "days": 61,
+      "days": 60,
       "title": "ET 26-22 / DA-26-592 (DJI Security Assessment — comment by Aug 28, 2026)",
       "identifier": "FCC",
       "category": "regulatory",
@@ -7102,7 +7078,7 @@
     },
     {
       "deadline": "2031-05-28",
-      "days": 1795,
+      "days": 1794,
       "title": "INVITATION TO PARTICIPATE IN THE DEPARTMENT OF WAR DRONE OTA CONSORTIUM",
       "identifier": "W58RGZ-26-2-SN01",
       "category": "procurement",
