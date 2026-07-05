@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-04T21:17:02.370396+00:00",
-  "generated_human": "2026-07-04 21:17 UTC",
+  "generated_at": "2026-07-05T09:48:48.412597+00:00",
+  "generated_human": "2026-07-05 09:48 UTC",
   "demo": false,
   "items": [
     {
@@ -73,7 +73,7 @@
         "docket_total_comments": 488
       },
       "first_seen": "2026-07-04T21:17:02.370396+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:107022321324871",
@@ -4999,6 +4999,29 @@
       "is_new": false
     },
     {
+      "id": "USAspending:W900KK26FA044",
+      "source": "USAspending",
+      "category": "procurement",
+      "type": "Award",
+      "title": "KRATOS UNMANNED AERIAL SYSTEMS, INC: TO PROVIDE ACCREDITED, THREAT REPRESENTATIVE UNMANNED AERIAL TARGET SYSTEMS FOR USE IN SENSOR PRESENTATIONS OR LIVE FIRE",
+      "url": "https://www.usaspending.gov/award/CONT_AWD_W900KK26FA044_9700_W900KK23D0015_9700",
+      "agency": "Department of Defense",
+      "identifier": "W900KK26FA044",
+      "date": "2026-03-05",
+      "deadline": null,
+      "summary": "TO PROVIDE ACCREDITED, THREAT REPRESENTATIVE UNMANNED AERIAL TARGET SYSTEMS FOR USE IN SENSOR PRESENTATIONS OR LIVE FIRE TRACKING AND ENGAGEMENT FOR WEAPONS SYSTEMS TESTING.",
+      "score": 30,
+      "domains": [],
+      "matched_terms": [],
+      "watchlist": null,
+      "extra": {
+        "amount": 7551400.6,
+        "award_type": "DELIVERY ORDER"
+      },
+      "first_seen": "2026-07-05T09:48:48.412597+00:00",
+      "is_new": true
+    },
+    {
       "id": "USAspending:W58RGZ26F0139",
       "source": "USAspending",
       "category": "procurement",
@@ -5375,29 +5398,6 @@
       "is_new": false
     },
     {
-      "id": "USAspending:W58RGZ24C0021",
-      "source": "USAspending",
-      "category": "procurement",
-      "type": "Award",
-      "title": "GENERAL ATOMICS AERONAUTICAL SYSTEMS, INC.: PRODUCTION READY TEST ASSET UNDEFINITIZED CONTRACT ACTION",
-      "url": "https://www.usaspending.gov/award/CONT_AWD_W58RGZ24C0021_9700_-NONE-_-NONE-",
-      "agency": "Department of Defense",
-      "identifier": "W58RGZ24C0021",
-      "date": "2023-12-01",
-      "deadline": null,
-      "summary": "PRODUCTION READY TEST ASSET UNDEFINITIZED CONTRACT ACTION",
-      "score": 30,
-      "domains": [],
-      "matched_terms": [],
-      "watchlist": null,
-      "extra": {
-        "amount": 367444098.15,
-        "award_type": "DEFINITIVE CONTRACT"
-      },
-      "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": false
-    },
-    {
       "id": "USAspending:FA868923CB002",
       "source": "USAspending",
       "category": "procurement",
@@ -5563,29 +5563,6 @@
       "is_new": false
     },
     {
-      "id": "USAspending:N0001922C0048",
-      "source": "USAspending",
-      "category": "procurement",
-      "type": "Award",
-      "title": "THE BOEING COMPANY: LRIP LOT 1 LONG LEAD MATERIALS",
-      "url": "https://www.usaspending.gov/award/CONT_AWD_N0001922C0048_9700_-NONE-_-NONE-",
-      "agency": "Department of Defense",
-      "identifier": "N0001922C0048",
-      "date": "2022-09-28",
-      "deadline": null,
-      "summary": "LRIP LOT 1 LONG LEAD MATERIALS",
-      "score": 30,
-      "domains": [],
-      "matched_terms": [],
-      "watchlist": null,
-      "extra": {
-        "amount": 59447000.0,
-        "award_type": "DEFINITIVE CONTRACT"
-      },
-      "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": false
-    },
-    {
       "id": "USAspending:FA868922FB001",
       "source": "USAspending",
       "category": "procurement",
@@ -5657,6 +5634,29 @@
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
       "is_new": false
+    },
+    {
+      "id": "USAspending:W58RGZ22C0021",
+      "source": "USAspending",
+      "category": "procurement",
+      "type": "Award",
+      "title": "AEROVIRONMENT, INC.: PROCUREMENT OF PUMA LE",
+      "url": "https://www.usaspending.gov/award/CONT_AWD_W58RGZ22C0021_9700_-NONE-_-NONE-",
+      "agency": "Department of Defense",
+      "identifier": "W58RGZ22C0021",
+      "date": "2022-01-21",
+      "deadline": null,
+      "summary": "PROCUREMENT OF PUMA LE",
+      "score": 30,
+      "domains": [],
+      "matched_terms": [],
+      "watchlist": null,
+      "extra": {
+        "amount": 5983259.08,
+        "award_type": "DEFINITIVE CONTRACT"
+      },
+      "first_seen": "2026-07-05T09:48:48.412597+00:00",
+      "is_new": true
     },
     {
       "id": "USAspending:W9127822C0004",
@@ -6807,7 +6807,7 @@
   ],
   "stats": {
     "total": 242,
-    "new": 1,
+    "new": 2,
     "by_category": {
       "regulatory": 138,
       "procurement": 91,
@@ -7016,7 +7016,7 @@
   "deadlines": [
     {
       "deadline": "2026-07-06",
-      "days": 2,
+      "days": 1,
       "title": "Section 2209 (Critical Infrastructure UAS Restrictions)",
       "identifier": "FAA",
       "category": "regulatory",
@@ -7025,7 +7025,7 @@
     },
     {
       "deadline": "2026-07-09",
-      "days": 5,
+      "days": 4,
       "title": "Unmanned Aerial Vehicle",
       "identifier": "1232SA26Q0909",
       "category": "procurement",
@@ -7034,7 +7034,7 @@
     },
     {
       "deadline": "2026-07-10",
-      "days": 6,
+      "days": 5,
       "title": "Call for Solutions for Portable Electronic Conspicuity Devices",
       "identifier": "W58RGZ-26-S-C001-0004",
       "category": "procurement",
@@ -7043,7 +7043,7 @@
     },
     {
       "deadline": "2026-07-11",
-      "days": 7,
+      "days": 6,
       "title": "FPV Drones 3.5\" & 10\"",
       "identifier": "W56LPK0012425850",
       "category": "procurement",
@@ -7052,7 +7052,7 @@
     },
     {
       "deadline": "2026-07-13",
-      "days": 9,
+      "days": 8,
       "title": "Drones (JROTC edition) - Classroom",
       "identifier": "W911S226U3572",
       "category": "procurement",
@@ -7061,7 +7061,7 @@
     },
     {
       "deadline": "2026-07-13",
-      "days": 9,
+      "days": 8,
       "title": "Skydio X10D Drones",
       "identifier": "FA466126Q0057",
       "category": "procurement",
@@ -7070,7 +7070,7 @@
     },
     {
       "deadline": "2026-07-15",
-      "days": 11,
+      "days": 10,
       "title": "ISR Drone Tethering Systems",
       "identifier": "W911S226U3581",
       "category": "procurement",
@@ -7079,7 +7079,7 @@
     },
     {
       "deadline": "2026-07-16",
-      "days": 12,
+      "days": 11,
       "title": "Skydio X10 Drone Starter Kit, NightSense Infrared Attachment for X10 under Foreign Military Sales Case:  TU-B-UDO TUNISIA",
       "identifier": "W91CRB-26-R-DRNE",
       "category": "procurement",
@@ -7088,7 +7088,7 @@
     },
     {
       "deadline": "2026-07-17",
-      "days": 13,
+      "days": 12,
       "title": "5th SFS Dronebuster",
       "identifier": "FA452826QML03",
       "category": "procurement",
@@ -7097,7 +7097,7 @@
     },
     {
       "deadline": "2026-07-20",
-      "days": 16,
+      "days": 15,
       "title": "Tactical sUAS Package",
       "identifier": "W50S7X26Q0004",
       "category": "procurement",
@@ -7106,7 +7106,7 @@
     },
     {
       "deadline": "2026-07-23",
-      "days": 19,
+      "days": 18,
       "title": "Request for White Papers - Organic Counter Small Unmanned Aircraft System (O-CsUAS) Dismounted Sensors",
       "identifier": "M67854-26-R-0131",
       "category": "procurement",
@@ -7115,7 +7115,7 @@
     },
     {
       "deadline": "2026-07-23",
-      "days": 19,
+      "days": 18,
       "title": "Request for White Papers - Organic Counter Small Unmanned Aircraft System Dismounted Effectors",
       "identifier": "M67854-26-R-0129",
       "category": "procurement",
@@ -7124,7 +7124,7 @@
     },
     {
       "deadline": "2026-07-24",
-      "days": 20,
+      "days": 19,
       "title": "Establishing the Digital Opportunity Data Collection; Modernizing the FCC Form 477 Data Program; Delete, Delete, Delete",
       "identifier": "WC Docket Nos. 19-195 and 11-10, GN Docket No. 25-133",
       "category": "regulatory",
@@ -7133,7 +7133,7 @@
     },
     {
       "deadline": "2026-07-27",
-      "days": 23,
+      "days": 22,
       "title": "USSOCOM Air Loitering Munition (ALM)",
       "identifier": "H9240826RFIALM",
       "category": "procurement",
@@ -7142,7 +7142,7 @@
     },
     {
       "deadline": "2026-07-31",
-      "days": 27,
+      "days": 26,
       "title": "Man-portable, Handheld, Counter-Unmanned System (MPHC)",
       "identifier": "FA852026MPHC",
       "category": "procurement",
@@ -7151,7 +7151,7 @@
     },
     {
       "deadline": "2026-08-05",
-      "days": 32,
+      "days": 31,
       "title": "Designation-Restrict the Operation of Unmanned Aircraft in Close Proximity to a Fixed Site Facility; Extension of Comment Period",
       "identifier": "Docket No. FAA-2026-4558",
       "category": "regulatory",
@@ -7160,7 +7160,7 @@
     },
     {
       "deadline": "2026-08-28",
-      "days": 55,
+      "days": 54,
       "title": "ET 26-22 / DA-26-592 (DJI Security Assessment — comment by Aug 28, 2026)",
       "identifier": "FCC",
       "category": "regulatory",
@@ -7169,7 +7169,7 @@
     },
     {
       "deadline": "2026-09-05",
-      "days": 63,
+      "days": 62,
       "title": "Counter-UAS Authority OFR Public Inspection version 2026_07_01",
       "identifier": "FBI-2026-0001",
       "category": "regulatory",
@@ -7178,7 +7178,7 @@
     },
     {
       "deadline": "2031-05-28",
-      "days": 1789,
+      "days": 1788,
       "title": "INVITATION TO PARTICIPATE IN THE DEPARTMENT OF WAR DRONE OTA CONSORTIUM",
       "identifier": "W58RGZ-26-2-SN01",
       "category": "procurement",
