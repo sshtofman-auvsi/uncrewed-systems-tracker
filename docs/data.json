@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-05T09:48:48.412597+00:00",
-  "generated_human": "2026-07-05 09:48 UTC",
+  "generated_at": "2026-07-05T15:57:22.109154+00:00",
+  "generated_human": "2026-07-05 15:57 UTC",
   "demo": false,
   "items": [
     {
@@ -2005,70 +2005,41 @@
       "is_new": false
     },
     {
-      "id": "FCC ECFS:1051812307908",
-      "source": "FCC ECFS",
-      "category": "regulatory",
-      "type": "Reply Comment",
-      "title": "Lower Colorado River Authority: REPLY TO COMMENTS (FCC 26-74)",
-      "url": "https://www.fcc.gov/ecfs/document/1051812307908/1",
-      "agency": "FCC",
-      "identifier": "FCC 26-74",
-      "date": "2026-05-19",
-      "deadline": null,
-      "summary": "",
-      "score": 80,
-      "domains": [
-        "air",
-        "spectrum",
-        "supply-chain"
-      ],
-      "matched_terms": [],
-      "watchlist": {
-        "key": "gn-26-74",
-        "label": "GN 26-74 (Unleashing American Drone Dominance)"
-      },
-      "extra": {
-        "proceeding": "26-74"
-      },
-      "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": false
-    },
-    {
-      "id": "FCC ECFS:10518639213118",
-      "source": "FCC ECFS",
-      "category": "regulatory",
-      "type": "Reply Comment",
-      "title": "Silvus Technologies Inc.: REPLY TO COMMENTS (FCC 26-74)",
-      "url": "https://www.fcc.gov/ecfs/document/10518639213118/1",
-      "agency": "FCC",
-      "identifier": "FCC 26-74",
-      "date": "2026-05-19",
-      "deadline": null,
-      "summary": "",
-      "score": 80,
-      "domains": [
-        "air",
-        "spectrum",
-        "supply-chain"
-      ],
-      "matched_terms": [],
-      "watchlist": {
-        "key": "gn-26-74",
-        "label": "GN 26-74 (Unleashing American Drone Dominance)"
-      },
-      "extra": {
-        "proceeding": "26-74"
-      },
-      "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": false
-    },
-    {
       "id": "FCC ECFS:1051813119257",
       "source": "FCC ECFS",
       "category": "regulatory",
       "type": "Reply Comment",
       "title": "Aerospace Industries Association, Air Line Pilots Association International, AURA Network Systems, Inc., Aviation Spectrum Resources, Inc., The Boeing Company, Joby Aviation, and Vertical Aviation International: REPLY TO COMMENTS (FCC 26-74)",
       "url": "https://www.fcc.gov/ecfs/document/1051813119257/1",
+      "agency": "FCC",
+      "identifier": "FCC 26-74",
+      "date": "2026-05-19",
+      "deadline": null,
+      "summary": "",
+      "score": 80,
+      "domains": [
+        "air",
+        "spectrum",
+        "supply-chain"
+      ],
+      "matched_terms": [],
+      "watchlist": {
+        "key": "gn-26-74",
+        "label": "GN 26-74 (Unleashing American Drone Dominance)"
+      },
+      "extra": {
+        "proceeding": "26-74"
+      },
+      "first_seen": "2026-06-22T17:58:20.979820+00:00",
+      "is_new": false
+    },
+    {
+      "id": "FCC ECFS:1051812307908",
+      "source": "FCC ECFS",
+      "category": "regulatory",
+      "type": "Reply Comment",
+      "title": "Lower Colorado River Authority: REPLY TO COMMENTS (FCC 26-74)",
+      "url": "https://www.fcc.gov/ecfs/document/1051812307908/1",
       "agency": "FCC",
       "identifier": "FCC 26-74",
       "date": "2026-05-19",
@@ -2121,17 +2092,17 @@
       "is_new": false
     },
     {
-      "id": "FCC ECFS:105190835317675",
+      "id": "FCC ECFS:10518639213118",
       "source": "FCC ECFS",
       "category": "regulatory",
-      "type": "Comment",
-      "title": "Sylvia Ratnasamy: COMMENT (FCC 26-74)",
-      "url": "https://www.fcc.gov/ecfs/search/search-filings/filing/105190835317675",
+      "type": "Reply Comment",
+      "title": "Silvus Technologies Inc.: REPLY TO COMMENTS (FCC 26-74)",
+      "url": "https://www.fcc.gov/ecfs/document/10518639213118/1",
       "agency": "FCC",
       "identifier": "FCC 26-74",
       "date": "2026-05-19",
       "deadline": null,
-      "summary": "Comments in support of AERPAW and FCC Innovation Zones\t\t\t\tMay 18, 2026\n\n\nI would like to express my enthusiastic support for the FCC’s role in developing and growing Innovation Zones and advanced testbeds such as AERPAW. \n\nTogether with Mike Luby (BitRipple Inc.) and Prof. Shenker (UC Berkeley), I am participating in a research proposal that is current under review as part of the NSF VINES program",
+      "summary": "",
       "score": 80,
       "domains": [
         "air",
@@ -2150,17 +2121,17 @@
       "is_new": false
     },
     {
-      "id": "FCC ECFS:10518109165364",
+      "id": "FCC ECFS:105190835317675",
       "source": "FCC ECFS",
       "category": "regulatory",
-      "type": "Reply Comment",
-      "title": "AT&T Services, Inc.: REPLY TO COMMENTS (FCC 26-74)",
-      "url": "https://www.fcc.gov/ecfs/document/10518109165364/1",
+      "type": "Comment",
+      "title": "Sylvia Ratnasamy: COMMENT (FCC 26-74)",
+      "url": "https://www.fcc.gov/ecfs/search/search-filings/filing/105190835317675",
       "agency": "FCC",
       "identifier": "FCC 26-74",
       "date": "2026-05-19",
       "deadline": null,
-      "summary": "",
+      "summary": "Comments in support of AERPAW and FCC Innovation Zones\t\t\t\tMay 18, 2026\n\n\nI would like to express my enthusiastic support for the FCC’s role in developing and growing Innovation Zones and advanced testbeds such as AERPAW. \n\nTogether with Mike Luby (BitRipple Inc.) and Prof. Shenker (UC Berkeley), I am participating in a research proposal that is current under review as part of the NSF VINES program",
       "score": 80,
       "domains": [
         "air",
@@ -2208,12 +2179,12 @@
       "is_new": false
     },
     {
-      "id": "FCC ECFS:10518100110610",
+      "id": "FCC ECFS:10518109165364",
       "source": "FCC ECFS",
       "category": "regulatory",
       "type": "Reply Comment",
-      "title": "Wireless Infrastructure Association (WIA): REPLY TO COMMENTS (FCC 26-74)",
-      "url": "https://www.fcc.gov/ecfs/document/10518100110610/1",
+      "title": "AT&T Services, Inc.: REPLY TO COMMENTS (FCC 26-74)",
+      "url": "https://www.fcc.gov/ecfs/document/10518109165364/1",
       "agency": "FCC",
       "identifier": "FCC 26-74",
       "date": "2026-05-19",
@@ -2237,12 +2208,12 @@
       "is_new": false
     },
     {
-      "id": "FCC ECFS:1051801407885",
+      "id": "FCC ECFS:10518100110610",
       "source": "FCC ECFS",
       "category": "regulatory",
       "type": "Reply Comment",
-      "title": "CTIA: REPLY TO COMMENTS (FCC 26-74)",
-      "url": "https://www.fcc.gov/ecfs/document/1051801407885/1",
+      "title": "Wireless Infrastructure Association (WIA): REPLY TO COMMENTS (FCC 26-74)",
+      "url": "https://www.fcc.gov/ecfs/document/10518100110610/1",
       "agency": "FCC",
       "identifier": "FCC 26-74",
       "date": "2026-05-19",
@@ -2324,70 +2295,41 @@
       "is_new": false
     },
     {
+      "id": "FCC ECFS:1051801407885",
+      "source": "FCC ECFS",
+      "category": "regulatory",
+      "type": "Reply Comment",
+      "title": "CTIA: REPLY TO COMMENTS (FCC 26-74)",
+      "url": "https://www.fcc.gov/ecfs/document/1051801407885/1",
+      "agency": "FCC",
+      "identifier": "FCC 26-74",
+      "date": "2026-05-19",
+      "deadline": null,
+      "summary": "",
+      "score": 80,
+      "domains": [
+        "air",
+        "spectrum",
+        "supply-chain"
+      ],
+      "matched_terms": [],
+      "watchlist": {
+        "key": "gn-26-74",
+        "label": "GN 26-74 (Unleashing American Drone Dominance)"
+      },
+      "extra": {
+        "proceeding": "26-74"
+      },
+      "first_seen": "2026-06-22T17:58:20.979820+00:00",
+      "is_new": false
+    },
+    {
       "id": "FCC ECFS:10518138821895",
       "source": "FCC ECFS",
       "category": "regulatory",
       "type": "Reply Comment",
       "title": "AeroVironment, Anne E Cortez: REPLY TO COMMENTS (FCC 26-74)",
       "url": "https://www.fcc.gov/ecfs/document/10518138821895/1",
-      "agency": "FCC",
-      "identifier": "FCC 26-74",
-      "date": "2026-05-19",
-      "deadline": null,
-      "summary": "",
-      "score": 80,
-      "domains": [
-        "air",
-        "spectrum",
-        "supply-chain"
-      ],
-      "matched_terms": [],
-      "watchlist": {
-        "key": "gn-26-74",
-        "label": "GN 26-74 (Unleashing American Drone Dominance)"
-      },
-      "extra": {
-        "proceeding": "26-74"
-      },
-      "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": false
-    },
-    {
-      "id": "FCC ECFS:105190121800500",
-      "source": "FCC ECFS",
-      "category": "regulatory",
-      "type": "Reply Comment",
-      "title": "Utilities Technology Council: REPLY TO COMMENTS (FCC 26-74)",
-      "url": "https://www.fcc.gov/ecfs/document/105190121800500/1",
-      "agency": "FCC",
-      "identifier": "FCC 26-74",
-      "date": "2026-05-19",
-      "deadline": null,
-      "summary": "",
-      "score": 80,
-      "domains": [
-        "air",
-        "spectrum",
-        "supply-chain"
-      ],
-      "matched_terms": [],
-      "watchlist": {
-        "key": "gn-26-74",
-        "label": "GN 26-74 (Unleashing American Drone Dominance)"
-      },
-      "extra": {
-        "proceeding": "26-74"
-      },
-      "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": false
-    },
-    {
-      "id": "FCC ECFS:105191782521525",
-      "source": "FCC ECFS",
-      "category": "regulatory",
-      "type": "Reply Comment",
-      "title": "Perennial Autonomy, Inc.: REPLY TO COMMENTS (FCC 26-74)",
-      "url": "https://www.fcc.gov/ecfs/document/105191782521525/1",
       "agency": "FCC",
       "identifier": "FCC 26-74",
       "date": "2026-05-19",
@@ -2498,12 +2440,70 @@
       "is_new": false
     },
     {
+      "id": "FCC ECFS:105191782521525",
+      "source": "FCC ECFS",
+      "category": "regulatory",
+      "type": "Reply Comment",
+      "title": "Perennial Autonomy, Inc.: REPLY TO COMMENTS (FCC 26-74)",
+      "url": "https://www.fcc.gov/ecfs/document/105191782521525/1",
+      "agency": "FCC",
+      "identifier": "FCC 26-74",
+      "date": "2026-05-19",
+      "deadline": null,
+      "summary": "",
+      "score": 80,
+      "domains": [
+        "air",
+        "spectrum",
+        "supply-chain"
+      ],
+      "matched_terms": [],
+      "watchlist": {
+        "key": "gn-26-74",
+        "label": "GN 26-74 (Unleashing American Drone Dominance)"
+      },
+      "extra": {
+        "proceeding": "26-74"
+      },
+      "first_seen": "2026-06-22T17:58:20.979820+00:00",
+      "is_new": false
+    },
+    {
       "id": "FCC ECFS:1051922013627",
       "source": "FCC ECFS",
       "category": "regulatory",
       "type": "Reply Comment",
       "title": "Ceres Air LLC, Elevon Aerial AG, Exedy Drones: REPLY TO COMMENTS (FCC 26-74)",
       "url": "https://www.fcc.gov/ecfs/document/1051922013627/1",
+      "agency": "FCC",
+      "identifier": "FCC 26-74",
+      "date": "2026-05-19",
+      "deadline": null,
+      "summary": "",
+      "score": 80,
+      "domains": [
+        "air",
+        "spectrum",
+        "supply-chain"
+      ],
+      "matched_terms": [],
+      "watchlist": {
+        "key": "gn-26-74",
+        "label": "GN 26-74 (Unleashing American Drone Dominance)"
+      },
+      "extra": {
+        "proceeding": "26-74"
+      },
+      "first_seen": "2026-06-22T17:58:20.979820+00:00",
+      "is_new": false
+    },
+    {
+      "id": "FCC ECFS:105190121800500",
+      "source": "FCC ECFS",
+      "category": "regulatory",
+      "type": "Reply Comment",
+      "title": "Utilities Technology Council: REPLY TO COMMENTS (FCC 26-74)",
+      "url": "https://www.fcc.gov/ecfs/document/105190121800500/1",
       "agency": "FCC",
       "identifier": "FCC 26-74",
       "date": "2026-05-19",
@@ -2588,12 +2588,12 @@
       "is_new": false
     },
     {
-      "id": "FCC ECFS:10518492919672",
+      "id": "FCC ECFS:10518153927989",
       "source": "FCC ECFS",
       "category": "regulatory",
       "type": "Reply Comment",
-      "title": "450 MHz Alliance: REPLY TO COMMENTS (FCC 26-74)",
-      "url": "https://www.fcc.gov/ecfs/document/10518492919672/1",
+      "title": "Sadik Kara: REPLY TO COMMENTS (FCC 26-74)",
+      "url": "https://www.fcc.gov/ecfs/document/10518153927989/1",
       "agency": "FCC",
       "identifier": "FCC 26-74",
       "date": "2026-05-18",
@@ -2617,12 +2617,12 @@
       "is_new": false
     },
     {
-      "id": "FCC ECFS:10518153927989",
+      "id": "FCC ECFS:10518492919672",
       "source": "FCC ECFS",
       "category": "regulatory",
       "type": "Reply Comment",
-      "title": "Sadik Kara: REPLY TO COMMENTS (FCC 26-74)",
-      "url": "https://www.fcc.gov/ecfs/document/10518153927989/1",
+      "title": "450 MHz Alliance: REPLY TO COMMENTS (FCC 26-74)",
+      "url": "https://www.fcc.gov/ecfs/document/10518492919672/1",
       "agency": "FCC",
       "identifier": "FCC 26-74",
       "date": "2026-05-18",
@@ -2675,12 +2675,12 @@
       "is_new": false
     },
     {
-      "id": "FCC ECFS:1051846612140",
+      "id": "FCC ECFS:10518000401428",
       "source": "FCC ECFS",
       "category": "regulatory",
       "type": "Reply Comment",
-      "title": "Utility Broadband Alliance: REPLY TO COMMENTS (FCC 26-74)",
-      "url": "https://www.fcc.gov/ecfs/document/1051846612140/1",
+      "title": "MatrixSpace, Inc.: REPLY TO COMMENTS (FCC 26-74)",
+      "url": "https://www.fcc.gov/ecfs/document/10518000401428/1",
       "agency": "FCC",
       "identifier": "FCC 26-74",
       "date": "2026-05-18",
@@ -2704,12 +2704,12 @@
       "is_new": false
     },
     {
-      "id": "FCC ECFS:10518000401428",
+      "id": "FCC ECFS:1051846612140",
       "source": "FCC ECFS",
       "category": "regulatory",
       "type": "Reply Comment",
-      "title": "MatrixSpace, Inc.: REPLY TO COMMENTS (FCC 26-74)",
-      "url": "https://www.fcc.gov/ecfs/document/10518000401428/1",
+      "title": "Utility Broadband Alliance: REPLY TO COMMENTS (FCC 26-74)",
+      "url": "https://www.fcc.gov/ecfs/document/1051846612140/1",
       "agency": "FCC",
       "identifier": "FCC 26-74",
       "date": "2026-05-18",
@@ -5019,7 +5019,7 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-07-05T09:48:48.412597+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:W58RGZ26F0139",
@@ -5656,7 +5656,7 @@
         "award_type": "DEFINITIVE CONTRACT"
       },
       "first_seen": "2026-07-05T09:48:48.412597+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:W9127822C0004",
@@ -6807,7 +6807,7 @@
   ],
   "stats": {
     "total": 242,
-    "new": 2,
+    "new": 0,
     "by_category": {
       "regulatory": 138,
       "procurement": 91,
