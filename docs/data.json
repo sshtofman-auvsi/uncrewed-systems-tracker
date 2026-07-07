@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-07T11:23:49.386362+00:00",
-  "generated_human": "2026-07-07 11:23 UTC",
+  "generated_at": "2026-07-07T19:18:20.451500+00:00",
+  "generated_human": "2026-07-07 19:18 UTC",
   "demo": false,
   "items": [
     {
@@ -46,17 +46,17 @@
       "is_new": false
     },
     {
-      "id": "Regulations.gov:FAA-2026-4558-0551",
+      "id": "Regulations.gov:FAA-2026-4558-0563",
       "source": "Regulations.gov",
       "category": "regulatory",
       "type": "Comment",
-      "title": "Comment on Designation – Restrict the Operation of Unmanned Aircraft in Close Proximity  to a Fixed Site Facility: Comment from Delmarva Chicken Association",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-0551",
+      "title": "Comment on Designation – Restrict the Operation of Unmanned Aircraft in Close Proximity  to a Fixed Site Facility: Comment from Anonymous",
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-0563",
       "agency": "FAA",
       "identifier": "FAA-2026-4558",
-      "date": "2026-07-06",
+      "date": "2026-07-07",
       "deadline": null,
-      "summary": "Comment from Delmarva Chicken Association",
+      "summary": "Comment from Anonymous",
       "score": 80,
       "domains": [
         "air"
@@ -70,9 +70,9 @@
         "label": "Section 2209 (Critical Infrastructure UAS Restrictions)"
       },
       "extra": {
-        "docket_total_comments": 541
+        "docket_total_comments": 560
       },
-      "first_seen": "2026-07-07T11:23:49.386362+00:00",
+      "first_seen": "2026-07-07T19:18:20.451500+00:00",
       "is_new": true
     },
     {
@@ -262,6 +262,35 @@
       "is_new": false
     },
     {
+      "id": "FCC ECFS:10702055201256",
+      "source": "FCC ECFS",
+      "category": "regulatory",
+      "type": "ORDER",
+      "title": "Office of Engineering & Technology: ORDER (FCC 26-74)",
+      "url": "https://docs.fcc.gov/public/attachments/DA-26-657A1.pdf",
+      "agency": "FCC",
+      "identifier": "FCC 26-74",
+      "date": "2026-07-02",
+      "deadline": null,
+      "summary": "",
+      "score": 80,
+      "domains": [
+        "air",
+        "spectrum",
+        "supply-chain"
+      ],
+      "matched_terms": [],
+      "watchlist": {
+        "key": "gn-26-74",
+        "label": "GN 26-74 (Unleashing American Drone Dominance)"
+      },
+      "extra": {
+        "proceeding": "26-74"
+      },
+      "first_seen": "2026-07-02T18:19:03.065344+00:00",
+      "is_new": false
+    },
+    {
       "id": "FCC ECFS:107022321324871",
       "source": "FCC ECFS",
       "category": "regulatory",
@@ -297,35 +326,6 @@
       "type": "ORDER",
       "title": "Wireless Telecommunications Bureau: ORDER (FCC 26-74)",
       "url": "https://docs.fcc.gov/public/attachments/DA-26-656A1.pdf",
-      "agency": "FCC",
-      "identifier": "FCC 26-74",
-      "date": "2026-07-02",
-      "deadline": null,
-      "summary": "",
-      "score": 80,
-      "domains": [
-        "air",
-        "spectrum",
-        "supply-chain"
-      ],
-      "matched_terms": [],
-      "watchlist": {
-        "key": "gn-26-74",
-        "label": "GN 26-74 (Unleashing American Drone Dominance)"
-      },
-      "extra": {
-        "proceeding": "26-74"
-      },
-      "first_seen": "2026-07-02T18:19:03.065344+00:00",
-      "is_new": false
-    },
-    {
-      "id": "FCC ECFS:10702055201256",
-      "source": "FCC ECFS",
-      "category": "regulatory",
-      "type": "ORDER",
-      "title": "Office of Engineering & Technology: ORDER (FCC 26-74)",
-      "url": "https://docs.fcc.gov/public/attachments/DA-26-657A1.pdf",
       "agency": "FCC",
       "identifier": "FCC 26-74",
       "date": "2026-07-02",
@@ -1122,12 +1122,12 @@
       "is_new": false
     },
     {
-      "id": "FCC ECFS:10530375403656",
+      "id": "FCC ECFS:10531075320678",
       "source": "FCC ECFS",
       "category": "regulatory",
       "type": "Comment",
-      "title": "Jeremy Monroe: COMMENT (FCC 26-22)",
-      "url": "https://www.fcc.gov/ecfs/document/10530375403656/1",
+      "title": "Toby Dziubala: COMMENT (FCC 26-22)",
+      "url": "https://www.fcc.gov/ecfs/document/10531075320678/1",
       "agency": "FCC",
       "identifier": "FCC 26-22",
       "date": "2026-06-01",
@@ -1150,12 +1150,12 @@
       "is_new": false
     },
     {
-      "id": "FCC ECFS:10531075320678",
+      "id": "FCC ECFS:10530375403656",
       "source": "FCC ECFS",
       "category": "regulatory",
       "type": "Comment",
-      "title": "Toby Dziubala: COMMENT (FCC 26-22)",
-      "url": "https://www.fcc.gov/ecfs/document/10531075320678/1",
+      "title": "Jeremy Monroe: COMMENT (FCC 26-22)",
+      "url": "https://www.fcc.gov/ecfs/document/10530375403656/1",
       "agency": "FCC",
       "identifier": "FCC 26-22",
       "date": "2026-06-01",
@@ -4107,6 +4107,33 @@
       "is_new": false
     },
     {
+      "id": "SAM.gov:89571fe157704a8d8aa246245a743828",
+      "source": "SAM.gov",
+      "category": "procurement",
+      "type": "Presolicitation",
+      "title": "Medium Unmanned Surface Vessel (MUSV) High-Capacity",
+      "url": "https://sam.gov/workspace/contract/opp/89571fe157704a8d8aa246245a743828/view",
+      "agency": "DEPT OF DEFENSE",
+      "identifier": "N0003926RR001",
+      "date": "2026-07-07",
+      "deadline": null,
+      "summary": "Medium Unmanned Surface Vessel (MUSV) High-Capacity",
+      "score": 35,
+      "domains": [
+        "maritime"
+      ],
+      "matched_terms": [
+        "unmanned surface vessel"
+      ],
+      "watchlist": null,
+      "extra": {
+        "naics": "336611",
+        "setaside": null
+      },
+      "first_seen": "2026-07-07T19:18:20.451500+00:00",
+      "is_new": true
+    },
+    {
       "id": "SAM.gov:16bc0eee9dd846bd979f8deee33126f2",
       "source": "SAM.gov",
       "category": "procurement",
@@ -4662,6 +4689,32 @@
       "is_new": false
     },
     {
+      "id": "Regulations.gov:DHS-2026-0496-0001",
+      "source": "Regulations.gov",
+      "category": "regulatory",
+      "type": "Final Rule",
+      "title": "Counter-UAS Authority for State, Local, Tribal, and Territorial Law Enforcement and Correctional Agencies",
+      "url": "https://www.regulations.gov/document/DHS-2026-0496-0001",
+      "agency": "DHS",
+      "identifier": "DHS-2026-0496",
+      "date": "2026-07-06",
+      "deadline": null,
+      "summary": "Counter-UAS Authority for State, Local, Tribal, and Territorial Law Enforcement and Correctional Agencies",
+      "score": 34,
+      "domains": [
+        "air",
+        "defense"
+      ],
+      "matched_terms": [
+        "uas",
+        "counter-uas"
+      ],
+      "watchlist": null,
+      "extra": {},
+      "first_seen": "2026-07-07T19:18:20.451500+00:00",
+      "is_new": true
+    },
+    {
       "id": "USAspending:697DCK26F00540",
       "source": "USAspending",
       "category": "procurement",
@@ -4688,35 +4741,6 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-07-03T10:17:16.264437+00:00",
-      "is_new": false
-    },
-    {
-      "id": "SAM.gov:c552e98c9a974925b2968d5e9ef15581",
-      "source": "SAM.gov",
-      "category": "procurement",
-      "type": "Sources Sought",
-      "title": "C-UAS Radar Lease",
-      "url": "https://sam.gov/workspace/contract/opp/c552e98c9a974925b2968d5e9ef15581/view",
-      "agency": "DEPT OF DEFENSE",
-      "identifier": "FA480326Q0102",
-      "date": "2026-06-23",
-      "deadline": "2026-07-01",
-      "summary": "C-UAS Radar Lease",
-      "score": 34,
-      "domains": [
-        "air",
-        "defense"
-      ],
-      "matched_terms": [
-        "uas",
-        "c-uas"
-      ],
-      "watchlist": null,
-      "extra": {
-        "naics": "334511",
-        "setaside": "SBA"
-      },
-      "first_seen": "2026-07-01T18:33:40.471932+00:00",
       "is_new": false
     },
     {
@@ -5213,7 +5237,7 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-07-07T11:23:49.386362+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:19AQMM25F0189",
@@ -6048,6 +6072,30 @@
       "is_new": false
     },
     {
+      "id": "Regulations.gov:FAA-2026-7791-0001",
+      "source": "Regulations.gov",
+      "category": "regulatory",
+      "type": "Document",
+      "title": "Nimbus Ag Drone, L.L.C. - Exemption/Rulemaking",
+      "url": "https://www.regulations.gov/document/FAA-2026-7791-0001",
+      "agency": "FAA",
+      "identifier": "FAA-2026-7791",
+      "date": "2026-07-07",
+      "deadline": null,
+      "summary": "Nimbus Ag Drone, L.L.C. - Exemption/Rulemaking",
+      "score": 20,
+      "domains": [
+        "air"
+      ],
+      "matched_terms": [
+        "drone"
+      ],
+      "watchlist": null,
+      "extra": {},
+      "first_seen": "2026-07-07T19:18:20.451500+00:00",
+      "is_new": true
+    },
+    {
       "id": "Federal Register:2026-13619",
       "source": "Federal Register",
       "category": "regulatory",
@@ -6370,30 +6418,6 @@
       "is_new": false
     },
     {
-      "id": "Regulations.gov:FAA-2024-1163-0006",
-      "source": "Regulations.gov",
-      "category": "regulatory",
-      "type": "Document",
-      "title": "Cech Drone Specialties LLC - Exemption/Rulemaking (Request for Extension)",
-      "url": "https://www.regulations.gov/document/FAA-2024-1163-0006",
-      "agency": "FAA",
-      "identifier": "FAA-2024-1163",
-      "date": "2026-06-25",
-      "deadline": null,
-      "summary": "Cech Drone Specialties LLC - Exemption/Rulemaking (Request for Extension)",
-      "score": 20,
-      "domains": [
-        "air"
-      ],
-      "matched_terms": [
-        "drone"
-      ],
-      "watchlist": null,
-      "extra": {},
-      "first_seen": "2026-07-07T11:23:49.386362+00:00",
-      "is_new": true
-    },
-    {
       "id": "Federal Register:2026-12767",
       "source": "Federal Register",
       "category": "regulatory",
@@ -6449,30 +6473,6 @@
         "setaside": "SBA"
       },
       "first_seen": "2026-07-01T18:33:40.471932+00:00",
-      "is_new": false
-    },
-    {
-      "id": "Regulations.gov:FAA-2026-7200-0001",
-      "source": "Regulations.gov",
-      "category": "regulatory",
-      "type": "Document",
-      "title": "High Ground Drone Service LLC - Exemption/Rulemaking",
-      "url": "https://www.regulations.gov/document/FAA-2026-7200-0001",
-      "agency": "FAA",
-      "identifier": "FAA-2026-7200",
-      "date": "2026-06-22",
-      "deadline": null,
-      "summary": "High Ground Drone Service LLC - Exemption/Rulemaking",
-      "score": 20,
-      "domains": [
-        "air"
-      ],
-      "matched_terms": [
-        "drone"
-      ],
-      "watchlist": null,
-      "extra": {},
-      "first_seen": "2026-06-23T11:44:45.742953+00:00",
       "is_new": false
     },
     {
@@ -6791,7 +6791,7 @@
   ],
   "stats": {
     "total": 242,
-    "new": 3,
+    "new": 4,
     "by_category": {
       "regulatory": 141,
       "procurement": 88,
@@ -6799,11 +6799,12 @@
       "legislative": 4
     },
     "by_domain": {
-      "air": 182,
+      "air": 181,
       "supply-chain": 118,
       "spectrum": 56,
       "defense": 9,
-      "ground": 7
+      "ground": 7,
+      "maritime": 1
     },
     "by_source": {
       "FCC ECFS": 99,
@@ -6826,7 +6827,7 @@
       ],
       "deadline": "2026-07-06",
       "count": 4,
-      "latest": "2026-07-06"
+      "latest": "2026-07-07"
     },
     {
       "key": "et-26-22",
