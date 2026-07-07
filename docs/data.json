@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-06T22:46:18.809779+00:00",
-  "generated_human": "2026-07-06 22:46 UTC",
+  "generated_at": "2026-07-07T11:23:49.386362+00:00",
+  "generated_human": "2026-07-07 11:23 UTC",
   "demo": false,
   "items": [
     {
@@ -46,17 +46,17 @@
       "is_new": false
     },
     {
-      "id": "Regulations.gov:FAA-2026-4558-0557",
+      "id": "Regulations.gov:FAA-2026-4558-0551",
       "source": "Regulations.gov",
       "category": "regulatory",
       "type": "Comment",
-      "title": "Comment on Designation – Restrict the Operation of Unmanned Aircraft in Close Proximity  to a Fixed Site Facility: Comment from Paul Brandenburg",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-0557",
+      "title": "Comment on Designation – Restrict the Operation of Unmanned Aircraft in Close Proximity  to a Fixed Site Facility: Comment from Delmarva Chicken Association",
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-0551",
       "agency": "FAA",
       "identifier": "FAA-2026-4558",
       "date": "2026-07-06",
       "deadline": null,
-      "summary": "Comment from Paul Brandenburg",
+      "summary": "Comment from Delmarva Chicken Association",
       "score": 80,
       "domains": [
         "air"
@@ -72,7 +72,7 @@
       "extra": {
         "docket_total_comments": 541
       },
-      "first_seen": "2026-07-06T22:46:18.809779+00:00",
+      "first_seen": "2026-07-07T11:23:49.386362+00:00",
       "is_new": true
     },
     {
@@ -105,7 +105,7 @@
         "proceeding": "26-22"
       },
       "first_seen": "2026-07-06T22:46:18.809779+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:26109986300",
@@ -133,7 +133,7 @@
         "proceeding": "26-22"
       },
       "first_seen": "2026-07-06T22:46:18.809779+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:26109985300",
@@ -165,7 +165,7 @@
         "proceeding": "26-22"
       },
       "first_seen": "2026-07-06T22:46:18.809779+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:26109973444",
@@ -196,7 +196,7 @@
         "proceeding": "26-22"
       },
       "first_seen": "2026-07-06T22:46:18.809779+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:26109982029",
@@ -228,7 +228,7 @@
         "proceeding": "26-22"
       },
       "first_seen": "2026-07-06T22:46:18.809779+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:26109983330",
@@ -259,7 +259,7 @@
         "proceeding": "26-22"
       },
       "first_seen": "2026-07-06T22:46:18.809779+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:107022321324871",
@@ -5193,6 +5193,29 @@
       "is_new": false
     },
     {
+      "id": "USAspending:FA862025FB090",
+      "source": "USAspending",
+      "category": "procurement",
+      "type": "Award",
+      "title": "AEVEX AEROSPACE, LLC: BIG SAFARI",
+      "url": "https://www.usaspending.gov/award/CONT_AWD_FA862025FB090_9700_FA862024GB001_9700",
+      "agency": "Department of Defense",
+      "identifier": "FA862025FB090",
+      "date": "2025-02-14",
+      "deadline": null,
+      "summary": "BIG SAFARI",
+      "score": 30,
+      "domains": [],
+      "matched_terms": [],
+      "watchlist": null,
+      "extra": {
+        "amount": 22133636.58,
+        "award_type": "DELIVERY ORDER"
+      },
+      "first_seen": "2026-07-07T11:23:49.386362+00:00",
+      "is_new": true
+    },
+    {
       "id": "USAspending:19AQMM25F0189",
       "source": "USAspending",
       "category": "procurement",
@@ -5543,29 +5566,6 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": false
-    },
-    {
-      "id": "USAspending:W58RGZ22C0021",
-      "source": "USAspending",
-      "category": "procurement",
-      "type": "Award",
-      "title": "AEROVIRONMENT, INC.: PROCUREMENT OF PUMA LE",
-      "url": "https://www.usaspending.gov/award/CONT_AWD_W58RGZ22C0021_9700_-NONE-_-NONE-",
-      "agency": "Department of Defense",
-      "identifier": "W58RGZ22C0021",
-      "date": "2022-01-21",
-      "deadline": null,
-      "summary": "PROCUREMENT OF PUMA LE",
-      "score": 30,
-      "domains": [],
-      "matched_terms": [],
-      "watchlist": null,
-      "extra": {
-        "amount": 5983259.08,
-        "award_type": "DEFINITIVE CONTRACT"
-      },
-      "first_seen": "2026-07-05T09:48:48.412597+00:00",
       "is_new": false
     },
     {
@@ -6146,7 +6146,7 @@
       "watchlist": null,
       "extra": {},
       "first_seen": "2026-07-06T22:46:18.809779+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "Regulations.gov:FAA-2026-7723-0001",
@@ -6368,6 +6368,30 @@
       "extra": {},
       "first_seen": "2026-06-26T18:14:12.459078+00:00",
       "is_new": false
+    },
+    {
+      "id": "Regulations.gov:FAA-2024-1163-0006",
+      "source": "Regulations.gov",
+      "category": "regulatory",
+      "type": "Document",
+      "title": "Cech Drone Specialties LLC - Exemption/Rulemaking (Request for Extension)",
+      "url": "https://www.regulations.gov/document/FAA-2024-1163-0006",
+      "agency": "FAA",
+      "identifier": "FAA-2024-1163",
+      "date": "2026-06-25",
+      "deadline": null,
+      "summary": "Cech Drone Specialties LLC - Exemption/Rulemaking (Request for Extension)",
+      "score": 20,
+      "domains": [
+        "air"
+      ],
+      "matched_terms": [
+        "drone"
+      ],
+      "watchlist": null,
+      "extra": {},
+      "first_seen": "2026-07-07T11:23:49.386362+00:00",
+      "is_new": true
     },
     {
       "id": "Federal Register:2026-12767",
@@ -6731,8 +6755,8 @@
     {
       "name": "Regulations.gov",
       "status": "ok",
-      "detail": "36 kept",
-      "count": 36
+      "detail": "37 kept",
+      "count": 37
     },
     {
       "name": "FCC ECFS",
@@ -6766,16 +6790,16 @@
     }
   ],
   "stats": {
-    "total": 241,
-    "new": 8,
+    "total": 242,
+    "new": 3,
     "by_category": {
-      "regulatory": 140,
+      "regulatory": 141,
       "procurement": 88,
       "litigation": 9,
       "legislative": 4
     },
     "by_domain": {
-      "air": 181,
+      "air": 182,
       "supply-chain": 118,
       "spectrum": 56,
       "defense": 9,
@@ -6785,7 +6809,7 @@
       "FCC ECFS": 99,
       "USAspending": 60,
       "SAM.gov": 28,
-      "Regulations.gov": 23,
+      "Regulations.gov": 24,
       "Federal Register": 18,
       "CourtListener": 9,
       "Congress.gov": 4
@@ -6974,17 +6998,8 @@
   ],
   "deadlines": [
     {
-      "deadline": "2026-07-06",
-      "days": 0,
-      "title": "Section 2209 (Critical Infrastructure UAS Restrictions)",
-      "identifier": "FAA",
-      "category": "regulatory",
-      "source": "Watchlist",
-      "url": ""
-    },
-    {
       "deadline": "2026-07-09",
-      "days": 3,
+      "days": 2,
       "title": "Unmanned Aerial Vehicle",
       "identifier": "1232SA26Q0909",
       "category": "procurement",
@@ -6993,7 +7008,7 @@
     },
     {
       "deadline": "2026-07-10",
-      "days": 4,
+      "days": 3,
       "title": "Call for Solutions for Portable Electronic Conspicuity Devices",
       "identifier": "W58RGZ-26-S-C001-0004",
       "category": "procurement",
@@ -7002,7 +7017,7 @@
     },
     {
       "deadline": "2026-07-11",
-      "days": 5,
+      "days": 4,
       "title": "FPV Drones 3.5\" & 10\"",
       "identifier": "W56LPK0012425850",
       "category": "procurement",
@@ -7011,7 +7026,7 @@
     },
     {
       "deadline": "2026-07-13",
-      "days": 7,
+      "days": 6,
       "title": "Drones (JROTC edition) - Classroom",
       "identifier": "W911S226U3572",
       "category": "procurement",
@@ -7020,7 +7035,7 @@
     },
     {
       "deadline": "2026-07-13",
-      "days": 7,
+      "days": 6,
       "title": "Skydio X10D Drones",
       "identifier": "FA466126Q0057",
       "category": "procurement",
@@ -7029,7 +7044,7 @@
     },
     {
       "deadline": "2026-07-15",
-      "days": 9,
+      "days": 8,
       "title": "ISR Drone Tethering Systems",
       "identifier": "W911S226U3581",
       "category": "procurement",
@@ -7038,7 +7053,7 @@
     },
     {
       "deadline": "2026-07-16",
-      "days": 10,
+      "days": 9,
       "title": "Skydio X10 Drone Starter Kit, NightSense Infrared Attachment for X10 under Foreign Military Sales Case:  TU-B-UDO TUNISIA",
       "identifier": "W91CRB-26-R-DRNE",
       "category": "procurement",
@@ -7047,7 +7062,7 @@
     },
     {
       "deadline": "2026-07-17",
-      "days": 11,
+      "days": 10,
       "title": "5th SFS Dronebuster",
       "identifier": "FA452826QML03",
       "category": "procurement",
@@ -7056,7 +7071,7 @@
     },
     {
       "deadline": "2026-07-20",
-      "days": 14,
+      "days": 13,
       "title": "Tactical sUAS Package",
       "identifier": "W50S7X26Q0004",
       "category": "procurement",
@@ -7065,7 +7080,7 @@
     },
     {
       "deadline": "2026-07-23",
-      "days": 17,
+      "days": 16,
       "title": "Request for White Papers - Organic Counter Small Unmanned Aircraft System (O-CsUAS) Dismounted Sensors",
       "identifier": "M67854-26-R-0131",
       "category": "procurement",
@@ -7074,7 +7089,7 @@
     },
     {
       "deadline": "2026-07-23",
-      "days": 17,
+      "days": 16,
       "title": "Request for White Papers - Organic Counter Small Unmanned Aircraft System Dismounted Effectors",
       "identifier": "M67854-26-R-0129",
       "category": "procurement",
@@ -7083,7 +7098,7 @@
     },
     {
       "deadline": "2026-07-24",
-      "days": 18,
+      "days": 17,
       "title": "Establishing the Digital Opportunity Data Collection; Modernizing the FCC Form 477 Data Program; Delete, Delete, Delete",
       "identifier": "WC Docket Nos. 19-195 and 11-10, GN Docket No. 25-133",
       "category": "regulatory",
@@ -7092,7 +7107,7 @@
     },
     {
       "deadline": "2026-07-27",
-      "days": 21,
+      "days": 20,
       "title": "USSOCOM Air Loitering Munition (ALM)",
       "identifier": "H9240826RFIALM",
       "category": "procurement",
@@ -7101,7 +7116,7 @@
     },
     {
       "deadline": "2026-07-31",
-      "days": 25,
+      "days": 24,
       "title": "Man-portable, Handheld, Counter-Unmanned System (MPHC)",
       "identifier": "FA852026MPHC",
       "category": "procurement",
@@ -7110,7 +7125,7 @@
     },
     {
       "deadline": "2026-08-05",
-      "days": 30,
+      "days": 29,
       "title": "Designation-Restrict the Operation of Unmanned Aircraft in Close Proximity to a Fixed Site Facility; Extension of Comment Period",
       "identifier": "Docket No. FAA-2026-4558",
       "category": "regulatory",
@@ -7119,7 +7134,7 @@
     },
     {
       "deadline": "2026-08-28",
-      "days": 53,
+      "days": 52,
       "title": "ET 26-22 / DA-26-592 (DJI Security Assessment — comment by Aug 28, 2026)",
       "identifier": "FCC",
       "category": "regulatory",
@@ -7128,7 +7143,7 @@
     },
     {
       "deadline": "2026-09-05",
-      "days": 61,
+      "days": 60,
       "title": "Counter-UAS Authority for State, Local, Tribal, and Territorial Law Enforcement and Correctional Agencies",
       "identifier": "FBI-2026-0001",
       "category": "regulatory",
@@ -7137,7 +7152,7 @@
     },
     {
       "deadline": "2031-05-28",
-      "days": 1787,
+      "days": 1786,
       "title": "INVITATION TO PARTICIPATE IN THE DEPARTMENT OF WAR DRONE OTA CONSORTIUM",
       "identifier": "W58RGZ-26-2-SN01",
       "category": "procurement",
