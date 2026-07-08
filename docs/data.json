@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-08T09:16:24.170434+00:00",
-  "generated_human": "2026-07-08 09:16 UTC",
+  "generated_at": "2026-07-08T17:13:11.146911+00:00",
+  "generated_human": "2026-07-08 17:13 UTC",
   "demo": false,
   "items": [
     {
@@ -46,17 +46,17 @@
       "is_new": false
     },
     {
-      "id": "Regulations.gov:FAA-2026-4558-0563",
+      "id": "Regulations.gov:FAA-2026-4558-0578",
       "source": "Regulations.gov",
       "category": "regulatory",
       "type": "Comment",
-      "title": "Comment on Designation – Restrict the Operation of Unmanned Aircraft in Close Proximity  to a Fixed Site Facility: Comment from Anonymous",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-0563",
+      "title": "Comment on Designation – Restrict the Operation of Unmanned Aircraft in Close Proximity  to a Fixed Site Facility: Comment from Nicholas Robinson",
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-0578",
       "agency": "FAA",
       "identifier": "FAA-2026-4558",
-      "date": "2026-07-07",
+      "date": "2026-07-08",
       "deadline": null,
-      "summary": "Comment from Anonymous",
+      "summary": "Comment from Nicholas Robinson",
       "score": 80,
       "domains": [
         "air"
@@ -70,10 +70,10 @@
         "label": "Section 2209 (Critical Infrastructure UAS Restrictions)"
       },
       "extra": {
-        "docket_total_comments": 560
+        "docket_total_comments": 561
       },
-      "first_seen": "2026-07-07T19:18:20.451500+00:00",
-      "is_new": false
+      "first_seen": "2026-07-08T17:13:11.146911+00:00",
+      "is_new": true
     },
     {
       "id": "FCC ECFS:26109985883",
@@ -262,6 +262,35 @@
       "is_new": false
     },
     {
+      "id": "FCC ECFS:10702055201256",
+      "source": "FCC ECFS",
+      "category": "regulatory",
+      "type": "ORDER",
+      "title": "Office of Engineering & Technology: ORDER (FCC 26-74)",
+      "url": "https://docs.fcc.gov/public/attachments/DA-26-657A1.pdf",
+      "agency": "FCC",
+      "identifier": "FCC 26-74",
+      "date": "2026-07-02",
+      "deadline": null,
+      "summary": "",
+      "score": 80,
+      "domains": [
+        "air",
+        "spectrum",
+        "supply-chain"
+      ],
+      "matched_terms": [],
+      "watchlist": {
+        "key": "gn-26-74",
+        "label": "GN 26-74 (Unleashing American Drone Dominance)"
+      },
+      "extra": {
+        "proceeding": "26-74"
+      },
+      "first_seen": "2026-07-02T18:19:03.065344+00:00",
+      "is_new": false
+    },
+    {
       "id": "FCC ECFS:107022321324871",
       "source": "FCC ECFS",
       "category": "regulatory",
@@ -297,35 +326,6 @@
       "type": "ORDER",
       "title": "Wireless Telecommunications Bureau: ORDER (FCC 26-74)",
       "url": "https://docs.fcc.gov/public/attachments/DA-26-656A1.pdf",
-      "agency": "FCC",
-      "identifier": "FCC 26-74",
-      "date": "2026-07-02",
-      "deadline": null,
-      "summary": "",
-      "score": 80,
-      "domains": [
-        "air",
-        "spectrum",
-        "supply-chain"
-      ],
-      "matched_terms": [],
-      "watchlist": {
-        "key": "gn-26-74",
-        "label": "GN 26-74 (Unleashing American Drone Dominance)"
-      },
-      "extra": {
-        "proceeding": "26-74"
-      },
-      "first_seen": "2026-07-02T18:19:03.065344+00:00",
-      "is_new": false
-    },
-    {
-      "id": "FCC ECFS:10702055201256",
-      "source": "FCC ECFS",
-      "category": "regulatory",
-      "type": "ORDER",
-      "title": "Office of Engineering & Technology: ORDER (FCC 26-74)",
-      "url": "https://docs.fcc.gov/public/attachments/DA-26-657A1.pdf",
       "agency": "FCC",
       "identifier": "FCC 26-74",
       "date": "2026-07-02",
@@ -1122,12 +1122,12 @@
       "is_new": false
     },
     {
-      "id": "FCC ECFS:10531075320678",
+      "id": "FCC ECFS:10530375403656",
       "source": "FCC ECFS",
       "category": "regulatory",
       "type": "Comment",
-      "title": "Toby Dziubala: COMMENT (FCC 26-22)",
-      "url": "https://www.fcc.gov/ecfs/document/10531075320678/1",
+      "title": "Jeremy Monroe: COMMENT (FCC 26-22)",
+      "url": "https://www.fcc.gov/ecfs/document/10530375403656/1",
       "agency": "FCC",
       "identifier": "FCC 26-22",
       "date": "2026-06-01",
@@ -1150,12 +1150,12 @@
       "is_new": false
     },
     {
-      "id": "FCC ECFS:10530375403656",
+      "id": "FCC ECFS:10531075320678",
       "source": "FCC ECFS",
       "category": "regulatory",
       "type": "Comment",
-      "title": "Jeremy Monroe: COMMENT (FCC 26-22)",
-      "url": "https://www.fcc.gov/ecfs/document/10530375403656/1",
+      "title": "Toby Dziubala: COMMENT (FCC 26-22)",
+      "url": "https://www.fcc.gov/ecfs/document/10531075320678/1",
       "agency": "FCC",
       "identifier": "FCC 26-22",
       "date": "2026-06-01",
@@ -4107,6 +4107,29 @@
       "is_new": false
     },
     {
+      "id": "SAM.gov:a24e2118d79441b48fc904a01add0b98",
+      "source": "SAM.gov",
+      "category": "procurement",
+      "type": "Combined Synopsis",
+      "title": "Skydio X10D Drones",
+      "url": "https://sam.gov/workspace/contract/opp/a24e2118d79441b48fc904a01add0b98/view",
+      "agency": "DEPT OF DEFENSE",
+      "identifier": "FA466126Q0057",
+      "date": "2026-07-08",
+      "deadline": "2026-07-13",
+      "summary": "Skydio X10D Drones",
+      "score": 35,
+      "domains": [],
+      "matched_terms": [],
+      "watchlist": null,
+      "extra": {
+        "naics": "336411",
+        "setaside": "SBA"
+      },
+      "first_seen": "2026-07-08T17:13:11.146911+00:00",
+      "is_new": true
+    },
+    {
       "id": "SAM.gov:dce6ac8d4cd0437c9889256b3039ca43",
       "source": "SAM.gov",
       "category": "procurement",
@@ -4131,7 +4154,7 @@
         "setaside": "SBA"
       },
       "first_seen": "2026-07-08T09:16:24.170434+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "SAM.gov:a9d6421298eb443497ffe8e2573977e7",
@@ -4158,7 +4181,7 @@
         "setaside": "SBA"
       },
       "first_seen": "2026-07-08T09:16:24.170434+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "SAM.gov:89571fe157704a8d8aa246245a743828",
@@ -4304,29 +4327,6 @@
         "setaside": "NONE"
       },
       "first_seen": "2026-07-02T10:20:49.858459+00:00",
-      "is_new": false
-    },
-    {
-      "id": "SAM.gov:a7a4307002eb4c6787088026faf485eb",
-      "source": "SAM.gov",
-      "category": "procurement",
-      "type": "Combined Synopsis",
-      "title": "Skydio X10D Drones",
-      "url": "https://sam.gov/workspace/contract/opp/a7a4307002eb4c6787088026faf485eb/view",
-      "agency": "DEPT OF DEFENSE",
-      "identifier": "FA466126Q0057",
-      "date": "2026-06-29",
-      "deadline": "2026-07-13",
-      "summary": "Skydio X10D Drones",
-      "score": 35,
-      "domains": [],
-      "matched_terms": [],
-      "watchlist": null,
-      "extra": {
-        "naics": "336411",
-        "setaside": "SBA"
-      },
-      "first_seen": "2026-07-01T18:33:40.471932+00:00",
       "is_new": false
     },
     {
@@ -4869,7 +4869,7 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-07-08T09:16:24.170434+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:80NM0026F7025",
@@ -4915,7 +4915,7 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-07-08T09:16:24.170434+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:FA862926PB002",
@@ -4938,7 +4938,7 @@
         "award_type": "PURCHASE ORDER"
       },
       "first_seen": "2026-07-08T09:16:24.170434+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:W15P7T26F0084",
@@ -5644,7 +5644,7 @@
         "award_type": "DEFINITIVE CONTRACT"
       },
       "first_seen": "2026-07-08T09:16:24.170434+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:W9127822C0004",
@@ -6126,6 +6126,78 @@
       "is_new": false
     },
     {
+      "id": "Regulations.gov:FAA-2026-7894-0001",
+      "source": "Regulations.gov",
+      "category": "regulatory",
+      "type": "Document",
+      "title": "SINOR DRONE APPLICATIONS LLC - Exemption/Rulemaking",
+      "url": "https://www.regulations.gov/document/FAA-2026-7894-0001",
+      "agency": "FAA",
+      "identifier": "FAA-2026-7894",
+      "date": "2026-07-08",
+      "deadline": null,
+      "summary": "SINOR DRONE APPLICATIONS LLC - Exemption/Rulemaking",
+      "score": 20,
+      "domains": [
+        "air"
+      ],
+      "matched_terms": [
+        "drone"
+      ],
+      "watchlist": null,
+      "extra": {},
+      "first_seen": "2026-07-08T17:13:11.146911+00:00",
+      "is_new": true
+    },
+    {
+      "id": "Regulations.gov:FAA-2025-1065-0005",
+      "source": "Regulations.gov",
+      "category": "regulatory",
+      "type": "Document",
+      "title": "Nimbus Ag Drone, L.L.C. - Exemption/Rulemaking",
+      "url": "https://www.regulations.gov/document/FAA-2025-1065-0005",
+      "agency": "FAA",
+      "identifier": "FAA-2025-1065",
+      "date": "2026-07-08",
+      "deadline": null,
+      "summary": "Nimbus Ag Drone, L.L.C. - Exemption/Rulemaking",
+      "score": 20,
+      "domains": [
+        "air"
+      ],
+      "matched_terms": [
+        "drone"
+      ],
+      "watchlist": null,
+      "extra": {},
+      "first_seen": "2026-07-08T17:13:11.146911+00:00",
+      "is_new": true
+    },
+    {
+      "id": "Regulations.gov:FAA-2024-2355-0007",
+      "source": "Regulations.gov",
+      "category": "regulatory",
+      "type": "Document",
+      "title": "Aero Drone Services, L.L.C. - Exemption/Rulemaking (Request for Extension)",
+      "url": "https://www.regulations.gov/document/FAA-2024-2355-0007",
+      "agency": "FAA",
+      "identifier": "FAA-2024-2355",
+      "date": "2026-07-08",
+      "deadline": null,
+      "summary": "Aero Drone Services, L.L.C. - Exemption/Rulemaking (Request for Extension)",
+      "score": 20,
+      "domains": [
+        "air"
+      ],
+      "matched_terms": [
+        "drone"
+      ],
+      "watchlist": null,
+      "extra": {},
+      "first_seen": "2026-07-08T17:13:11.146911+00:00",
+      "is_new": true
+    },
+    {
       "id": "Regulations.gov:FAA-2026-7791-0001",
       "source": "Regulations.gov",
       "category": "regulatory",
@@ -6411,30 +6483,6 @@
       "date": "2026-06-29",
       "deadline": null,
       "summary": "Agri Drone Sprayers - Exemption/Rulemaking",
-      "score": 20,
-      "domains": [
-        "air"
-      ],
-      "matched_terms": [
-        "drone"
-      ],
-      "watchlist": null,
-      "extra": {},
-      "first_seen": "2026-06-29T14:51:46.896184+00:00",
-      "is_new": false
-    },
-    {
-      "id": "Regulations.gov:FAA-2025-2628-0004",
-      "source": "Regulations.gov",
-      "category": "regulatory",
-      "type": "Document",
-      "title": "Illinois Drone Solutions LLC - Exemption/Rulemaking (Amendment)",
-      "url": "https://www.regulations.gov/document/FAA-2025-2628-0004",
-      "agency": "FAA",
-      "identifier": "FAA-2025-2628",
-      "date": "2026-06-29",
-      "deadline": null,
-      "summary": "Illinois Drone Solutions LLC - Exemption/Rulemaking (Amendment)",
       "score": 20,
       "domains": [
         "air"
@@ -6809,8 +6857,8 @@
     {
       "name": "Regulations.gov",
       "status": "ok",
-      "detail": "37 kept",
-      "count": 37
+      "detail": "39 kept",
+      "count": 39
     },
     {
       "name": "FCC ECFS",
@@ -6844,16 +6892,16 @@
     }
   ],
   "stats": {
-    "total": 244,
-    "new": 6,
+    "total": 246,
+    "new": 5,
     "by_category": {
-      "regulatory": 141,
+      "regulatory": 143,
       "procurement": 90,
       "litigation": 9,
       "legislative": 4
     },
     "by_domain": {
-      "air": 183,
+      "air": 185,
       "supply-chain": 118,
       "spectrum": 56,
       "defense": 9,
@@ -6864,7 +6912,7 @@
       "FCC ECFS": 99,
       "USAspending": 60,
       "SAM.gov": 30,
-      "Regulations.gov": 24,
+      "Regulations.gov": 26,
       "Federal Register": 18,
       "CourtListener": 9,
       "Congress.gov": 4
@@ -6881,7 +6929,7 @@
       ],
       "deadline": "2026-07-06",
       "count": 4,
-      "latest": "2026-07-07"
+      "latest": "2026-07-08"
     },
     {
       "key": "et-26-22",
@@ -7082,20 +7130,20 @@
     {
       "deadline": "2026-07-13",
       "days": 5,
+      "title": "Skydio X10D Drones",
+      "identifier": "FA466126Q0057",
+      "category": "procurement",
+      "source": "SAM.gov",
+      "url": "https://sam.gov/workspace/contract/opp/a24e2118d79441b48fc904a01add0b98/view"
+    },
+    {
+      "deadline": "2026-07-13",
+      "days": 5,
       "title": "Drones (JROTC edition) - Classroom",
       "identifier": "W911S226U3572",
       "category": "procurement",
       "source": "SAM.gov",
       "url": "https://sam.gov/workspace/contract/opp/07a6292f97f540eab6359092fd3519cf/view"
-    },
-    {
-      "deadline": "2026-07-13",
-      "days": 5,
-      "title": "Skydio X10D Drones",
-      "identifier": "FA466126Q0057",
-      "category": "procurement",
-      "source": "SAM.gov",
-      "url": "https://sam.gov/workspace/contract/opp/a7a4307002eb4c6787088026faf485eb/view"
     },
     {
       "deadline": "2026-07-15",
