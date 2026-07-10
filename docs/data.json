@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-10T11:23:52.007909+00:00",
-  "generated_human": "2026-07-10 11:23 UTC",
+  "generated_at": "2026-07-10T18:09:10.408312+00:00",
+  "generated_human": "2026-07-10 18:09 UTC",
   "demo": false,
   "items": [
     {
@@ -46,17 +46,17 @@
       "is_new": false
     },
     {
-      "id": "Regulations.gov:FAA-2026-4558-0582",
+      "id": "Regulations.gov:FAA-2026-4558-0588",
       "source": "Regulations.gov",
       "category": "regulatory",
       "type": "Comment",
-      "title": "Comment on Designation – Restrict the Operation of Unmanned Aircraft in Close Proximity  to a Fixed Site Facility: Comment from GSK",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-0582",
+      "title": "Comment on Designation – Restrict the Operation of Unmanned Aircraft in Close Proximity  to a Fixed Site Facility: Comment from City of Maricopa, Arizona",
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-0588",
       "agency": "FAA",
       "identifier": "FAA-2026-4558",
-      "date": "2026-07-09",
+      "date": "2026-07-10",
       "deadline": null,
-      "summary": "Comment from GSK",
+      "summary": "Comment from City of Maricopa, Arizona",
       "score": 80,
       "domains": [
         "air"
@@ -70,10 +70,41 @@
         "label": "Section 2209 (Critical Infrastructure UAS Restrictions)"
       },
       "extra": {
-        "docket_total_comments": 570
+        "docket_total_comments": 571
       },
-      "first_seen": "2026-07-09T18:28:14.838886+00:00",
-      "is_new": false
+      "first_seen": "2026-07-10T18:09:10.408312+00:00",
+      "is_new": true
+    },
+    {
+      "id": "Regulations.gov:FAA-2025-1908-3964",
+      "source": "Regulations.gov",
+      "category": "regulatory",
+      "type": "Comment",
+      "title": "Comment on Normalizing Unmanned Aircraft Systems Beyond Visual Line of Sight Operations: Comment from Vertical Aviation International (VAI)",
+      "url": "https://www.regulations.gov/comment/FAA-2025-1908-3964",
+      "agency": "FAA",
+      "identifier": "FAA-2025-1908",
+      "date": "2026-07-10",
+      "deadline": null,
+      "summary": "Comment from Vertical Aviation International (VAI)",
+      "score": 80,
+      "domains": [
+        "air"
+      ],
+      "matched_terms": [
+        "unmanned aircraft",
+        "beyond visual line of sight",
+        "faa-2025-1908"
+      ],
+      "watchlist": {
+        "key": "bvlos-part-108",
+        "label": "BVLOS / Part 108 NPRM"
+      },
+      "extra": {
+        "docket_total_comments": 3929
+      },
+      "first_seen": "2026-07-10T18:09:10.408312+00:00",
+      "is_new": true
     },
     {
       "id": "FCC ECFS:26109985883",
@@ -262,35 +293,6 @@
       "is_new": false
     },
     {
-      "id": "FCC ECFS:10702055201256",
-      "source": "FCC ECFS",
-      "category": "regulatory",
-      "type": "ORDER",
-      "title": "Office of Engineering & Technology: ORDER (FCC 26-74)",
-      "url": "https://docs.fcc.gov/public/attachments/DA-26-657A1.pdf",
-      "agency": "FCC",
-      "identifier": "FCC 26-74",
-      "date": "2026-07-02",
-      "deadline": null,
-      "summary": "",
-      "score": 80,
-      "domains": [
-        "air",
-        "spectrum",
-        "supply-chain"
-      ],
-      "matched_terms": [],
-      "watchlist": {
-        "key": "gn-26-74",
-        "label": "GN 26-74 (Unleashing American Drone Dominance)"
-      },
-      "extra": {
-        "proceeding": "26-74"
-      },
-      "first_seen": "2026-07-02T18:19:03.065344+00:00",
-      "is_new": false
-    },
-    {
       "id": "FCC ECFS:107022321324871",
       "source": "FCC ECFS",
       "category": "regulatory",
@@ -349,6 +351,35 @@
       "is_new": false
     },
     {
+      "id": "FCC ECFS:10702055201256",
+      "source": "FCC ECFS",
+      "category": "regulatory",
+      "type": "ORDER",
+      "title": "Office of Engineering & Technology: ORDER (FCC 26-74)",
+      "url": "https://docs.fcc.gov/public/attachments/DA-26-657A1.pdf",
+      "agency": "FCC",
+      "identifier": "FCC 26-74",
+      "date": "2026-07-02",
+      "deadline": null,
+      "summary": "",
+      "score": 80,
+      "domains": [
+        "air",
+        "spectrum",
+        "supply-chain"
+      ],
+      "matched_terms": [],
+      "watchlist": {
+        "key": "gn-26-74",
+        "label": "GN 26-74 (Unleashing American Drone Dominance)"
+      },
+      "extra": {
+        "proceeding": "26-74"
+      },
+      "first_seen": "2026-07-02T18:19:03.065344+00:00",
+      "is_new": false
+    },
+    {
       "id": "Federal Register:2026-13126",
       "source": "Federal Register",
       "category": "regulatory",
@@ -380,34 +411,6 @@
         ]
       },
       "first_seen": "2026-06-30T11:30:42.242282+00:00",
-      "is_new": false
-    },
-    {
-      "id": "Regulations.gov:FAA-2026-4558-0449",
-      "source": "Regulations.gov",
-      "category": "regulatory",
-      "type": "NPRM",
-      "title": "Designation: Restrict the Operation of Unmanned Aircraft in Close Proximity to a Fixed Site Facility",
-      "url": "https://www.regulations.gov/document/FAA-2026-4558-0449",
-      "agency": "FAA",
-      "identifier": "FAA-2026-4558",
-      "date": "2026-06-30",
-      "deadline": "2026-07-01",
-      "summary": "Designation: Restrict the Operation of Unmanned Aircraft in Close Proximity to a Fixed Site Facility",
-      "score": 80,
-      "domains": [
-        "air"
-      ],
-      "matched_terms": [
-        "unmanned aircraft",
-        "faa-2026-4558"
-      ],
-      "watchlist": {
-        "key": "section-2209",
-        "label": "Section 2209 (Critical Infrastructure UAS Restrictions)"
-      },
-      "extra": {},
-      "first_seen": "2026-06-30T18:24:50.711632+00:00",
       "is_new": false
     },
     {
@@ -1094,12 +1097,12 @@
       "is_new": false
     },
     {
-      "id": "FCC ECFS:10531075320678",
+      "id": "FCC ECFS:10530375403656",
       "source": "FCC ECFS",
       "category": "regulatory",
       "type": "Comment",
-      "title": "Toby Dziubala: COMMENT (FCC 26-22)",
-      "url": "https://www.fcc.gov/ecfs/document/10531075320678/1",
+      "title": "Jeremy Monroe: COMMENT (FCC 26-22)",
+      "url": "https://www.fcc.gov/ecfs/document/10530375403656/1",
       "agency": "FCC",
       "identifier": "FCC 26-22",
       "date": "2026-06-01",
@@ -1122,12 +1125,12 @@
       "is_new": false
     },
     {
-      "id": "FCC ECFS:10530375403656",
+      "id": "FCC ECFS:10531075320678",
       "source": "FCC ECFS",
       "category": "regulatory",
       "type": "Comment",
-      "title": "Jeremy Monroe: COMMENT (FCC 26-22)",
-      "url": "https://www.fcc.gov/ecfs/document/10530375403656/1",
+      "title": "Toby Dziubala: COMMENT (FCC 26-22)",
+      "url": "https://www.fcc.gov/ecfs/document/10531075320678/1",
       "agency": "FCC",
       "identifier": "FCC 26-22",
       "date": "2026-06-01",
@@ -3390,37 +3393,6 @@
       "is_new": false
     },
     {
-      "id": "Regulations.gov:FAA-2025-1908-3963",
-      "source": "Regulations.gov",
-      "category": "regulatory",
-      "type": "Comment",
-      "title": "Comment on Normalizing Unmanned Aircraft Systems Beyond Visual Line of Sight Operations: Comment from James Timm",
-      "url": "https://www.regulations.gov/comment/FAA-2025-1908-3963",
-      "agency": "FAA",
-      "identifier": "FAA-2025-1908",
-      "date": "2026-02-26",
-      "deadline": null,
-      "summary": "Comment from James Timm",
-      "score": 80,
-      "domains": [
-        "air"
-      ],
-      "matched_terms": [
-        "unmanned aircraft",
-        "beyond visual line of sight",
-        "faa-2025-1908"
-      ],
-      "watchlist": {
-        "key": "bvlos-part-108",
-        "label": "BVLOS / Part 108 NPRM"
-      },
-      "extra": {
-        "docket_total_comments": 3928
-      },
-      "first_seen": "2026-06-23T11:44:45.742953+00:00",
-      "is_new": false
-    },
-    {
       "id": "CourtListener:72313063",
       "source": "CourtListener",
       "category": "litigation",
@@ -3876,7 +3848,7 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-07-10T11:23:52.007909+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "SAM.gov:ce4541af000a4466aa62a08b2cd1f2a3",
@@ -3905,7 +3877,7 @@
         "setaside": null
       },
       "first_seen": "2026-07-10T11:23:52.007909+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "SAM.gov:72ca53ca70214f139a9c8fecb0c1d75b",
@@ -4080,7 +4052,7 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-07-10T11:23:52.007909+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:692M1523F00178",
@@ -4191,7 +4163,7 @@
         "setaside": "SBA"
       },
       "first_seen": "2026-07-10T11:23:52.007909+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "SAM.gov:206c36c3076f4dde954cc9c234cc19a5",
@@ -4218,7 +4190,7 @@
         "setaside": ""
       },
       "first_seen": "2026-07-10T11:23:52.007909+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "SAM.gov:a24e2118d79441b48fc904a01add0b98",
@@ -6188,6 +6160,30 @@
         ]
       },
       "first_seen": "2026-07-10T11:23:52.007909+00:00",
+      "is_new": false
+    },
+    {
+      "id": "Regulations.gov:FAA-2026-7954-0001",
+      "source": "Regulations.gov",
+      "category": "regulatory",
+      "type": "Document",
+      "title": "Guardian Drone Company - Exemption/Rulemaking",
+      "url": "https://www.regulations.gov/document/FAA-2026-7954-0001",
+      "agency": "FAA",
+      "identifier": "FAA-2026-7954",
+      "date": "2026-07-10",
+      "deadline": null,
+      "summary": "Guardian Drone Company - Exemption/Rulemaking",
+      "score": 20,
+      "domains": [
+        "air"
+      ],
+      "matched_terms": [
+        "drone"
+      ],
+      "watchlist": null,
+      "extra": {},
+      "first_seen": "2026-07-10T18:09:10.408312+00:00",
       "is_new": true
     },
     {
@@ -6236,7 +6232,7 @@
       "watchlist": null,
       "extra": {},
       "first_seen": "2026-07-10T11:23:52.007909+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "Regulations.gov:FAA-2026-7921-0001",
@@ -6583,30 +6579,6 @@
       "is_new": false
     },
     {
-      "id": "Regulations.gov:FAA-2024-0090-0007",
-      "source": "Regulations.gov",
-      "category": "regulatory",
-      "type": "Document",
-      "title": "Drone America Incorporated - Exemption/Rulemaking (Request for Extension)",
-      "url": "https://www.regulations.gov/document/FAA-2024-0090-0007",
-      "agency": "FAA",
-      "identifier": "FAA-2024-0090",
-      "date": "2026-07-01",
-      "deadline": null,
-      "summary": "Drone America Incorporated - Exemption/Rulemaking (Request for Extension)",
-      "score": 20,
-      "domains": [
-        "air"
-      ],
-      "matched_terms": [
-        "drone"
-      ],
-      "watchlist": null,
-      "extra": {},
-      "first_seen": "2026-07-01T18:33:40.471932+00:00",
-      "is_new": false
-    },
-    {
       "id": "Federal Register:2026-13136",
       "source": "Federal Register",
       "category": "regulatory",
@@ -6633,30 +6605,6 @@
         ]
       },
       "first_seen": "2026-06-30T11:30:42.242282+00:00",
-      "is_new": false
-    },
-    {
-      "id": "Regulations.gov:FAA-2026-7493-0001",
-      "source": "Regulations.gov",
-      "category": "regulatory",
-      "type": "Document",
-      "title": "3-Bar Drone Service, LLC - Exemption/Rulemaking",
-      "url": "https://www.regulations.gov/document/FAA-2026-7493-0001",
-      "agency": "FAA",
-      "identifier": "FAA-2026-7493",
-      "date": "2026-06-29",
-      "deadline": null,
-      "summary": "3-Bar Drone Service, LLC - Exemption/Rulemaking",
-      "score": 20,
-      "domains": [
-        "air"
-      ],
-      "matched_terms": [
-        "drone"
-      ],
-      "watchlist": null,
-      "extra": {},
-      "first_seen": "2026-06-29T14:51:46.896184+00:00",
       "is_new": false
     },
     {
@@ -6961,30 +6909,6 @@
       "extra": {},
       "first_seen": "2026-06-30T18:24:50.711632+00:00",
       "is_new": false
-    },
-    {
-      "id": "Regulations.gov:FAA-2026-7664-0001",
-      "source": "Regulations.gov",
-      "category": "regulatory",
-      "type": "Document",
-      "title": "RFH UAV HOLDINGS, LLC - Exemption/Rulemaking",
-      "url": "https://www.regulations.gov/document/FAA-2026-7664-0001",
-      "agency": "FAA",
-      "identifier": "FAA-2026-7664",
-      "date": "2026-06-30",
-      "deadline": null,
-      "summary": "RFH UAV HOLDINGS, LLC - Exemption/Rulemaking",
-      "score": 18,
-      "domains": [
-        "air"
-      ],
-      "matched_terms": [
-        "uav"
-      ],
-      "watchlist": null,
-      "extra": {},
-      "first_seen": "2026-07-01T11:42:11.488920+00:00",
-      "is_new": false
     }
   ],
   "sources": [
@@ -6997,8 +6921,8 @@
     {
       "name": "Regulations.gov",
       "status": "ok",
-      "detail": "41 kept",
-      "count": 41
+      "detail": "38 kept",
+      "count": 38
     },
     {
       "name": "FCC ECFS",
@@ -7032,16 +6956,16 @@
     }
   ],
   "stats": {
-    "total": 251,
-    "new": 7,
+    "total": 248,
+    "new": 3,
     "by_category": {
-      "regulatory": 145,
+      "regulatory": 142,
       "procurement": 93,
       "litigation": 9,
       "legislative": 4
     },
     "by_domain": {
-      "air": 193,
+      "air": 190,
       "supply-chain": 118,
       "spectrum": 56,
       "defense": 11,
@@ -7052,7 +6976,7 @@
       "FCC ECFS": 99,
       "USAspending": 60,
       "SAM.gov": 33,
-      "Regulations.gov": 28,
+      "Regulations.gov": 25,
       "Federal Register": 18,
       "CourtListener": 9,
       "Congress.gov": 4
@@ -7068,8 +6992,8 @@
         "air"
       ],
       "deadline": "2026-07-06",
-      "count": 3,
-      "latest": "2026-07-09"
+      "count": 2,
+      "latest": "2026-07-10"
     },
     {
       "key": "et-26-22",
@@ -7147,7 +7071,7 @@
       ],
       "deadline": null,
       "count": 1,
-      "latest": "2026-02-26"
+      "latest": "2026-07-10"
     },
     {
       "key": "commerce-icts-232",
