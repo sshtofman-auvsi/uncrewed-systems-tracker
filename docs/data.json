@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-09T18:28:14.838886+00:00",
-  "generated_human": "2026-07-09 18:28 UTC",
+  "generated_at": "2026-07-10T11:23:52.007909+00:00",
+  "generated_human": "2026-07-10 11:23 UTC",
   "demo": false,
   "items": [
     {
@@ -73,7 +73,7 @@
         "docket_total_comments": 570
       },
       "first_seen": "2026-07-09T18:28:14.838886+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:26109985883",
@@ -3849,6 +3849,65 @@
       "is_new": false
     },
     {
+      "id": "USAspending:HQ072726FE050",
+      "source": "USAspending",
+      "category": "procurement",
+      "type": "Award",
+      "title": "NORTHROP GRUMMAN SYSTEMS CORPORATION: THE ADVANCED TECHNOLOGY SUPPORT PROGRAM (ATSP) CONTRACT ACQUIRED PROGRESSIVE MICROELECTRONIC CAPABILITY SOLUTIONS TO RES",
+      "url": "https://www.usaspending.gov/award/CONT_AWD_HQ072726FE050_9700_HQ072726DE004_9700",
+      "agency": "Department of Defense",
+      "identifier": "HQ072726FE050",
+      "date": "2026-04-09",
+      "deadline": null,
+      "summary": "THE ADVANCED TECHNOLOGY SUPPORT PROGRAM (ATSP) CONTRACT ACQUIRED PROGRESSIVE MICROELECTRONIC CAPABILITY SOLUTIONS TO RESOLVE OBSOLESCENCE ISSUES AND ADD CAPABILITY TO MICROELECTRONICS-BASED COUNTER-UNMANNED AIRCRAFT SYSTEM AND SENSE AND WARN SYSTEM.",
+      "score": 54,
+      "domains": [
+        "air",
+        "defense"
+      ],
+      "matched_terms": [
+        "unmanned aircraft",
+        "unmanned aircraft system",
+        "counter-unmanned"
+      ],
+      "watchlist": null,
+      "extra": {
+        "amount": 45575865.0,
+        "award_type": "DELIVERY ORDER"
+      },
+      "first_seen": "2026-07-10T11:23:52.007909+00:00",
+      "is_new": true
+    },
+    {
+      "id": "SAM.gov:ce4541af000a4466aa62a08b2cd1f2a3",
+      "source": "SAM.gov",
+      "category": "procurement",
+      "type": "RFI",
+      "title": "RFI Unmanned Aircraft System (sUAS) Vehicle Platform",
+      "url": "https://sam.gov/workspace/contract/opp/ce4541af000a4466aa62a08b2cd1f2a3/view",
+      "agency": "DEPT OF DEFENSE",
+      "identifier": "A065462",
+      "date": "2026-07-09",
+      "deadline": "2026-07-16",
+      "summary": "RFI Unmanned Aircraft System (sUAS) Vehicle Platform",
+      "score": 52,
+      "domains": [
+        "air"
+      ],
+      "matched_terms": [
+        "unmanned aircraft",
+        "unmanned aircraft system",
+        "suas"
+      ],
+      "watchlist": null,
+      "extra": {
+        "naics": "336411",
+        "setaside": null
+      },
+      "first_seen": "2026-07-10T11:23:52.007909+00:00",
+      "is_new": true
+    },
+    {
       "id": "SAM.gov:72ca53ca70214f139a9c8fecb0c1d75b",
       "source": "SAM.gov",
       "category": "procurement",
@@ -3995,6 +4054,35 @@
       "is_new": false
     },
     {
+      "id": "USAspending:FA807521F0077",
+      "source": "USAspending",
+      "category": "procurement",
+      "type": "Award",
+      "title": "CACI, INC. - FEDERAL: COUNTER UNMANNED AIRCRAFT SYSTEMS RESEARCH, DEVELOPMENT, AND SUSTAINMENT FOR THE DIGITAL INTEGRATION SUPPORT CELL AND NA",
+      "url": "https://www.usaspending.gov/award/CONT_AWD_FA807521F0077_9700_FA807518D0006_9700",
+      "agency": "Department of Defense",
+      "identifier": "FA807521F0077",
+      "date": "2021-09-27",
+      "deadline": null,
+      "summary": "COUNTER UNMANNED AIRCRAFT SYSTEMS RESEARCH, DEVELOPMENT, AND SUSTAINMENT FOR THE DIGITAL INTEGRATION SUPPORT CELL AND NAVAL SURFACE WARFARE CENTER, CRANE DIVISION",
+      "score": 38,
+      "domains": [
+        "air",
+        "defense"
+      ],
+      "matched_terms": [
+        "unmanned aircraft",
+        "counter unmanned"
+      ],
+      "watchlist": null,
+      "extra": {
+        "amount": 80543251.96,
+        "award_type": "DELIVERY ORDER"
+      },
+      "first_seen": "2026-07-10T11:23:52.007909+00:00",
+      "is_new": true
+    },
+    {
       "id": "USAspending:692M1523F00178",
       "source": "USAspending",
       "category": "procurement",
@@ -4079,6 +4167,60 @@
       "is_new": false
     },
     {
+      "id": "SAM.gov:84d9ee8ea6a34f9ab650ab5da4f2fba2",
+      "source": "SAM.gov",
+      "category": "procurement",
+      "type": "Solicitation (RFP)",
+      "title": "Dismounted Drone Detection",
+      "url": "https://sam.gov/workspace/contract/opp/84d9ee8ea6a34f9ab650ab5da4f2fba2/view",
+      "agency": "DEPT OF DEFENSE",
+      "identifier": "FA309926Q0015",
+      "date": "2026-07-09",
+      "deadline": "2026-07-16",
+      "summary": "Dismounted Drone Detection",
+      "score": 35,
+      "domains": [
+        "air"
+      ],
+      "matched_terms": [
+        "drone"
+      ],
+      "watchlist": null,
+      "extra": {
+        "naics": "334511",
+        "setaside": "SBA"
+      },
+      "first_seen": "2026-07-10T11:23:52.007909+00:00",
+      "is_new": true
+    },
+    {
+      "id": "SAM.gov:206c36c3076f4dde954cc9c234cc19a5",
+      "source": "SAM.gov",
+      "category": "procurement",
+      "type": "Combined Synopsis",
+      "title": "S201--BUILDING DRONE CLEANING  -36C262-26-AP-2261 | 605-26-1-6076-0011 | NEW REQUIRE | SBAR  Submitted |",
+      "url": "https://sam.gov/workspace/contract/opp/206c36c3076f4dde954cc9c234cc19a5/view",
+      "agency": "VETERANS AFFAIRS, DEPARTMENT OF",
+      "identifier": "36C26226Q1118",
+      "date": "2026-07-09",
+      "deadline": "2026-07-17",
+      "summary": "S201--BUILDING DRONE CLEANING  -36C262-26-AP-2261 | 605-26-1-6076-0011 | NEW REQUIRE | SBAR  Submitted |",
+      "score": 35,
+      "domains": [
+        "air"
+      ],
+      "matched_terms": [
+        "drone"
+      ],
+      "watchlist": null,
+      "extra": {
+        "naics": "561720",
+        "setaside": ""
+      },
+      "first_seen": "2026-07-10T11:23:52.007909+00:00",
+      "is_new": true
+    },
+    {
       "id": "SAM.gov:a24e2118d79441b48fc904a01add0b98",
       "source": "SAM.gov",
       "category": "procurement",
@@ -4099,33 +4241,6 @@
         "setaside": "SBA"
       },
       "first_seen": "2026-07-08T17:13:11.146911+00:00",
-      "is_new": false
-    },
-    {
-      "id": "SAM.gov:dce6ac8d4cd0437c9889256b3039ca43",
-      "source": "SAM.gov",
-      "category": "procurement",
-      "type": "Solicitation (RFP)",
-      "title": "Dismounted Drone Detection",
-      "url": "https://sam.gov/workspace/contract/opp/dce6ac8d4cd0437c9889256b3039ca43/view",
-      "agency": "DEPT OF DEFENSE",
-      "identifier": "FA309926Q0015",
-      "date": "2026-07-07",
-      "deadline": "2026-07-16",
-      "summary": "Dismounted Drone Detection",
-      "score": 35,
-      "domains": [
-        "air"
-      ],
-      "matched_terms": [
-        "drone"
-      ],
-      "watchlist": null,
-      "extra": {
-        "naics": "334511",
-        "setaside": "SBA"
-      },
-      "first_seen": "2026-07-08T09:16:24.170434+00:00",
       "is_new": false
     },
     {
@@ -4890,29 +5005,6 @@
       "is_new": false
     },
     {
-      "id": "USAspending:FA862926PB002",
-      "source": "USAspending",
-      "category": "procurement",
-      "type": "Award",
-      "title": "AEROVIRONMENT, INC: HURRICANE AND TRAINING ASSETS",
-      "url": "https://www.usaspending.gov/award/CONT_AWD_FA862926PB002_9700_-NONE-_-NONE-",
-      "agency": "Department of Defense",
-      "identifier": "FA862926PB002",
-      "date": "2026-03-30",
-      "deadline": null,
-      "summary": "HURRICANE AND TRAINING ASSETS",
-      "score": 30,
-      "domains": [],
-      "matched_terms": [],
-      "watchlist": null,
-      "extra": {
-        "amount": 4922723.0,
-        "award_type": "PURCHASE ORDER"
-      },
-      "first_seen": "2026-07-08T09:16:24.170434+00:00",
-      "is_new": false
-    },
-    {
       "id": "USAspending:W15P7T26F0084",
       "source": "USAspending",
       "category": "procurement",
@@ -5449,29 +5541,6 @@
       "extra": {
         "amount": 8849701.33,
         "award_type": "DELIVERY ORDER"
-      },
-      "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": false
-    },
-    {
-      "id": "USAspending:N0001923C0033",
-      "source": "USAspending",
-      "category": "procurement",
-      "type": "Award",
-      "title": "THE SURVICE ENGINEERING COMPANY LLC: TRUAS TRV-150C SYSTEMS & ASSOCIATED SYSTEMS ENGINEERING/PROGRAM MANAGEMENT, SPARES, REPAIR OF REPAIRABLES, ETC.  NOTE: S",
-      "url": "https://www.usaspending.gov/award/CONT_AWD_N0001923C0033_9700_-NONE-_-NONE-",
-      "agency": "Department of Defense",
-      "identifier": "N0001923C0033",
-      "date": "2023-04-11",
-      "deadline": null,
-      "summary": "TRUAS TRV-150C SYSTEMS & ASSOCIATED SYSTEMS ENGINEERING/PROGRAM MANAGEMENT, SPARES, REPAIR OF REPAIRABLES, ETC.  NOTE: SOLE SOURCE AWARD PURSUANT TO 10 USC 4022(F), BUT CAR CODING DOES NOT INCLUDE THIS AS AN OPTION, AND HENCE FAR 6.302-1 SELECTED.",
-      "score": 30,
-      "domains": [],
-      "matched_terms": [],
-      "watchlist": null,
-      "extra": {
-        "amount": 55287051.44,
-        "award_type": "DEFINITIVE CONTRACT"
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
       "is_new": false
@@ -6093,33 +6162,33 @@
       "is_new": false
     },
     {
-      "id": "Federal Register:2026-04730",
+      "id": "Federal Register:2026-13966",
       "source": "Federal Register",
       "category": "regulatory",
-      "type": "Notice",
-      "title": "Zoox-Receipt of Application for Temporary Exemption From Various Requirements of the Federal Motor Vehicle Safety Standards for an Automated Driving System-Equipped Vehicle; Request for Comment",
-      "url": "https://www.federalregister.gov/documents/2026/03/11/2026-04730/zoox-receipt-of-application-for-temporary-exemption-from-various-requirements-of-the-federal-motor",
-      "agency": "Transportation Department, National Highway Traffic Safety Administration",
-      "identifier": "Docket No. NHTSA-2025-0523",
-      "date": "2026-03-11",
-      "deadline": "2026-04-10",
-      "summary": "Zoox, Inc. (\"Zoox\") has petitioned NHTSA for a temporary exemption from certain requirements in eight Federal Motor Vehicle Safety Standards (FMVSS) applicable to its passenger car equipped with an automated driving system (ADS). Specifically, Zoox seeks exemption from portions of FMVSS No. 103, Windshield defrosting and defogging systems; FMVSS No. 104, Windshield wiping and washing systems; FMVSS No. 108, Lamps, reflective devices, and associated equipment; FMVSS No. 111, Rear visibility; FMVSS No. 135, Light vehicle brake systems; FMVSS No. 201, Occupant protection in interior impact; FMVSS",
-      "score": 21,
+      "type": "Final Rule",
+      "title": "Safety Zone; St. Clair River, Port Huron, MI",
+      "url": "https://www.federalregister.gov/documents/2026/07/10/2026-13966/safety-zone-st-clair-river-port-huron-mi",
+      "agency": "Homeland Security Department, Coast Guard",
+      "identifier": "Docket Number USCG-2026-0879",
+      "date": "2026-07-10",
+      "deadline": null,
+      "summary": "The Coast Guard is establishing a temporary safety zone for navigable waters of the St. Clair River within a 420-foot radius of Desmond Landing in the St. Clair River, Port Huron, MI. The safety zone is needed to protect personnel, vessels, and the marine environment from potential hazards during a drone show event. Entry of vessels or persons into this zone is prohibited unless specifically authorized by the Captain of the Port Detroit or their designated representative.",
+      "score": 20,
       "domains": [
-        "ground"
+        "air"
       ],
       "matched_terms": [
-        "automated driving system"
+        "drone"
       ],
       "watchlist": null,
       "extra": {
         "comment_url": null,
         "dockets": [
-          "Docket No. NHTSA-2025-0523"
+          "Docket Number USCG-2026-0879"
         ]
       },
-      "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": false
+      "first_seen": "2026-07-10T11:23:52.007909+00:00",
+      "is_new": true
     },
     {
       "id": "Regulations.gov:FAA-2026-7922-0001",
@@ -6143,6 +6212,30 @@
       "watchlist": null,
       "extra": {},
       "first_seen": "2026-07-09T18:28:14.838886+00:00",
+      "is_new": false
+    },
+    {
+      "id": "Regulations.gov:FAA-2026-5220-0003",
+      "source": "Regulations.gov",
+      "category": "regulatory",
+      "type": "Document",
+      "title": "SINOR DRONE APPLICATIONS LLC - Exemption/Rulemaking",
+      "url": "https://www.regulations.gov/document/FAA-2026-5220-0003",
+      "agency": "FAA",
+      "identifier": "FAA-2026-5220",
+      "date": "2026-07-09",
+      "deadline": null,
+      "summary": "SINOR DRONE APPLICATIONS LLC - Exemption/Rulemaking",
+      "score": 20,
+      "domains": [
+        "air"
+      ],
+      "matched_terms": [
+        "drone"
+      ],
+      "watchlist": null,
+      "extra": {},
+      "first_seen": "2026-07-10T11:23:52.007909+00:00",
       "is_new": true
     },
     {
@@ -6167,7 +6260,7 @@
       "watchlist": null,
       "extra": {},
       "first_seen": "2026-07-09T18:28:14.838886+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "Regulations.gov:FAA-2026-7925-0001",
@@ -6191,30 +6284,6 @@
       "watchlist": null,
       "extra": {},
       "first_seen": "2026-07-09T18:28:14.838886+00:00",
-      "is_new": true
-    },
-    {
-      "id": "Regulations.gov:FAA-2026-7894-0001",
-      "source": "Regulations.gov",
-      "category": "regulatory",
-      "type": "Document",
-      "title": "SINOR DRONE APPLICATIONS LLC - Exemption/Rulemaking",
-      "url": "https://www.regulations.gov/document/FAA-2026-7894-0001",
-      "agency": "FAA",
-      "identifier": "FAA-2026-7894",
-      "date": "2026-07-08",
-      "deadline": null,
-      "summary": "SINOR DRONE APPLICATIONS LLC - Exemption/Rulemaking",
-      "score": 20,
-      "domains": [
-        "air"
-      ],
-      "matched_terms": [
-        "drone"
-      ],
-      "watchlist": null,
-      "extra": {},
-      "first_seen": "2026-07-08T17:13:11.146911+00:00",
       "is_new": false
     },
     {
@@ -6277,6 +6346,30 @@
       "date": "2026-07-08",
       "deadline": null,
       "summary": "Aero Drone Services, L.L.C. - Exemption/Rulemaking (Request for Extension)",
+      "score": 20,
+      "domains": [
+        "air"
+      ],
+      "matched_terms": [
+        "drone"
+      ],
+      "watchlist": null,
+      "extra": {},
+      "first_seen": "2026-07-08T17:13:11.146911+00:00",
+      "is_new": false
+    },
+    {
+      "id": "Regulations.gov:FAA-2026-7894-0001",
+      "source": "Regulations.gov",
+      "category": "regulatory",
+      "type": "Document",
+      "title": "SINOR DRONE APPLICATIONS LLC - Exemption/Rulemaking",
+      "url": "https://www.regulations.gov/document/FAA-2026-7894-0001",
+      "agency": "FAA",
+      "identifier": "FAA-2026-7894",
+      "date": "2026-07-08",
+      "deadline": null,
+      "summary": "SINOR DRONE APPLICATIONS LLC - Exemption/Rulemaking",
       "score": 20,
       "domains": [
         "air"
@@ -6904,8 +6997,8 @@
     {
       "name": "Regulations.gov",
       "status": "ok",
-      "detail": "40 kept",
-      "count": 40
+      "detail": "41 kept",
+      "count": 41
     },
     {
       "name": "FCC ECFS",
@@ -6922,8 +7015,8 @@
     {
       "name": "SAM.gov",
       "status": "ok",
-      "detail": "31 kept",
-      "count": 31
+      "detail": "33 kept",
+      "count": 33
     },
     {
       "name": "CourtListener",
@@ -6939,27 +7032,27 @@
     }
   ],
   "stats": {
-    "total": 248,
-    "new": 4,
+    "total": 251,
+    "new": 7,
     "by_category": {
-      "regulatory": 144,
-      "procurement": 91,
+      "regulatory": 145,
+      "procurement": 93,
       "litigation": 9,
       "legislative": 4
     },
     "by_domain": {
-      "air": 187,
+      "air": 193,
       "supply-chain": 118,
       "spectrum": 56,
-      "defense": 9,
-      "ground": 7,
+      "defense": 11,
+      "ground": 6,
       "maritime": 1
     },
     "by_source": {
       "FCC ECFS": 99,
       "USAspending": 60,
-      "SAM.gov": 31,
-      "Regulations.gov": 27,
+      "SAM.gov": 33,
+      "Regulations.gov": 28,
       "Federal Register": 18,
       "CourtListener": 9,
       "Congress.gov": 4
@@ -7148,17 +7241,8 @@
   ],
   "deadlines": [
     {
-      "deadline": "2026-07-09",
-      "days": 0,
-      "title": "Unmanned Aerial Vehicle",
-      "identifier": "1232SA26Q0909",
-      "category": "procurement",
-      "source": "SAM.gov",
-      "url": "https://sam.gov/workspace/contract/opp/16bc0eee9dd846bd979f8deee33126f2/view"
-    },
-    {
       "deadline": "2026-07-10",
-      "days": 1,
+      "days": 0,
       "title": "Call for Solutions for Portable Electronic Conspicuity Devices",
       "identifier": "W58RGZ-26-S-C001-0004",
       "category": "procurement",
@@ -7167,7 +7251,7 @@
     },
     {
       "deadline": "2026-07-11",
-      "days": 2,
+      "days": 1,
       "title": "FPV Drones 3.5\" & 10\"",
       "identifier": "W56LPK0012425850",
       "category": "procurement",
@@ -7176,7 +7260,7 @@
     },
     {
       "deadline": "2026-07-13",
-      "days": 4,
+      "days": 3,
       "title": "Skydio X10D Drones",
       "identifier": "FA466126Q0057",
       "category": "procurement",
@@ -7185,7 +7269,7 @@
     },
     {
       "deadline": "2026-07-13",
-      "days": 4,
+      "days": 3,
       "title": "Drones (JROTC edition) - Classroom",
       "identifier": "W911S226U3572",
       "category": "procurement",
@@ -7194,7 +7278,7 @@
     },
     {
       "deadline": "2026-07-13",
-      "days": 4,
+      "days": 3,
       "title": "INTENT TO SOLE SOURCE- sUAS Detection, Identification, and Tracking Subscription Services",
       "identifier": "FY26SFSSUASSubscriptions",
       "category": "procurement",
@@ -7203,7 +7287,7 @@
     },
     {
       "deadline": "2026-07-15",
-      "days": 6,
+      "days": 5,
       "title": "Educational Drone",
       "identifier": "W911S226U3599",
       "category": "procurement",
@@ -7212,7 +7296,7 @@
     },
     {
       "deadline": "2026-07-15",
-      "days": 6,
+      "days": 5,
       "title": "ISR Drone Tethering Systems",
       "identifier": "W911S226U3581",
       "category": "procurement",
@@ -7221,16 +7305,25 @@
     },
     {
       "deadline": "2026-07-16",
-      "days": 7,
+      "days": 6,
+      "title": "RFI Unmanned Aircraft System (sUAS) Vehicle Platform",
+      "identifier": "A065462",
+      "category": "procurement",
+      "source": "SAM.gov",
+      "url": "https://sam.gov/workspace/contract/opp/ce4541af000a4466aa62a08b2cd1f2a3/view"
+    },
+    {
+      "deadline": "2026-07-16",
+      "days": 6,
       "title": "Dismounted Drone Detection",
       "identifier": "FA309926Q0015",
       "category": "procurement",
       "source": "SAM.gov",
-      "url": "https://sam.gov/workspace/contract/opp/dce6ac8d4cd0437c9889256b3039ca43/view"
+      "url": "https://sam.gov/workspace/contract/opp/84d9ee8ea6a34f9ab650ab5da4f2fba2/view"
     },
     {
       "deadline": "2026-07-16",
-      "days": 7,
+      "days": 6,
       "title": "Skydio X10 Drone Starter Kit, NightSense Infrared Attachment for X10 under Foreign Military Sales Case:  TU-B-UDO TUNISIA",
       "identifier": "W91CRB-26-R-DRNE",
       "category": "procurement",
@@ -7239,7 +7332,16 @@
     },
     {
       "deadline": "2026-07-17",
-      "days": 8,
+      "days": 7,
+      "title": "S201--BUILDING DRONE CLEANING  -36C262-26-AP-2261 | 605-26-1-6076-0011 | NEW REQUIRE | SBAR  Submitted |",
+      "identifier": "36C26226Q1118",
+      "category": "procurement",
+      "source": "SAM.gov",
+      "url": "https://sam.gov/workspace/contract/opp/206c36c3076f4dde954cc9c234cc19a5/view"
+    },
+    {
+      "deadline": "2026-07-17",
+      "days": 7,
       "title": "5th SFS Dronebuster",
       "identifier": "FA452826QML03",
       "category": "procurement",
@@ -7248,7 +7350,7 @@
     },
     {
       "deadline": "2026-07-20",
-      "days": 11,
+      "days": 10,
       "title": "Tactical sUAS Package",
       "identifier": "W50S7X26Q0004",
       "category": "procurement",
@@ -7257,7 +7359,7 @@
     },
     {
       "deadline": "2026-07-23",
-      "days": 14,
+      "days": 13,
       "title": "Request for White Papers - Organic Counter Small Unmanned Aircraft System (O-CsUAS) Dismounted Sensors",
       "identifier": "M67854-26-R-0131",
       "category": "procurement",
@@ -7266,7 +7368,7 @@
     },
     {
       "deadline": "2026-07-23",
-      "days": 14,
+      "days": 13,
       "title": "Request for White Papers - Organic Counter Small Unmanned Aircraft System Dismounted Effectors",
       "identifier": "M67854-26-R-0129",
       "category": "procurement",
@@ -7275,7 +7377,7 @@
     },
     {
       "deadline": "2026-07-24",
-      "days": 15,
+      "days": 14,
       "title": "Establishing the Digital Opportunity Data Collection; Modernizing the FCC Form 477 Data Program; Delete, Delete, Delete",
       "identifier": "WC Docket Nos. 19-195 and 11-10, GN Docket No. 25-133",
       "category": "regulatory",
@@ -7284,7 +7386,7 @@
     },
     {
       "deadline": "2026-07-27",
-      "days": 18,
+      "days": 17,
       "title": "USSOCOM Air Loitering Munition (ALM)",
       "identifier": "H9240826RFIALM",
       "category": "procurement",
@@ -7293,7 +7395,7 @@
     },
     {
       "deadline": "2026-07-31",
-      "days": 22,
+      "days": 21,
       "title": "Man-portable, Handheld, Counter-Unmanned System (MPHC)",
       "identifier": "FA852026MPHC",
       "category": "procurement",
@@ -7302,7 +7404,7 @@
     },
     {
       "deadline": "2026-08-05",
-      "days": 27,
+      "days": 26,
       "title": "Designation-Restrict the Operation of Unmanned Aircraft in Close Proximity to a Fixed Site Facility; Extension of Comment Period",
       "identifier": "Docket No. FAA-2026-4558",
       "category": "regulatory",
@@ -7311,7 +7413,7 @@
     },
     {
       "deadline": "2026-08-28",
-      "days": 50,
+      "days": 49,
       "title": "ET 26-22 / DA-26-592 (DJI Security Assessment — comment by Aug 28, 2026)",
       "identifier": "FCC",
       "category": "regulatory",
@@ -7320,7 +7422,7 @@
     },
     {
       "deadline": "2026-09-05",
-      "days": 58,
+      "days": 57,
       "title": "Counter-UAS Authority for State, Local, Tribal, and Territorial Law Enforcement and Correctional Agencies",
       "identifier": "FBI-2026-0001",
       "category": "regulatory",
@@ -7329,7 +7431,7 @@
     },
     {
       "deadline": "2031-05-28",
-      "days": 1784,
+      "days": 1783,
       "title": "INVITATION TO PARTICIPATE IN THE DEPARTMENT OF WAR DRONE OTA CONSORTIUM",
       "identifier": "W58RGZ-26-2-SN01",
       "category": "procurement",
