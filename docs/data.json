@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-12T07:50:53.655770+00:00",
-  "generated_human": "2026-07-12 07:50 UTC",
+  "generated_at": "2026-07-12T15:39:50.092757+00:00",
+  "generated_human": "2026-07-12 15:39 UTC",
   "demo": false,
   "items": [
     {
@@ -4892,7 +4892,7 @@
         "award_type": "PURCHASE ORDER"
       },
       "first_seen": "2026-07-12T07:50:53.655770+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:W15P7T26F0084",
@@ -6848,7 +6848,7 @@
   ],
   "stats": {
     "total": 244,
-    "new": 1,
+    "new": 0,
     "by_category": {
       "regulatory": 142,
       "procurement": 89,
