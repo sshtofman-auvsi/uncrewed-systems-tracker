@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-12T20:28:34.713871+00:00",
-  "generated_human": "2026-07-12 20:28 UTC",
+  "generated_at": "2026-07-13T11:43:24.022943+00:00",
+  "generated_human": "2026-07-13 11:43 UTC",
   "demo": false,
   "items": [
     {
@@ -7057,7 +7057,7 @@
   "deadlines": [
     {
       "deadline": "2026-07-13",
-      "days": 1,
+      "days": 0,
       "title": "Skydio X10D Drones",
       "identifier": "FA466126Q0057",
       "category": "procurement",
@@ -7066,7 +7066,7 @@
     },
     {
       "deadline": "2026-07-13",
-      "days": 1,
+      "days": 0,
       "title": "Drones (JROTC edition) - Classroom",
       "identifier": "W911S226U3572",
       "category": "procurement",
@@ -7075,7 +7075,7 @@
     },
     {
       "deadline": "2026-07-13",
-      "days": 1,
+      "days": 0,
       "title": "INTENT TO SOLE SOURCE- sUAS Detection, Identification, and Tracking Subscription Services",
       "identifier": "FY26SFSSUASSubscriptions",
       "category": "procurement",
@@ -7084,7 +7084,7 @@
     },
     {
       "deadline": "2026-07-15",
-      "days": 3,
+      "days": 2,
       "title": "Educational Drone",
       "identifier": "W911S226U3599",
       "category": "procurement",
@@ -7093,7 +7093,7 @@
     },
     {
       "deadline": "2026-07-15",
-      "days": 3,
+      "days": 2,
       "title": "ISR Drone Tethering Systems",
       "identifier": "W911S226U3581",
       "category": "procurement",
@@ -7102,7 +7102,7 @@
     },
     {
       "deadline": "2026-07-16",
-      "days": 4,
+      "days": 3,
       "title": "RFI Unmanned Aircraft System (sUAS) Vehicle Platform",
       "identifier": "A065462",
       "category": "procurement",
@@ -7111,7 +7111,7 @@
     },
     {
       "deadline": "2026-07-16",
-      "days": 4,
+      "days": 3,
       "title": "Dismounted Drone Detection",
       "identifier": "FA309926Q0015",
       "category": "procurement",
@@ -7120,7 +7120,7 @@
     },
     {
       "deadline": "2026-07-16",
-      "days": 4,
+      "days": 3,
       "title": "Skydio X10 Drone Starter Kit, NightSense Infrared Attachment for X10 under Foreign Military Sales Case:  TU-B-UDO TUNISIA",
       "identifier": "W91CRB-26-R-DRNE",
       "category": "procurement",
@@ -7129,7 +7129,7 @@
     },
     {
       "deadline": "2026-07-17",
-      "days": 5,
+      "days": 4,
       "title": "Thunderdome 2026: Low-Cost Interceptors for Counter-UAS",
       "identifier": "NAWCAD-SN-26-Thunderdome",
       "category": "procurement",
@@ -7138,7 +7138,7 @@
     },
     {
       "deadline": "2026-07-17",
-      "days": 5,
+      "days": 4,
       "title": "S201--BUILDING DRONE CLEANING  -36C262-26-AP-2261 | 605-26-1-6076-0011 | NEW REQUIRE | SBAR  Submitted |",
       "identifier": "36C26226Q1118",
       "category": "procurement",
@@ -7147,7 +7147,7 @@
     },
     {
       "deadline": "2026-07-17",
-      "days": 5,
+      "days": 4,
       "title": "5th SFS Dronebuster",
       "identifier": "FA452826QML03",
       "category": "procurement",
@@ -7156,7 +7156,7 @@
     },
     {
       "deadline": "2026-07-20",
-      "days": 8,
+      "days": 7,
       "title": "Tactical sUAS Package",
       "identifier": "W50S7X26Q0004",
       "category": "procurement",
@@ -7165,7 +7165,7 @@
     },
     {
       "deadline": "2026-07-23",
-      "days": 11,
+      "days": 10,
       "title": "Request for White Papers - Organic Counter Small Unmanned Aircraft System (O-CsUAS) Dismounted Sensors",
       "identifier": "M67854-26-R-0131",
       "category": "procurement",
@@ -7174,7 +7174,7 @@
     },
     {
       "deadline": "2026-07-23",
-      "days": 11,
+      "days": 10,
       "title": "Request for White Papers - Organic Counter Small Unmanned Aircraft System Dismounted Effectors",
       "identifier": "M67854-26-R-0129",
       "category": "procurement",
@@ -7183,7 +7183,7 @@
     },
     {
       "deadline": "2026-07-24",
-      "days": 12,
+      "days": 11,
       "title": "Establishing the Digital Opportunity Data Collection; Modernizing the FCC Form 477 Data Program; Delete, Delete, Delete",
       "identifier": "WC Docket Nos. 19-195 and 11-10, GN Docket No. 25-133",
       "category": "regulatory",
@@ -7192,7 +7192,7 @@
     },
     {
       "deadline": "2026-07-27",
-      "days": 15,
+      "days": 14,
       "title": "USSOCOM Air Loitering Munition (ALM)",
       "identifier": "H9240826RFIALM",
       "category": "procurement",
@@ -7201,7 +7201,7 @@
     },
     {
       "deadline": "2026-07-31",
-      "days": 19,
+      "days": 18,
       "title": "Man-portable, Handheld, Counter-Unmanned System (MPHC)",
       "identifier": "FA852026MPHC",
       "category": "procurement",
@@ -7210,7 +7210,7 @@
     },
     {
       "deadline": "2026-08-05",
-      "days": 24,
+      "days": 23,
       "title": "Designation-Restrict the Operation of Unmanned Aircraft in Close Proximity to a Fixed Site Facility; Extension of Comment Period",
       "identifier": "Docket No. FAA-2026-4558",
       "category": "regulatory",
@@ -7219,7 +7219,7 @@
     },
     {
       "deadline": "2026-08-28",
-      "days": 47,
+      "days": 46,
       "title": "ET 26-22 / DA-26-592 (DJI Security Assessment — comment by Aug 28, 2026)",
       "identifier": "FCC",
       "category": "regulatory",
@@ -7228,7 +7228,7 @@
     },
     {
       "deadline": "2026-09-05",
-      "days": 55,
+      "days": 54,
       "title": "Counter-UAS Authority for State, Local, Tribal, and Territorial Law Enforcement and Correctional Agencies",
       "identifier": "FBI-2026-0001",
       "category": "regulatory",
@@ -7237,7 +7237,7 @@
     },
     {
       "deadline": "2031-05-28",
-      "days": 1781,
+      "days": 1780,
       "title": "INVITATION TO PARTICIPATE IN THE DEPARTMENT OF WAR DRONE OTA CONSORTIUM",
       "identifier": "W58RGZ-26-2-SN01",
       "category": "procurement",
