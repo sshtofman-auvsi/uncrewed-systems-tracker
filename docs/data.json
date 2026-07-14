@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-14T16:44:11.478601+00:00",
-  "generated_human": "2026-07-14 16:44 UTC",
+  "generated_at": "2026-07-14T21:33:14.070617+00:00",
+  "generated_human": "2026-07-14 21:33 UTC",
   "demo": false,
   "items": [
     {
@@ -46,17 +46,17 @@
       "is_new": false
     },
     {
-      "id": "Regulations.gov:FAA-2026-4558-0597",
+      "id": "Regulations.gov:FAA-2026-4558-0601",
       "source": "Regulations.gov",
       "category": "regulatory",
       "type": "Comment",
-      "title": "Comment on Designation – Restrict the Operation of Unmanned Aircraft in Close Proximity  to a Fixed Site Facility: Comment from Ben Pinkston",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-0597",
+      "title": "Comment on Designation – Restrict the Operation of Unmanned Aircraft in Close Proximity  to a Fixed Site Facility: Comment from DeWayne Manon",
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-0601",
       "agency": "FAA",
       "identifier": "FAA-2026-4558",
       "date": "2026-07-14",
       "deadline": null,
-      "summary": "Comment from Ben Pinkston",
+      "summary": "Comment from DeWayne Manon",
       "score": 80,
       "domains": [
         "air"
@@ -70,9 +70,9 @@
         "label": "Section 2209 (Critical Infrastructure UAS Restrictions)"
       },
       "extra": {
-        "docket_total_comments": 582
+        "docket_total_comments": 584
       },
-      "first_seen": "2026-07-14T16:44:11.478601+00:00",
+      "first_seen": "2026-07-14T21:33:14.070617+00:00",
       "is_new": true
     },
     {
@@ -1097,12 +1097,12 @@
       "is_new": false
     },
     {
-      "id": "FCC ECFS:10531075320678",
+      "id": "FCC ECFS:10530375403656",
       "source": "FCC ECFS",
       "category": "regulatory",
       "type": "Comment",
-      "title": "Toby Dziubala: COMMENT (FCC 26-22)",
-      "url": "https://www.fcc.gov/ecfs/document/10531075320678/1",
+      "title": "Jeremy Monroe: COMMENT (FCC 26-22)",
+      "url": "https://www.fcc.gov/ecfs/document/10530375403656/1",
       "agency": "FCC",
       "identifier": "FCC 26-22",
       "date": "2026-06-01",
@@ -1125,12 +1125,12 @@
       "is_new": false
     },
     {
-      "id": "FCC ECFS:10530375403656",
+      "id": "FCC ECFS:10531075320678",
       "source": "FCC ECFS",
       "category": "regulatory",
       "type": "Comment",
-      "title": "Jeremy Monroe: COMMENT (FCC 26-22)",
-      "url": "https://www.fcc.gov/ecfs/document/10530375403656/1",
+      "title": "Toby Dziubala: COMMENT (FCC 26-22)",
+      "url": "https://www.fcc.gov/ecfs/document/10531075320678/1",
       "agency": "FCC",
       "identifier": "FCC 26-22",
       "date": "2026-06-01",
@@ -4083,6 +4083,33 @@
       "is_new": false
     },
     {
+      "id": "SAM.gov:7f9dfb501f064dd5b545a737845f540a",
+      "source": "SAM.gov",
+      "category": "procurement",
+      "type": "Presolicitation",
+      "title": "Multi-Domain Force Applications and Traffic Management for Unmanned Aircraft Systems (M-FAT)",
+      "url": "https://sam.gov/workspace/contract/opp/7f9dfb501f064dd5b545a737845f540a/view",
+      "agency": "DEPT OF DEFENSE",
+      "identifier": "FA8750-25-S-7004",
+      "date": "2026-07-14",
+      "deadline": null,
+      "summary": "Multi-Domain Force Applications and Traffic Management for Unmanned Aircraft Systems (M-FAT)",
+      "score": 35,
+      "domains": [
+        "air"
+      ],
+      "matched_terms": [
+        "unmanned aircraft"
+      ],
+      "watchlist": null,
+      "extra": {
+        "naics": "541715",
+        "setaside": null
+      },
+      "first_seen": "2026-07-14T21:33:14.070617+00:00",
+      "is_new": true
+    },
+    {
       "id": "SAM.gov:b257aaf62a7b4198baa1b81fd0200810",
       "source": "SAM.gov",
       "category": "procurement",
@@ -4688,33 +4715,6 @@
       "extra": {
         "naics": "336411",
         "setaside": "NONE"
-      },
-      "first_seen": "2026-07-01T18:33:40.471932+00:00",
-      "is_new": false
-    },
-    {
-      "id": "SAM.gov:b36be2c41929484491aa870a2bcf1e68",
-      "source": "SAM.gov",
-      "category": "procurement",
-      "type": "Presolicitation",
-      "title": "Multi-Domain Force Applications and Traffic Management for Unmanned Aircraft Systems (M-FAT)",
-      "url": "https://sam.gov/workspace/contract/opp/b36be2c41929484491aa870a2bcf1e68/view",
-      "agency": "DEPT OF DEFENSE",
-      "identifier": "FA8750-25-S-7004",
-      "date": "2026-05-28",
-      "deadline": null,
-      "summary": "Multi-Domain Force Applications and Traffic Management for Unmanned Aircraft Systems (M-FAT)",
-      "score": 35,
-      "domains": [
-        "air"
-      ],
-      "matched_terms": [
-        "unmanned aircraft"
-      ],
-      "watchlist": null,
-      "extra": {
-        "naics": "541715",
-        "setaside": null
       },
       "first_seen": "2026-07-01T18:33:40.471932+00:00",
       "is_new": false
@@ -6849,30 +6849,6 @@
       },
       "first_seen": "2026-07-01T18:33:40.471932+00:00",
       "is_new": false
-    },
-    {
-      "id": "Regulations.gov:FAA-2026-5151-0005",
-      "source": "Regulations.gov",
-      "category": "regulatory",
-      "type": "Document",
-      "title": "Southwest Technical College – UAS Program - Exemption/Rulemaking (Response)",
-      "url": "https://www.regulations.gov/document/FAA-2026-5151-0005",
-      "agency": "FAA",
-      "identifier": "FAA-2026-5151",
-      "date": "2026-06-30",
-      "deadline": null,
-      "summary": "Southwest Technical College – UAS Program - Exemption/Rulemaking (Response)",
-      "score": 18,
-      "domains": [
-        "air"
-      ],
-      "matched_terms": [
-        "uas"
-      ],
-      "watchlist": null,
-      "extra": {},
-      "first_seen": "2026-06-30T18:24:50.711632+00:00",
-      "is_new": false
     }
   ],
   "sources": [
@@ -6885,8 +6861,8 @@
     {
       "name": "Regulations.gov",
       "status": "ok",
-      "detail": "38 kept",
-      "count": 38
+      "detail": "37 kept",
+      "count": 37
     },
     {
       "name": "FCC ECFS",
@@ -6920,16 +6896,16 @@
     }
   ],
   "stats": {
-    "total": 247,
-    "new": 1,
+    "total": 246,
+    "new": 2,
     "by_category": {
-      "regulatory": 142,
+      "regulatory": 141,
       "procurement": 92,
       "litigation": 9,
       "legislative": 4
     },
     "by_domain": {
-      "air": 188,
+      "air": 187,
       "supply-chain": 118,
       "spectrum": 56,
       "defense": 12,
@@ -6940,7 +6916,7 @@
       "FCC ECFS": 99,
       "USAspending": 60,
       "SAM.gov": 32,
-      "Regulations.gov": 25,
+      "Regulations.gov": 24,
       "Federal Register": 18,
       "CourtListener": 9,
       "Congress.gov": 4
