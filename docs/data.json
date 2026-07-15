@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-15T07:30:48.142336+00:00",
-  "generated_human": "2026-07-15 07:30 UTC",
+  "generated_at": "2026-07-15T16:53:01.175304+00:00",
+  "generated_human": "2026-07-15 16:53 UTC",
   "demo": false,
   "items": [
     {
@@ -46,17 +46,17 @@
       "is_new": false
     },
     {
-      "id": "Regulations.gov:FAA-2026-4558-0601",
+      "id": "Regulations.gov:FAA-2026-4558-0602",
       "source": "Regulations.gov",
       "category": "regulatory",
       "type": "Comment",
-      "title": "Comment on Designation – Restrict the Operation of Unmanned Aircraft in Close Proximity  to a Fixed Site Facility: Comment from DeWayne Manon",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-0601",
+      "title": "Comment on Designation – Restrict the Operation of Unmanned Aircraft in Close Proximity  to a Fixed Site Facility: Comment from Lily Bingham",
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-0602",
       "agency": "FAA",
       "identifier": "FAA-2026-4558",
-      "date": "2026-07-14",
+      "date": "2026-07-15",
       "deadline": null,
-      "summary": "Comment from DeWayne Manon",
+      "summary": "Comment from Lily Bingham",
       "score": 80,
       "domains": [
         "air"
@@ -70,10 +70,10 @@
         "label": "Section 2209 (Critical Infrastructure UAS Restrictions)"
       },
       "extra": {
-        "docket_total_comments": 584
+        "docket_total_comments": 585
       },
-      "first_seen": "2026-07-14T21:33:14.070617+00:00",
-      "is_new": false
+      "first_seen": "2026-07-15T16:53:01.175304+00:00",
+      "is_new": true
     },
     {
       "id": "Regulations.gov:FAA-2025-1908-3964",
@@ -1097,12 +1097,12 @@
       "is_new": false
     },
     {
-      "id": "FCC ECFS:10530375403656",
+      "id": "FCC ECFS:10531075320678",
       "source": "FCC ECFS",
       "category": "regulatory",
       "type": "Comment",
-      "title": "Jeremy Monroe: COMMENT (FCC 26-22)",
-      "url": "https://www.fcc.gov/ecfs/document/10530375403656/1",
+      "title": "Toby Dziubala: COMMENT (FCC 26-22)",
+      "url": "https://www.fcc.gov/ecfs/document/10531075320678/1",
       "agency": "FCC",
       "identifier": "FCC 26-22",
       "date": "2026-06-01",
@@ -1125,12 +1125,12 @@
       "is_new": false
     },
     {
-      "id": "FCC ECFS:10531075320678",
+      "id": "FCC ECFS:10530375403656",
       "source": "FCC ECFS",
       "category": "regulatory",
       "type": "Comment",
-      "title": "Toby Dziubala: COMMENT (FCC 26-22)",
-      "url": "https://www.fcc.gov/ecfs/document/10531075320678/1",
+      "title": "Jeremy Monroe: COMMENT (FCC 26-22)",
+      "url": "https://www.fcc.gov/ecfs/document/10530375403656/1",
       "agency": "FCC",
       "identifier": "FCC 26-22",
       "date": "2026-06-01",
@@ -4083,6 +4083,33 @@
       "is_new": false
     },
     {
+      "id": "SAM.gov:539440e9bf5044ae97dd0e7b6260992a",
+      "source": "SAM.gov",
+      "category": "procurement",
+      "type": "Combined Synopsis",
+      "title": "ISR Drone Tethering Systems",
+      "url": "https://sam.gov/workspace/contract/opp/539440e9bf5044ae97dd0e7b6260992a/view",
+      "agency": "DEPT OF DEFENSE",
+      "identifier": "W911S226U3581",
+      "date": "2026-07-15",
+      "deadline": "2026-07-16",
+      "summary": "ISR Drone Tethering Systems",
+      "score": 35,
+      "domains": [
+        "air"
+      ],
+      "matched_terms": [
+        "drone"
+      ],
+      "watchlist": null,
+      "extra": {
+        "naics": "336413",
+        "setaside": "SBA"
+      },
+      "first_seen": "2026-07-15T16:53:01.175304+00:00",
+      "is_new": true
+    },
+    {
       "id": "SAM.gov:7f9dfb501f064dd5b545a737845f540a",
       "source": "SAM.gov",
       "category": "procurement",
@@ -4359,33 +4386,6 @@
         "setaside": "NONE"
       },
       "first_seen": "2026-07-03T10:17:16.264437+00:00",
-      "is_new": false
-    },
-    {
-      "id": "SAM.gov:884efe258aaa429589de7a1cdce3febb",
-      "source": "SAM.gov",
-      "category": "procurement",
-      "type": "Combined Synopsis",
-      "title": "ISR Drone Tethering Systems",
-      "url": "https://sam.gov/workspace/contract/opp/884efe258aaa429589de7a1cdce3febb/view",
-      "agency": "DEPT OF DEFENSE",
-      "identifier": "W911S226U3581",
-      "date": "2026-07-02",
-      "deadline": "2026-07-15",
-      "summary": "ISR Drone Tethering Systems",
-      "score": 35,
-      "domains": [
-        "air"
-      ],
-      "matched_terms": [
-        "drone"
-      ],
-      "watchlist": null,
-      "extra": {
-        "naics": "336413",
-        "setaside": "SBA"
-      },
-      "first_seen": "2026-07-02T18:19:03.065344+00:00",
       "is_new": false
     },
     {
@@ -5095,7 +5095,7 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-07-15T07:30:48.142336+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:89233126FNA400749",
@@ -5398,7 +5398,7 @@
         "award_type": "DEFINITIVE CONTRACT"
       },
       "first_seen": "2026-07-15T07:30:48.142336+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:693KA823F00244",
@@ -6860,7 +6860,7 @@
       ],
       "deadline": "2026-07-06",
       "count": 2,
-      "latest": "2026-07-14"
+      "latest": "2026-07-15"
     },
     {
       "key": "et-26-22",
@@ -7041,15 +7041,6 @@
       "url": "https://sam.gov/workspace/contract/opp/63a014446f3d4d8bb0427008b056f1d4/view"
     },
     {
-      "deadline": "2026-07-15",
-      "days": 0,
-      "title": "ISR Drone Tethering Systems",
-      "identifier": "W911S226U3581",
-      "category": "procurement",
-      "source": "SAM.gov",
-      "url": "https://sam.gov/workspace/contract/opp/884efe258aaa429589de7a1cdce3febb/view"
-    },
-    {
       "deadline": "2026-07-16",
       "days": 1,
       "title": "RFI Unmanned Aircraft System (sUAS) Vehicle Platform",
@@ -7057,6 +7048,15 @@
       "category": "procurement",
       "source": "SAM.gov",
       "url": "https://sam.gov/workspace/contract/opp/ce4541af000a4466aa62a08b2cd1f2a3/view"
+    },
+    {
+      "deadline": "2026-07-16",
+      "days": 1,
+      "title": "ISR Drone Tethering Systems",
+      "identifier": "W911S226U3581",
+      "category": "procurement",
+      "source": "SAM.gov",
+      "url": "https://sam.gov/workspace/contract/opp/539440e9bf5044ae97dd0e7b6260992a/view"
     },
     {
       "deadline": "2026-07-16",
