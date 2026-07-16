@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-15T21:33:00.164452+00:00",
-  "generated_human": "2026-07-15 21:33 UTC",
+  "generated_at": "2026-07-16T07:38:06.465860+00:00",
+  "generated_human": "2026-07-16 07:38 UTC",
   "demo": false,
   "items": [
     {
@@ -73,7 +73,7 @@
         "docket_total_comments": 588
       },
       "first_seen": "2026-07-15T21:33:00.164452+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "Regulations.gov:FAA-2025-1908-3964",
@@ -3877,7 +3877,7 @@
         "setaside": null
       },
       "first_seen": "2026-07-15T21:33:00.164452+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "SAM.gov:26c84f6037cf4d2297d4d34207a8b208",
@@ -3906,7 +3906,7 @@
         "setaside": null
       },
       "first_seen": "2026-07-15T21:33:00.164452+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "SAM.gov:ce4541af000a4466aa62a08b2cd1f2a3",
@@ -4795,6 +4795,29 @@
       "is_new": false
     },
     {
+      "id": "USAspending:FA480326F0016",
+      "source": "USAspending",
+      "category": "procurement",
+      "type": "Award",
+      "title": "KRAUS HAMDANI AEROSPACE, INC.: DELIVERY ORDER 02",
+      "url": "https://www.usaspending.gov/award/CONT_AWD_FA480326F0016_9700_FA480326D0001_9700",
+      "agency": "Department of Defense",
+      "identifier": "FA480326F0016",
+      "date": "2026-04-17",
+      "deadline": null,
+      "summary": "DELIVERY ORDER 02",
+      "score": 30,
+      "domains": [],
+      "matched_terms": [],
+      "watchlist": null,
+      "extra": {
+        "amount": 10045818.82,
+        "award_type": "DELIVERY ORDER"
+      },
+      "first_seen": "2026-07-16T07:38:06.465860+00:00",
+      "is_new": true
+    },
+    {
       "id": "USAspending:W15P7T26F0089",
       "source": "USAspending",
       "category": "procurement",
@@ -4815,52 +4838,6 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-07-11T07:24:47.821619+00:00",
-      "is_new": false
-    },
-    {
-      "id": "USAspending:W15P7T26F0090",
-      "source": "USAspending",
-      "category": "procurement",
-      "type": "Award",
-      "title": "LEIDOS, INC.: PROCURE TACTICAL EDGE COMPUTER KIT AND MOUNT KIT",
-      "url": "https://www.usaspending.gov/award/CONT_AWD_W15P7T26F0090_9700_W15P7T23D0003_9700",
-      "agency": "Department of Defense",
-      "identifier": "W15P7T26F0090",
-      "date": "2026-04-03",
-      "deadline": null,
-      "summary": "PROCURE TACTICAL EDGE COMPUTER KIT AND MOUNT KIT",
-      "score": 30,
-      "domains": [],
-      "matched_terms": [],
-      "watchlist": null,
-      "extra": {
-        "amount": 5327450.0,
-        "award_type": "DELIVERY ORDER"
-      },
-      "first_seen": "2026-07-08T09:16:24.170434+00:00",
-      "is_new": false
-    },
-    {
-      "id": "USAspending:FA862926PB002",
-      "source": "USAspending",
-      "category": "procurement",
-      "type": "Award",
-      "title": "AEROVIRONMENT, INC: HURRICANE AND TRAINING ASSETS",
-      "url": "https://www.usaspending.gov/award/CONT_AWD_FA862926PB002_9700_-NONE-_-NONE-",
-      "agency": "Department of Defense",
-      "identifier": "FA862926PB002",
-      "date": "2026-03-30",
-      "deadline": null,
-      "summary": "HURRICANE AND TRAINING ASSETS",
-      "score": 30,
-      "domains": [],
-      "matched_terms": [],
-      "watchlist": null,
-      "extra": {
-        "amount": 4922723.0,
-        "award_type": "PURCHASE ORDER"
-      },
-      "first_seen": "2026-07-12T07:50:53.655770+00:00",
       "is_new": false
     },
     {
@@ -4931,6 +4908,29 @@
       },
       "first_seen": "2026-07-09T11:27:23.250451+00:00",
       "is_new": false
+    },
+    {
+      "id": "USAspending:W912CH26CA009",
+      "source": "USAspending",
+      "category": "procurement",
+      "type": "Award",
+      "title": "NAPATREE TECHNOLOGY LLC: PROCUREMENT OF SUPPLIES AND SERVICES FOR AS3 SURVEYOR DRONES, BUMBLEBEE V1, BUMBLEBEE V2, AND HORNETS.",
+      "url": "https://www.usaspending.gov/award/CONT_AWD_W912CH26CA009_9700_-NONE-_-NONE-",
+      "agency": "Department of Defense",
+      "identifier": "W912CH26CA009",
+      "date": "2026-03-10",
+      "deadline": null,
+      "summary": "PROCUREMENT OF SUPPLIES AND SERVICES FOR AS3 SURVEYOR DRONES, BUMBLEBEE V1, BUMBLEBEE V2, AND HORNETS.",
+      "score": 30,
+      "domains": [],
+      "matched_terms": [],
+      "watchlist": null,
+      "extra": {
+        "amount": 265382200.0,
+        "award_type": "DEFINITIVE CONTRACT"
+      },
+      "first_seen": "2026-07-16T07:38:06.465860+00:00",
+      "is_new": true
     },
     {
       "id": "USAspending:W58RGZ26F0205",
@@ -5075,29 +5075,6 @@
       "is_new": false
     },
     {
-      "id": "USAspending:W58RGZ26F0064",
-      "source": "USAspending",
-      "category": "procurement",
-      "type": "Award",
-      "title": "AEROVIRONMENT, INC: FMS REQUIREMENT FOR COLOMBIA.",
-      "url": "https://www.usaspending.gov/award/CONT_AWD_W58RGZ26F0064_9700_W58RGZ26D0001_9700",
-      "agency": "Department of Defense",
-      "identifier": "W58RGZ26F0064",
-      "date": "2026-01-13",
-      "deadline": null,
-      "summary": "FMS REQUIREMENT FOR COLOMBIA.",
-      "score": 30,
-      "domains": [],
-      "matched_terms": [],
-      "watchlist": null,
-      "extra": {
-        "amount": 4284883.33,
-        "award_type": "DELIVERY ORDER"
-      },
-      "first_seen": "2026-07-15T07:30:48.142336+00:00",
-      "is_new": false
-    },
-    {
       "id": "USAspending:89233126FNA400749",
       "source": "USAspending",
       "category": "procurement",
@@ -5165,6 +5142,33 @@
       },
       "first_seen": "2026-07-02T10:20:49.858459+00:00",
       "is_new": false
+    },
+    {
+      "id": "USAspending:N0016425FJ608",
+      "source": "USAspending",
+      "category": "procurement",
+      "type": "Award",
+      "title": "PLATFORM SYSTEMS, INCORPORATED: VANILLA UAS AND ASSOCIATED EQUIPMENT AND TRAINING",
+      "url": "https://www.usaspending.gov/award/CONT_AWD_N0016425FJ608_9700_N0016425GJR96_9700",
+      "agency": "Department of Defense",
+      "identifier": "N0016425FJ608",
+      "date": "2025-08-25",
+      "deadline": null,
+      "summary": "VANILLA UAS AND ASSOCIATED EQUIPMENT AND TRAINING",
+      "score": 30,
+      "domains": [
+        "air"
+      ],
+      "matched_terms": [
+        "uas"
+      ],
+      "watchlist": null,
+      "extra": {
+        "amount": 39596289.0,
+        "award_type": "DELIVERY ORDER"
+      },
+      "first_seen": "2026-07-16T07:38:06.465860+00:00",
+      "is_new": true
     },
     {
       "id": "USAspending:W15P7T25F0130",
@@ -5321,11 +5325,34 @@
       "matched_terms": [],
       "watchlist": null,
       "extra": {
-        "amount": 107390071.67,
+        "amount": 102936807.97,
         "award_type": "DEFINITIVE CONTRACT"
       },
       "first_seen": "2026-07-04T09:12:00.292276+00:00",
       "is_new": false
+    },
+    {
+      "id": "USAspending:W58RGZ24C0021",
+      "source": "USAspending",
+      "category": "procurement",
+      "type": "Award",
+      "title": "GENERAL ATOMICS AERONAUTICAL SYSTEMS, INC.: PRODUCTION READY TEST ASSET UNDEFINITIZED CONTRACT ACTION",
+      "url": "https://www.usaspending.gov/award/CONT_AWD_W58RGZ24C0021_9700_-NONE-_-NONE-",
+      "agency": "Department of Defense",
+      "identifier": "W58RGZ24C0021",
+      "date": "2023-12-01",
+      "deadline": null,
+      "summary": "PRODUCTION READY TEST ASSET UNDEFINITIZED CONTRACT ACTION",
+      "score": 30,
+      "domains": [],
+      "matched_terms": [],
+      "watchlist": null,
+      "extra": {
+        "amount": 367444098.15,
+        "award_type": "DEFINITIVE CONTRACT"
+      },
+      "first_seen": "2026-07-16T07:38:06.465860+00:00",
+      "is_new": true
     },
     {
       "id": "USAspending:FA868923CB002",
@@ -5374,31 +5401,27 @@
       "is_new": false
     },
     {
-      "id": "USAspending:FA462523C0025",
+      "id": "USAspending:N0001923F0041",
       "source": "USAspending",
       "category": "procurement",
       "type": "Award",
-      "title": "ASYLON INC: SMALL BUSINESS INNOVATION AND RESEARCH ADVANCING DRONE TECHNOLOGY FOR STRATFI SBIR PHASE II",
-      "url": "https://www.usaspending.gov/award/CONT_AWD_FA462523C0025_9700_-NONE-_-NONE-",
+      "title": "NORTHROP GRUMMAN SYSTEMS CORPORATION: THE PURPOSE OF THIS DELIVERY ORDER IS TO RETROFIT B9, B10, MB6P INTO THE IFC4.2 CONFIGURATION.",
+      "url": "https://www.usaspending.gov/award/CONT_AWD_N0001923F0041_9700_N0001920G0005_9700",
       "agency": "Department of Defense",
-      "identifier": "FA462523C0025",
-      "date": "2023-09-01",
+      "identifier": "N0001923F0041",
+      "date": "2023-08-23",
       "deadline": null,
-      "summary": "SMALL BUSINESS INNOVATION AND RESEARCH ADVANCING DRONE TECHNOLOGY FOR STRATFI SBIR PHASE II",
+      "summary": "THE PURPOSE OF THIS DELIVERY ORDER IS TO RETROFIT B9, B10, MB6P INTO THE IFC4.2 CONFIGURATION.",
       "score": 30,
-      "domains": [
-        "air"
-      ],
-      "matched_terms": [
-        "drone"
-      ],
+      "domains": [],
+      "matched_terms": [],
       "watchlist": null,
       "extra": {
-        "amount": 4599818.86,
-        "award_type": "DEFINITIVE CONTRACT"
+        "amount": 220500476.78,
+        "award_type": "DELIVERY ORDER"
       },
-      "first_seen": "2026-07-15T07:30:48.142336+00:00",
-      "is_new": false
+      "first_seen": "2026-07-16T07:38:06.465860+00:00",
+      "is_new": true
     },
     {
       "id": "USAspending:693KA823F00244",
@@ -5426,6 +5449,29 @@
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
       "is_new": false
+    },
+    {
+      "id": "USAspending:FA868923F2250",
+      "source": "USAspending",
+      "category": "procurement",
+      "type": "Award",
+      "title": "GENERAL ATOMICS AERONAUTICAL SYSTEMS, INC.: MQ-9 REAPER PROLIFERATED LOW EARTH ORBIT (PLEO)",
+      "url": "https://www.usaspending.gov/award/CONT_AWD_FA868923F2250_9700_FA868920D2020_9700",
+      "agency": "Department of Defense",
+      "identifier": "FA868923F2250",
+      "date": "2023-06-10",
+      "deadline": null,
+      "summary": "MQ-9 REAPER PROLIFERATED LOW EARTH ORBIT (PLEO)",
+      "score": 30,
+      "domains": [],
+      "matched_terms": [],
+      "watchlist": null,
+      "extra": {
+        "amount": 41865689.17,
+        "award_type": "DELIVERY ORDER"
+      },
+      "first_seen": "2026-07-16T07:38:06.465860+00:00",
+      "is_new": true
     },
     {
       "id": "USAspending:N0001923F0319",
@@ -5524,29 +5570,6 @@
       "is_new": false
     },
     {
-      "id": "USAspending:W58RGZ22C0021",
-      "source": "USAspending",
-      "category": "procurement",
-      "type": "Award",
-      "title": "AEROVIRONMENT, INC.: PROCUREMENT OF PUMA LE",
-      "url": "https://www.usaspending.gov/award/CONT_AWD_W58RGZ22C0021_9700_-NONE-_-NONE-",
-      "agency": "Department of Defense",
-      "identifier": "W58RGZ22C0021",
-      "date": "2022-01-21",
-      "deadline": null,
-      "summary": "PROCUREMENT OF PUMA LE",
-      "score": 30,
-      "domains": [],
-      "matched_terms": [],
-      "watchlist": null,
-      "extra": {
-        "amount": 5983259.08,
-        "award_type": "DEFINITIVE CONTRACT"
-      },
-      "first_seen": "2026-07-08T09:16:24.170434+00:00",
-      "is_new": false
-    },
-    {
       "id": "USAspending:W9127822C0004",
       "source": "USAspending",
       "category": "procurement",
@@ -5595,29 +5618,6 @@
       "watchlist": null,
       "extra": {
         "amount": 86617402.53,
-        "award_type": "DELIVERY ORDER"
-      },
-      "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": false
-    },
-    {
-      "id": "USAspending:FA868921F2408",
-      "source": "USAspending",
-      "category": "procurement",
-      "type": "Award",
-      "title": "GENERAL ATOMICS AERONAUTICAL SYSTEMS, INC.: MQ-9 REAPER FISCAL YEAR 21 UNILATERAL AIRCRAFT PRODUCTION BUY",
-      "url": "https://www.usaspending.gov/award/CONT_AWD_FA868921F2408_9700_FA868920D2020_9700",
-      "agency": "Department of Defense",
-      "identifier": "FA868921F2408",
-      "date": "2021-04-21",
-      "deadline": null,
-      "summary": "MQ-9 REAPER FISCAL YEAR 21 UNILATERAL AIRCRAFT PRODUCTION BUY",
-      "score": 30,
-      "domains": [],
-      "matched_terms": [],
-      "watchlist": null,
-      "extra": {
-        "amount": 310406704.19,
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
@@ -6019,7 +6019,7 @@
       "watchlist": null,
       "extra": {},
       "first_seen": "2026-07-15T21:33:00.164452+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "Regulations.gov:FAA-2026-8088-0001",
@@ -6776,6 +6776,33 @@
       },
       "first_seen": "2026-07-01T18:33:40.471932+00:00",
       "is_new": false
+    },
+    {
+      "id": "SAM.gov:ac3fd8b64ddf4235a80c24329eecfaea",
+      "source": "SAM.gov",
+      "category": "procurement",
+      "type": "Special Notice",
+      "title": "N0017326Q5323 - CONFIGURATION, MAITENANCE AND TESTING FOR UUV",
+      "url": "https://sam.gov/workspace/contract/opp/ac3fd8b64ddf4235a80c24329eecfaea/view",
+      "agency": "DEPT OF DEFENSE",
+      "identifier": "N0017326Q5323",
+      "date": "2026-07-15",
+      "deadline": "2026-07-17",
+      "summary": "N0017326Q5323 - CONFIGURATION, MAITENANCE AND TESTING FOR UUV",
+      "score": 18,
+      "domains": [
+        "maritime"
+      ],
+      "matched_terms": [
+        "uuv"
+      ],
+      "watchlist": null,
+      "extra": {
+        "naics": "334511",
+        "setaside": null
+      },
+      "first_seen": "2026-07-16T07:38:06.465860+00:00",
+      "is_new": true
     }
   ],
   "sources": [
@@ -6806,8 +6833,8 @@
     {
       "name": "SAM.gov",
       "status": "ok",
-      "detail": "29 kept",
-      "count": 29
+      "detail": "30 kept",
+      "count": 30
     },
     {
       "name": "CourtListener",
@@ -6823,11 +6850,11 @@
     }
   ],
   "stats": {
-    "total": 243,
-    "new": 4,
+    "total": 244,
+    "new": 7,
     "by_category": {
       "regulatory": 141,
-      "procurement": 89,
+      "procurement": 90,
       "litigation": 9,
       "legislative": 4
     },
@@ -6837,12 +6864,12 @@
       "spectrum": 56,
       "defense": 12,
       "ground": 5,
-      "maritime": 1
+      "maritime": 2
     },
     "by_source": {
       "FCC ECFS": 99,
       "USAspending": 60,
-      "SAM.gov": 29,
+      "SAM.gov": 30,
       "Regulations.gov": 24,
       "Federal Register": 18,
       "CourtListener": 9,
@@ -7032,17 +7059,8 @@
   ],
   "deadlines": [
     {
-      "deadline": "2026-07-15",
-      "days": 0,
-      "title": "Educational Drone",
-      "identifier": "W911S226U3599",
-      "category": "procurement",
-      "source": "SAM.gov",
-      "url": "https://sam.gov/workspace/contract/opp/63a014446f3d4d8bb0427008b056f1d4/view"
-    },
-    {
       "deadline": "2026-07-16",
-      "days": 1,
+      "days": 0,
       "title": "RFI Unmanned Aircraft System (sUAS) Vehicle Platform",
       "identifier": "A065462",
       "category": "procurement",
@@ -7051,7 +7069,7 @@
     },
     {
       "deadline": "2026-07-16",
-      "days": 1,
+      "days": 0,
       "title": "ISR Drone Tethering Systems",
       "identifier": "W911S226U3581",
       "category": "procurement",
@@ -7060,7 +7078,7 @@
     },
     {
       "deadline": "2026-07-16",
-      "days": 1,
+      "days": 0,
       "title": "Dismounted Drone Detection",
       "identifier": "FA309926Q0015",
       "category": "procurement",
@@ -7069,7 +7087,7 @@
     },
     {
       "deadline": "2026-07-16",
-      "days": 1,
+      "days": 0,
       "title": "Skydio X10 Drone Starter Kit, NightSense Infrared Attachment for X10 under Foreign Military Sales Case:  TU-B-UDO TUNISIA",
       "identifier": "W91CRB-26-R-DRNE",
       "category": "procurement",
@@ -7078,7 +7096,7 @@
     },
     {
       "deadline": "2026-07-17",
-      "days": 2,
+      "days": 1,
       "title": "FY26 AFJROTC VEX AIR Competition Drones - Intent to Sole Source",
       "identifier": "F2XJA76154AW01",
       "category": "procurement",
@@ -7087,7 +7105,7 @@
     },
     {
       "deadline": "2026-07-17",
-      "days": 2,
+      "days": 1,
       "title": "Thunderdome 2026: Low-Cost Interceptors for Counter-UAS",
       "identifier": "NAWCAD-SN-26-Thunderdome",
       "category": "procurement",
@@ -7096,7 +7114,7 @@
     },
     {
       "deadline": "2026-07-17",
-      "days": 2,
+      "days": 1,
       "title": "5th SFS Dronebuster",
       "identifier": "FA452826QML03",
       "category": "procurement",
@@ -7104,8 +7122,17 @@
       "url": "https://sam.gov/workspace/contract/opp/d56e3c2f64a049e5aa495851ad7fb86c/view"
     },
     {
+      "deadline": "2026-07-17",
+      "days": 1,
+      "title": "N0017326Q5323 - CONFIGURATION, MAITENANCE AND TESTING FOR UUV",
+      "identifier": "N0017326Q5323",
+      "category": "procurement",
+      "source": "SAM.gov",
+      "url": "https://sam.gov/workspace/contract/opp/ac3fd8b64ddf4235a80c24329eecfaea/view"
+    },
+    {
       "deadline": "2026-07-20",
-      "days": 5,
+      "days": 4,
       "title": "S201--Building Drone Cleaning Service  VA Loma Linda Health Care Systems",
       "identifier": "36C26226Q1150",
       "category": "procurement",
@@ -7114,7 +7141,7 @@
     },
     {
       "deadline": "2026-07-20",
-      "days": 5,
+      "days": 4,
       "title": "50 SFS DRONEBUSTERS",
       "identifier": "50SFSDB",
       "category": "procurement",
@@ -7123,7 +7150,7 @@
     },
     {
       "deadline": "2026-07-20",
-      "days": 5,
+      "days": 4,
       "title": "Tactical sUAS Package",
       "identifier": "W50S7X26Q0004",
       "category": "procurement",
@@ -7132,7 +7159,7 @@
     },
     {
       "deadline": "2026-07-23",
-      "days": 8,
+      "days": 7,
       "title": "Request for White Papers - Organic Counter Small Unmanned Aircraft System (O-CsUAS) Dismounted Sensors",
       "identifier": "M67854-26-R-0131",
       "category": "procurement",
@@ -7141,7 +7168,7 @@
     },
     {
       "deadline": "2026-07-23",
-      "days": 8,
+      "days": 7,
       "title": "Request for White Papers - Organic Counter Small Unmanned Aircraft System Dismounted Effectors",
       "identifier": "M67854-26-R-0129",
       "category": "procurement",
@@ -7150,7 +7177,7 @@
     },
     {
       "deadline": "2026-07-23",
-      "days": 8,
+      "days": 7,
       "title": "Multirotor sUAS",
       "identifier": "FA805126S4008",
       "category": "procurement",
@@ -7159,7 +7186,7 @@
     },
     {
       "deadline": "2026-07-24",
-      "days": 9,
+      "days": 8,
       "title": "Establishing the Digital Opportunity Data Collection; Modernizing the FCC Form 477 Data Program; Delete, Delete, Delete",
       "identifier": "WC Docket Nos. 19-195 and 11-10, GN Docket No. 25-133",
       "category": "regulatory",
@@ -7168,7 +7195,7 @@
     },
     {
       "deadline": "2026-07-27",
-      "days": 12,
+      "days": 11,
       "title": "USSOCOM Air Loitering Munition (ALM)",
       "identifier": "H9240826RFIALM",
       "category": "procurement",
@@ -7177,7 +7204,7 @@
     },
     {
       "deadline": "2026-07-31",
-      "days": 16,
+      "days": 15,
       "title": "Man-portable, Handheld, Counter-Unmanned System (MPHC)",
       "identifier": "FA852026MPHC",
       "category": "procurement",
@@ -7186,7 +7213,7 @@
     },
     {
       "deadline": "2026-08-05",
-      "days": 21,
+      "days": 20,
       "title": "Designation-Restrict the Operation of Unmanned Aircraft in Close Proximity to a Fixed Site Facility; Extension of Comment Period",
       "identifier": "Docket No. FAA-2026-4558",
       "category": "regulatory",
@@ -7195,7 +7222,7 @@
     },
     {
       "deadline": "2026-08-28",
-      "days": 44,
+      "days": 43,
       "title": "ET 26-22 / DA-26-592 (DJI Security Assessment — comment by Aug 28, 2026)",
       "identifier": "FCC",
       "category": "regulatory",
@@ -7204,7 +7231,7 @@
     },
     {
       "deadline": "2026-09-05",
-      "days": 52,
+      "days": 51,
       "title": "Counter-UAS Authority for State, Local, Tribal, and Territorial Law Enforcement and Correctional Agencies",
       "identifier": "FBI-2026-0001",
       "category": "regulatory",
@@ -7213,7 +7240,7 @@
     },
     {
       "deadline": "2031-05-28",
-      "days": 1778,
+      "days": 1777,
       "title": "INVITATION TO PARTICIPATE IN THE DEPARTMENT OF WAR DRONE OTA CONSORTIUM",
       "identifier": "W58RGZ-26-2-SN01",
       "category": "procurement",
