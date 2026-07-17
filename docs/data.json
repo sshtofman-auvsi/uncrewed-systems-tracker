@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-17T13:40:03.447397+00:00",
-  "generated_human": "2026-07-17 13:40 UTC",
+  "generated_at": "2026-07-17T19:11:27.799174+00:00",
+  "generated_human": "2026-07-17 19:11 UTC",
   "demo": false,
   "items": [
     {
@@ -73,6 +73,38 @@
         "docket_total_comments": 589
       },
       "first_seen": "2026-07-17T13:40:03.447397+00:00",
+      "is_new": false
+    },
+    {
+      "id": "FCC ECFS:26110025728",
+      "source": "FCC ECFS",
+      "category": "regulatory",
+      "type": "Comment",
+      "title": "Scott Cavendish: COMMENT (FCC 26-22)",
+      "url": "https://www.fcc.gov/ecfs/search/search-filings/filing/26110025728",
+      "agency": "FCC",
+      "identifier": "FCC 26-22",
+      "date": "2026-07-17",
+      "deadline": null,
+      "summary": "I am writing to oppose the ban on DJI drones and other products for consumer and small business use. Our firm relies on the affordable DJI drones to provide construction photos and maps of work completed. The only non-DJI drones capable of this are at least 4 times the cost and do not provide the quality, battery time, or ease of use as the DJI drones. Nothing the drone is used for would be consid",
+      "score": 80,
+      "domains": [
+        "air",
+        "supply-chain"
+      ],
+      "matched_terms": [
+        "drone",
+        "dji",
+        "26-22"
+      ],
+      "watchlist": {
+        "key": "et-26-22",
+        "label": "ET 26-22 / DA-26-592 (DJI Security Assessment — comment by Aug 28, 2026)"
+      },
+      "extra": {
+        "proceeding": "26-22"
+      },
+      "first_seen": "2026-07-17T19:11:27.799174+00:00",
       "is_new": true
     },
     {
@@ -293,35 +325,6 @@
       "is_new": false
     },
     {
-      "id": "FCC ECFS:10702055201256",
-      "source": "FCC ECFS",
-      "category": "regulatory",
-      "type": "ORDER",
-      "title": "Office of Engineering & Technology: ORDER (FCC 26-74)",
-      "url": "https://docs.fcc.gov/public/attachments/DA-26-657A1.pdf",
-      "agency": "FCC",
-      "identifier": "FCC 26-74",
-      "date": "2026-07-02",
-      "deadline": null,
-      "summary": "",
-      "score": 80,
-      "domains": [
-        "air",
-        "spectrum",
-        "supply-chain"
-      ],
-      "matched_terms": [],
-      "watchlist": {
-        "key": "gn-26-74",
-        "label": "GN 26-74 (Unleashing American Drone Dominance)"
-      },
-      "extra": {
-        "proceeding": "26-74"
-      },
-      "first_seen": "2026-07-02T18:19:03.065344+00:00",
-      "is_new": false
-    },
-    {
       "id": "FCC ECFS:107022321324871",
       "source": "FCC ECFS",
       "category": "regulatory",
@@ -357,6 +360,35 @@
       "type": "ORDER",
       "title": "Wireless Telecommunications Bureau: ORDER (FCC 26-74)",
       "url": "https://docs.fcc.gov/public/attachments/DA-26-656A1.pdf",
+      "agency": "FCC",
+      "identifier": "FCC 26-74",
+      "date": "2026-07-02",
+      "deadline": null,
+      "summary": "",
+      "score": 80,
+      "domains": [
+        "air",
+        "spectrum",
+        "supply-chain"
+      ],
+      "matched_terms": [],
+      "watchlist": {
+        "key": "gn-26-74",
+        "label": "GN 26-74 (Unleashing American Drone Dominance)"
+      },
+      "extra": {
+        "proceeding": "26-74"
+      },
+      "first_seen": "2026-07-02T18:19:03.065344+00:00",
+      "is_new": false
+    },
+    {
+      "id": "FCC ECFS:10702055201256",
+      "source": "FCC ECFS",
+      "category": "regulatory",
+      "type": "ORDER",
+      "title": "Office of Engineering & Technology: ORDER (FCC 26-74)",
+      "url": "https://docs.fcc.gov/public/attachments/DA-26-657A1.pdf",
       "agency": "FCC",
       "identifier": "FCC 26-74",
       "date": "2026-07-02",
@@ -1097,12 +1129,12 @@
       "is_new": false
     },
     {
-      "id": "FCC ECFS:10531075320678",
+      "id": "FCC ECFS:10530375403656",
       "source": "FCC ECFS",
       "category": "regulatory",
       "type": "Comment",
-      "title": "Toby Dziubala: COMMENT (FCC 26-22)",
-      "url": "https://www.fcc.gov/ecfs/document/10531075320678/1",
+      "title": "Jeremy Monroe: COMMENT (FCC 26-22)",
+      "url": "https://www.fcc.gov/ecfs/document/10530375403656/1",
       "agency": "FCC",
       "identifier": "FCC 26-22",
       "date": "2026-06-01",
@@ -1125,12 +1157,12 @@
       "is_new": false
     },
     {
-      "id": "FCC ECFS:10530375403656",
+      "id": "FCC ECFS:10531075320678",
       "source": "FCC ECFS",
       "category": "regulatory",
       "type": "Comment",
-      "title": "Jeremy Monroe: COMMENT (FCC 26-22)",
-      "url": "https://www.fcc.gov/ecfs/document/10530375403656/1",
+      "title": "Toby Dziubala: COMMENT (FCC 26-22)",
+      "url": "https://www.fcc.gov/ecfs/document/10531075320678/1",
       "agency": "FCC",
       "identifier": "FCC 26-22",
       "date": "2026-06-01",
@@ -1822,34 +1854,6 @@
         "dji",
         "26-22"
       ],
-      "watchlist": {
-        "key": "et-26-22",
-        "label": "ET 26-22 / DA-26-592 (DJI Security Assessment — comment by Aug 28, 2026)"
-      },
-      "extra": {
-        "proceeding": "26-22"
-      },
-      "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": false
-    },
-    {
-      "id": "FCC ECFS:10522205935493",
-      "source": "FCC ECFS",
-      "category": "regulatory",
-      "type": "Comment",
-      "title": "John McGee: COMMENT (FCC 26-22)",
-      "url": "https://www.fcc.gov/ecfs/document/10522205935493/1",
-      "agency": "FCC",
-      "identifier": "FCC 26-22",
-      "date": "2026-05-22",
-      "deadline": null,
-      "summary": "",
-      "score": 80,
-      "domains": [
-        "supply-chain",
-        "air"
-      ],
-      "matched_terms": [],
       "watchlist": {
         "key": "et-26-22",
         "label": "ET 26-22 / DA-26-592 (DJI Security Assessment — comment by Aug 28, 2026)"
@@ -3757,6 +3761,36 @@
       "is_new": false
     },
     {
+      "id": "SAM.gov:2ea9d5b8f1dd415799d6761829ca5130",
+      "source": "SAM.gov",
+      "category": "procurement",
+      "type": "Sources Sought",
+      "title": "Fixed-Wing Vertical Take-Off and Landing (VTOL) small Unmanned Aircraft System (sUAS)",
+      "url": "https://sam.gov/workspace/contract/opp/2ea9d5b8f1dd415799d6761829ca5130/view",
+      "agency": "DEPT OF DEFENSE",
+      "identifier": "FA805126S4007",
+      "date": "2026-07-17",
+      "deadline": "2026-07-28",
+      "summary": "Fixed-Wing Vertical Take-Off and Landing (VTOL) small Unmanned Aircraft System (sUAS)",
+      "score": 66,
+      "domains": [
+        "air"
+      ],
+      "matched_terms": [
+        "unmanned aircraft",
+        "unmanned aircraft system",
+        "suas",
+        "small unmanned"
+      ],
+      "watchlist": null,
+      "extra": {
+        "naics": "336411",
+        "setaside": "NONE"
+      },
+      "first_seen": "2026-07-17T19:11:27.799174+00:00",
+      "is_new": true
+    },
+    {
       "id": "USAspending:FA875026FB005",
       "source": "USAspending",
       "category": "procurement",
@@ -4112,6 +4146,33 @@
       "is_new": false
     },
     {
+      "id": "SAM.gov:5cadc124a69b4c6b99bec1c9bc22f03c",
+      "source": "SAM.gov",
+      "category": "procurement",
+      "type": "Special Notice",
+      "title": "Notice of Intent to Solicit from a Single Source - Drone Training",
+      "url": "https://sam.gov/workspace/contract/opp/5cadc124a69b4c6b99bec1c9bc22f03c/view",
+      "agency": "HOMELAND SECURITY, DEPARTMENT OF",
+      "identifier": "5cadc124a69b4c6b99bec1c9bc22f03c",
+      "date": "2026-07-17",
+      "deadline": "2026-07-17",
+      "summary": "Notice of Intent to Solicit from a Single Source - Drone Training",
+      "score": 35,
+      "domains": [
+        "air"
+      ],
+      "matched_terms": [
+        "drone"
+      ],
+      "watchlist": null,
+      "extra": {
+        "naics": null,
+        "setaside": null
+      },
+      "first_seen": "2026-07-17T19:11:27.799174+00:00",
+      "is_new": true
+    },
+    {
       "id": "SAM.gov:37ada978d83e47cf84a9fdf19d0d4ab4",
       "source": "SAM.gov",
       "category": "procurement",
@@ -4136,7 +4197,7 @@
         "setaside": null
       },
       "first_seen": "2026-07-17T13:40:03.447397+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "SAM.gov:56874fdcdf444fc5a1b9c4a859bf50c7",
@@ -6133,7 +6194,7 @@
       "watchlist": null,
       "extra": {},
       "first_seen": "2026-07-17T13:40:03.447397+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "Regulations.gov:FAA-2024-1189-0004",
@@ -6964,6 +7025,33 @@
       "is_new": false
     },
     {
+      "id": "SAM.gov:1a715b5da57844d4a0e8dd926eadcb02",
+      "source": "SAM.gov",
+      "category": "procurement",
+      "type": "Special Notice",
+      "title": "UUV Swarm Support",
+      "url": "https://sam.gov/workspace/contract/opp/1a715b5da57844d4a0e8dd926eadcb02/view",
+      "agency": "DEPT OF DEFENSE",
+      "identifier": "N0017326Q5257",
+      "date": "2026-07-17",
+      "deadline": "2026-07-21",
+      "summary": "UUV Swarm Support",
+      "score": 18,
+      "domains": [
+        "maritime"
+      ],
+      "matched_terms": [
+        "uuv"
+      ],
+      "watchlist": null,
+      "extra": {
+        "naics": "541715",
+        "setaside": "SBA"
+      },
+      "first_seen": "2026-07-17T19:11:27.799174+00:00",
+      "is_new": true
+    },
+    {
       "id": "SAM.gov:8fa0f9bc23fd453a8321a19d46147d84",
       "source": "SAM.gov",
       "category": "procurement",
@@ -7046,8 +7134,8 @@
     {
       "name": "SAM.gov",
       "status": "ok",
-      "detail": "37 kept",
-      "count": 37
+      "detail": "40 kept",
+      "count": 40
     },
     {
       "name": "CourtListener",
@@ -7063,26 +7151,26 @@
     }
   ],
   "stats": {
-    "total": 252,
-    "new": 3,
+    "total": 255,
+    "new": 4,
     "by_category": {
       "regulatory": 142,
-      "procurement": 97,
+      "procurement": 100,
       "litigation": 9,
       "legislative": 4
     },
     "by_domain": {
-      "air": 195,
+      "air": 197,
       "supply-chain": 118,
       "spectrum": 56,
       "defense": 12,
       "ground": 5,
-      "maritime": 2
+      "maritime": 3
     },
     "by_source": {
       "FCC ECFS": 99,
       "USAspending": 60,
-      "SAM.gov": 37,
+      "SAM.gov": 40,
       "Regulations.gov": 26,
       "Federal Register": 17,
       "CourtListener": 9,
@@ -7113,7 +7201,7 @@
       ],
       "deadline": "2026-08-28",
       "count": 50,
-      "latest": "2026-07-06"
+      "latest": "2026-07-17"
     },
     {
       "key": "gn-26-74",
@@ -7274,6 +7362,15 @@
     {
       "deadline": "2026-07-17",
       "days": 0,
+      "title": "Notice of Intent to Solicit from a Single Source - Drone Training",
+      "identifier": "5cadc124a69b4c6b99bec1c9bc22f03c",
+      "category": "procurement",
+      "source": "SAM.gov",
+      "url": "https://sam.gov/workspace/contract/opp/5cadc124a69b4c6b99bec1c9bc22f03c/view"
+    },
+    {
+      "deadline": "2026-07-17",
+      "days": 0,
       "title": "FY26 AFJROTC VEX AIR Competition Drones - Intent to Sole Source",
       "identifier": "F2XJA76154AW01",
       "category": "procurement",
@@ -7333,6 +7430,15 @@
       "category": "procurement",
       "source": "SAM.gov",
       "url": "https://sam.gov/workspace/contract/opp/17651ffb9b43439c8a9f55c28d4e1bd6/view"
+    },
+    {
+      "deadline": "2026-07-21",
+      "days": 4,
+      "title": "UUV Swarm Support",
+      "identifier": "N0017326Q5257",
+      "category": "procurement",
+      "source": "SAM.gov",
+      "url": "https://sam.gov/workspace/contract/opp/1a715b5da57844d4a0e8dd926eadcb02/view"
     },
     {
       "deadline": "2026-07-23",
@@ -7405,6 +7511,15 @@
       "category": "procurement",
       "source": "SAM.gov",
       "url": "https://sam.gov/workspace/contract/opp/9d16ce1cfc254b448e0584c9b88a4fb1/view"
+    },
+    {
+      "deadline": "2026-07-28",
+      "days": 11,
+      "title": "Fixed-Wing Vertical Take-Off and Landing (VTOL) small Unmanned Aircraft System (sUAS)",
+      "identifier": "FA805126S4007",
+      "category": "procurement",
+      "source": "SAM.gov",
+      "url": "https://sam.gov/workspace/contract/opp/2ea9d5b8f1dd415799d6761829ca5130/view"
     },
     {
       "deadline": "2026-07-28",
