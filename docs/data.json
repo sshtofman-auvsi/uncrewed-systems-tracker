@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-17T02:43:36.190121+00:00",
-  "generated_human": "2026-07-17 02:43 UTC",
+  "generated_at": "2026-07-17T08:11:37.172872+00:00",
+  "generated_human": "2026-07-17 08:11 UTC",
   "demo": false,
   "items": [
     {
@@ -3757,6 +3757,37 @@
       "is_new": false
     },
     {
+      "id": "USAspending:FA875026FB005",
+      "source": "USAspending",
+      "category": "procurement",
+      "type": "Award",
+      "title": "BOOZ ALLEN HAMILTON INC: THE OBJECTIVE OF THIS EFFORT IS TO PROCURE, INTEGRATE, DEPLOY, AND SUSTAIN PROTOTYPE AND LOW-RATE INITIAL PRODUCTION (LR",
+      "url": "https://www.usaspending.gov/award/CONT_AWD_FA875026FB005_9700_FA875021D1100_9700",
+      "agency": "Department of Defense",
+      "identifier": "FA875026FB005",
+      "date": "2026-03-13",
+      "deadline": null,
+      "summary": "THE OBJECTIVE OF THIS EFFORT IS TO PROCURE, INTEGRATE, DEPLOY, AND SUSTAIN PROTOTYPE AND LOW-RATE INITIAL PRODUCTION (LRIP) UNMANNED AIRCRAFT SYSTEM (UAS) AND COUNTER UAS SOLUTIONS SUCH AS THE SMALL UNCREWED AIR DEFENSE SYSTEM (SUADS).",
+      "score": 66,
+      "domains": [
+        "air",
+        "defense"
+      ],
+      "matched_terms": [
+        "unmanned aircraft",
+        "unmanned aircraft system",
+        "uas",
+        "counter uas"
+      ],
+      "watchlist": null,
+      "extra": {
+        "amount": 18344627.0,
+        "award_type": "DELIVERY ORDER"
+      },
+      "first_seen": "2026-07-17T08:11:37.172872+00:00",
+      "is_new": true
+    },
+    {
       "id": "Federal Register:2026-13211",
       "source": "Federal Register",
       "category": "regulatory",
@@ -4105,7 +4136,7 @@
         "setaside": "SBA"
       },
       "first_seen": "2026-07-17T02:43:36.190121+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "SAM.gov:4b2ccfe5f64a44b3ae44da60363d2d78",
@@ -4132,7 +4163,7 @@
         "setaside": "NONE"
       },
       "first_seen": "2026-07-17T02:43:36.190121+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "SAM.gov:5f9e735fd3474c49a987a0380ddaba1c",
@@ -5008,29 +5039,6 @@
       "is_new": false
     },
     {
-      "id": "USAspending:W900KK26FA044",
-      "source": "USAspending",
-      "category": "procurement",
-      "type": "Award",
-      "title": "KRATOS UNMANNED AERIAL SYSTEMS, INC: TO PROVIDE ACCREDITED, THREAT REPRESENTATIVE UNMANNED AERIAL TARGET SYSTEMS FOR USE IN SENSOR PRESENTATIONS OR LIVE FIRE",
-      "url": "https://www.usaspending.gov/award/CONT_AWD_W900KK26FA044_9700_W900KK23D0015_9700",
-      "agency": "Department of Defense",
-      "identifier": "W900KK26FA044",
-      "date": "2026-03-05",
-      "deadline": null,
-      "summary": "TO PROVIDE ACCREDITED, THREAT REPRESENTATIVE UNMANNED AERIAL TARGET SYSTEMS FOR USE IN SENSOR PRESENTATIONS OR LIVE FIRE TRACKING AND ENGAGEMENT FOR WEAPONS SYSTEMS TESTING.",
-      "score": 30,
-      "domains": [],
-      "matched_terms": [],
-      "watchlist": null,
-      "extra": {
-        "amount": 7551400.6,
-        "award_type": "DELIVERY ORDER"
-      },
-      "first_seen": "2026-07-05T09:48:48.412597+00:00",
-      "is_new": false
-    },
-    {
       "id": "USAspending:19AQMM26C0257",
       "source": "USAspending",
       "category": "procurement",
@@ -5148,6 +5156,33 @@
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
       "is_new": false
+    },
+    {
+      "id": "USAspending:FA862926FB002",
+      "source": "USAspending",
+      "category": "procurement",
+      "type": "Award",
+      "title": "AEROVIRONMENT, INC: SUAS HURRICANE DRONES",
+      "url": "https://www.usaspending.gov/award/CONT_AWD_FA862926FB002_9700_FA862926DB001_9700",
+      "agency": "Department of Defense",
+      "identifier": "FA862926FB002",
+      "date": "2025-10-03",
+      "deadline": null,
+      "summary": "SUAS HURRICANE DRONES",
+      "score": 30,
+      "domains": [
+        "air"
+      ],
+      "matched_terms": [
+        "suas"
+      ],
+      "watchlist": null,
+      "extra": {
+        "amount": 49257580.67,
+        "award_type": "DELIVERY ORDER"
+      },
+      "first_seen": "2026-07-17T08:11:37.172872+00:00",
+      "is_new": true
     },
     {
       "id": "USAspending:FA868925FB010",
@@ -5331,7 +5366,7 @@
       "matched_terms": [],
       "watchlist": null,
       "extra": {
-        "amount": 665792655.0,
+        "amount": 669022655.0,
         "award_type": "DEFINITIVE CONTRACT"
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
@@ -5622,29 +5657,6 @@
       "is_new": false
     },
     {
-      "id": "USAspending:W58RGZ22C0021",
-      "source": "USAspending",
-      "category": "procurement",
-      "type": "Award",
-      "title": "AEROVIRONMENT, INC.: PROCUREMENT OF PUMA LE",
-      "url": "https://www.usaspending.gov/award/CONT_AWD_W58RGZ22C0021_9700_-NONE-_-NONE-",
-      "agency": "Department of Defense",
-      "identifier": "W58RGZ22C0021",
-      "date": "2022-01-21",
-      "deadline": null,
-      "summary": "PROCUREMENT OF PUMA LE",
-      "score": 30,
-      "domains": [],
-      "matched_terms": [],
-      "watchlist": null,
-      "extra": {
-        "amount": 5983259.08,
-        "award_type": "DEFINITIVE CONTRACT"
-      },
-      "first_seen": "2026-07-17T02:43:36.190121+00:00",
-      "is_new": true
-    },
-    {
       "id": "USAspending:W9127822C0004",
       "source": "USAspending",
       "category": "procurement",
@@ -5765,7 +5777,7 @@
       "matched_terms": [],
       "watchlist": null,
       "extra": {
-        "amount": 227194875.36,
+        "amount": 228138616.36,
         "award_type": "DEFINITIVE CONTRACT"
       },
       "first_seen": "2026-06-25T10:30:41.560386+00:00",
@@ -6169,7 +6181,7 @@
         "setaside": null
       },
       "first_seen": "2026-07-17T02:43:36.190121+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "SAM.gov:c0b30ef459ce41939fbeec6d28734936",
@@ -6925,7 +6937,7 @@
         "setaside": "NONE"
       },
       "first_seen": "2026-07-17T02:43:36.190121+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "SAM.gov:ac3fd8b64ddf4235a80c24329eecfaea",
@@ -7001,7 +7013,7 @@
   ],
   "stats": {
     "total": 250,
-    "new": 5,
+    "new": 2,
     "by_category": {
       "regulatory": 141,
       "procurement": 96,
@@ -7009,10 +7021,10 @@
       "legislative": 4
     },
     "by_domain": {
-      "air": 191,
+      "air": 193,
       "supply-chain": 118,
       "spectrum": 56,
-      "defense": 11,
+      "defense": 12,
       "ground": 5,
       "maritime": 2
     },
