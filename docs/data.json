@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-18T02:35:48.095521+00:00",
-  "generated_human": "2026-07-18 02:35 UTC",
+  "generated_at": "2026-07-18T07:53:13.366122+00:00",
+  "generated_human": "2026-07-18 07:53 UTC",
   "demo": false,
   "items": [
     {
@@ -3454,39 +3454,6 @@
       "is_new": false
     },
     {
-      "id": "USAspending:6973GH25F01296",
-      "source": "USAspending",
-      "category": "procurement",
-      "type": "Award",
-      "title": "NUVITEK LLC: THIS FUNDING IS TO PROVIDE LO CODE NO CODE APPLICATIONS FOR THE FAA'S DRONE DOMINANCE AND SOVEREIGNTY PROGRAM.",
-      "url": "https://www.usaspending.gov/award/CONT_AWD_6973GH25F01296_6920_47QTCA19D00A0_4732",
-      "agency": "Department of Transportation",
-      "identifier": "6973GH25F01296",
-      "date": "2025-09-12",
-      "deadline": null,
-      "summary": "THIS FUNDING IS TO PROVIDE LO CODE NO CODE APPLICATIONS FOR THE FAA'S DRONE DOMINANCE AND SOVEREIGNTY PROGRAM.",
-      "score": 80,
-      "domains": [
-        "air",
-        "spectrum",
-        "supply-chain"
-      ],
-      "matched_terms": [
-        "drone",
-        "drone dominance"
-      ],
-      "watchlist": {
-        "key": "gn-26-74",
-        "label": "GN 26-74 (Unleashing American Drone Dominance)"
-      },
-      "extra": {
-        "amount": 7593580.87,
-        "award_type": "DELIVERY ORDER"
-      },
-      "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": false
-    },
-    {
       "id": "Regulations.gov:BIS-2025-0059-0088",
       "source": "Regulations.gov",
       "category": "regulatory",
@@ -4083,7 +4050,7 @@
       ],
       "watchlist": null,
       "extra": {
-        "amount": 80543251.96,
+        "amount": 80969838.96,
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-07-10T11:23:52.007909+00:00",
@@ -5369,6 +5336,29 @@
       "is_new": false
     },
     {
+      "id": "USAspending:W58RGZ25C0019",
+      "source": "USAspending",
+      "category": "procurement",
+      "type": "Award",
+      "title": "AEROVIRONMENT, INC: PUMA AE 3, PUMA LE, PUMA ACCESSORIES, ERA, PUMA SOFTWARE UPDATE KIT, CONTRACTOR LOGISTICS SUPPORTS SERVICES (CLS), OCONU",
+      "url": "https://www.usaspending.gov/award/CONT_AWD_W58RGZ25C0019_9700_-NONE-_-NONE-",
+      "agency": "Department of Defense",
+      "identifier": "W58RGZ25C0019",
+      "date": "2025-04-30",
+      "deadline": null,
+      "summary": "PUMA AE 3, PUMA LE, PUMA ACCESSORIES, ERA, PUMA SOFTWARE UPDATE KIT, CONTRACTOR LOGISTICS SUPPORTS SERVICES (CLS), OCONUS/CONUS, CONTRACTOR TRANSPORTATION SERVICES, TRAINING SERVICES, TRILLIUM HD59 PAYLOAD HARDWARE IN SUPPORT OF UKRAINE.",
+      "score": 30,
+      "domains": [],
+      "matched_terms": [],
+      "watchlist": null,
+      "extra": {
+        "amount": 62630394.02,
+        "award_type": "DEFINITIVE CONTRACT"
+      },
+      "first_seen": "2026-07-18T07:53:13.366122+00:00",
+      "is_new": true
+    },
+    {
       "id": "USAspending:FA862025FB090",
       "source": "USAspending",
       "category": "procurement",
@@ -5454,7 +5444,7 @@
       "matched_terms": [],
       "watchlist": null,
       "extra": {
-        "amount": 669022655.0,
+        "amount": 673792655.0,
         "award_type": "DEFINITIVE CONTRACT"
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
@@ -7053,33 +7043,6 @@
       },
       "first_seen": "2026-07-17T02:43:36.190121+00:00",
       "is_new": false
-    },
-    {
-      "id": "SAM.gov:ac3fd8b64ddf4235a80c24329eecfaea",
-      "source": "SAM.gov",
-      "category": "procurement",
-      "type": "Special Notice",
-      "title": "N0017326Q5323 - CONFIGURATION, MAITENANCE AND TESTING FOR UUV",
-      "url": "https://sam.gov/workspace/contract/opp/ac3fd8b64ddf4235a80c24329eecfaea/view",
-      "agency": "DEPT OF DEFENSE",
-      "identifier": "N0017326Q5323",
-      "date": "2026-07-15",
-      "deadline": "2026-07-17",
-      "summary": "N0017326Q5323 - CONFIGURATION, MAITENANCE AND TESTING FOR UUV",
-      "score": 18,
-      "domains": [
-        "maritime"
-      ],
-      "matched_terms": [
-        "uuv"
-      ],
-      "watchlist": null,
-      "extra": {
-        "naics": "334511",
-        "setaside": null
-      },
-      "first_seen": "2026-07-16T07:38:06.465860+00:00",
-      "is_new": false
     }
   ],
   "sources": [
@@ -7110,8 +7073,8 @@
     {
       "name": "SAM.gov",
       "status": "ok",
-      "detail": "40 kept",
-      "count": 40
+      "detail": "39 kept",
+      "count": 39
     },
     {
       "name": "CourtListener",
@@ -7127,26 +7090,26 @@
     }
   ],
   "stats": {
-    "total": 254,
-    "new": 0,
+    "total": 253,
+    "new": 1,
     "by_category": {
       "regulatory": 141,
-      "procurement": 100,
+      "procurement": 99,
       "litigation": 9,
       "legislative": 4
     },
     "by_domain": {
-      "air": 196,
-      "supply-chain": 118,
-      "spectrum": 56,
+      "air": 195,
+      "supply-chain": 117,
+      "spectrum": 55,
       "defense": 12,
       "ground": 5,
-      "maritime": 3
+      "maritime": 2
     },
     "by_source": {
       "FCC ECFS": 99,
       "USAspending": 60,
-      "SAM.gov": 40,
+      "SAM.gov": 39,
       "Regulations.gov": 25,
       "Federal Register": 17,
       "CourtListener": 9,
@@ -7190,7 +7153,7 @@
         "supply-chain"
       ],
       "deadline": null,
-      "count": 55,
+      "count": 54,
       "latest": "2026-07-02"
     },
     {
