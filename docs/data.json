@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-20T14:08:10.112736+00:00",
-  "generated_human": "2026-07-20 14:08 UTC",
+  "generated_at": "2026-07-20T19:47:08.857440+00:00",
+  "generated_human": "2026-07-20 19:47 UTC",
   "demo": false,
   "items": [
     {
@@ -70,10 +70,10 @@
         "label": "Section 2209 (Critical Infrastructure UAS Restrictions)"
       },
       "extra": {
-        "docket_total_comments": 593
+        "docket_total_comments": 595
       },
       "first_seen": "2026-07-20T14:08:10.112736+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:26110025728",
@@ -4028,6 +4028,36 @@
       "is_new": false
     },
     {
+      "id": "SAM.gov:57889edc24cd40089188290808afd5e6",
+      "source": "SAM.gov",
+      "category": "procurement",
+      "type": "RFI",
+      "title": "Request for Information (RFI): Special Mission Vessel (SMV) – Helicopter, Unmanned Aerial System (UAS), Unmanned Surface Vehicle (USV) & Small Craft Support Vessel",
+      "url": "https://sam.gov/workspace/contract/opp/57889edc24cd40089188290808afd5e6/view",
+      "agency": "DEPT OF DEFENSE",
+      "identifier": "N0002426RXXXX",
+      "date": "2026-07-20",
+      "deadline": "2026-08-19",
+      "summary": "Request for Information (RFI): Special Mission Vessel (SMV) – Helicopter, Unmanned Aerial System (UAS), Unmanned Surface Vehicle (USV) & Small Craft Support Vessel",
+      "score": 45,
+      "domains": [
+        "air",
+        "maritime"
+      ],
+      "matched_terms": [
+        "uas",
+        "unmanned surface vehicle",
+        "usv"
+      ],
+      "watchlist": null,
+      "extra": {
+        "naics": "336612",
+        "setaside": "NONE"
+      },
+      "first_seen": "2026-07-20T19:47:08.857440+00:00",
+      "is_new": true
+    },
+    {
       "id": "USAspending:FA807521F0077",
       "source": "USAspending",
       "category": "procurement",
@@ -4113,12 +4143,12 @@
       "is_new": false
     },
     {
-      "id": "SAM.gov:ab366119237846dfa4f90f0ed910f7a6",
+      "id": "SAM.gov:49e103145798464facdce42f0cee33dc",
       "source": "SAM.gov",
       "category": "procurement",
       "type": "Solicitation (RFP)",
       "title": "SFS Drone Detection System",
-      "url": "https://sam.gov/workspace/contract/opp/ab366119237846dfa4f90f0ed910f7a6/view",
+      "url": "https://sam.gov/workspace/contract/opp/49e103145798464facdce42f0cee33dc/view",
       "agency": "DEPT OF DEFENSE",
       "identifier": "FA302226Q0012",
       "date": "2026-07-20",
@@ -4136,7 +4166,7 @@
         "naics": "334511",
         "setaside": "SBA"
       },
-      "first_seen": "2026-07-20T14:08:10.112736+00:00",
+      "first_seen": "2026-07-20T19:47:08.857440+00:00",
       "is_new": true
     },
     {
@@ -6588,30 +6618,6 @@
       "is_new": false
     },
     {
-      "id": "Regulations.gov:FAA-2024-1432-0004",
-      "source": "Regulations.gov",
-      "category": "regulatory",
-      "type": "Document",
-      "title": "Tip Top Drone Services LLC - Exemption/Rulemaking (Amendment)",
-      "url": "https://www.regulations.gov/document/FAA-2024-1432-0004",
-      "agency": "FAA",
-      "identifier": "FAA-2024-1432",
-      "date": "2026-07-08",
-      "deadline": null,
-      "summary": "Tip Top Drone Services LLC - Exemption/Rulemaking (Amendment)",
-      "score": 20,
-      "domains": [
-        "air"
-      ],
-      "matched_terms": [
-        "drone"
-      ],
-      "watchlist": null,
-      "extra": {},
-      "first_seen": "2026-07-08T21:50:43.410072+00:00",
-      "is_new": false
-    },
-    {
       "id": "Regulations.gov:FAA-2024-2355-0007",
       "source": "Regulations.gov",
       "category": "regulatory",
@@ -6660,29 +6666,26 @@
       "is_new": false
     },
     {
-      "id": "SAM.gov:fc0180af25434c90a1079d2fd10ef274",
-      "source": "SAM.gov",
-      "category": "procurement",
-      "type": "Special Notice",
-      "title": "INTENT TO SOLE SOURCE- sUAS Detection, Identification, and Tracking Subscription Services",
-      "url": "https://sam.gov/workspace/contract/opp/fc0180af25434c90a1079d2fd10ef274/view",
-      "agency": "DEPT OF DEFENSE",
-      "identifier": "FY26SFSSUASSubscriptions",
+      "id": "Regulations.gov:FAA-2024-1432-0004",
+      "source": "Regulations.gov",
+      "category": "regulatory",
+      "type": "Document",
+      "title": "Tip Top Drone Services LLC - Exemption/Rulemaking (Amendment)",
+      "url": "https://www.regulations.gov/document/FAA-2024-1432-0004",
+      "agency": "FAA",
+      "identifier": "FAA-2024-1432",
       "date": "2026-07-08",
-      "deadline": "2026-07-13",
-      "summary": "INTENT TO SOLE SOURCE- sUAS Detection, Identification, and Tracking Subscription Services",
+      "deadline": null,
+      "summary": "Tip Top Drone Services LLC - Exemption/Rulemaking (Amendment)",
       "score": 20,
       "domains": [
         "air"
       ],
       "matched_terms": [
-        "suas"
+        "drone"
       ],
       "watchlist": null,
-      "extra": {
-        "naics": "334511",
-        "setaside": "NONE"
-      },
+      "extra": {},
       "first_seen": "2026-07-08T21:50:43.410072+00:00",
       "is_new": false
     },
@@ -7043,33 +7046,6 @@
       },
       "first_seen": "2026-07-17T19:11:27.799174+00:00",
       "is_new": false
-    },
-    {
-      "id": "SAM.gov:8fa0f9bc23fd453a8321a19d46147d84",
-      "source": "SAM.gov",
-      "category": "procurement",
-      "type": "Sources Sought",
-      "title": "NSN 1560-01-731-2349; SKIN,AIRCRAFT; WSDC: EFN; MQ-4C TRITON UAS",
-      "url": "https://sam.gov/workspace/contract/opp/8fa0f9bc23fd453a8321a19d46147d84/view",
-      "agency": "DEPT OF DEFENSE",
-      "identifier": "SPE4A626R0276",
-      "date": "2026-07-16",
-      "deadline": "2026-07-23",
-      "summary": "NSN 1560-01-731-2349; SKIN,AIRCRAFT; WSDC: EFN; MQ-4C TRITON UAS",
-      "score": 18,
-      "domains": [
-        "air"
-      ],
-      "matched_terms": [
-        "uas"
-      ],
-      "watchlist": null,
-      "extra": {
-        "naics": "336413",
-        "setaside": "NONE"
-      },
-      "first_seen": "2026-07-17T02:43:36.190121+00:00",
-      "is_new": false
     }
   ],
   "sources": [
@@ -7100,8 +7076,8 @@
     {
       "name": "SAM.gov",
       "status": "ok",
-      "detail": "40 kept",
-      "count": 40
+      "detail": "39 kept",
+      "count": 39
     },
     {
       "name": "CourtListener",
@@ -7117,26 +7093,26 @@
     }
   ],
   "stats": {
-    "total": 254,
+    "total": 253,
     "new": 2,
     "by_category": {
       "regulatory": 141,
-      "procurement": 100,
+      "procurement": 99,
       "litigation": 9,
       "legislative": 4
     },
     "by_domain": {
-      "air": 196,
+      "air": 195,
       "supply-chain": 117,
       "spectrum": 55,
       "defense": 12,
       "ground": 5,
-      "maritime": 2
+      "maritime": 3
     },
     "by_source": {
       "FCC ECFS": 99,
       "USAspending": 60,
-      "SAM.gov": 40,
+      "SAM.gov": 39,
       "Regulations.gov": 25,
       "Federal Register": 17,
       "CourtListener": 9,
@@ -7407,15 +7383,6 @@
       "url": "https://sam.gov/workspace/contract/opp/2eeedf55e668416d8f30a9dd400e84d5/view"
     },
     {
-      "deadline": "2026-07-23",
-      "days": 3,
-      "title": "NSN 1560-01-731-2349; SKIN,AIRCRAFT; WSDC: EFN; MQ-4C TRITON UAS",
-      "identifier": "SPE4A626R0276",
-      "category": "procurement",
-      "source": "SAM.gov",
-      "url": "https://sam.gov/workspace/contract/opp/8fa0f9bc23fd453a8321a19d46147d84/view"
-    },
-    {
       "deadline": "2026-07-24",
       "days": 4,
       "title": "Establishing the Digital Opportunity Data Collection; Modernizing the FCC Form 477 Data Program; Delete, Delete, Delete",
@@ -7485,7 +7452,7 @@
       "identifier": "FA302226Q0012",
       "category": "procurement",
       "source": "SAM.gov",
-      "url": "https://sam.gov/workspace/contract/opp/ab366119237846dfa4f90f0ed910f7a6/view"
+      "url": "https://sam.gov/workspace/contract/opp/49e103145798464facdce42f0cee33dc/view"
     },
     {
       "deadline": "2026-08-17",
@@ -7495,6 +7462,15 @@
       "category": "procurement",
       "source": "SAM.gov",
       "url": "https://sam.gov/workspace/contract/opp/37ada978d83e47cf84a9fdf19d0d4ab4/view"
+    },
+    {
+      "deadline": "2026-08-19",
+      "days": 30,
+      "title": "Request for Information (RFI): Special Mission Vessel (SMV) – Helicopter, Unmanned Aerial System (UAS), Unmanned Surface Vehicle (USV) & Small Craft Support Vessel",
+      "identifier": "N0002426RXXXX",
+      "category": "procurement",
+      "source": "SAM.gov",
+      "url": "https://sam.gov/workspace/contract/opp/57889edc24cd40089188290808afd5e6/view"
     },
     {
       "deadline": "2026-08-28",
