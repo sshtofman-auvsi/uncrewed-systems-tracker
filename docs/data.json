@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-20T09:16:46.439539+00:00",
-  "generated_human": "2026-07-20 09:16 UTC",
+  "generated_at": "2026-07-20T14:08:10.112736+00:00",
+  "generated_human": "2026-07-20 14:08 UTC",
   "demo": false,
   "items": [
     {
@@ -46,17 +46,17 @@
       "is_new": false
     },
     {
-      "id": "Regulations.gov:FAA-2026-4558-0607",
+      "id": "Regulations.gov:FAA-2026-4558-0609",
       "source": "Regulations.gov",
       "category": "regulatory",
       "type": "Comment",
-      "title": "Comment on Designation – Restrict the Operation of Unmanned Aircraft in Close Proximity  to a Fixed Site Facility: Comment from Marilyn Morgan",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-0607",
+      "title": "Comment on Designation – Restrict the Operation of Unmanned Aircraft in Close Proximity  to a Fixed Site Facility: Comment from Articles In Common LLC",
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-0609",
       "agency": "FAA",
       "identifier": "FAA-2026-4558",
-      "date": "2026-07-17",
+      "date": "2026-07-20",
       "deadline": null,
-      "summary": "Comment from Marilyn Morgan",
+      "summary": "Comment from Articles In Common LLC",
       "score": 80,
       "domains": [
         "air"
@@ -70,10 +70,10 @@
         "label": "Section 2209 (Critical Infrastructure UAS Restrictions)"
       },
       "extra": {
-        "docket_total_comments": 589
+        "docket_total_comments": 593
       },
-      "first_seen": "2026-07-17T13:40:03.447397+00:00",
-      "is_new": false
+      "first_seen": "2026-07-20T14:08:10.112736+00:00",
+      "is_new": true
     },
     {
       "id": "FCC ECFS:26110025728",
@@ -4113,6 +4113,33 @@
       "is_new": false
     },
     {
+      "id": "SAM.gov:ab366119237846dfa4f90f0ed910f7a6",
+      "source": "SAM.gov",
+      "category": "procurement",
+      "type": "Solicitation (RFP)",
+      "title": "SFS Drone Detection System",
+      "url": "https://sam.gov/workspace/contract/opp/ab366119237846dfa4f90f0ed910f7a6/view",
+      "agency": "DEPT OF DEFENSE",
+      "identifier": "FA302226Q0012",
+      "date": "2026-07-20",
+      "deadline": "2026-08-05",
+      "summary": "SFS Drone Detection System",
+      "score": 35,
+      "domains": [
+        "air"
+      ],
+      "matched_terms": [
+        "drone"
+      ],
+      "watchlist": null,
+      "extra": {
+        "naics": "334511",
+        "setaside": "SBA"
+      },
+      "first_seen": "2026-07-20T14:08:10.112736+00:00",
+      "is_new": true
+    },
+    {
       "id": "SAM.gov:5cadc124a69b4c6b99bec1c9bc22f03c",
       "source": "SAM.gov",
       "category": "procurement",
@@ -7073,8 +7100,8 @@
     {
       "name": "SAM.gov",
       "status": "ok",
-      "detail": "39 kept",
-      "count": 39
+      "detail": "40 kept",
+      "count": 40
     },
     {
       "name": "CourtListener",
@@ -7090,16 +7117,16 @@
     }
   ],
   "stats": {
-    "total": 253,
-    "new": 0,
+    "total": 254,
+    "new": 2,
     "by_category": {
       "regulatory": 141,
-      "procurement": 99,
+      "procurement": 100,
       "litigation": 9,
       "legislative": 4
     },
     "by_domain": {
-      "air": 195,
+      "air": 196,
       "supply-chain": 117,
       "spectrum": 55,
       "defense": 12,
@@ -7109,7 +7136,7 @@
     "by_source": {
       "FCC ECFS": 99,
       "USAspending": 60,
-      "SAM.gov": 39,
+      "SAM.gov": 40,
       "Regulations.gov": 25,
       "Federal Register": 17,
       "CourtListener": 9,
@@ -7127,7 +7154,7 @@
       ],
       "deadline": "2026-07-06",
       "count": 2,
-      "latest": "2026-07-17"
+      "latest": "2026-07-20"
     },
     {
       "key": "et-26-22",
@@ -7450,6 +7477,15 @@
       "category": "regulatory",
       "source": "Federal Register",
       "url": "https://www.federalregister.gov/documents/2026/06/30/2026-13126/designation-restrict-the-operation-of-unmanned-aircraft-in-close-proximity-to-a-fixed-site-facility"
+    },
+    {
+      "deadline": "2026-08-05",
+      "days": 16,
+      "title": "SFS Drone Detection System",
+      "identifier": "FA302226Q0012",
+      "category": "procurement",
+      "source": "SAM.gov",
+      "url": "https://sam.gov/workspace/contract/opp/ab366119237846dfa4f90f0ed910f7a6/view"
     },
     {
       "deadline": "2026-08-17",
