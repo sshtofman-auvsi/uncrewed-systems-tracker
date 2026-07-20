@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-19T19:08:35.755994+00:00",
-  "generated_human": "2026-07-19 19:08 UTC",
+  "generated_at": "2026-07-20T03:17:47.176704+00:00",
+  "generated_human": "2026-07-20 03:17 UTC",
   "demo": false,
   "items": [
     {
@@ -7300,7 +7300,7 @@
   "deadlines": [
     {
       "deadline": "2026-07-20",
-      "days": 1,
+      "days": 0,
       "title": "S201--Building Drone Cleaning Service  VA Loma Linda Health Care Systems",
       "identifier": "36C26226Q1150",
       "category": "procurement",
@@ -7309,7 +7309,7 @@
     },
     {
       "deadline": "2026-07-20",
-      "days": 1,
+      "days": 0,
       "title": "50 SFS DRONEBUSTERS",
       "identifier": "50SFSDB",
       "category": "procurement",
@@ -7318,7 +7318,7 @@
     },
     {
       "deadline": "2026-07-20",
-      "days": 1,
+      "days": 0,
       "title": "Tactical sUAS Package",
       "identifier": "W50S7X26Q0004",
       "category": "procurement",
@@ -7327,7 +7327,7 @@
     },
     {
       "deadline": "2026-07-21",
-      "days": 2,
+      "days": 1,
       "title": "UUV Swarm Support",
       "identifier": "N0017326Q5257",
       "category": "procurement",
@@ -7336,7 +7336,7 @@
     },
     {
       "deadline": "2026-07-23",
-      "days": 4,
+      "days": 3,
       "title": "Request for White Papers - Organic Counter Small Unmanned Aircraft System (O-CsUAS) Dismounted Sensors",
       "identifier": "M67854-26-R-0131",
       "category": "procurement",
@@ -7345,7 +7345,7 @@
     },
     {
       "deadline": "2026-07-23",
-      "days": 4,
+      "days": 3,
       "title": "Request for White Papers - Organic Counter Small Unmanned Aircraft System Dismounted Effectors",
       "identifier": "M67854-26-R-0129",
       "category": "procurement",
@@ -7354,7 +7354,7 @@
     },
     {
       "deadline": "2026-07-23",
-      "days": 4,
+      "days": 3,
       "title": "FY26 USAFA 34th TRSS sUAS Drones",
       "identifier": "FA700026Q0073",
       "category": "procurement",
@@ -7363,7 +7363,7 @@
     },
     {
       "deadline": "2026-07-23",
-      "days": 4,
+      "days": 3,
       "title": "RQ-20 PUMA sUAS replacement parts",
       "identifier": "A065985",
       "category": "procurement",
@@ -7372,7 +7372,7 @@
     },
     {
       "deadline": "2026-07-23",
-      "days": 4,
+      "days": 3,
       "title": "Multirotor sUAS",
       "identifier": "FA805126S4008",
       "category": "procurement",
@@ -7381,7 +7381,7 @@
     },
     {
       "deadline": "2026-07-23",
-      "days": 4,
+      "days": 3,
       "title": "NSN 1560-01-731-2349; SKIN,AIRCRAFT; WSDC: EFN; MQ-4C TRITON UAS",
       "identifier": "SPE4A626R0276",
       "category": "procurement",
@@ -7390,7 +7390,7 @@
     },
     {
       "deadline": "2026-07-24",
-      "days": 5,
+      "days": 4,
       "title": "Establishing the Digital Opportunity Data Collection; Modernizing the FCC Form 477 Data Program; Delete, Delete, Delete",
       "identifier": "WC Docket Nos. 19-195 and 11-10, GN Docket No. 25-133",
       "category": "regulatory",
@@ -7399,7 +7399,7 @@
     },
     {
       "deadline": "2026-07-27",
-      "days": 8,
+      "days": 7,
       "title": "USSOCOM Air Loitering Munition (ALM)",
       "identifier": "H9240826RFIALM",
       "category": "procurement",
@@ -7408,7 +7408,7 @@
     },
     {
       "deadline": "2026-07-28",
-      "days": 9,
+      "days": 8,
       "title": "Fixed-Wing Vertical Take-Off and Landing (VTOL) small Unmanned Aircraft System (sUAS)",
       "identifier": "FA805126S4007",
       "category": "procurement",
@@ -7417,7 +7417,7 @@
     },
     {
       "deadline": "2026-07-28",
-      "days": 9,
+      "days": 8,
       "title": "352 SOW Counter sUAS",
       "identifier": "FA558726Q0027",
       "category": "procurement",
@@ -7426,7 +7426,7 @@
     },
     {
       "deadline": "2026-07-31",
-      "days": 12,
+      "days": 11,
       "title": "Drone",
       "identifier": "W912LA-Q-A021",
       "category": "procurement",
@@ -7435,7 +7435,7 @@
     },
     {
       "deadline": "2026-07-31",
-      "days": 12,
+      "days": 11,
       "title": "Man-portable, Handheld, Counter-Unmanned System (MPHC)",
       "identifier": "FA852026MPHC",
       "category": "procurement",
@@ -7444,7 +7444,7 @@
     },
     {
       "deadline": "2026-08-05",
-      "days": 17,
+      "days": 16,
       "title": "Designation-Restrict the Operation of Unmanned Aircraft in Close Proximity to a Fixed Site Facility; Extension of Comment Period",
       "identifier": "Docket No. FAA-2026-4558",
       "category": "regulatory",
@@ -7453,7 +7453,7 @@
     },
     {
       "deadline": "2026-08-17",
-      "days": 29,
+      "days": 28,
       "title": "RFI-Drone CLT",
       "identifier": "H9240826RFIDRONECLT",
       "category": "procurement",
@@ -7462,7 +7462,7 @@
     },
     {
       "deadline": "2026-08-28",
-      "days": 40,
+      "days": 39,
       "title": "ET 26-22 / DA-26-592 (DJI Security Assessment — comment by Aug 28, 2026)",
       "identifier": "FCC",
       "category": "regulatory",
@@ -7471,7 +7471,7 @@
     },
     {
       "deadline": "2026-08-31",
-      "days": 43,
+      "days": 42,
       "title": "INDUSTRY DAY FOR GROUP 1 AND GROUP 2 UNMANNED AIRCRAFT SYSTEM (UAS) TRAINING, MISSION PLANNING, MISSION REHEARSAL, SIMULATION, AND QUALIFICATION MANAGEMENT SYSTEMS",
       "identifier": "N00019-26-PMA-263-0999",
       "category": "procurement",
@@ -7480,7 +7480,7 @@
     },
     {
       "deadline": "2026-09-05",
-      "days": 48,
+      "days": 47,
       "title": "Counter-UAS Authority for State, Local, Tribal, and Territorial Law Enforcement and Correctional Agencies",
       "identifier": "FBI-2026-0001",
       "category": "regulatory",
@@ -7489,7 +7489,7 @@
     },
     {
       "deadline": "2031-05-28",
-      "days": 1774,
+      "days": 1773,
       "title": "INVITATION TO PARTICIPATE IN THE DEPARTMENT OF WAR DRONE OTA CONSORTIUM",
       "identifier": "W58RGZ-26-2-SN01",
       "category": "procurement",
