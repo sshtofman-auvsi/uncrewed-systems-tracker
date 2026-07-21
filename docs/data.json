@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-21T13:52:50.357256+00:00",
-  "generated_human": "2026-07-21 13:52 UTC",
+  "generated_at": "2026-07-21T19:24:58.161416+00:00",
+  "generated_human": "2026-07-21 19:24 UTC",
   "demo": false,
   "items": [
     {
@@ -46,17 +46,17 @@
       "is_new": false
     },
     {
-      "id": "Regulations.gov:FAA-2026-4558-0609",
+      "id": "Regulations.gov:FAA-2026-4558-0631",
       "source": "Regulations.gov",
       "category": "regulatory",
       "type": "Comment",
-      "title": "Comment on Designation – Restrict the Operation of Unmanned Aircraft in Close Proximity  to a Fixed Site Facility: Comment from Articles In Common LLC",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-0609",
+      "title": "Comment on Designation – Restrict the Operation of Unmanned Aircraft in Close Proximity  to a Fixed Site Facility: Comment from Kristian Morehead",
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-0631",
       "agency": "FAA",
       "identifier": "FAA-2026-4558",
-      "date": "2026-07-20",
+      "date": "2026-07-21",
       "deadline": null,
-      "summary": "Comment from Articles In Common LLC",
+      "summary": "Comment from Kristian Morehead",
       "score": 80,
       "domains": [
         "air"
@@ -70,10 +70,10 @@
         "label": "Section 2209 (Critical Infrastructure UAS Restrictions)"
       },
       "extra": {
-        "docket_total_comments": 595
+        "docket_total_comments": 786
       },
-      "first_seen": "2026-07-20T14:08:10.112736+00:00",
-      "is_new": false
+      "first_seen": "2026-07-21T19:24:58.161416+00:00",
+      "is_new": true
     },
     {
       "id": "FCC ECFS:26110025728",
@@ -3454,17 +3454,17 @@
       "is_new": false
     },
     {
-      "id": "Regulations.gov:BIS-2025-0059-0088",
+      "id": "Regulations.gov:BIS-2025-0059-0143",
       "source": "Regulations.gov",
       "category": "regulatory",
       "type": "Comment",
-      "title": "Comment on Notice of Request for Public Comments on Section 232 National Security Investigation of Imports of Unmanned Aircraft Systems (UAS) and Their Parts and Components: Individual. Ryan Latourette. 07/20/2025",
-      "url": "https://www.regulations.gov/comment/BIS-2025-0059-0088",
+      "title": "Comment on Notice of Request for Public Comments on Section 232 National Security Investigation of Imports of Unmanned Aircraft Systems (UAS) and Their Parts and Components: Red Cat Holdings. 08/05/2025",
+      "url": "https://www.regulations.gov/comment/BIS-2025-0059-0143",
       "agency": "BIS",
       "identifier": "BIS-2025-0059",
       "date": "2025-08-08",
       "deadline": null,
-      "summary": "Individual. Ryan Latourette. 07/20/2025",
+      "summary": "Red Cat Holdings. 08/05/2025",
       "score": 80,
       "domains": [
         "air",
@@ -3483,8 +3483,8 @@
       "extra": {
         "docket_total_comments": 196
       },
-      "first_seen": "2026-06-23T11:44:45.742953+00:00",
-      "is_new": false
+      "first_seen": "2026-07-21T19:24:58.161416+00:00",
+      "is_new": true
     },
     {
       "id": "Federal Register:2026-07585",
@@ -4194,33 +4194,6 @@
         "setaside": "SBA"
       },
       "first_seen": "2026-07-20T19:47:08.857440+00:00",
-      "is_new": false
-    },
-    {
-      "id": "SAM.gov:5cadc124a69b4c6b99bec1c9bc22f03c",
-      "source": "SAM.gov",
-      "category": "procurement",
-      "type": "Special Notice",
-      "title": "Notice of Intent to Solicit from a Single Source - Drone Training",
-      "url": "https://sam.gov/workspace/contract/opp/5cadc124a69b4c6b99bec1c9bc22f03c/view",
-      "agency": "HOMELAND SECURITY, DEPARTMENT OF",
-      "identifier": "5cadc124a69b4c6b99bec1c9bc22f03c",
-      "date": "2026-07-17",
-      "deadline": "2026-07-17",
-      "summary": "Notice of Intent to Solicit from a Single Source - Drone Training",
-      "score": 35,
-      "domains": [
-        "air"
-      ],
-      "matched_terms": [
-        "drone"
-      ],
-      "watchlist": null,
-      "extra": {
-        "naics": null,
-        "setaside": null
-      },
-      "first_seen": "2026-07-17T19:11:27.799174+00:00",
       "is_new": false
     },
     {
@@ -6268,7 +6241,7 @@
       "watchlist": null,
       "extra": {},
       "first_seen": "2026-07-21T13:52:50.357256+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "SAM.gov:b6def6dc91774c30a3113a97694a693c",
@@ -6295,7 +6268,7 @@
         "setaside": "NONE"
       },
       "first_seen": "2026-07-21T13:52:50.357256+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "Regulations.gov:FAA-2024-0206-0003",
@@ -7127,8 +7100,8 @@
     {
       "name": "SAM.gov",
       "status": "ok",
-      "detail": "40 kept",
-      "count": 40
+      "detail": "39 kept",
+      "count": 39
     },
     {
       "name": "CourtListener",
@@ -7144,16 +7117,16 @@
     }
   ],
   "stats": {
-    "total": 255,
+    "total": 254,
     "new": 2,
     "by_category": {
       "regulatory": 142,
-      "procurement": 100,
+      "procurement": 99,
       "litigation": 9,
       "legislative": 4
     },
     "by_domain": {
-      "air": 196,
+      "air": 195,
       "supply-chain": 117,
       "spectrum": 55,
       "defense": 13,
@@ -7163,7 +7136,7 @@
     "by_source": {
       "FCC ECFS": 99,
       "USAspending": 60,
-      "SAM.gov": 40,
+      "SAM.gov": 39,
       "Regulations.gov": 26,
       "Federal Register": 17,
       "CourtListener": 9,
@@ -7181,7 +7154,7 @@
       ],
       "deadline": "2026-07-06",
       "count": 2,
-      "latest": "2026-07-20"
+      "latest": "2026-07-21"
     },
     {
       "key": "et-26-22",
