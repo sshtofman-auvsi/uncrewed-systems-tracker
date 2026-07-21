@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-21T08:31:14.259970+00:00",
-  "generated_human": "2026-07-21 08:31 UTC",
+  "generated_at": "2026-07-21T13:52:50.357256+00:00",
+  "generated_human": "2026-07-21 13:52 UTC",
   "demo": false,
   "items": [
     {
@@ -6247,6 +6247,57 @@
       "is_new": false
     },
     {
+      "id": "Regulations.gov:FAA-2026-8482-0001",
+      "source": "Regulations.gov",
+      "category": "regulatory",
+      "type": "Document",
+      "title": "Ag Drone S & B LLC - Exemption/Rulemaking",
+      "url": "https://www.regulations.gov/document/FAA-2026-8482-0001",
+      "agency": "FAA",
+      "identifier": "FAA-2026-8482",
+      "date": "2026-07-21",
+      "deadline": null,
+      "summary": "Ag Drone S & B LLC - Exemption/Rulemaking",
+      "score": 20,
+      "domains": [
+        "air"
+      ],
+      "matched_terms": [
+        "drone"
+      ],
+      "watchlist": null,
+      "extra": {},
+      "first_seen": "2026-07-21T13:52:50.357256+00:00",
+      "is_new": true
+    },
+    {
+      "id": "SAM.gov:b6def6dc91774c30a3113a97694a693c",
+      "source": "SAM.gov",
+      "category": "procurement",
+      "type": "Combined Synopsis",
+      "title": "352 SOW Counter sUAS Squarehead",
+      "url": "https://sam.gov/workspace/contract/opp/b6def6dc91774c30a3113a97694a693c/view",
+      "agency": "DEPT OF DEFENSE",
+      "identifier": "FA558726Q0019",
+      "date": "2026-07-21",
+      "deadline": "2026-08-04",
+      "summary": "352 SOW Counter sUAS Squarehead",
+      "score": 20,
+      "domains": [
+        "air"
+      ],
+      "matched_terms": [
+        "suas"
+      ],
+      "watchlist": null,
+      "extra": {
+        "naics": "334511",
+        "setaside": "NONE"
+      },
+      "first_seen": "2026-07-21T13:52:50.357256+00:00",
+      "is_new": true
+    },
+    {
       "id": "Regulations.gov:FAA-2024-0206-0003",
       "source": "Regulations.gov",
       "category": "regulatory",
@@ -6340,33 +6391,6 @@
       "watchlist": null,
       "extra": {},
       "first_seen": "2026-07-16T19:13:46.904593+00:00",
-      "is_new": false
-    },
-    {
-      "id": "SAM.gov:ef72d0d4092f45d1962c4f5b8159062b",
-      "source": "SAM.gov",
-      "category": "procurement",
-      "type": "Sources Sought",
-      "title": "RQ-20 PUMA sUAS replacement parts",
-      "url": "https://sam.gov/workspace/contract/opp/ef72d0d4092f45d1962c4f5b8159062b/view",
-      "agency": "DEPT OF DEFENSE",
-      "identifier": "A065985",
-      "date": "2026-07-16",
-      "deadline": "2026-07-23",
-      "summary": "RQ-20 PUMA sUAS replacement parts",
-      "score": 20,
-      "domains": [
-        "air"
-      ],
-      "matched_terms": [
-        "suas"
-      ],
-      "watchlist": null,
-      "extra": {
-        "naics": "336413",
-        "setaside": null
-      },
-      "first_seen": "2026-07-17T02:43:36.190121+00:00",
       "is_new": false
     },
     {
@@ -6621,30 +6645,6 @@
       "is_new": false
     },
     {
-      "id": "Regulations.gov:FAA-2025-1065-0005",
-      "source": "Regulations.gov",
-      "category": "regulatory",
-      "type": "Document",
-      "title": "Nimbus Ag Drone, L.L.C. - Exemption/Rulemaking",
-      "url": "https://www.regulations.gov/document/FAA-2025-1065-0005",
-      "agency": "FAA",
-      "identifier": "FAA-2025-1065",
-      "date": "2026-07-08",
-      "deadline": null,
-      "summary": "Nimbus Ag Drone, L.L.C. - Exemption/Rulemaking",
-      "score": 20,
-      "domains": [
-        "air"
-      ],
-      "matched_terms": [
-        "drone"
-      ],
-      "watchlist": null,
-      "extra": {},
-      "first_seen": "2026-07-08T17:13:11.146911+00:00",
-      "is_new": false
-    },
-    {
       "id": "Regulations.gov:FAA-2024-2355-0007",
       "source": "Regulations.gov",
       "category": "regulatory",
@@ -6680,6 +6680,30 @@
       "date": "2026-07-08",
       "deadline": null,
       "summary": "SINOR DRONE APPLICATIONS LLC - Exemption/Rulemaking",
+      "score": 20,
+      "domains": [
+        "air"
+      ],
+      "matched_terms": [
+        "drone"
+      ],
+      "watchlist": null,
+      "extra": {},
+      "first_seen": "2026-07-08T17:13:11.146911+00:00",
+      "is_new": false
+    },
+    {
+      "id": "Regulations.gov:FAA-2025-1065-0005",
+      "source": "Regulations.gov",
+      "category": "regulatory",
+      "type": "Document",
+      "title": "Nimbus Ag Drone, L.L.C. - Exemption/Rulemaking",
+      "url": "https://www.regulations.gov/document/FAA-2025-1065-0005",
+      "agency": "FAA",
+      "identifier": "FAA-2025-1065",
+      "date": "2026-07-08",
+      "deadline": null,
+      "summary": "Nimbus Ag Drone, L.L.C. - Exemption/Rulemaking",
       "score": 20,
       "domains": [
         "air"
@@ -7085,8 +7109,8 @@
     {
       "name": "Regulations.gov",
       "status": "ok",
-      "detail": "37 kept",
-      "count": 37
+      "detail": "38 kept",
+      "count": 38
     },
     {
       "name": "FCC ECFS",
@@ -7120,16 +7144,16 @@
     }
   ],
   "stats": {
-    "total": 254,
-    "new": 0,
+    "total": 255,
+    "new": 2,
     "by_category": {
-      "regulatory": 141,
+      "regulatory": 142,
       "procurement": 100,
       "litigation": 9,
       "legislative": 4
     },
     "by_domain": {
-      "air": 195,
+      "air": 196,
       "supply-chain": 117,
       "spectrum": 55,
       "defense": 13,
@@ -7140,7 +7164,7 @@
       "FCC ECFS": 99,
       "USAspending": 60,
       "SAM.gov": 40,
-      "Regulations.gov": 25,
+      "Regulations.gov": 26,
       "Federal Register": 17,
       "CourtListener": 9,
       "Congress.gov": 4
@@ -7367,15 +7391,6 @@
     {
       "deadline": "2026-07-23",
       "days": 2,
-      "title": "RQ-20 PUMA sUAS replacement parts",
-      "identifier": "A065985",
-      "category": "procurement",
-      "source": "SAM.gov",
-      "url": "https://sam.gov/workspace/contract/opp/ef72d0d4092f45d1962c4f5b8159062b/view"
-    },
-    {
-      "deadline": "2026-07-23",
-      "days": 2,
       "title": "Multirotor sUAS",
       "identifier": "FA805126S4008",
       "category": "procurement",
@@ -7444,6 +7459,15 @@
       "category": "procurement",
       "source": "SAM.gov",
       "url": "https://sam.gov/workspace/contract/opp/5f9e735fd3474c49a987a0380ddaba1c/view"
+    },
+    {
+      "deadline": "2026-08-04",
+      "days": 14,
+      "title": "352 SOW Counter sUAS Squarehead",
+      "identifier": "FA558726Q0019",
+      "category": "procurement",
+      "source": "SAM.gov",
+      "url": "https://sam.gov/workspace/contract/opp/b6def6dc91774c30a3113a97694a693c/view"
     },
     {
       "deadline": "2026-08-05",
