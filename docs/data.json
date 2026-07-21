@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-21T02:46:07.944509+00:00",
-  "generated_human": "2026-07-21 02:46 UTC",
+  "generated_at": "2026-07-21T08:31:14.259970+00:00",
+  "generated_human": "2026-07-21 08:31 UTC",
   "demo": false,
   "items": [
     {
@@ -4167,7 +4167,7 @@
         "setaside": null
       },
       "first_seen": "2026-07-21T02:46:07.944509+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "SAM.gov:49e103145798464facdce42f0cee33dc",
@@ -7121,7 +7121,7 @@
   ],
   "stats": {
     "total": 254,
-    "new": 1,
+    "new": 0,
     "by_category": {
       "regulatory": 141,
       "procurement": 100,
