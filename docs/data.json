@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-22T13:57:46.141912+00:00",
-  "generated_human": "2026-07-22 13:57 UTC",
+  "generated_at": "2026-07-22T19:21:46.407615+00:00",
+  "generated_human": "2026-07-22 19:21 UTC",
   "demo": false,
   "items": [
     {
@@ -46,17 +46,17 @@
       "is_new": false
     },
     {
-      "id": "Regulations.gov:FAA-2026-4558-0631",
+      "id": "Regulations.gov:FAA-2026-4558-0916",
       "source": "Regulations.gov",
       "category": "regulatory",
       "type": "Comment",
-      "title": "Comment on Designation – Restrict the Operation of Unmanned Aircraft in Close Proximity  to a Fixed Site Facility: Comment from Kristian Morehead",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-0631",
+      "title": "Comment on Designation – Restrict the Operation of Unmanned Aircraft in Close Proximity  to a Fixed Site Facility: Comment from Anonymous",
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-0916",
       "agency": "FAA",
       "identifier": "FAA-2026-4558",
-      "date": "2026-07-21",
+      "date": "2026-07-22",
       "deadline": null,
-      "summary": "Comment from Kristian Morehead",
+      "summary": "Comment from Anonymous",
       "score": 80,
       "domains": [
         "air"
@@ -70,10 +70,106 @@
         "label": "Section 2209 (Critical Infrastructure UAS Restrictions)"
       },
       "extra": {
-        "docket_total_comments": 873
+        "docket_total_comments": 1052
       },
-      "first_seen": "2026-07-21T19:24:58.161416+00:00",
-      "is_new": false
+      "first_seen": "2026-07-22T19:21:46.407615+00:00",
+      "is_new": true
+    },
+    {
+      "id": "FCC ECFS:26110041801",
+      "source": "FCC ECFS",
+      "category": "regulatory",
+      "type": "Comment",
+      "title": "Kyle: COMMENT (FCC 26-22)",
+      "url": "https://www.fcc.gov/ecfs/search/search-filings/filing/26110041801",
+      "agency": "FCC",
+      "identifier": "FCC 26-22",
+      "date": "2026-07-22",
+      "deadline": null,
+      "summary": "I have been using these drones for commercial for years with no issue. There is no reason you shouldn’t have done an audit when they requested one. A ban on this without reason is not what this agency is about. Do your JOB and audit them. Are you affirmed you will find nothing?",
+      "score": 80,
+      "domains": [
+        "supply-chain",
+        "air"
+      ],
+      "matched_terms": [],
+      "watchlist": {
+        "key": "et-26-22",
+        "label": "ET 26-22 / DA-26-592 (DJI Security Assessment — comment by Aug 28, 2026)"
+      },
+      "extra": {
+        "proceeding": "26-22"
+      },
+      "first_seen": "2026-07-22T19:21:46.407615+00:00",
+      "is_new": true
+    },
+    {
+      "id": "FCC ECFS:26110039657",
+      "source": "FCC ECFS",
+      "category": "regulatory",
+      "type": "Comment",
+      "title": "Dr Brian Borchers: COMMENT (FCC 26-22)",
+      "url": "https://www.fcc.gov/ecfs/search/search-filings/filing/26110039657",
+      "agency": "FCC",
+      "identifier": "FCC 26-22",
+      "date": "2026-07-22",
+      "deadline": null,
+      "summary": "Dear Secretary,I am writing to formally register my opposition to the Commission’s proposal to retroactively revoke equipment authorizations for commercial and consumer hardware manufactured by alternative brands or alleged affiliate entities of SZ DJI Technology Co., Ltd. As a drone hobbyist who may become a small business owner, I rely heavily on access to affordable, reliable, and technological",
+      "score": 80,
+      "domains": [
+        "air",
+        "supply-chain"
+      ],
+      "matched_terms": [
+        "drone",
+        "dji",
+        "26-22"
+      ],
+      "watchlist": {
+        "key": "et-26-22",
+        "label": "ET 26-22 / DA-26-592 (DJI Security Assessment — comment by Aug 28, 2026)"
+      },
+      "extra": {
+        "proceeding": "26-22"
+      },
+      "first_seen": "2026-07-22T19:21:46.407615+00:00",
+      "is_new": true
+    },
+    {
+      "id": "SAM.gov:9c5ce42f40c34d4e8a608d0454e49981",
+      "source": "SAM.gov",
+      "category": "procurement",
+      "type": "Sources Sought",
+      "title": "Small Unmanned Aircraft System (sUAS) Light Detection and Ranging (LiDAR) System",
+      "url": "https://sam.gov/workspace/contract/opp/9c5ce42f40c34d4e8a608d0454e49981/view",
+      "agency": "DEPT OF DEFENSE",
+      "identifier": "FA805126S4006",
+      "date": "2026-07-22",
+      "deadline": "2026-07-31",
+      "summary": "Small Unmanned Aircraft System (sUAS) Light Detection and Ranging (LiDAR) System",
+      "score": 80,
+      "domains": [
+        "air",
+        "ground",
+        "supply-chain"
+      ],
+      "matched_terms": [
+        "unmanned aircraft",
+        "unmanned aircraft system",
+        "suas",
+        "small unmanned",
+        "lidar"
+      ],
+      "watchlist": {
+        "key": "build-america-250",
+        "label": "BUILD America 250 Act (Sec. 6009 LiDAR)"
+      },
+      "extra": {
+        "naics": "334519",
+        "setaside": null
+      },
+      "first_seen": "2026-07-22T19:21:46.407615+00:00",
+      "is_new": true
     },
     {
       "id": "FCC ECFS:26110025728",
@@ -1792,68 +1888,6 @@
         "air"
       ],
       "matched_terms": [],
-      "watchlist": {
-        "key": "et-26-22",
-        "label": "ET 26-22 / DA-26-592 (DJI Security Assessment — comment by Aug 28, 2026)"
-      },
-      "extra": {
-        "proceeding": "26-22"
-      },
-      "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": false
-    },
-    {
-      "id": "FCC ECFS:105250471815580",
-      "source": "FCC ECFS",
-      "category": "regulatory",
-      "type": "Comment",
-      "title": "Nicholas J Mangan: COMMENT (FCC 26-22)",
-      "url": "https://www.fcc.gov/ecfs/search/search-filings/filing/105250471815580",
-      "agency": "FCC",
-      "identifier": "FCC 26-22",
-      "date": "2026-05-26",
-      "deadline": null,
-      "summary": "This ban closes the prosumer market. American drone manufacturers know this and thats why they pushed for this. American Prosumer grade drones, if they exist, are more expensive and less feature laden. American manufacturing of drones has a higher markup making the cost to procure a drone for photography or videography harder to reach. This is locking people out of a hobby they enjoy. Not only ate",
-      "score": 80,
-      "domains": [
-        "air",
-        "supply-chain"
-      ],
-      "matched_terms": [
-        "drone",
-        "26-22"
-      ],
-      "watchlist": {
-        "key": "et-26-22",
-        "label": "ET 26-22 / DA-26-592 (DJI Security Assessment — comment by Aug 28, 2026)"
-      },
-      "extra": {
-        "proceeding": "26-22"
-      },
-      "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": false
-    },
-    {
-      "id": "FCC ECFS:105220526504741",
-      "source": "FCC ECFS",
-      "category": "regulatory",
-      "type": "Comment",
-      "title": "John Ternullo: COMMENT (FCC 26-22)",
-      "url": "https://www.fcc.gov/ecfs/search/search-filings/filing/105220526504741",
-      "agency": "FCC",
-      "identifier": "FCC 26-22",
-      "date": "2026-05-22",
-      "deadline": null,
-      "summary": "The DJI ban is an absolute joke. The U.S. government just kneecapped an entire industry — hobbyists, filmmakers, search and rescue teams, farmers, infrastructure inspectors — based on classified evidence that nobody is allowed to see. Not one proven case of espionage. Not one documented instance of data theft. Just vibes and bureaucratic fear-mongering. And who pays the price? American consumers a",
-      "score": 80,
-      "domains": [
-        "air",
-        "supply-chain"
-      ],
-      "matched_terms": [
-        "dji",
-        "26-22"
-      ],
       "watchlist": {
         "key": "et-26-22",
         "label": "ET 26-22 / DA-26-592 (DJI Security Assessment — comment by Aug 28, 2026)"
@@ -4164,7 +4198,7 @@
         "setaside": "SBA"
       },
       "first_seen": "2026-07-22T13:57:46.141912+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "SAM.gov:3f6f5d1fdf2c47189145c74846cbfcf0",
@@ -4866,13 +4900,13 @@
       "source": "Regulations.gov",
       "category": "regulatory",
       "type": "Final Rule",
-      "title": "Counter-UAS Authority for State, Local, Tribal, and Territorial Law Enforcement and Correctional Agencies",
+      "title": "Counter-UAS Authority for State, Local, Tribal, and Territorial Law Enforcement and Correctional Agencies -  SEE DOJ DOCKET FBI-2026-0001",
       "url": "https://www.regulations.gov/document/DHS-2026-0496-0001",
       "agency": "DHS",
       "identifier": "DHS-2026-0496",
       "date": "2026-07-06",
       "deadline": null,
-      "summary": "Counter-UAS Authority for State, Local, Tribal, and Territorial Law Enforcement and Correctional Agencies",
+      "summary": "Counter-UAS Authority for State, Local, Tribal, and Territorial Law Enforcement and Correctional Agencies -  SEE DOJ DOCKET FBI-2026-0001",
       "score": 34,
       "domains": [
         "air",
@@ -6214,7 +6248,7 @@
       "watchlist": null,
       "extra": {},
       "first_seen": "2026-07-22T13:57:46.141912+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "Regulations.gov:FAA-2026-8482-0001",
@@ -7039,7 +7073,7 @@
       "watchlist": null,
       "extra": {},
       "first_seen": "2026-07-22T13:57:46.141912+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "SAM.gov:1a715b5da57844d4a0e8dd926eadcb02",
@@ -7097,8 +7131,8 @@
     {
       "name": "SAM.gov",
       "status": "ok",
-      "detail": "40 kept",
-      "count": 40
+      "detail": "41 kept",
+      "count": 41
     },
     {
       "name": "CourtListener",
@@ -7114,26 +7148,26 @@
     }
   ],
   "stats": {
-    "total": 254,
-    "new": 3,
+    "total": 255,
+    "new": 4,
     "by_category": {
       "regulatory": 141,
-      "procurement": 100,
+      "procurement": 101,
       "litigation": 9,
       "legislative": 4
     },
     "by_domain": {
-      "air": 195,
-      "supply-chain": 117,
+      "air": 196,
+      "supply-chain": 118,
       "spectrum": 55,
       "defense": 13,
-      "ground": 5,
+      "ground": 6,
       "maritime": 3
     },
     "by_source": {
       "FCC ECFS": 99,
       "USAspending": 60,
-      "SAM.gov": 40,
+      "SAM.gov": 41,
       "Regulations.gov": 26,
       "Federal Register": 16,
       "CourtListener": 9,
@@ -7151,7 +7185,7 @@
       ],
       "deadline": "2026-07-06",
       "count": 2,
-      "latest": "2026-07-21"
+      "latest": "2026-07-22"
     },
     {
       "key": "et-26-22",
@@ -7164,7 +7198,7 @@
       ],
       "deadline": "2026-08-28",
       "count": 50,
-      "latest": "2026-07-17"
+      "latest": "2026-07-22"
     },
     {
       "key": "gn-26-74",
@@ -7192,6 +7226,19 @@
       "deadline": null,
       "count": 7,
       "latest": "2026-03-11"
+    },
+    {
+      "key": "build-america-250",
+      "label": "BUILD America 250 Act (Sec. 6009 LiDAR)",
+      "category": "legislative",
+      "agency": "",
+      "domain": [
+        "ground",
+        "supply-chain"
+      ],
+      "deadline": null,
+      "count": 2,
+      "latest": "2026-07-22"
     },
     {
       "key": "safer-skies",
@@ -7256,19 +7303,6 @@
       "deadline": null,
       "count": 1,
       "latest": "2026-06-03"
-    },
-    {
-      "key": "build-america-250",
-      "label": "BUILD America 250 Act (Sec. 6009 LiDAR)",
-      "category": "legislative",
-      "agency": "",
-      "domain": [
-        "ground",
-        "supply-chain"
-      ],
-      "deadline": null,
-      "count": 1,
-      "latest": "2026-05-22"
     },
     {
       "key": "connected-vehicle",
@@ -7402,6 +7436,15 @@
       "category": "procurement",
       "source": "SAM.gov",
       "url": "https://sam.gov/workspace/contract/opp/c0b30ef459ce41939fbeec6d28734936/view"
+    },
+    {
+      "deadline": "2026-07-31",
+      "days": 9,
+      "title": "Small Unmanned Aircraft System (sUAS) Light Detection and Ranging (LiDAR) System",
+      "identifier": "FA805126S4006",
+      "category": "procurement",
+      "source": "SAM.gov",
+      "url": "https://sam.gov/workspace/contract/opp/9c5ce42f40c34d4e8a608d0454e49981/view"
     },
     {
       "deadline": "2026-07-31",
