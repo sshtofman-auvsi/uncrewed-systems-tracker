@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-22T08:31:48.879824+00:00",
-  "generated_human": "2026-07-22 08:31 UTC",
+  "generated_at": "2026-07-22T13:57:46.141912+00:00",
+  "generated_human": "2026-07-22 13:57 UTC",
   "demo": false,
   "items": [
     {
@@ -4052,7 +4052,7 @@
         "award_type": "DEFINITIVE CONTRACT"
       },
       "first_seen": "2026-07-22T08:31:48.879824+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:FA807521F0077",
@@ -4138,6 +4138,33 @@
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
       "is_new": false
+    },
+    {
+      "id": "SAM.gov:d8ab09a94c824f0bafaf61eb8760eea1",
+      "source": "SAM.gov",
+      "category": "procurement",
+      "type": "Combined Synopsis",
+      "title": "Mapping Drone",
+      "url": "https://sam.gov/workspace/contract/opp/d8ab09a94c824f0bafaf61eb8760eea1/view",
+      "agency": "AGRICULTURE, DEPARTMENT OF",
+      "identifier": "1232SA26Q0626",
+      "date": "2026-07-22",
+      "deadline": "2026-08-07",
+      "summary": "Mapping Drone",
+      "score": 35,
+      "domains": [
+        "air"
+      ],
+      "matched_terms": [
+        "drone"
+      ],
+      "watchlist": null,
+      "extra": {
+        "naics": "336411",
+        "setaside": "SBA"
+      },
+      "first_seen": "2026-07-22T13:57:46.141912+00:00",
+      "is_new": true
     },
     {
       "id": "SAM.gov:3f6f5d1fdf2c47189145c74846cbfcf0",
@@ -6166,6 +6193,30 @@
       "is_new": false
     },
     {
+      "id": "Regulations.gov:FAA-2022-0136-0013",
+      "source": "Regulations.gov",
+      "category": "regulatory",
+      "type": "Document",
+      "title": "Drone Zone Spray Service - Exemption/Rulemaking (Request for Extension)",
+      "url": "https://www.regulations.gov/document/FAA-2022-0136-0013",
+      "agency": "FAA",
+      "identifier": "FAA-2022-0136",
+      "date": "2026-07-22",
+      "deadline": null,
+      "summary": "Drone Zone Spray Service - Exemption/Rulemaking (Request for Extension)",
+      "score": 20,
+      "domains": [
+        "air"
+      ],
+      "matched_terms": [
+        "drone"
+      ],
+      "watchlist": null,
+      "extra": {},
+      "first_seen": "2026-07-22T13:57:46.141912+00:00",
+      "is_new": true
+    },
+    {
       "id": "Regulations.gov:FAA-2026-8482-0001",
       "source": "Regulations.gov",
       "category": "regulatory",
@@ -6967,6 +7018,30 @@
       "is_new": false
     },
     {
+      "id": "Regulations.gov:FAA-2026-2735-0117",
+      "source": "Regulations.gov",
+      "category": "regulatory",
+      "type": "Document",
+      "title": "South Carolina Horizon UAS - Letter of Intent",
+      "url": "https://www.regulations.gov/document/FAA-2026-2735-0117",
+      "agency": "FAA",
+      "identifier": "FAA-2026-2735",
+      "date": "2026-07-22",
+      "deadline": null,
+      "summary": "South Carolina Horizon UAS - Letter of Intent",
+      "score": 18,
+      "domains": [
+        "air"
+      ],
+      "matched_terms": [
+        "uas"
+      ],
+      "watchlist": null,
+      "extra": {},
+      "first_seen": "2026-07-22T13:57:46.141912+00:00",
+      "is_new": true
+    },
+    {
       "id": "SAM.gov:1a715b5da57844d4a0e8dd926eadcb02",
       "source": "SAM.gov",
       "category": "procurement",
@@ -7004,8 +7079,8 @@
     {
       "name": "Regulations.gov",
       "status": "ok",
-      "detail": "36 kept",
-      "count": 36
+      "detail": "38 kept",
+      "count": 38
     },
     {
       "name": "FCC ECFS",
@@ -7022,8 +7097,8 @@
     {
       "name": "SAM.gov",
       "status": "ok",
-      "detail": "39 kept",
-      "count": 39
+      "detail": "40 kept",
+      "count": 40
     },
     {
       "name": "CourtListener",
@@ -7039,16 +7114,16 @@
     }
   ],
   "stats": {
-    "total": 251,
-    "new": 1,
+    "total": 254,
+    "new": 3,
     "by_category": {
-      "regulatory": 139,
-      "procurement": 99,
+      "regulatory": 141,
+      "procurement": 100,
       "litigation": 9,
       "legislative": 4
     },
     "by_domain": {
-      "air": 192,
+      "air": 195,
       "supply-chain": 117,
       "spectrum": 55,
       "defense": 13,
@@ -7058,8 +7133,8 @@
     "by_source": {
       "FCC ECFS": 99,
       "USAspending": 60,
-      "SAM.gov": 39,
-      "Regulations.gov": 24,
+      "SAM.gov": 40,
+      "Regulations.gov": 26,
       "Federal Register": 16,
       "CourtListener": 9,
       "Congress.gov": 4
@@ -7372,6 +7447,15 @@
       "category": "procurement",
       "source": "SAM.gov",
       "url": "https://sam.gov/workspace/contract/opp/49e103145798464facdce42f0cee33dc/view"
+    },
+    {
+      "deadline": "2026-08-07",
+      "days": 16,
+      "title": "Mapping Drone",
+      "identifier": "1232SA26Q0626",
+      "category": "procurement",
+      "source": "SAM.gov",
+      "url": "https://sam.gov/workspace/contract/opp/d8ab09a94c824f0bafaf61eb8760eea1/view"
     },
     {
       "deadline": "2026-08-17",
