@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-23T02:49:34.258910+00:00",
-  "generated_human": "2026-07-23 02:49 UTC",
+  "generated_at": "2026-07-23T08:32:20.546306+00:00",
+  "generated_human": "2026-07-23 08:32 UTC",
   "demo": false,
   "items": [
     {
@@ -73,7 +73,7 @@
         "docket_total_comments": 1052
       },
       "first_seen": "2026-07-23T02:49:34.258910+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:26110041801",
@@ -3454,7 +3454,7 @@
         "latest_action": "Read twice and referred to the Committee on Homeland Security and Governmental Affairs."
       },
       "first_seen": "2026-07-23T02:49:34.258910+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:6973GH25F01296",
@@ -5799,7 +5799,7 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-07-23T02:49:34.258910+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:W9127822C0004",
@@ -5880,7 +5880,7 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-07-23T02:49:34.258910+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:692M1521F00018",
@@ -7080,33 +7080,6 @@
       "extra": {},
       "first_seen": "2026-07-22T13:57:46.141912+00:00",
       "is_new": false
-    },
-    {
-      "id": "SAM.gov:1a715b5da57844d4a0e8dd926eadcb02",
-      "source": "SAM.gov",
-      "category": "procurement",
-      "type": "Special Notice",
-      "title": "UUV Swarm Support",
-      "url": "https://sam.gov/workspace/contract/opp/1a715b5da57844d4a0e8dd926eadcb02/view",
-      "agency": "DEPT OF DEFENSE",
-      "identifier": "N0017326Q5257",
-      "date": "2026-07-17",
-      "deadline": "2026-07-21",
-      "summary": "UUV Swarm Support",
-      "score": 18,
-      "domains": [
-        "maritime"
-      ],
-      "matched_terms": [
-        "uuv"
-      ],
-      "watchlist": null,
-      "extra": {
-        "naics": "541715",
-        "setaside": "SBA"
-      },
-      "first_seen": "2026-07-17T19:11:27.799174+00:00",
-      "is_new": false
     }
   ],
   "sources": [
@@ -7137,8 +7110,8 @@
     {
       "name": "SAM.gov",
       "status": "ok",
-      "detail": "41 kept",
-      "count": 41
+      "detail": "40 kept",
+      "count": 40
     },
     {
       "name": "CourtListener",
@@ -7154,11 +7127,11 @@
     }
   ],
   "stats": {
-    "total": 255,
-    "new": 4,
+    "total": 254,
+    "new": 0,
     "by_category": {
       "regulatory": 141,
-      "procurement": 101,
+      "procurement": 100,
       "litigation": 9,
       "legislative": 4
     },
@@ -7168,12 +7141,12 @@
       "spectrum": 55,
       "defense": 13,
       "ground": 6,
-      "maritime": 3
+      "maritime": 2
     },
     "by_source": {
       "FCC ECFS": 99,
       "USAspending": 60,
-      "SAM.gov": 41,
+      "SAM.gov": 40,
       "Regulations.gov": 26,
       "Federal Register": 16,
       "CourtListener": 9,
