@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-23T08:32:20.546306+00:00",
-  "generated_human": "2026-07-23 08:32 UTC",
+  "generated_at": "2026-07-23T14:02:53.313869+00:00",
+  "generated_human": "2026-07-23 14:02 UTC",
   "demo": false,
   "items": [
     {
@@ -46,17 +46,17 @@
       "is_new": false
     },
     {
-      "id": "Regulations.gov:FAA-2026-4558-1048",
+      "id": "Regulations.gov:FAA-2026-4558-1085",
       "source": "Regulations.gov",
       "category": "regulatory",
       "type": "Comment",
-      "title": "Comment on Designation – Restrict the Operation of Unmanned Aircraft in Close Proximity  to a Fixed Site Facility: Comment from kay shafer",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1048",
+      "title": "Comment on Designation – Restrict the Operation of Unmanned Aircraft in Close Proximity  to a Fixed Site Facility: Comment from La Vaughn Standridge",
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1085",
       "agency": "FAA",
       "identifier": "FAA-2026-4558",
-      "date": "2026-07-22",
+      "date": "2026-07-23",
       "deadline": null,
-      "summary": "Comment from kay shafer",
+      "summary": "Comment from La Vaughn Standridge",
       "score": 80,
       "domains": [
         "air"
@@ -70,10 +70,10 @@
         "label": "Section 2209 (Critical Infrastructure UAS Restrictions)"
       },
       "extra": {
-        "docket_total_comments": 1052
+        "docket_total_comments": 1079
       },
-      "first_seen": "2026-07-23T02:49:34.258910+00:00",
-      "is_new": false
+      "first_seen": "2026-07-23T14:02:53.313869+00:00",
+      "is_new": true
     },
     {
       "id": "FCC ECFS:26110041801",
@@ -133,6 +133,35 @@
         "proceeding": "26-22"
       },
       "first_seen": "2026-07-22T19:21:46.407615+00:00",
+      "is_new": false
+    },
+    {
+      "id": "Congress.gov:119-s-4429",
+      "source": "Congress.gov",
+      "category": "legislative",
+      "type": "Bill",
+      "title": "S. 4429: Connected Vehicle Security Act of 2026",
+      "url": "https://www.congress.gov/bill/119th-congress/senate-bill/4429",
+      "agency": "Congress",
+      "identifier": "S. 4429",
+      "date": "2026-07-22",
+      "deadline": null,
+      "summary": "Committee on Commerce, Science, and Transportation. Ordered to be reported with an amendment in the nature of a substitute favorably.",
+      "score": 80,
+      "domains": [
+        "ground",
+        "supply-chain"
+      ],
+      "matched_terms": [
+        "connected vehicle",
+        "connected vehicle security act"
+      ],
+      "watchlist": {
+        "key": "connected-vehicle",
+        "label": "S. 4429 Connected Vehicle Security Act"
+      },
+      "extra": {},
+      "first_seen": "2026-06-20T17:10:11.333755+00:00",
       "is_new": false
     },
     {
@@ -3228,35 +3257,6 @@
         "proceeding": "26-74"
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": false
-    },
-    {
-      "id": "Congress.gov:119-s-4429",
-      "source": "Congress.gov",
-      "category": "legislative",
-      "type": "Bill",
-      "title": "S. 4429: Connected Vehicle Security Act of 2026",
-      "url": "https://www.congress.gov/bill/119th-congress/senate-bill/4429",
-      "agency": "Congress",
-      "identifier": "S. 4429",
-      "date": "2026-04-29",
-      "deadline": null,
-      "summary": "Read twice and referred to the Committee on Commerce, Science, and Transportation.",
-      "score": 80,
-      "domains": [
-        "ground",
-        "supply-chain"
-      ],
-      "matched_terms": [
-        "connected vehicle",
-        "connected vehicle security act"
-      ],
-      "watchlist": {
-        "key": "connected-vehicle",
-        "label": "S. 4429 Connected Vehicle Security Act"
-      },
-      "extra": {},
-      "first_seen": "2026-06-20T17:10:11.333755+00:00",
       "is_new": false
     },
     {
@@ -7128,7 +7128,7 @@
   ],
   "stats": {
     "total": 254,
-    "new": 0,
+    "new": 1,
     "by_category": {
       "regulatory": 141,
       "procurement": 100,
@@ -7164,7 +7164,7 @@
       ],
       "deadline": "2026-07-06",
       "count": 2,
-      "latest": "2026-07-22"
+      "latest": "2026-07-23"
     },
     {
       "key": "et-26-22",
@@ -7294,7 +7294,7 @@
       ],
       "deadline": null,
       "count": 1,
-      "latest": "2026-04-29"
+      "latest": "2026-07-22"
     },
     {
       "key": "ustr-301",
