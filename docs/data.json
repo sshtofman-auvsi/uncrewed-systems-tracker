@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-24T02:45:04.692230+00:00",
-  "generated_human": "2026-07-24 02:45 UTC",
+  "generated_at": "2026-07-24T08:29:05.692566+00:00",
+  "generated_human": "2026-07-24 08:29 UTC",
   "demo": false,
   "items": [
     {
@@ -4195,7 +4195,7 @@
         "setaside": null
       },
       "first_seen": "2026-07-24T02:45:04.692230+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "SAM.gov:3f6f5d1fdf2c47189145c74846cbfcf0",
@@ -5084,7 +5084,7 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-07-24T02:45:04.692230+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:W15P7T26F0084",
@@ -5813,7 +5813,7 @@
         "award_type": "DEFINITIVE CONTRACT"
       },
       "first_seen": "2026-07-24T02:45:04.692230+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:W9127822C0004",
@@ -7091,7 +7091,7 @@
   ],
   "stats": {
     "total": 253,
-    "new": 3,
+    "new": 0,
     "by_category": {
       "regulatory": 140,
       "procurement": 100,
