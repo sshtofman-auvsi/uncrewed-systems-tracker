@@ -38,6 +38,9 @@
   .stat .n { font-size: 22px; font-weight: 700; }
   .stat .l { font-size: 11px; color: var(--muted); text-transform: uppercase; letter-spacing: .4px; }
   .stat.flag .n { color: var(--new); }
+  .stat.clickable { cursor: pointer; }
+  .stat.clickable:hover { border-color: var(--new); }
+  .stat.clickable.active { border-color: var(--new); box-shadow: 0 0 0 1px var(--new); }
   main.layout { display: grid; grid-template-columns: 260px minmax(0,1fr) 280px; gap: 16px; padding: 16px 22px 40px; align-items: start; }
   .sidebar, .deadlines { position: sticky; top: 12px; }
   .card { background: var(--panel); border: 1px solid var(--line); border-radius: 8px; box-shadow: var(--shadow); margin-bottom: 14px; }
@@ -224,7 +227,14 @@ function renderStats(){
     {n: wlHits, l:"Watchlist hits"},
   ];
   document.getElementById('stats').innerHTML = cards.map(c=>
-    `<div class="stat ${c.flag?'flag':''}"><div class="n">${c.n}</div><div class="l">${esc(c.l)}</div></div>`).join("");
+    `<div class="stat ${c.flag?'flag clickable':''}" ${c.flag?'id="newStat" title="Click to show only new items"':''}><div class="n">${c.n}</div><div class="l">${esc(c.l)}</div></div>`).join("");
+  const ns=document.getElementById('newStat');
+  if(ns) ns.addEventListener('click', ()=>{
+    state.newOnly = !state.newOnly;
+    document.getElementById('newOnly').checked = state.newOnly;
+    ns.classList.toggle('active', state.newOnly);
+    apply();
+  });
 }
 
 function buildFilters(){
@@ -277,7 +287,11 @@ function wire(){
   document.getElementById('srcSel').addEventListener('change', e=>{ state.src=e.target.value; apply(); });
   document.getElementById('typeSel').addEventListener('change', e=>{ state.type=e.target.value; apply(); });
   document.getElementById('watchOnly').addEventListener('change', e=>{ state.watchOnly=e.target.checked; apply(); });
-  document.getElementById('newOnly').addEventListener('change', e=>{ state.newOnly=e.target.checked; apply(); });
+  document.getElementById('newOnly').addEventListener('change', e=>{
+    state.newOnly=e.target.checked;
+    const ns=document.getElementById('newStat'); if(ns) ns.classList.toggle('active', state.newOnly);
+    apply();
+  });
   document.getElementById('dueSoon').addEventListener('change', e=>{ state.dueSoon=e.target.checked; apply(); });
   document.querySelectorAll('#catChecks input').forEach(c=> c.addEventListener('change', ()=>{ toggleSet(state.cats, c.dataset.cat, c.checked); apply(); }));
   document.querySelectorAll('#domChecks input').forEach(c=> c.addEventListener('change', ()=>{ toggleSet(state.doms, c.dataset.dom, c.checked); apply(); }));
@@ -291,6 +305,7 @@ function reset(){
   document.getElementById('srcSel').value=""; document.getElementById('typeSel').value="";
   ['watchOnly','newOnly','dueSoon'].forEach(id=> document.getElementById(id).checked=false);
   document.querySelectorAll('#catChecks input, #domChecks input').forEach(c=> c.checked=false);
+  const ns=document.getElementById('newStat'); if(ns) ns.classList.remove('active');
   apply();
 }
 
