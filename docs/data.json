@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-24T13:47:55.933322+00:00",
-  "generated_human": "2026-07-24 13:47 UTC",
+  "generated_at": "2026-07-24T19:27:05.725580+00:00",
+  "generated_human": "2026-07-24 19:27 UTC",
   "demo": false,
   "items": [
     {
@@ -46,17 +46,17 @@
       "is_new": false
     },
     {
-      "id": "Regulations.gov:FAA-2026-4558-1181",
+      "id": "Regulations.gov:FAA-2026-4558-1162",
       "source": "Regulations.gov",
       "category": "regulatory",
       "type": "Comment",
-      "title": "Comment on Designation – Restrict the Operation of Unmanned Aircraft in Close Proximity  to a Fixed Site Facility: Comment from Carol Book",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1181",
+      "title": "Comment on Designation – Restrict the Operation of Unmanned Aircraft in Close Proximity  to a Fixed Site Facility: Comment from Vin Talwar",
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1162",
       "agency": "FAA",
       "identifier": "FAA-2026-4558",
       "date": "2026-07-24",
       "deadline": null,
-      "summary": "Comment from Carol Book",
+      "summary": "Comment from Vin Talwar",
       "score": 80,
       "domains": [
         "air"
@@ -70,9 +70,9 @@
         "label": "Section 2209 (Critical Infrastructure UAS Restrictions)"
       },
       "extra": {
-        "docket_total_comments": 1174
+        "docket_total_comments": 1183
       },
-      "first_seen": "2026-07-24T13:47:55.933322+00:00",
+      "first_seen": "2026-07-24T19:27:05.725580+00:00",
       "is_new": true
     },
     {
@@ -450,35 +450,6 @@
       "is_new": false
     },
     {
-      "id": "FCC ECFS:10702055201256",
-      "source": "FCC ECFS",
-      "category": "regulatory",
-      "type": "ORDER",
-      "title": "Office of Engineering & Technology: ORDER (FCC 26-74)",
-      "url": "https://docs.fcc.gov/public/attachments/DA-26-657A1.pdf",
-      "agency": "FCC",
-      "identifier": "FCC 26-74",
-      "date": "2026-07-02",
-      "deadline": null,
-      "summary": "",
-      "score": 80,
-      "domains": [
-        "air",
-        "spectrum",
-        "supply-chain"
-      ],
-      "matched_terms": [],
-      "watchlist": {
-        "key": "gn-26-74",
-        "label": "GN 26-74 (Unleashing American Drone Dominance)"
-      },
-      "extra": {
-        "proceeding": "26-74"
-      },
-      "first_seen": "2026-07-02T18:19:03.065344+00:00",
-      "is_new": false
-    },
-    {
       "id": "FCC ECFS:107022321324871",
       "source": "FCC ECFS",
       "category": "regulatory",
@@ -514,6 +485,35 @@
       "type": "ORDER",
       "title": "Wireless Telecommunications Bureau: ORDER (FCC 26-74)",
       "url": "https://docs.fcc.gov/public/attachments/DA-26-656A1.pdf",
+      "agency": "FCC",
+      "identifier": "FCC 26-74",
+      "date": "2026-07-02",
+      "deadline": null,
+      "summary": "",
+      "score": 80,
+      "domains": [
+        "air",
+        "spectrum",
+        "supply-chain"
+      ],
+      "matched_terms": [],
+      "watchlist": {
+        "key": "gn-26-74",
+        "label": "GN 26-74 (Unleashing American Drone Dominance)"
+      },
+      "extra": {
+        "proceeding": "26-74"
+      },
+      "first_seen": "2026-07-02T18:19:03.065344+00:00",
+      "is_new": false
+    },
+    {
+      "id": "FCC ECFS:10702055201256",
+      "source": "FCC ECFS",
+      "category": "regulatory",
+      "type": "ORDER",
+      "title": "Office of Engineering & Technology: ORDER (FCC 26-74)",
+      "url": "https://docs.fcc.gov/public/attachments/DA-26-657A1.pdf",
       "agency": "FCC",
       "identifier": "FCC 26-74",
       "date": "2026-07-02",
@@ -5529,7 +5529,7 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-07-24T13:47:55.933322+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:W58RGZ24C0021",
@@ -6241,7 +6241,7 @@
       "watchlist": null,
       "extra": {},
       "first_seen": "2026-07-24T13:47:55.933322+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "Regulations.gov:FAA-2022-0136-0013",
@@ -7091,7 +7091,7 @@
   ],
   "stats": {
     "total": 253,
-    "new": 3,
+    "new": 1,
     "by_category": {
       "regulatory": 140,
       "procurement": 100,
