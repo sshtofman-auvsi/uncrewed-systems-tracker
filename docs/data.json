@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-25T13:28:34.121645+00:00",
-  "generated_human": "2026-07-25 13:28 UTC",
+  "generated_at": "2026-07-25T19:08:50.386365+00:00",
+  "generated_human": "2026-07-25 19:08 UTC",
   "demo": false,
   "items": [
     {
@@ -73,7 +73,7 @@
         "docket_total_comments": 1183
       },
       "first_seen": "2026-07-25T13:28:34.121645+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:26110041801",
@@ -7064,7 +7064,7 @@
   ],
   "stats": {
     "total": 252,
-    "new": 1,
+    "new": 0,
     "by_category": {
       "regulatory": 140,
       "procurement": 99,
