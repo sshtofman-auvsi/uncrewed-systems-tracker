@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-26T19:12:53.945957+00:00",
-  "generated_human": "2026-07-26 19:12 UTC",
+  "generated_at": "2026-07-27T03:17:05.666341+00:00",
+  "generated_human": "2026-07-27 03:17 UTC",
   "demo": false,
   "items": [
     {
@@ -73,7 +73,7 @@
         "docket_total_comments": 1183
       },
       "first_seen": "2026-07-26T19:12:53.945957+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:26110041801",
@@ -7039,7 +7039,7 @@
   ],
   "stats": {
     "total": 251,
-    "new": 1,
+    "new": 0,
     "by_category": {
       "regulatory": 140,
       "procurement": 98,
@@ -7248,7 +7248,7 @@
   "deadlines": [
     {
       "deadline": "2026-07-27",
-      "days": 1,
+      "days": 0,
       "title": "USSOCOM Air Loitering Munition (ALM)",
       "identifier": "H9240826RFIALM",
       "category": "procurement",
@@ -7257,7 +7257,7 @@
     },
     {
       "deadline": "2026-07-28",
-      "days": 2,
+      "days": 1,
       "title": "Fixed-Wing Vertical Take-Off and Landing (VTOL) small Unmanned Aircraft System (sUAS)",
       "identifier": "FA805126S4007",
       "category": "procurement",
@@ -7266,7 +7266,7 @@
     },
     {
       "deadline": "2026-07-28",
-      "days": 2,
+      "days": 1,
       "title": "352 SOW Counter sUAS",
       "identifier": "FA558726Q0027",
       "category": "procurement",
@@ -7275,7 +7275,7 @@
     },
     {
       "deadline": "2026-07-31",
-      "days": 5,
+      "days": 4,
       "title": "Small Unmanned Aircraft System (sUAS) Light Detection and Ranging (LiDAR) System",
       "identifier": "FA805126S4006",
       "category": "procurement",
@@ -7284,7 +7284,7 @@
     },
     {
       "deadline": "2026-07-31",
-      "days": 5,
+      "days": 4,
       "title": "Drone",
       "identifier": "W912LA-Q-A021",
       "category": "procurement",
@@ -7293,7 +7293,7 @@
     },
     {
       "deadline": "2026-07-31",
-      "days": 5,
+      "days": 4,
       "title": "Man-portable, Handheld, Counter-Unmanned System (MPHC)",
       "identifier": "FA852026MPHC",
       "category": "procurement",
@@ -7302,7 +7302,7 @@
     },
     {
       "deadline": "2026-08-04",
-      "days": 9,
+      "days": 8,
       "title": "352 SOW Counter sUAS Squarehead",
       "identifier": "FA558726Q0019",
       "category": "procurement",
@@ -7311,7 +7311,7 @@
     },
     {
       "deadline": "2026-08-05",
-      "days": 10,
+      "days": 9,
       "title": "Designation-Restrict the Operation of Unmanned Aircraft in Close Proximity to a Fixed Site Facility; Extension of Comment Period",
       "identifier": "Docket No. FAA-2026-4558",
       "category": "regulatory",
@@ -7320,7 +7320,7 @@
     },
     {
       "deadline": "2026-08-05",
-      "days": 10,
+      "days": 9,
       "title": "SFS Drone Detection System",
       "identifier": "FA302226Q0012",
       "category": "procurement",
@@ -7329,7 +7329,7 @@
     },
     {
       "deadline": "2026-08-06",
-      "days": 11,
+      "days": 10,
       "title": "Improved Maintenance, Sustainment, and Training for Unmanned Surface Vessels (USVs)",
       "identifier": "AS-26-06-001",
       "category": "procurement",
@@ -7338,7 +7338,7 @@
     },
     {
       "deadline": "2026-08-07",
-      "days": 12,
+      "days": 11,
       "title": "Notice of Intent to Sole Source - SkySafe SaaS Drone Detection Coverage Subscription",
       "identifier": "W50S8V-26-Q-0026",
       "category": "procurement",
@@ -7347,7 +7347,7 @@
     },
     {
       "deadline": "2026-08-07",
-      "days": 12,
+      "days": 11,
       "title": "Mapping Drone",
       "identifier": "1232SA26Q0626",
       "category": "procurement",
@@ -7356,7 +7356,7 @@
     },
     {
       "deadline": "2026-08-17",
-      "days": 22,
+      "days": 21,
       "title": "RFI-Drone CLT",
       "identifier": "H9240826RFIDRONECLT",
       "category": "procurement",
@@ -7365,7 +7365,7 @@
     },
     {
       "deadline": "2026-08-19",
-      "days": 24,
+      "days": 23,
       "title": "Request for Information (RFI): Special Mission Vessel (SMV) – Helicopter, Unmanned Aerial System (UAS), Unmanned Surface Vehicle (USV) & Small Craft Support Vessel",
       "identifier": "N0002426RXXXX",
       "category": "procurement",
@@ -7374,7 +7374,7 @@
     },
     {
       "deadline": "2026-08-28",
-      "days": 33,
+      "days": 32,
       "title": "ET 26-22 / DA-26-592 (DJI Security Assessment — comment by Aug 28, 2026)",
       "identifier": "FCC",
       "category": "regulatory",
@@ -7383,7 +7383,7 @@
     },
     {
       "deadline": "2026-08-31",
-      "days": 36,
+      "days": 35,
       "title": "INDUSTRY DAY FOR GROUP 1 AND GROUP 2 UNMANNED AIRCRAFT SYSTEM (UAS) TRAINING, MISSION PLANNING, MISSION REHEARSAL, SIMULATION, AND QUALIFICATION MANAGEMENT SYSTEMS",
       "identifier": "N00019-26-PMA-263-0999",
       "category": "procurement",
@@ -7392,7 +7392,7 @@
     },
     {
       "deadline": "2026-09-05",
-      "days": 41,
+      "days": 40,
       "title": "Counter-UAS Authority for State, Local, Tribal, and Territorial Law Enforcement and Correctional Agencies",
       "identifier": "FBI-2026-0001",
       "category": "regulatory",
@@ -7401,7 +7401,7 @@
     },
     {
       "deadline": "2031-05-28",
-      "days": 1767,
+      "days": 1766,
       "title": "INVITATION TO PARTICIPATE IN THE DEPARTMENT OF WAR DRONE OTA CONSORTIUM",
       "identifier": "W58RGZ-26-2-SN01",
       "category": "procurement",
