@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-28T08:35:57.681656+00:00",
-  "generated_human": "2026-07-28 08:35 UTC",
+  "generated_at": "2026-07-28T14:08:51.184296+00:00",
+  "generated_human": "2026-07-28 14:08 UTC",
   "demo": false,
   "items": [
     {
@@ -46,17 +46,17 @@
       "is_new": false
     },
     {
-      "id": "Regulations.gov:FAA-2026-4558-1242",
+      "id": "Regulations.gov:FAA-2026-4558-1249",
       "source": "Regulations.gov",
       "category": "regulatory",
       "type": "Comment",
-      "title": "Comment on Designation – Restrict the Operation of Unmanned Aircraft in Close Proximity  to a Fixed Site Facility: Comment from Thom Stromer",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1242",
+      "title": "Comment on Designation – Restrict the Operation of Unmanned Aircraft in Close Proximity  to a Fixed Site Facility: Comment from Andrew Umphries",
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1249",
       "agency": "FAA",
       "identifier": "FAA-2026-4558",
-      "date": "2026-07-27",
+      "date": "2026-07-28",
       "deadline": null,
-      "summary": "Comment from Thom Stromer",
+      "summary": "Comment from Andrew Umphries",
       "score": 80,
       "domains": [
         "air"
@@ -70,10 +70,10 @@
         "label": "Section 2209 (Critical Infrastructure UAS Restrictions)"
       },
       "extra": {
-        "docket_total_comments": 1228
+        "docket_total_comments": 1230
       },
-      "first_seen": "2026-07-28T02:36:43.432542+00:00",
-      "is_new": false
+      "first_seen": "2026-07-28T14:08:51.184296+00:00",
+      "is_new": true
     },
     {
       "id": "FCC ECFS:26110052645",
@@ -5151,7 +5151,7 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-07-28T08:35:57.681656+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:19AQMM26C0257",
@@ -6921,6 +6921,33 @@
       "is_new": false
     },
     {
+      "id": "SAM.gov:57c9803d1ef345de9e0069b7b6428419",
+      "source": "SAM.gov",
+      "category": "procurement",
+      "type": "Sources Sought",
+      "title": "WingtraRAY UAS Platform",
+      "url": "https://sam.gov/workspace/contract/opp/57c9803d1ef345de9e0069b7b6428419/view",
+      "agency": "COMMERCE, DEPARTMENT OF",
+      "identifier": "145025-26-0046JRW",
+      "date": "2026-07-28",
+      "deadline": "2026-08-06",
+      "summary": "WingtraRAY UAS Platform",
+      "score": 18,
+      "domains": [
+        "air"
+      ],
+      "matched_terms": [
+        "uas"
+      ],
+      "watchlist": null,
+      "extra": {
+        "naics": "334511",
+        "setaside": "SBA"
+      },
+      "first_seen": "2026-07-28T14:08:51.184296+00:00",
+      "is_new": true
+    },
+    {
       "id": "Regulations.gov:FAA-2026-2735-0117",
       "source": "Regulations.gov",
       "category": "regulatory",
@@ -6973,8 +7000,8 @@
     {
       "name": "SAM.gov",
       "status": "ok",
-      "detail": "38 kept",
-      "count": 38
+      "detail": "39 kept",
+      "count": 39
     },
     {
       "name": "CourtListener",
@@ -6990,16 +7017,16 @@
     }
   ],
   "stats": {
-    "total": 249,
-    "new": 1,
+    "total": 250,
+    "new": 2,
     "by_category": {
       "regulatory": 138,
-      "procurement": 98,
+      "procurement": 99,
       "litigation": 9,
       "legislative": 4
     },
     "by_domain": {
-      "air": 189,
+      "air": 190,
       "supply-chain": 118,
       "spectrum": 55,
       "defense": 13,
@@ -7009,7 +7036,7 @@
     "by_source": {
       "FCC ECFS": 99,
       "USAspending": 60,
-      "SAM.gov": 38,
+      "SAM.gov": 39,
       "Regulations.gov": 23,
       "Federal Register": 16,
       "CourtListener": 9,
@@ -7027,7 +7054,7 @@
       ],
       "deadline": "2026-07-06",
       "count": 2,
-      "latest": "2026-07-27"
+      "latest": "2026-07-28"
     },
     {
       "key": "et-26-22",
@@ -7278,6 +7305,15 @@
       "category": "procurement",
       "source": "SAM.gov",
       "url": "https://sam.gov/workspace/contract/opp/ccb1df3f18604375b96e7a61d3065913/view"
+    },
+    {
+      "deadline": "2026-08-06",
+      "days": 9,
+      "title": "WingtraRAY UAS Platform",
+      "identifier": "145025-26-0046JRW",
+      "category": "procurement",
+      "source": "SAM.gov",
+      "url": "https://sam.gov/workspace/contract/opp/57c9803d1ef345de9e0069b7b6428419/view"
     },
     {
       "deadline": "2026-08-07",
