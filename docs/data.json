@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-29T02:43:24.007688+00:00",
-  "generated_human": "2026-07-29 02:43 UTC",
+  "generated_at": "2026-07-29T08:42:21.755320+00:00",
+  "generated_human": "2026-07-29 08:42 UTC",
   "demo": false,
   "items": [
     {
@@ -137,7 +137,7 @@
         "proceeding": "26-22"
       },
       "first_seen": "2026-07-29T02:43:24.007688+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:26110052645",
@@ -4007,35 +4007,6 @@
       "is_new": false
     },
     {
-      "id": "USAspending:FA480326F0017",
-      "source": "USAspending",
-      "category": "procurement",
-      "type": "Award",
-      "title": "CLOUDFIT SOFTWARE, LLC: INTEGRATION OF THE MANET CLOUD HIGH MOBILITY RADIO/ROUTING (MCHMR) SYSTEM WITH THE AIR FORCES CENTRAL (AFCENT) MISSION E",
-      "url": "https://www.usaspending.gov/award/CONT_AWD_FA480326F0017_9700_FA480326D0006_9700",
-      "agency": "Department of Defense",
-      "identifier": "FA480326F0017",
-      "date": "2026-04-17",
-      "deadline": null,
-      "summary": "INTEGRATION OF THE MANET CLOUD HIGH MOBILITY RADIO/ROUTING (MCHMR) SYSTEM WITH THE AIR FORCES CENTRAL (AFCENT) MISSION EXECUTION ENVIRONMENT. THE COMBINED SYSTEM FIELDS CONNECTED SMALL UNMANNED AIRCRAFT SYSTEMS (SUAS) ACROSS THE USCENTCOM AOR.",
-      "score": 50,
-      "domains": [
-        "air"
-      ],
-      "matched_terms": [
-        "unmanned aircraft",
-        "suas",
-        "small unmanned"
-      ],
-      "watchlist": null,
-      "extra": {
-        "amount": 4504500.0,
-        "award_type": "DELIVERY ORDER"
-      },
-      "first_seen": "2026-07-29T02:43:24.007688+00:00",
-      "is_new": true
-    },
-    {
       "id": "SAM.gov:57889edc24cd40089188290808afd5e6",
       "source": "SAM.gov",
       "category": "procurement",
@@ -4175,7 +4146,7 @@
         "setaside": "SBA"
       },
       "first_seen": "2026-07-29T02:43:24.007688+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "SAM.gov:ff344edba48d4a62813e26d71cc9835b",
@@ -4570,29 +4541,6 @@
         "setaside": "NONE"
       },
       "first_seen": "2026-07-11T07:24:47.821619+00:00",
-      "is_new": false
-    },
-    {
-      "id": "SAM.gov:a24e2118d79441b48fc904a01add0b98",
-      "source": "SAM.gov",
-      "category": "procurement",
-      "type": "Combined Synopsis",
-      "title": "Skydio X10D Drones",
-      "url": "https://sam.gov/workspace/contract/opp/a24e2118d79441b48fc904a01add0b98/view",
-      "agency": "DEPT OF DEFENSE",
-      "identifier": "FA466126Q0057",
-      "date": "2026-07-08",
-      "deadline": "2026-07-13",
-      "summary": "Skydio X10D Drones",
-      "score": 35,
-      "domains": [],
-      "matched_terms": [],
-      "watchlist": null,
-      "extra": {
-        "naics": "336411",
-        "setaside": "SBA"
-      },
-      "first_seen": "2026-07-08T17:13:11.146911+00:00",
       "is_new": false
     },
     {
@@ -5159,6 +5107,29 @@
       "is_new": false
     },
     {
+      "id": "USAspending:W58RGZ26F0139",
+      "source": "USAspending",
+      "category": "procurement",
+      "type": "Award",
+      "title": "AEROVIRONMENT, INC: FMS REQUIREMENT IN SUPPORT OF TUNISIA.",
+      "url": "https://www.usaspending.gov/award/CONT_AWD_W58RGZ26F0139_9700_W58RGZ26D0001_9700",
+      "agency": "Department of Defense",
+      "identifier": "W58RGZ26F0139",
+      "date": "2026-03-04",
+      "deadline": null,
+      "summary": "FMS REQUIREMENT IN SUPPORT OF TUNISIA.",
+      "score": 30,
+      "domains": [],
+      "matched_terms": [],
+      "watchlist": null,
+      "extra": {
+        "amount": 10582330.82,
+        "award_type": "DELIVERY ORDER"
+      },
+      "first_seen": "2026-07-29T08:42:21.755320+00:00",
+      "is_new": true
+    },
+    {
       "id": "USAspending:19AQMM26C0257",
       "source": "USAspending",
       "category": "procurement",
@@ -5351,6 +5322,29 @@
       "is_new": false
     },
     {
+      "id": "USAspending:W15P7T25F0130",
+      "source": "USAspending",
+      "category": "procurement",
+      "type": "Award",
+      "title": "LEIDOS, INC.: PURCHASE OF CISCO COMMUNICATION EQUIPMENT",
+      "url": "https://www.usaspending.gov/award/CONT_AWD_W15P7T25F0130_9700_W15P7T23D0003_9700",
+      "agency": "Department of Defense",
+      "identifier": "W15P7T25F0130",
+      "date": "2025-05-16",
+      "deadline": null,
+      "summary": "PURCHASE OF CISCO COMMUNICATION EQUIPMENT",
+      "score": 30,
+      "domains": [],
+      "matched_terms": [],
+      "watchlist": null,
+      "extra": {
+        "amount": 17680128.0,
+        "award_type": "DELIVERY ORDER"
+      },
+      "first_seen": "2026-07-29T08:42:21.755320+00:00",
+      "is_new": true
+    },
+    {
       "id": "USAspending:W58RGZ25C0019",
       "source": "USAspending",
       "category": "procurement",
@@ -5482,7 +5476,7 @@
       "matched_terms": [],
       "watchlist": null,
       "extra": {
-        "amount": 94229729.51,
+        "amount": 94358723.59,
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-07-02T10:20:49.858459+00:00",
@@ -5602,33 +5596,6 @@
       },
       "first_seen": "2026-07-09T11:27:23.250451+00:00",
       "is_new": false
-    },
-    {
-      "id": "USAspending:FA462523C0025",
-      "source": "USAspending",
-      "category": "procurement",
-      "type": "Award",
-      "title": "ASYLON INC: SMALL BUSINESS INNOVATION AND RESEARCH ADVANCING DRONE TECHNOLOGY FOR STRATFI SBIR PHASE II",
-      "url": "https://www.usaspending.gov/award/CONT_AWD_FA462523C0025_9700_-NONE-_-NONE-",
-      "agency": "Department of Defense",
-      "identifier": "FA462523C0025",
-      "date": "2023-09-01",
-      "deadline": null,
-      "summary": "SMALL BUSINESS INNOVATION AND RESEARCH ADVANCING DRONE TECHNOLOGY FOR STRATFI SBIR PHASE II",
-      "score": 30,
-      "domains": [
-        "air"
-      ],
-      "matched_terms": [
-        "drone"
-      ],
-      "watchlist": null,
-      "extra": {
-        "amount": 4599818.86,
-        "award_type": "DEFINITIVE CONTRACT"
-      },
-      "first_seen": "2026-07-29T02:43:24.007688+00:00",
-      "is_new": true
     },
     {
       "id": "USAspending:N0001923F0041",
@@ -6961,8 +6928,8 @@
     {
       "name": "SAM.gov",
       "status": "ok",
-      "detail": "39 kept",
-      "count": 39
+      "detail": "38 kept",
+      "count": 38
     },
     {
       "name": "CourtListener",
@@ -6978,16 +6945,16 @@
     }
   ],
   "stats": {
-    "total": 248,
-    "new": 4,
+    "total": 247,
+    "new": 2,
     "by_category": {
       "regulatory": 136,
-      "procurement": 99,
+      "procurement": 98,
       "litigation": 9,
       "legislative": 4
     },
     "by_domain": {
-      "air": 190,
+      "air": 188,
       "supply-chain": 118,
       "spectrum": 55,
       "defense": 13,
@@ -6997,7 +6964,7 @@
     "by_source": {
       "FCC ECFS": 99,
       "USAspending": 60,
-      "SAM.gov": 39,
+      "SAM.gov": 38,
       "Regulations.gov": 21,
       "Federal Register": 16,
       "CourtListener": 9,
