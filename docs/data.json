@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-29T19:18:31.005999+00:00",
-  "generated_human": "2026-07-29 19:18 UTC",
+  "generated_at": "2026-07-30T02:30:31.725125+00:00",
+  "generated_human": "2026-07-30 02:30 UTC",
   "demo": false,
   "items": [
     {
@@ -46,17 +46,17 @@
       "is_new": false
     },
     {
-      "id": "Regulations.gov:FAA-2026-4558-1256",
+      "id": "Regulations.gov:FAA-2026-4558-1259",
       "source": "Regulations.gov",
       "category": "regulatory",
       "type": "Comment",
-      "title": "Comment on Designation – Restrict the Operation of Unmanned Aircraft in Close Proximity  to a Fixed Site Facility: Comment from Samantha Lau",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1256",
+      "title": "Comment on Designation – Restrict the Operation of Unmanned Aircraft in Close Proximity  to a Fixed Site Facility: Comment from Xavier Sorrent",
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1259",
       "agency": "FAA",
       "identifier": "FAA-2026-4558",
       "date": "2026-07-29",
       "deadline": null,
-      "summary": "Comment from Samantha Lau",
+      "summary": "Comment from Xavier Sorrent",
       "score": 80,
       "domains": [
         "air"
@@ -72,8 +72,8 @@
       "extra": {
         "docket_total_comments": 1244
       },
-      "first_seen": "2026-07-29T14:12:24.588304+00:00",
-      "is_new": false
+      "first_seen": "2026-07-30T02:30:31.725125+00:00",
+      "is_new": true
     },
     {
       "id": "FCC ECFS:26110061910",
@@ -104,7 +104,7 @@
         "proceeding": "26-22"
       },
       "first_seen": "2026-07-29T19:18:31.005999+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:26110061103",
@@ -4003,7 +4003,7 @@
         "setaside": "NONE"
       },
       "first_seen": "2026-07-29T19:18:31.005999+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:W911QX24C0004",
@@ -4116,7 +4116,7 @@
         "setaside": "SBA"
       },
       "first_seen": "2026-07-29T19:18:31.005999+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "SAM.gov:346a90fa681a4db0b14f311fafe95764",
@@ -6185,7 +6185,7 @@
       "watchlist": null,
       "extra": {},
       "first_seen": "2026-07-29T19:18:31.005999+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "Regulations.gov:FAA-2026-8977-0001",
@@ -6233,7 +6233,7 @@
       "watchlist": null,
       "extra": {},
       "first_seen": "2026-07-29T19:18:31.005999+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "Regulations.gov:FAA-2026-9045-0001",
@@ -6257,7 +6257,7 @@
       "watchlist": null,
       "extra": {},
       "first_seen": "2026-07-29T19:18:31.005999+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "Regulations.gov:FAA-2025-2307-0004",
@@ -7038,7 +7038,7 @@
   ],
   "stats": {
     "total": 251,
-    "new": 6,
+    "new": 1,
     "by_category": {
       "regulatory": 138,
       "procurement": 100,
@@ -7246,17 +7246,8 @@
   ],
   "deadlines": [
     {
-      "deadline": "2026-07-29",
-      "days": 0,
-      "title": "352 SOW Counter sUAS",
-      "identifier": "FA558726Q0027",
-      "category": "procurement",
-      "source": "SAM.gov",
-      "url": "https://sam.gov/workspace/contract/opp/236627a4da2d452b8ffb111910617335/view"
-    },
-    {
       "deadline": "2026-07-31",
-      "days": 2,
+      "days": 1,
       "title": "Small Unmanned Aircraft System (sUAS) Light Detection and Ranging (LiDAR) System",
       "identifier": "FA805126S4006",
       "category": "procurement",
@@ -7265,7 +7256,7 @@
     },
     {
       "deadline": "2026-07-31",
-      "days": 2,
+      "days": 1,
       "title": "Drone",
       "identifier": "W912LA-Q-A021",
       "category": "procurement",
@@ -7274,7 +7265,7 @@
     },
     {
       "deadline": "2026-07-31",
-      "days": 2,
+      "days": 1,
       "title": "Man-portable, Handheld, Counter-Unmanned System (MPHC)",
       "identifier": "FA852026MPHC",
       "category": "procurement",
@@ -7283,7 +7274,7 @@
     },
     {
       "deadline": "2026-08-04",
-      "days": 6,
+      "days": 5,
       "title": "352 SOW Counter sUAS Squarehead",
       "identifier": "FA558726Q0019",
       "category": "procurement",
@@ -7292,7 +7283,7 @@
     },
     {
       "deadline": "2026-08-05",
-      "days": 7,
+      "days": 6,
       "title": "Designation-Restrict the Operation of Unmanned Aircraft in Close Proximity to a Fixed Site Facility; Extension of Comment Period",
       "identifier": "Docket No. FAA-2026-4558",
       "category": "regulatory",
@@ -7301,7 +7292,7 @@
     },
     {
       "deadline": "2026-08-05",
-      "days": 7,
+      "days": 6,
       "title": "SFS Drone Detection System",
       "identifier": "FA302226Q0012",
       "category": "procurement",
@@ -7310,7 +7301,7 @@
     },
     {
       "deadline": "2026-08-06",
-      "days": 8,
+      "days": 7,
       "title": "Improved Maintenance, Sustainment, and Training for Unmanned Surface Vessels (USVs)",
       "identifier": "AS-26-06-001",
       "category": "procurement",
@@ -7319,7 +7310,7 @@
     },
     {
       "deadline": "2026-08-06",
-      "days": 8,
+      "days": 7,
       "title": "WingtraRAY UAS Platform",
       "identifier": "145025-26-0046JRW",
       "category": "procurement",
@@ -7328,7 +7319,7 @@
     },
     {
       "deadline": "2026-08-07",
-      "days": 9,
+      "days": 8,
       "title": "Notice of Intent to Sole Source - SkySafe SaaS Drone Detection Coverage Subscription",
       "identifier": "W50S8V-26-Q-0026",
       "category": "procurement",
@@ -7337,7 +7328,7 @@
     },
     {
       "deadline": "2026-08-07",
-      "days": 9,
+      "days": 8,
       "title": "Mapping Drone",
       "identifier": "1232SA26Q0626",
       "category": "procurement",
@@ -7346,7 +7337,7 @@
     },
     {
       "deadline": "2026-08-12",
-      "days": 14,
+      "days": 13,
       "title": "Drone Targets",
       "identifier": "FA282326Q0062",
       "category": "procurement",
@@ -7355,7 +7346,7 @@
     },
     {
       "deadline": "2026-08-17",
-      "days": 19,
+      "days": 18,
       "title": "RFI-Drone CLT",
       "identifier": "H9240826RFIDRONECLT",
       "category": "procurement",
@@ -7364,7 +7355,7 @@
     },
     {
       "deadline": "2026-08-19",
-      "days": 21,
+      "days": 20,
       "title": "Request for Information (RFI): Special Mission Vessel (SMV) – Helicopter, Unmanned Aerial System (UAS), Unmanned Surface Vehicle (USV) & Small Craft Support Vessel",
       "identifier": "N0002426RXXXX",
       "category": "procurement",
@@ -7373,7 +7364,7 @@
     },
     {
       "deadline": "2026-08-24",
-      "days": 26,
+      "days": 25,
       "title": "INL PAKISTAN: UNMANNED AIRCRAFT SYSTEMS (UAS)",
       "identifier": "191NLE26Q0118",
       "category": "procurement",
@@ -7382,7 +7373,7 @@
     },
     {
       "deadline": "2026-08-28",
-      "days": 30,
+      "days": 29,
       "title": "Expeditionary Unmanned Aerial System (eUAS) Manufacturing and Employment Capability Request for Information",
       "identifier": "RSO-AMPOECT-04",
       "category": "procurement",
@@ -7391,7 +7382,7 @@
     },
     {
       "deadline": "2026-08-28",
-      "days": 30,
+      "days": 29,
       "title": "ET 26-22 / DA-26-592 (DJI Security Assessment — comment by Aug 28, 2026)",
       "identifier": "FCC",
       "category": "regulatory",
@@ -7400,7 +7391,7 @@
     },
     {
       "deadline": "2026-08-31",
-      "days": 33,
+      "days": 32,
       "title": "INDUSTRY DAY FOR GROUP 1 AND GROUP 2 UNMANNED AIRCRAFT SYSTEM (UAS) TRAINING, MISSION PLANNING, MISSION REHEARSAL, SIMULATION, AND QUALIFICATION MANAGEMENT SYSTEMS",
       "identifier": "N00019-26-PMA-263-0999",
       "category": "procurement",
@@ -7409,7 +7400,7 @@
     },
     {
       "deadline": "2026-09-05",
-      "days": 38,
+      "days": 37,
       "title": "Counter-UAS Authority for State, Local, Tribal, and Territorial Law Enforcement and Correctional Agencies",
       "identifier": "FBI-2026-0001",
       "category": "regulatory",
