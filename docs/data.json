@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-30T08:28:48.549293+00:00",
-  "generated_human": "2026-07-30 08:28 UTC",
+  "generated_at": "2026-07-30T14:04:53.198710+00:00",
+  "generated_human": "2026-07-30 14:04 UTC",
   "demo": false,
   "items": [
     {
@@ -46,17 +46,17 @@
       "is_new": false
     },
     {
-      "id": "Regulations.gov:FAA-2026-4558-1259",
+      "id": "Regulations.gov:FAA-2026-4558-1287",
       "source": "Regulations.gov",
       "category": "regulatory",
       "type": "Comment",
-      "title": "Comment on Designation – Restrict the Operation of Unmanned Aircraft in Close Proximity  to a Fixed Site Facility: Comment from Xavier Sorrent",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1259",
+      "title": "Comment on Designation – Restrict the Operation of Unmanned Aircraft in Close Proximity  to a Fixed Site Facility: Comment from Lijzen Lerner",
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1287",
       "agency": "FAA",
       "identifier": "FAA-2026-4558",
-      "date": "2026-07-29",
+      "date": "2026-07-30",
       "deadline": null,
-      "summary": "Comment from Xavier Sorrent",
+      "summary": "Comment from Lijzen Lerner",
       "score": 80,
       "domains": [
         "air"
@@ -70,10 +70,10 @@
         "label": "Section 2209 (Critical Infrastructure UAS Restrictions)"
       },
       "extra": {
-        "docket_total_comments": 1244
+        "docket_total_comments": 1267
       },
-      "first_seen": "2026-07-30T02:30:31.725125+00:00",
-      "is_new": false
+      "first_seen": "2026-07-30T14:04:53.198710+00:00",
+      "is_new": true
     },
     {
       "id": "FCC ECFS:26110061910",
@@ -3926,7 +3926,7 @@
       "url": "https://sam.gov/workspace/contract/opp/ce4541af000a4466aa62a08b2cd1f2a3/view",
       "agency": "DEPT OF DEFENSE",
       "identifier": "A065462",
-      "date": "2026-07-10",
+      "date": "2026-07-09",
       "deadline": "2026-07-16",
       "summary": "RFI Unmanned Aircraft System (sUAS) Vehicle Platform",
       "score": 52,
@@ -4002,7 +4002,7 @@
         "dockets": []
       },
       "first_seen": "2026-07-30T08:28:48.549293+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "SAM.gov:6552b25bf0e648f39b44228275998eef",
@@ -4118,6 +4118,33 @@
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
       "is_new": false
+    },
+    {
+      "id": "SAM.gov:53d63b5892d143bcbc7071d1890f74d2",
+      "source": "SAM.gov",
+      "category": "procurement",
+      "type": "Combined Synopsis",
+      "title": "Drone",
+      "url": "https://sam.gov/workspace/contract/opp/53d63b5892d143bcbc7071d1890f74d2/view",
+      "agency": "DEPT OF DEFENSE",
+      "identifier": "W911S226U3874",
+      "date": "2026-07-30",
+      "deadline": "2026-08-06",
+      "summary": "Drone",
+      "score": 35,
+      "domains": [
+        "air"
+      ],
+      "matched_terms": [
+        "drone"
+      ],
+      "watchlist": null,
+      "extra": {
+        "naics": "611430",
+        "setaside": "SBA"
+      },
+      "first_seen": "2026-07-30T14:04:53.198710+00:00",
+      "is_new": true
     },
     {
       "id": "SAM.gov:048c32a4ce934880a05cc6466fd94668",
@@ -4283,7 +4310,7 @@
       "url": "https://sam.gov/workspace/contract/opp/3f6f5d1fdf2c47189145c74846cbfcf0/view",
       "agency": "DEPT OF DEFENSE",
       "identifier": "F1L3SF6125A001",
-      "date": "2026-07-21",
+      "date": "2026-07-20",
       "deadline": "2026-07-24",
       "summary": "Titan 4 Counter Unmanned Aerial System",
       "score": 35,
@@ -5767,7 +5794,7 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-07-30T08:28:48.549293+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:FA868922F2400",
@@ -6197,6 +6224,54 @@
       "is_new": false
     },
     {
+      "id": "Regulations.gov:FAA-2026-9080-0001",
+      "source": "Regulations.gov",
+      "category": "regulatory",
+      "type": "Document",
+      "title": "Ag-Drone Services, LLC - Exemption/Rulemaking",
+      "url": "https://www.regulations.gov/document/FAA-2026-9080-0001",
+      "agency": "FAA",
+      "identifier": "FAA-2026-9080",
+      "date": "2026-07-30",
+      "deadline": null,
+      "summary": "Ag-Drone Services, LLC - Exemption/Rulemaking",
+      "score": 20,
+      "domains": [
+        "air"
+      ],
+      "matched_terms": [
+        "drone"
+      ],
+      "watchlist": null,
+      "extra": {},
+      "first_seen": "2026-07-30T14:04:53.198710+00:00",
+      "is_new": true
+    },
+    {
+      "id": "Regulations.gov:FAA-2024-1744-0003",
+      "source": "Regulations.gov",
+      "category": "regulatory",
+      "type": "Document",
+      "title": "Air Max Drone Services LLC - Amendment",
+      "url": "https://www.regulations.gov/document/FAA-2024-1744-0003",
+      "agency": "FAA",
+      "identifier": "FAA-2024-1744",
+      "date": "2026-07-30",
+      "deadline": null,
+      "summary": "Air Max Drone Services LLC - Amendment",
+      "score": 20,
+      "domains": [
+        "air"
+      ],
+      "matched_terms": [
+        "drone"
+      ],
+      "watchlist": null,
+      "extra": {},
+      "first_seen": "2026-07-30T14:04:53.198710+00:00",
+      "is_new": true
+    },
+    {
       "id": "Regulations.gov:FAA-2026-9044-0001",
       "source": "Regulations.gov",
       "category": "regulatory",
@@ -6563,30 +6638,6 @@
       "is_new": false
     },
     {
-      "id": "Regulations.gov:FAA-2025-3983-0007",
-      "source": "Regulations.gov",
-      "category": "regulatory",
-      "type": "Document",
-      "title": "Southern Drone OPS LLC - Exemption/Rulemaking (Additional Information)",
-      "url": "https://www.regulations.gov/document/FAA-2025-3983-0007",
-      "agency": "FAA",
-      "identifier": "FAA-2025-3983",
-      "date": "2026-07-16",
-      "deadline": null,
-      "summary": "Southern Drone OPS LLC - Exemption/Rulemaking (Additional Information)",
-      "score": 20,
-      "domains": [
-        "air"
-      ],
-      "matched_terms": [
-        "drone"
-      ],
-      "watchlist": null,
-      "extra": {},
-      "first_seen": "2026-07-16T19:13:46.904593+00:00",
-      "is_new": false
-    },
-    {
       "id": "Regulations.gov:FAA-2026-8288-0001",
       "source": "Regulations.gov",
       "category": "regulatory",
@@ -6608,30 +6659,6 @@
       "watchlist": null,
       "extra": {},
       "first_seen": "2026-07-15T21:33:00.164452+00:00",
-      "is_new": false
-    },
-    {
-      "id": "Regulations.gov:FAA-2026-8088-0001",
-      "source": "Regulations.gov",
-      "category": "regulatory",
-      "type": "Document",
-      "title": "Five Points Drone Service LLC - Exemption/Rulemaking",
-      "url": "https://www.regulations.gov/document/FAA-2026-8088-0001",
-      "agency": "FAA",
-      "identifier": "FAA-2026-8088",
-      "date": "2026-07-13",
-      "deadline": null,
-      "summary": "Five Points Drone Service LLC - Exemption/Rulemaking",
-      "score": 20,
-      "domains": [
-        "air"
-      ],
-      "matched_terms": [
-        "drone"
-      ],
-      "watchlist": null,
-      "extra": {},
-      "first_seen": "2026-07-14T07:24:55.569004+00:00",
       "is_new": false
     },
     {
@@ -7053,8 +7080,8 @@
     {
       "name": "SAM.gov",
       "status": "ok",
-      "detail": "40 kept",
-      "count": 40
+      "detail": "41 kept",
+      "count": 41
     },
     {
       "name": "CourtListener",
@@ -7070,16 +7097,16 @@
     }
   ],
   "stats": {
-    "total": 252,
-    "new": 2,
+    "total": 253,
+    "new": 4,
     "by_category": {
       "regulatory": 139,
-      "procurement": 100,
+      "procurement": 101,
       "litigation": 9,
       "legislative": 4
     },
     "by_domain": {
-      "air": 193,
+      "air": 194,
       "supply-chain": 117,
       "spectrum": 55,
       "defense": 13,
@@ -7089,7 +7116,7 @@
     "by_source": {
       "FCC ECFS": 98,
       "USAspending": 60,
-      "SAM.gov": 40,
+      "SAM.gov": 41,
       "Regulations.gov": 24,
       "Federal Register": 17,
       "CourtListener": 9,
@@ -7107,7 +7134,7 @@
       ],
       "deadline": "2026-07-06",
       "count": 2,
-      "latest": "2026-07-29"
+      "latest": "2026-07-30"
     },
     {
       "key": "et-26-22",
@@ -7331,6 +7358,15 @@
       "category": "procurement",
       "source": "SAM.gov",
       "url": "https://sam.gov/workspace/contract/opp/49e103145798464facdce42f0cee33dc/view"
+    },
+    {
+      "deadline": "2026-08-06",
+      "days": 7,
+      "title": "Drone",
+      "identifier": "W911S226U3874",
+      "category": "procurement",
+      "source": "SAM.gov",
+      "url": "https://sam.gov/workspace/contract/opp/53d63b5892d143bcbc7071d1890f74d2/view"
     },
     {
       "deadline": "2026-08-06",
