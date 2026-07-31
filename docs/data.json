@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-31T02:54:03.245875+00:00",
-  "generated_human": "2026-07-31 02:54 UTC",
+  "generated_at": "2026-07-31T08:51:48.417697+00:00",
+  "generated_human": "2026-07-31 08:51 UTC",
   "demo": false,
   "items": [
     {
@@ -2109,35 +2109,6 @@
       "is_new": false
     },
     {
-      "id": "FCC ECFS:1051813119257",
-      "source": "FCC ECFS",
-      "category": "regulatory",
-      "type": "Reply Comment",
-      "title": "Aerospace Industries Association, Air Line Pilots Association International, AURA Network Systems, Inc., Aviation Spectrum Resources, Inc., The Boeing Company, Joby Aviation, and Vertical Aviation International: REPLY TO COMMENTS (FCC 26-74)",
-      "url": "https://www.fcc.gov/ecfs/document/1051813119257/1",
-      "agency": "FCC",
-      "identifier": "FCC 26-74",
-      "date": "2026-05-19",
-      "deadline": null,
-      "summary": "",
-      "score": 80,
-      "domains": [
-        "air",
-        "spectrum",
-        "supply-chain"
-      ],
-      "matched_terms": [],
-      "watchlist": {
-        "key": "gn-26-74",
-        "label": "GN 26-74 (Unleashing American Drone Dominance)"
-      },
-      "extra": {
-        "proceeding": "26-74"
-      },
-      "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": false
-    },
-    {
       "id": "FCC ECFS:1051812307908",
       "source": "FCC ECFS",
       "category": "regulatory",
@@ -2167,12 +2138,12 @@
       "is_new": false
     },
     {
-      "id": "FCC ECFS:10518843201689",
+      "id": "FCC ECFS:10518639213118",
       "source": "FCC ECFS",
       "category": "regulatory",
       "type": "Reply Comment",
-      "title": "Connected Devices for America Coalition, E-ZPass Group, American Trucking Associations (ATA), International Bridge, Tunnel, and Turnpike Association (IBTTA), LoRa Alliance, National Retail Federation (NRF), RAIN Alliance Inc., Wi-Fi Alliance, WISPA – The Association for Broadband Without Boundaries, Wi-SUN Alliance: REPLY TO COMMENTS (FCC 26-74)",
-      "url": "https://www.fcc.gov/ecfs/document/10518843201689/1",
+      "title": "Silvus Technologies Inc.: REPLY TO COMMENTS (FCC 26-74)",
+      "url": "https://www.fcc.gov/ecfs/document/10518639213118/1",
       "agency": "FCC",
       "identifier": "FCC 26-74",
       "date": "2026-05-19",
@@ -2196,12 +2167,41 @@
       "is_new": false
     },
     {
-      "id": "FCC ECFS:10518639213118",
+      "id": "FCC ECFS:1051813119257",
       "source": "FCC ECFS",
       "category": "regulatory",
       "type": "Reply Comment",
-      "title": "Silvus Technologies Inc.: REPLY TO COMMENTS (FCC 26-74)",
-      "url": "https://www.fcc.gov/ecfs/document/10518639213118/1",
+      "title": "Aerospace Industries Association, Air Line Pilots Association International, AURA Network Systems, Inc., Aviation Spectrum Resources, Inc., The Boeing Company, Joby Aviation, and Vertical Aviation International: REPLY TO COMMENTS (FCC 26-74)",
+      "url": "https://www.fcc.gov/ecfs/document/1051813119257/1",
+      "agency": "FCC",
+      "identifier": "FCC 26-74",
+      "date": "2026-05-19",
+      "deadline": null,
+      "summary": "",
+      "score": 80,
+      "domains": [
+        "air",
+        "spectrum",
+        "supply-chain"
+      ],
+      "matched_terms": [],
+      "watchlist": {
+        "key": "gn-26-74",
+        "label": "GN 26-74 (Unleashing American Drone Dominance)"
+      },
+      "extra": {
+        "proceeding": "26-74"
+      },
+      "first_seen": "2026-06-22T17:58:20.979820+00:00",
+      "is_new": false
+    },
+    {
+      "id": "FCC ECFS:10518843201689",
+      "source": "FCC ECFS",
+      "category": "regulatory",
+      "type": "Reply Comment",
+      "title": "Connected Devices for America Coalition, E-ZPass Group, American Trucking Associations (ATA), International Bridge, Tunnel, and Turnpike Association (IBTTA), LoRa Alliance, National Retail Federation (NRF), RAIN Alliance Inc., Wi-Fi Alliance, WISPA – The Association for Broadband Without Boundaries, Wi-SUN Alliance: REPLY TO COMMENTS (FCC 26-74)",
+      "url": "https://www.fcc.gov/ecfs/document/10518843201689/1",
       "agency": "FCC",
       "identifier": "FCC 26-74",
       "date": "2026-05-19",
@@ -2283,6 +2283,35 @@
       "is_new": false
     },
     {
+      "id": "FCC ECFS:10518135533675",
+      "source": "FCC ECFS",
+      "category": "regulatory",
+      "type": "Reply Comment",
+      "title": "CACI International: REPLY TO COMMENTS (FCC 26-74)",
+      "url": "https://www.fcc.gov/ecfs/document/10518135533675/1",
+      "agency": "FCC",
+      "identifier": "FCC 26-74",
+      "date": "2026-05-19",
+      "deadline": null,
+      "summary": "",
+      "score": 80,
+      "domains": [
+        "air",
+        "spectrum",
+        "supply-chain"
+      ],
+      "matched_terms": [],
+      "watchlist": {
+        "key": "gn-26-74",
+        "label": "GN 26-74 (Unleashing American Drone Dominance)"
+      },
+      "extra": {
+        "proceeding": "26-74"
+      },
+      "first_seen": "2026-06-22T17:58:20.979820+00:00",
+      "is_new": false
+    },
+    {
       "id": "FCC ECFS:10518100110610",
       "source": "FCC ECFS",
       "category": "regulatory",
@@ -2312,12 +2341,12 @@
       "is_new": false
     },
     {
-      "id": "FCC ECFS:10518135533675",
+      "id": "FCC ECFS:1051801407885",
       "source": "FCC ECFS",
       "category": "regulatory",
       "type": "Reply Comment",
-      "title": "CACI International: REPLY TO COMMENTS (FCC 26-74)",
-      "url": "https://www.fcc.gov/ecfs/document/10518135533675/1",
+      "title": "CTIA: REPLY TO COMMENTS (FCC 26-74)",
+      "url": "https://www.fcc.gov/ecfs/document/1051801407885/1",
       "agency": "FCC",
       "identifier": "FCC 26-74",
       "date": "2026-05-19",
@@ -2376,35 +2405,6 @@
       "type": "Reply Comment",
       "title": "American Petroleum Institute: REPLY TO COMMENTS (FCC 26-74)",
       "url": "https://www.fcc.gov/ecfs/document/10518822622475/1",
-      "agency": "FCC",
-      "identifier": "FCC 26-74",
-      "date": "2026-05-19",
-      "deadline": null,
-      "summary": "",
-      "score": 80,
-      "domains": [
-        "air",
-        "spectrum",
-        "supply-chain"
-      ],
-      "matched_terms": [],
-      "watchlist": {
-        "key": "gn-26-74",
-        "label": "GN 26-74 (Unleashing American Drone Dominance)"
-      },
-      "extra": {
-        "proceeding": "26-74"
-      },
-      "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": false
-    },
-    {
-      "id": "FCC ECFS:1051801407885",
-      "source": "FCC ECFS",
-      "category": "regulatory",
-      "type": "Reply Comment",
-      "title": "CTIA: REPLY TO COMMENTS (FCC 26-74)",
-      "url": "https://www.fcc.gov/ecfs/document/1051801407885/1",
       "agency": "FCC",
       "identifier": "FCC 26-74",
       "date": "2026-05-19",
@@ -2544,12 +2544,12 @@
       "is_new": false
     },
     {
-      "id": "FCC ECFS:105191782521525",
+      "id": "FCC ECFS:1051922013627",
       "source": "FCC ECFS",
       "category": "regulatory",
       "type": "Reply Comment",
-      "title": "Perennial Autonomy, Inc.: REPLY TO COMMENTS (FCC 26-74)",
-      "url": "https://www.fcc.gov/ecfs/document/105191782521525/1",
+      "title": "Ceres Air LLC, Elevon Aerial AG, Exedy Drones: REPLY TO COMMENTS (FCC 26-74)",
+      "url": "https://www.fcc.gov/ecfs/document/1051922013627/1",
       "agency": "FCC",
       "identifier": "FCC 26-74",
       "date": "2026-05-19",
@@ -2573,12 +2573,12 @@
       "is_new": false
     },
     {
-      "id": "FCC ECFS:1051922013627",
+      "id": "FCC ECFS:105191782521525",
       "source": "FCC ECFS",
       "category": "regulatory",
       "type": "Reply Comment",
-      "title": "Ceres Air LLC, Elevon Aerial AG, Exedy Drones: REPLY TO COMMENTS (FCC 26-74)",
-      "url": "https://www.fcc.gov/ecfs/document/1051922013627/1",
+      "title": "Perennial Autonomy, Inc.: REPLY TO COMMENTS (FCC 26-74)",
+      "url": "https://www.fcc.gov/ecfs/document/105191782521525/1",
       "agency": "FCC",
       "identifier": "FCC 26-74",
       "date": "2026-05-19",
@@ -2660,12 +2660,12 @@
       "is_new": false
     },
     {
-      "id": "FCC ECFS:10518153927989",
+      "id": "FCC ECFS:10518492919672",
       "source": "FCC ECFS",
       "category": "regulatory",
       "type": "Reply Comment",
-      "title": "Sadik Kara: REPLY TO COMMENTS (FCC 26-74)",
-      "url": "https://www.fcc.gov/ecfs/document/10518153927989/1",
+      "title": "450 MHz Alliance: REPLY TO COMMENTS (FCC 26-74)",
+      "url": "https://www.fcc.gov/ecfs/document/10518492919672/1",
       "agency": "FCC",
       "identifier": "FCC 26-74",
       "date": "2026-05-18",
@@ -2689,12 +2689,12 @@
       "is_new": false
     },
     {
-      "id": "FCC ECFS:10518492919672",
+      "id": "FCC ECFS:10518153927989",
       "source": "FCC ECFS",
       "category": "regulatory",
       "type": "Reply Comment",
-      "title": "450 MHz Alliance: REPLY TO COMMENTS (FCC 26-74)",
-      "url": "https://www.fcc.gov/ecfs/document/10518492919672/1",
+      "title": "Sadik Kara: REPLY TO COMMENTS (FCC 26-74)",
+      "url": "https://www.fcc.gov/ecfs/document/10518153927989/1",
       "agency": "FCC",
       "identifier": "FCC 26-74",
       "date": "2026-05-18",
@@ -3853,7 +3853,7 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-07-31T02:54:03.245875+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "SAM.gov:c7fe7474d3444bd2aee8b175ce1cf478",
@@ -3914,35 +3914,6 @@
       "is_new": false
     },
     {
-      "id": "SAM.gov:ce4541af000a4466aa62a08b2cd1f2a3",
-      "source": "SAM.gov",
-      "category": "procurement",
-      "type": "RFI",
-      "title": "RFI Unmanned Aircraft System (sUAS) Vehicle Platform",
-      "url": "https://sam.gov/workspace/contract/opp/ce4541af000a4466aa62a08b2cd1f2a3/view",
-      "agency": "DEPT OF DEFENSE",
-      "identifier": "A065462",
-      "date": "2026-07-09",
-      "deadline": "2026-07-16",
-      "summary": "RFI Unmanned Aircraft System (sUAS) Vehicle Platform",
-      "score": 52,
-      "domains": [
-        "air"
-      ],
-      "matched_terms": [
-        "unmanned aircraft",
-        "unmanned aircraft system",
-        "suas"
-      ],
-      "watchlist": null,
-      "extra": {
-        "naics": "336411",
-        "setaside": null
-      },
-      "first_seen": "2026-07-10T11:23:52.007909+00:00",
-      "is_new": false
-    },
-    {
       "id": "SAM.gov:8268da7209564560804b3e65345d2a98",
       "source": "SAM.gov",
       "category": "procurement",
@@ -3998,7 +3969,7 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-07-31T02:54:03.245875+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "Federal Register:2026-15417",
@@ -4145,32 +4116,34 @@
       "is_new": false
     },
     {
-      "id": "SAM.gov:660ffad70628480bb3bd85ab167dbe3b",
-      "source": "SAM.gov",
-      "category": "procurement",
-      "type": "Combined Synopsis",
-      "title": "Radio Altimeter Test Set, Part Number: ALT-8000 in support of the MQ-4C Triton Unmanned Aircraft Systems (UAS) program.",
-      "url": "https://sam.gov/workspace/contract/opp/660ffad70628480bb3bd85ab167dbe3b/view",
-      "agency": "DEPT OF DEFENSE",
-      "identifier": "N6833526Q1196",
-      "date": "2026-07-30",
-      "deadline": "2026-08-13",
-      "summary": "Radio Altimeter Test Set, Part Number: ALT-8000 in support of the MQ-4C Triton Unmanned Aircraft Systems (UAS) program.",
+      "id": "Federal Register:2026-15483",
+      "source": "Federal Register",
+      "category": "regulatory",
+      "type": "Notice",
+      "title": "AV Framework Updates and Request for Comments on Interim Guidance",
+      "url": "https://www.federalregister.gov/documents/2026/07/31/2026-15483/av-framework-updates-and-request-for-comments-on-interim-guidance",
+      "agency": "Transportation Department, National Highway Traffic Safety Administration",
+      "identifier": "Docket No. NHTSA-2026-1552",
+      "date": "2026-07-31",
+      "deadline": "2026-08-31",
+      "summary": "In April 2025, DOT and NHTSA announced a new automated vehicle framework designed to prioritize safety, promote innovation, foster American ingenuity, and remove regulatory barriers to the advancement of automated driving system technologies. This notice furthers NHTSA's implementation of this framework by requesting public comment on interim guidance for commercial deployment exemptions for automated vehicles. This notice also summarizes NHTSA's other recent activity relating to the AV Framework.",
       "score": 35,
       "domains": [
-        "air"
+        "ground"
       ],
       "matched_terms": [
-        "unmanned aircraft",
-        "uas"
+        "automated driving system",
+        "automated vehicle"
       ],
       "watchlist": null,
       "extra": {
-        "naics": "334515",
-        "setaside": "SBA"
+        "comment_url": null,
+        "dockets": [
+          "Docket No. NHTSA-2026-1552"
+        ]
       },
-      "first_seen": "2026-07-30T19:28:01.731323+00:00",
-      "is_new": false
+      "first_seen": "2026-07-31T08:51:48.417697+00:00",
+      "is_new": true
     },
     {
       "id": "SAM.gov:ecd77f376dc7489c82c0a44307cdd426",
@@ -4193,7 +4166,7 @@
         "setaside": "SBA"
       },
       "first_seen": "2026-07-31T02:54:03.245875+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "SAM.gov:91c0f1e790314ecb85996fe011a270fa",
@@ -4409,7 +4382,7 @@
       "url": "https://sam.gov/workspace/contract/opp/3f6f5d1fdf2c47189145c74846cbfcf0/view",
       "agency": "DEPT OF DEFENSE",
       "identifier": "F1L3SF6125A001",
-      "date": "2026-07-20",
+      "date": "2026-07-21",
       "deadline": "2026-07-24",
       "summary": "Titan 4 Counter Unmanned Aerial System",
       "score": 35,
@@ -4819,33 +4792,6 @@
       "is_new": false
     },
     {
-      "id": "SAM.gov:ce7a136d6b404a05991021f79a664552",
-      "source": "SAM.gov",
-      "category": "procurement",
-      "type": "Combined Synopsis",
-      "title": "Skydio X10 Drone Starter Kit, NightSense Infrared Attachment for X10 under Foreign Military Sales Case:  TU-B-UDO TUNISIA",
-      "url": "https://sam.gov/workspace/contract/opp/ce7a136d6b404a05991021f79a664552/view",
-      "agency": "DEPT OF DEFENSE",
-      "identifier": "W91CRB-26-R-DRNE",
-      "date": "2026-06-24",
-      "deadline": "2026-07-16",
-      "summary": "Skydio X10 Drone Starter Kit, NightSense Infrared Attachment for X10 under Foreign Military Sales Case:  TU-B-UDO TUNISIA",
-      "score": 35,
-      "domains": [
-        "air"
-      ],
-      "matched_terms": [
-        "drone"
-      ],
-      "watchlist": null,
-      "extra": {
-        "naics": "334511",
-        "setaside": "SBA"
-      },
-      "first_seen": "2026-07-01T18:33:40.471932+00:00",
-      "is_new": false
-    },
-    {
       "id": "SAM.gov:9e4a72a78d5f4860b6490a18d60d8f9e",
       "source": "SAM.gov",
       "category": "procurement",
@@ -5053,7 +4999,7 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-07-31T02:54:03.245875+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:89233126FNA400787",
@@ -5191,7 +5137,7 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-07-31T02:54:03.245875+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:W15P7T26F0084",
@@ -5755,7 +5701,7 @@
         "award_type": "DEFINITIVE CONTRACT"
       },
       "first_seen": "2026-07-31T02:54:03.245875+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:N0001923F0041",
@@ -6051,7 +5997,7 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-07-31T02:54:03.245875+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:FA868920C2013",
@@ -6242,6 +6188,64 @@
       "extra": {},
       "first_seen": "2026-07-02T18:19:03.065344+00:00",
       "is_new": false
+    },
+    {
+      "id": "Federal Register:2026-15485",
+      "source": "Federal Register",
+      "category": "regulatory",
+      "type": "Notice",
+      "title": "Zoox-Grant of Temporary Exemption From Portions of Various Requirements of the Federal Motor Vehicle Safety Standards for an Automated Driving System-Equipped Vehicle",
+      "url": "https://www.federalregister.gov/documents/2026/07/31/2026-15485/zoox-grant-of-temporary-exemption-from-portions-of-various-requirements-of-the-federal-motor-vehicle",
+      "agency": "Transportation Department, National Highway Traffic Safety Administration",
+      "identifier": "Docket No. NHTSA-2025-0523",
+      "date": "2026-07-31",
+      "deadline": null,
+      "summary": "NHTSA is granting an exemption to Zoox, Inc. (Zoox) to allow it to manufacture and deploy commercially a passenger car, which is equipped with an Automated Driving System (ADS), that does not comply with certain requirements in the Federal Motor Vehicle Safety Standards (FMVSS). Specifically, NHTSA grants Zoox an exemption for its Zoox sedan from certain requirements in eight FMVSS: FMVSS No. 103, Windshield defrosting and defogging systems; FMVSS No. 104, Windshield wiping and washing systems; FMVSS No. 108, Lamps, reflective devices, and associated equipment; FMVSS No. 111, Rear visibility; ",
+      "score": 21,
+      "domains": [
+        "ground"
+      ],
+      "matched_terms": [
+        "automated driving system"
+      ],
+      "watchlist": null,
+      "extra": {
+        "comment_url": null,
+        "dockets": [
+          "Docket No. NHTSA-2025-0523"
+        ]
+      },
+      "first_seen": "2026-07-31T08:51:48.417697+00:00",
+      "is_new": true
+    },
+    {
+      "id": "Federal Register:2026-15486",
+      "source": "Federal Register",
+      "category": "regulatory",
+      "type": "Notice",
+      "title": "Robomart, Inc.-Receipt of Application for Temporary Exemption From Various Requirements of the Federal Motor Vehicle Safety Standards for an Automated Driving System-Equipped Vehicle",
+      "url": "https://www.federalregister.gov/documents/2026/07/31/2026-15486/robomart-inc-receipt-of-application-for-temporary-exemption-from-various-requirements-of-the-federal",
+      "agency": "Transportation Department, National Highway Traffic Safety Administration",
+      "identifier": "Docket No. NHTSA-2026-1255",
+      "date": "2026-07-31",
+      "deadline": null,
+      "summary": "NHTSA has received an application from Robomart, Inc. (\"Robomart\") for a temporary exemption from several requirements of Federal Motor Vehicle Safety Standard (\"FMVSS\") No. 500 applicable to its low-speed vehicle (LSV) with an automated driving system (\"ADS\"). NHTSA is reviewing Robomart's application and will publish a subsequent notice seeking public comment on the merits of the application after the agency conducts its initial review.",
+      "score": 21,
+      "domains": [
+        "ground"
+      ],
+      "matched_terms": [
+        "automated driving system"
+      ],
+      "watchlist": null,
+      "extra": {
+        "comment_url": null,
+        "dockets": [
+          "Docket No. NHTSA-2026-1255"
+        ]
+      },
+      "first_seen": "2026-07-31T08:51:48.417697+00:00",
+      "is_new": true
     },
     {
       "id": "Federal Register:2026-12980",
@@ -6909,6 +6913,33 @@
       "is_new": false
     },
     {
+      "id": "SAM.gov:17651ffb9b43439c8a9f55c28d4e1bd6",
+      "source": "SAM.gov",
+      "category": "procurement",
+      "type": "Combined Synopsis",
+      "title": "Tactical sUAS Package",
+      "url": "https://sam.gov/workspace/contract/opp/17651ffb9b43439c8a9f55c28d4e1bd6/view",
+      "agency": "DEPT OF DEFENSE",
+      "identifier": "W50S7X26Q0004",
+      "date": "2026-06-24",
+      "deadline": "2026-07-20",
+      "summary": "Tactical sUAS Package",
+      "score": 20,
+      "domains": [
+        "air"
+      ],
+      "matched_terms": [
+        "suas"
+      ],
+      "watchlist": null,
+      "extra": {
+        "naics": "336411",
+        "setaside": "SBA"
+      },
+      "first_seen": "2026-07-31T08:51:48.417697+00:00",
+      "is_new": true
+    },
+    {
       "id": "Federal Register:2026-12203",
       "source": "Federal Register",
       "category": "regulatory",
@@ -7080,8 +7111,8 @@
     {
       "name": "Federal Register",
       "status": "ok",
-      "detail": "17 kept",
-      "count": 17
+      "detail": "20 kept",
+      "count": 20
     },
     {
       "name": "Regulations.gov",
@@ -7104,8 +7135,8 @@
     {
       "name": "SAM.gov",
       "status": "ok",
-      "detail": "43 kept",
-      "count": 43
+      "detail": "41 kept",
+      "count": 41
     },
     {
       "name": "CourtListener",
@@ -7121,28 +7152,28 @@
     }
   ],
   "stats": {
-    "total": 254,
-    "new": 7,
+    "total": 255,
+    "new": 4,
     "by_category": {
-      "regulatory": 138,
-      "procurement": 103,
+      "regulatory": 141,
+      "procurement": 101,
       "litigation": 9,
       "legislative": 4
     },
     "by_domain": {
-      "air": 194,
+      "air": 192,
       "supply-chain": 115,
       "spectrum": 53,
       "defense": 16,
-      "ground": 6,
+      "ground": 9,
       "maritime": 2
     },
     "by_source": {
       "FCC ECFS": 98,
       "USAspending": 60,
-      "SAM.gov": 43,
+      "SAM.gov": 41,
       "Regulations.gov": 24,
-      "Federal Register": 16,
+      "Federal Register": 19,
       "CourtListener": 9,
       "Congress.gov": 4
     }
@@ -7456,15 +7487,6 @@
       "url": "https://sam.gov/workspace/contract/opp/9d346805e4884642b4faaa74bb861575/view"
     },
     {
-      "deadline": "2026-08-13",
-      "days": 13,
-      "title": "Radio Altimeter Test Set, Part Number: ALT-8000 in support of the MQ-4C Triton Unmanned Aircraft Systems (UAS) program.",
-      "identifier": "N6833526Q1196",
-      "category": "procurement",
-      "source": "SAM.gov",
-      "url": "https://sam.gov/workspace/contract/opp/660ffad70628480bb3bd85ab167dbe3b/view"
-    },
-    {
       "deadline": "2026-08-17",
       "days": 17,
       "title": "RFI-Drone CLT",
@@ -7526,6 +7548,15 @@
       "category": "procurement",
       "source": "SAM.gov",
       "url": "https://sam.gov/workspace/contract/opp/8268da7209564560804b3e65345d2a98/view"
+    },
+    {
+      "deadline": "2026-08-31",
+      "days": 31,
+      "title": "AV Framework Updates and Request for Comments on Interim Guidance",
+      "identifier": "Docket No. NHTSA-2026-1552",
+      "category": "regulatory",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/07/31/2026-15483/av-framework-updates-and-request-for-comments-on-interim-guidance"
     },
     {
       "deadline": "2026-09-05",
