@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-01T02:52:21.345368+00:00",
-  "generated_human": "2026-08-01 02:52 UTC",
+  "generated_at": "2026-08-01T08:23:41.032699+00:00",
+  "generated_human": "2026-08-01 08:23 UTC",
   "demo": false,
   "items": [
     {
@@ -76,6 +76,43 @@
       },
       "first_seen": "2026-07-30T19:28:01.731323+00:00",
       "is_new": false
+    },
+    {
+      "id": "Federal Register:2026-15659",
+      "source": "Federal Register",
+      "category": "regulatory",
+      "type": "Notice",
+      "title": "Seeking Comment on Prohibiting the Importation and Marketing of Certain Foreign-Produced Military-Grade Uncrewed Aircraft Systems (UAS) and UAS Critical Components for Non-U.S. Government, Including Those With Swarming Capabilities",
+      "url": "https://www.federalregister.gov/documents/2026/08/03/2026-15659/seeking-comment-on-prohibiting-the-importation-and-marketing-of-certain-foreign-produced",
+      "agency": "Federal Communications Commission",
+      "identifier": "PSHSB & OET: PS Docket No. 26-189",
+      "date": "2026-08-03",
+      "deadline": "2026-09-02",
+      "summary": "In this document, the Public Safety and Homeland Security Bureau (PSHSB) and the Office of Engineering and Technology (OET) seek comment on proposing to prohibit the continued importation and marketing of certain military-grade foreign-made UAS and UAS critical components that are found on the Federal Communications Commission's (FCC) Covered List. Through this Public Notice, acting pursuant to section 2.939 of the Federal Communications Commission's rules, PSHSB and OET propose to apply such prohibitions given that these devices have been found to pose an unacceptable risk to the national sec",
+      "score": 80,
+      "domains": [
+        "air",
+        "supply-chain"
+      ],
+      "matched_terms": [
+        "uas",
+        "covered list",
+        "public safety"
+      ],
+      "watchlist": {
+        "key": "et-26-22",
+        "label": "ET 26-22 / DA-26-592 (DJI Security Assessment — comment by Aug 28, 2026)"
+      },
+      "extra": {
+        "comment_url": null,
+        "dockets": [
+          "PSHSB & OET: PS Docket No. 26-189",
+          "DA 26-758",
+          "FR ID 359960"
+        ]
+      },
+      "first_seen": "2026-08-01T08:23:41.032699+00:00",
+      "is_new": true
     },
     {
       "id": "Regulations.gov:FAA-2026-4558-1358",
@@ -3303,6 +3340,39 @@
       "is_new": false
     },
     {
+      "id": "USAspending:W58RGZ26F0211",
+      "source": "USAspending",
+      "category": "procurement",
+      "type": "Award",
+      "title": "GRIFFON AEROSPACE, INC.: IN SUPPORT OF EXECUTIVE ORDER- UNLEASHING AMERICA DRONE DOMINANCE, THE ARMY CONTRACTING COMMAND-REDSTONE ARSENAL ESTABLI",
+      "url": "https://www.usaspending.gov/award/CONT_AWD_W58RGZ26F0211_9700_W58RGZ26G0061_9700",
+      "agency": "Department of Defense",
+      "identifier": "W58RGZ26F0211",
+      "date": "2026-03-16",
+      "deadline": null,
+      "summary": "IN SUPPORT OF EXECUTIVE ORDER- UNLEASHING AMERICA DRONE DOMINANCE, THE ARMY CONTRACTING COMMAND-REDSTONE ARSENAL ESTABLISHES THIS BASIC ORDERING AGREEMENT TO PROCURE DRONES AND DRONE DOMINANT COMPONENTS.",
+      "score": 80,
+      "domains": [
+        "air",
+        "spectrum",
+        "supply-chain"
+      ],
+      "matched_terms": [
+        "drone",
+        "drone dominance"
+      ],
+      "watchlist": {
+        "key": "gn-26-74",
+        "label": "GN 26-74 (Unleashing American Drone Dominance)"
+      },
+      "extra": {
+        "amount": 56294987.96,
+        "award_type": "DELIVERY ORDER"
+      },
+      "first_seen": "2026-08-01T08:23:41.032699+00:00",
+      "is_new": true
+    },
+    {
       "id": "CourtListener:72313063",
       "source": "CourtListener",
       "category": "litigation",
@@ -3357,7 +3427,7 @@
       },
       "extra": {},
       "first_seen": "2026-08-01T02:52:21.345368+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:6973GH25F01296",
@@ -3695,37 +3765,6 @@
       },
       "first_seen": "2026-07-17T19:11:27.799174+00:00",
       "is_new": false
-    },
-    {
-      "id": "USAspending:70RSAT26FR0000009",
-      "source": "USAspending",
-      "category": "procurement",
-      "type": "Award",
-      "title": "THE MITRE CORPORATION: THE PURPOSE OF THIS REQUISITION IS TO COMMIT $750,000.00 FOR A NEW TASK ORDER UNDER 70RSAT20D00000001 FOR UNMANNED AIRCR",
-      "url": "https://www.usaspending.gov/award/CONT_AWD_70RSAT26FR0000009_7001_70RSAT26D00000001_7001",
-      "agency": "Department of Homeland Security",
-      "identifier": "70RSAT26FR0000009",
-      "date": "2026-03-24",
-      "deadline": null,
-      "summary": "THE PURPOSE OF THIS REQUISITION IS TO COMMIT $750,000.00 FOR A NEW TASK ORDER UNDER 70RSAT20D00000001 FOR UNMANNED AIRCRAFT SYSTEMS (UAS) AND COUNTER-UNMANNED AIRCRAFT SYSTEMS (C-UAS), PROVIDES DHS WITH DATA-DRIVEN INSIGHTS, OPERATIONAL RECOMMENDATIO",
-      "score": 66,
-      "domains": [
-        "air",
-        "defense"
-      ],
-      "matched_terms": [
-        "unmanned aircraft",
-        "uas",
-        "c-uas",
-        "counter-unmanned"
-      ],
-      "watchlist": null,
-      "extra": {
-        "amount": 3676836.0,
-        "award_type": "DELIVERY ORDER"
-      },
-      "first_seen": "2026-08-01T02:52:21.345368+00:00",
-      "is_new": true
     },
     {
       "id": "USAspending:FA875026FB005",
@@ -4166,7 +4205,7 @@
         "setaside": "SBA"
       },
       "first_seen": "2026-08-01T02:52:21.345368+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "SAM.gov:ecd77f376dc7489c82c0a44307cdd426",
@@ -4636,29 +4675,6 @@
       "is_new": false
     },
     {
-      "id": "SAM.gov:39673847b1cd4871acad9154551b755f",
-      "source": "SAM.gov",
-      "category": "procurement",
-      "type": "Special Notice",
-      "title": "FY26 AFJROTC VEX AIR Competition Drones - Intent to Sole Source",
-      "url": "https://sam.gov/workspace/contract/opp/39673847b1cd4871acad9154551b755f/view",
-      "agency": "DEPT OF DEFENSE",
-      "identifier": "F2XJA76154AW01",
-      "date": "2026-07-13",
-      "deadline": "2026-07-17",
-      "summary": "FY26 AFJROTC VEX AIR Competition Drones - Intent to Sole Source",
-      "score": 35,
-      "domains": [],
-      "matched_terms": [],
-      "watchlist": null,
-      "extra": {
-        "naics": "339930",
-        "setaside": "NONE"
-      },
-      "first_seen": "2026-07-13T18:19:56.987268+00:00",
-      "is_new": false
-    },
-    {
       "id": "SAM.gov:63a014446f3d4d8bb0427008b056f1d4",
       "source": "SAM.gov",
       "category": "procurement",
@@ -4681,35 +4697,6 @@
       "extra": {
         "naics": "336411",
         "setaside": "SBA"
-      },
-      "first_seen": "2026-07-11T07:24:47.821619+00:00",
-      "is_new": false
-    },
-    {
-      "id": "SAM.gov:7a496d20dbf94e39831c567bcaacd600",
-      "source": "SAM.gov",
-      "category": "procurement",
-      "type": "Special Notice",
-      "title": "Thunderdome 2026: Low-Cost Interceptors for Counter-UAS",
-      "url": "https://sam.gov/workspace/contract/opp/7a496d20dbf94e39831c567bcaacd600/view",
-      "agency": "DEPT OF DEFENSE",
-      "identifier": "NAWCAD-SN-26-Thunderdome",
-      "date": "2026-07-10",
-      "deadline": "2026-07-17",
-      "summary": "Thunderdome 2026: Low-Cost Interceptors for Counter-UAS",
-      "score": 35,
-      "domains": [
-        "air",
-        "defense"
-      ],
-      "matched_terms": [
-        "uas",
-        "counter-uas"
-      ],
-      "watchlist": null,
-      "extra": {
-        "naics": null,
-        "setaside": "NONE"
       },
       "first_seen": "2026-07-11T07:24:47.821619+00:00",
       "is_new": false
@@ -4739,29 +4726,6 @@
         "setaside": null
       },
       "first_seen": "2026-07-07T19:18:20.451500+00:00",
-      "is_new": false
-    },
-    {
-      "id": "SAM.gov:d56e3c2f64a049e5aa495851ad7fb86c",
-      "source": "SAM.gov",
-      "category": "procurement",
-      "type": "Combined Synopsis",
-      "title": "5th SFS Dronebuster",
-      "url": "https://sam.gov/workspace/contract/opp/d56e3c2f64a049e5aa495851ad7fb86c/view",
-      "agency": "DEPT OF DEFENSE",
-      "identifier": "FA452826QML03",
-      "date": "2026-07-02",
-      "deadline": "2026-07-17",
-      "summary": "5th SFS Dronebuster",
-      "score": 35,
-      "domains": [],
-      "matched_terms": [],
-      "watchlist": null,
-      "extra": {
-        "naics": "334511",
-        "setaside": "NONE"
-      },
-      "first_seen": "2026-07-03T10:17:16.264437+00:00",
       "is_new": false
     },
     {
@@ -5091,7 +5055,7 @@
         "award_type": "PURCHASE ORDER"
       },
       "first_seen": "2026-08-01T02:52:21.345368+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:80NM0026F7025",
@@ -5141,7 +5105,7 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-08-01T02:52:21.345368+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:FA480326F0016",
@@ -5447,6 +5411,33 @@
       "is_new": false
     },
     {
+      "id": "USAspending:N0001925F0971",
+      "source": "USAspending",
+      "category": "procurement",
+      "type": "Award",
+      "title": "SHIELD AI INC: V-BAT VTOL UNMANNED AIRCRAFT",
+      "url": "https://www.usaspending.gov/award/CONT_AWD_N0001925F0971_9700_FA865621DA045_9700",
+      "agency": "Department of Defense",
+      "identifier": "N0001925F0971",
+      "date": "2025-09-03",
+      "deadline": null,
+      "summary": "V-BAT VTOL UNMANNED AIRCRAFT",
+      "score": 30,
+      "domains": [
+        "air"
+      ],
+      "matched_terms": [
+        "unmanned aircraft"
+      ],
+      "watchlist": null,
+      "extra": {
+        "amount": 11322584.92,
+        "award_type": "DELIVERY ORDER"
+      },
+      "first_seen": "2026-08-01T08:23:41.032699+00:00",
+      "is_new": true
+    },
+    {
       "id": "USAspending:N0016425FJ608",
       "source": "USAspending",
       "category": "procurement",
@@ -5681,29 +5672,6 @@
       "is_new": false
     },
     {
-      "id": "USAspending:FA868924F2251",
-      "source": "USAspending",
-      "category": "procurement",
-      "type": "Award",
-      "title": "GENERAL ATOMICS AERONAUTICAL SYSTEMS, INC.: MQ-9 REAPER CLEAN UP HITTER (CUH) 3.5",
-      "url": "https://www.usaspending.gov/award/CONT_AWD_FA868924F2251_9700_FA868920D2020_9700",
-      "agency": "Department of Defense",
-      "identifier": "FA868924F2251",
-      "date": "2023-12-21",
-      "deadline": null,
-      "summary": "MQ-9 REAPER CLEAN UP HITTER (CUH) 3.5",
-      "score": 30,
-      "domains": [],
-      "matched_terms": [],
-      "watchlist": null,
-      "extra": {
-        "amount": 3921067.79,
-        "award_type": "DELIVERY ORDER"
-      },
-      "first_seen": "2026-08-01T02:52:21.345368+00:00",
-      "is_new": true
-    },
-    {
       "id": "USAspending:W58RGZ24C0021",
       "source": "USAspending",
       "category": "procurement",
@@ -5750,30 +5718,26 @@
       "is_new": false
     },
     {
-      "id": "USAspending:693KA923C00012",
+      "id": "USAspending:W900KK23F0112",
       "source": "USAspending",
       "category": "procurement",
       "type": "Award",
-      "title": "I3 FEDERAL LLC: EVALUATION OF HAZARDS POSED BY LITHIUM-BATTERY POWERED UNMANNED AIRCRAFT SYSTEMS AND OTHER DANGEROUS GOODS INTEGRATED IN",
-      "url": "https://www.usaspending.gov/award/CONT_AWD_693KA923C00012_6920_-NONE-_-NONE-",
-      "agency": "Department of Transportation",
-      "identifier": "693KA923C00012",
-      "date": "2023-09-11",
+      "title": "KRATOS UNMANNED AERIAL SYSTEMS, INC: REPLACEMENT ENGINE FOR FIREJET TARGET SYSTEM.  ADVANCED SUBSCALE AERIAL PLATFORM PROGRAM.",
+      "url": "https://www.usaspending.gov/award/CONT_AWD_W900KK23F0112_9700_W900KK23D0015_9700",
+      "agency": "Department of Defense",
+      "identifier": "W900KK23F0112",
+      "date": "2023-09-15",
       "deadline": null,
-      "summary": "EVALUATION OF HAZARDS POSED BY LITHIUM-BATTERY POWERED UNMANNED AIRCRAFT SYSTEMS AND OTHER DANGEROUS GOODS INTEGRATED INTO THE DESIGN.",
+      "summary": "REPLACEMENT ENGINE FOR FIREJET TARGET SYSTEM.  ADVANCED SUBSCALE AERIAL PLATFORM PROGRAM.",
       "score": 30,
-      "domains": [
-        "air"
-      ],
-      "matched_terms": [
-        "unmanned aircraft"
-      ],
+      "domains": [],
+      "matched_terms": [],
       "watchlist": null,
       "extra": {
-        "amount": 3612061.55,
-        "award_type": "DEFINITIVE CONTRACT"
+        "amount": 24749987.76,
+        "award_type": "DELIVERY ORDER"
       },
-      "first_seen": "2026-08-01T02:52:21.345368+00:00",
+      "first_seen": "2026-08-01T08:23:41.032699+00:00",
       "is_new": true
     },
     {
@@ -7036,6 +7000,33 @@
       "is_new": false
     },
     {
+      "id": "SAM.gov:a0c08c15af62469090cecc1dbc33cec4",
+      "source": "SAM.gov",
+      "category": "procurement",
+      "type": "Solicitation (RFP)",
+      "title": "Call for Solutions for Portable Electronic Conspicuity Devices",
+      "url": "https://sam.gov/workspace/contract/opp/a0c08c15af62469090cecc1dbc33cec4/view",
+      "agency": "DEPT OF DEFENSE",
+      "identifier": "W58RGZ-26-S-C001-0004",
+      "date": "2026-06-23",
+      "deadline": "2026-07-10",
+      "summary": "Call for Solutions for Portable Electronic Conspicuity Devices",
+      "score": 19,
+      "domains": [
+        "air"
+      ],
+      "matched_terms": [
+        "electronic conspicuity"
+      ],
+      "watchlist": null,
+      "extra": {
+        "naics": "336411",
+        "setaside": null
+      },
+      "first_seen": "2026-08-01T08:23:41.032699+00:00",
+      "is_new": true
+    },
+    {
       "id": "SAM.gov:57c9803d1ef345de9e0069b7b6428419",
       "source": "SAM.gov",
       "category": "procurement",
@@ -7091,8 +7082,8 @@
     {
       "name": "Federal Register",
       "status": "ok",
-      "detail": "20 kept",
-      "count": 20
+      "detail": "21 kept",
+      "count": 21
     },
     {
       "name": "Regulations.gov",
@@ -7115,8 +7106,8 @@
     {
       "name": "SAM.gov",
       "status": "ok",
-      "detail": "41 kept",
-      "count": 41
+      "detail": "39 kept",
+      "count": 39
     },
     {
       "name": "CourtListener",
@@ -7132,28 +7123,28 @@
     }
   ],
   "stats": {
-    "total": 254,
-    "new": 7,
+    "total": 253,
+    "new": 5,
     "by_category": {
-      "regulatory": 140,
-      "procurement": 101,
+      "regulatory": 141,
+      "procurement": 99,
       "litigation": 9,
       "legislative": 4
     },
     "by_domain": {
-      "air": 193,
-      "supply-chain": 114,
-      "spectrum": 52,
-      "defense": 17,
+      "air": 194,
+      "supply-chain": 116,
+      "spectrum": 53,
+      "defense": 15,
       "ground": 9,
       "maritime": 2
     },
     "by_source": {
       "FCC ECFS": 98,
       "USAspending": 60,
-      "SAM.gov": 41,
+      "SAM.gov": 39,
       "Regulations.gov": 23,
-      "Federal Register": 19,
+      "Federal Register": 20,
       "CourtListener": 9,
       "Congress.gov": 4
     }
@@ -7181,8 +7172,8 @@
         "air"
       ],
       "deadline": "2026-08-28",
-      "count": 49,
-      "latest": "2026-07-29"
+      "count": 50,
+      "latest": "2026-08-03"
     },
     {
       "key": "gn-26-74",
@@ -7195,7 +7186,7 @@
         "supply-chain"
       ],
       "deadline": null,
-      "count": 51,
+      "count": 52,
       "latest": "2026-07-28"
     },
     {
@@ -7501,6 +7492,15 @@
       "category": "regulatory",
       "source": "Federal Register",
       "url": "https://www.federalregister.gov/documents/2026/07/31/2026-15483/av-framework-updates-and-request-for-comments-on-interim-guidance"
+    },
+    {
+      "deadline": "2026-09-02",
+      "days": 32,
+      "title": "Seeking Comment on Prohibiting the Importation and Marketing of Certain Foreign-Produced Military-Grade Uncrewed Aircraft Systems (UAS) and UAS Critical Components for Non-U.S. Government, Including Those With Swarming Capabilities",
+      "identifier": "PSHSB & OET: PS Docket No. 26-189",
+      "category": "regulatory",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/08/03/2026-15659/seeking-comment-on-prohibiting-the-importation-and-marketing-of-certain-foreign-produced"
     },
     {
       "deadline": "2026-09-05",
