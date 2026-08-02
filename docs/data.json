@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-01T19:09:57.966282+00:00",
-  "generated_human": "2026-08-01 19:09 UTC",
+  "generated_at": "2026-08-02T02:52:19.867965+00:00",
+  "generated_human": "2026-08-02 02:52 UTC",
   "demo": false,
   "items": [
     {
@@ -142,7 +142,7 @@
         "docket_total_comments": 1343
       },
       "first_seen": "2026-08-01T19:09:57.966282+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:26110061910",
@@ -4852,33 +4852,6 @@
       "is_new": false
     },
     {
-      "id": "SAM.gov:35c60592208847d1b6b5dcb5db02d281",
-      "source": "SAM.gov",
-      "category": "procurement",
-      "type": "Combined Synopsis",
-      "title": "Drone Game Elements, Registrations, and Trophies",
-      "url": "https://sam.gov/workspace/contract/opp/35c60592208847d1b6b5dcb5db02d281/view",
-      "agency": "DEPT OF DEFENSE",
-      "identifier": "W911S226U3361",
-      "date": "2026-06-02",
-      "deadline": "2026-06-09",
-      "summary": "Drone Game Elements, Registrations, and Trophies",
-      "score": 35,
-      "domains": [
-        "air"
-      ],
-      "matched_terms": [
-        "drone"
-      ],
-      "watchlist": null,
-      "extra": {
-        "naics": "336411",
-        "setaside": "SBA"
-      },
-      "first_seen": "2026-07-01T18:33:40.471932+00:00",
-      "is_new": false
-    },
-    {
       "id": "Regulations.gov:DHS-2026-0496-0001",
       "source": "Regulations.gov",
       "category": "regulatory",
@@ -7079,8 +7052,8 @@
     {
       "name": "SAM.gov",
       "status": "ok",
-      "detail": "38 kept",
-      "count": 38
+      "detail": "37 kept",
+      "count": 37
     },
     {
       "name": "CourtListener",
@@ -7096,16 +7069,16 @@
     }
   ],
   "stats": {
-    "total": 252,
-    "new": 1,
+    "total": 251,
+    "new": 0,
     "by_category": {
       "regulatory": 141,
-      "procurement": 98,
+      "procurement": 97,
       "litigation": 9,
       "legislative": 4
     },
     "by_domain": {
-      "air": 193,
+      "air": 192,
       "supply-chain": 116,
       "spectrum": 53,
       "defense": 15,
@@ -7115,7 +7088,7 @@
     "by_source": {
       "FCC ECFS": 98,
       "USAspending": 60,
-      "SAM.gov": 38,
+      "SAM.gov": 37,
       "Regulations.gov": 23,
       "Federal Register": 20,
       "CourtListener": 9,
@@ -7306,7 +7279,7 @@
   "deadlines": [
     {
       "deadline": "2026-08-05",
-      "days": 4,
+      "days": 3,
       "title": "Designation-Restrict the Operation of Unmanned Aircraft in Close Proximity to a Fixed Site Facility; Extension of Comment Period",
       "identifier": "Docket No. FAA-2026-4558",
       "category": "regulatory",
@@ -7315,7 +7288,7 @@
     },
     {
       "deadline": "2026-08-05",
-      "days": 4,
+      "days": 3,
       "title": "SOLE SOURCE - TEAL DRONES INC manufactured Black Widow drones in UNLOCKED configuration",
       "identifier": "W911QX26QA170",
       "category": "procurement",
@@ -7324,7 +7297,7 @@
     },
     {
       "deadline": "2026-08-05",
-      "days": 4,
+      "days": 3,
       "title": "SFS Drone Detection System",
       "identifier": "FA302226Q0012",
       "category": "procurement",
@@ -7333,7 +7306,7 @@
     },
     {
       "deadline": "2026-08-06",
-      "days": 5,
+      "days": 4,
       "title": "Drone",
       "identifier": "W911S226U3874",
       "category": "procurement",
@@ -7342,7 +7315,7 @@
     },
     {
       "deadline": "2026-08-06",
-      "days": 5,
+      "days": 4,
       "title": "Improved Maintenance, Sustainment, and Training for Unmanned Surface Vessels (USVs)",
       "identifier": "AS-26-06-001",
       "category": "procurement",
@@ -7351,7 +7324,7 @@
     },
     {
       "deadline": "2026-08-06",
-      "days": 5,
+      "days": 4,
       "title": "WingtraRAY UAS Platform",
       "identifier": "145025-26-0046JRW",
       "category": "procurement",
@@ -7360,7 +7333,7 @@
     },
     {
       "deadline": "2026-08-07",
-      "days": 6,
+      "days": 5,
       "title": "Mapping Drone",
       "identifier": "1232SA26Q0626",
       "category": "procurement",
@@ -7369,7 +7342,7 @@
     },
     {
       "deadline": "2026-08-07",
-      "days": 6,
+      "days": 5,
       "title": "Notice of Intent to Sole Source - SkySafe SaaS Drone Detection Coverage Subscription",
       "identifier": "W50S8V-26-Q-0026",
       "category": "procurement",
@@ -7378,7 +7351,7 @@
     },
     {
       "deadline": "2026-08-10",
-      "days": 9,
+      "days": 8,
       "title": "S201--Building Drone Cleaning",
       "identifier": "36C26226Q1150",
       "category": "procurement",
@@ -7387,7 +7360,7 @@
     },
     {
       "deadline": "2026-08-12",
-      "days": 11,
+      "days": 10,
       "title": "Drone Targets",
       "identifier": "FA282326Q0062",
       "category": "procurement",
@@ -7396,7 +7369,7 @@
     },
     {
       "deadline": "2026-08-17",
-      "days": 16,
+      "days": 15,
       "title": "RFI-Drone CLT",
       "identifier": "H9240826RFIDRONECLT",
       "category": "procurement",
@@ -7405,7 +7378,7 @@
     },
     {
       "deadline": "2026-08-19",
-      "days": 18,
+      "days": 17,
       "title": "Request for Information (RFI): Special Mission Vessel (SMV) – Helicopter, Unmanned Aerial System (UAS), Unmanned Surface Vehicle (USV) & Small Craft Support Vessel",
       "identifier": "N0002426RXXXX",
       "category": "procurement",
@@ -7414,7 +7387,7 @@
     },
     {
       "deadline": "2026-08-24",
-      "days": 23,
+      "days": 22,
       "title": "INL PAKISTAN: UNMANNED AIRCRAFT SYSTEMS (UAS)",
       "identifier": "191NLE26Q0118",
       "category": "procurement",
@@ -7423,7 +7396,7 @@
     },
     {
       "deadline": "2026-08-28",
-      "days": 27,
+      "days": 26,
       "title": "Expeditionary Unmanned Aerial System (eUAS) Manufacturing and Employment Capability Request for Information",
       "identifier": "RSO-AMPOECT-04",
       "category": "procurement",
@@ -7432,7 +7405,7 @@
     },
     {
       "deadline": "2026-08-28",
-      "days": 27,
+      "days": 26,
       "title": "ET 26-22 / DA-26-592 (DJI Security Assessment — comment by Aug 28, 2026)",
       "identifier": "FCC",
       "category": "regulatory",
@@ -7441,7 +7414,7 @@
     },
     {
       "deadline": "2026-08-31",
-      "days": 30,
+      "days": 29,
       "title": "50mm weapon based Air Defense Counter-Unmanned Aircraft System (C-UAS)",
       "identifier": "W15QKN-26-X-1C9P",
       "category": "procurement",
@@ -7450,7 +7423,7 @@
     },
     {
       "deadline": "2026-08-31",
-      "days": 30,
+      "days": 29,
       "title": "INDUSTRY DAY FOR GROUP 1 AND GROUP 2 UNMANNED AIRCRAFT SYSTEM (UAS) TRAINING, MISSION PLANNING, MISSION REHEARSAL, SIMULATION, AND QUALIFICATION MANAGEMENT SYSTEMS",
       "identifier": "N00019-26-PMA-263-0999",
       "category": "procurement",
@@ -7459,7 +7432,7 @@
     },
     {
       "deadline": "2026-08-31",
-      "days": 30,
+      "days": 29,
       "title": "AV Framework Updates and Request for Comments on Interim Guidance",
       "identifier": "Docket No. NHTSA-2026-1552",
       "category": "regulatory",
@@ -7468,7 +7441,7 @@
     },
     {
       "deadline": "2026-09-02",
-      "days": 32,
+      "days": 31,
       "title": "Seeking Comment on Prohibiting the Importation and Marketing of Certain Foreign-Produced Military-Grade Uncrewed Aircraft Systems (UAS) and UAS Critical Components for Non-U.S. Government, Including Those With Swarming Capabilities",
       "identifier": "PSHSB & OET: PS Docket No. 26-189",
       "category": "regulatory",
@@ -7477,7 +7450,7 @@
     },
     {
       "deadline": "2026-09-05",
-      "days": 35,
+      "days": 34,
       "title": "Counter-UAS Authority for State, Local, Tribal, and Territorial Law Enforcement and Correctional Agencies",
       "identifier": "FBI-2026-0001",
       "category": "regulatory",
