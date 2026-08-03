@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-03T14:41:27.020832+00:00",
-  "generated_human": "2026-08-03 14:41 UTC",
+  "generated_at": "2026-08-03T19:39:36.720104+00:00",
+  "generated_human": "2026-08-03 19:39 UTC",
   "demo": false,
   "items": [
     {
@@ -115,17 +115,17 @@
       "is_new": false
     },
     {
-      "id": "Regulations.gov:FAA-2026-4558-1358",
+      "id": "Regulations.gov:FAA-2026-4558-1442",
       "source": "Regulations.gov",
       "category": "regulatory",
       "type": "Comment",
-      "title": "Comment on Designation – Restrict the Operation of Unmanned Aircraft in Close Proximity  to a Fixed Site Facility: Comment from Nancy Gregory",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1358",
+      "title": "Comment on Designation – Restrict the Operation of Unmanned Aircraft in Close Proximity  to a Fixed Site Facility: Comment from Anonymous",
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1442",
       "agency": "FAA",
       "identifier": "FAA-2026-4558",
-      "date": "2026-07-31",
+      "date": "2026-08-03",
       "deadline": null,
-      "summary": "Comment from Nancy Gregory",
+      "summary": "Comment from Anonymous",
       "score": 80,
       "domains": [
         "air"
@@ -139,10 +139,10 @@
         "label": "Section 2209 (Critical Infrastructure UAS Restrictions)"
       },
       "extra": {
-        "docket_total_comments": 1343
+        "docket_total_comments": 1426
       },
-      "first_seen": "2026-08-03T09:47:25.173669+00:00",
-      "is_new": false
+      "first_seen": "2026-08-03T19:39:36.720104+00:00",
+      "is_new": true
     },
     {
       "id": "FCC ECFS:26110061910",
@@ -583,38 +583,6 @@
       "is_new": false
     },
     {
-      "id": "FCC ECFS:26109985300",
-      "source": "FCC ECFS",
-      "category": "regulatory",
-      "type": "Comment",
-      "title": "Kevin M. Baron, Baron Aerial Media, LLC, Red Baron Art, LLC, Works By Red Baron LLC: COMMENT (FCC 26-22)",
-      "url": "https://www.fcc.gov/ecfs/search/search-filings/filing/26109985300",
-      "agency": "FCC",
-      "identifier": "FCC 26-22",
-      "date": "2026-07-06",
-      "deadline": null,
-      "summary": "I submit these comments individually and on behalf of Baron Aerial Media LLC, Red Baron Art, LLC, and Works By Red Baron, LLC. DJI drones are productive business equipment, not recreational luxuries. Baron Aerial Media uses drone technology for aerial photography and video, real-estate marketing, 3D modeling, construction reporting, inspections, insurance documentation, and thermal solar work. My",
-      "score": 80,
-      "domains": [
-        "air",
-        "supply-chain"
-      ],
-      "matched_terms": [
-        "drone",
-        "dji",
-        "26-22"
-      ],
-      "watchlist": {
-        "key": "et-26-22",
-        "label": "ET 26-22 / DA-26-592 (DJI Security Assessment — comment by Aug 28, 2026)"
-      },
-      "extra": {
-        "proceeding": "26-22"
-      },
-      "first_seen": "2026-07-06T22:46:18.809779+00:00",
-      "is_new": false
-    },
-    {
       "id": "FCC ECFS:26109973444",
       "source": "FCC ECFS",
       "category": "regulatory",
@@ -709,6 +677,67 @@
       "is_new": false
     },
     {
+      "id": "FCC ECFS:26109985300",
+      "source": "FCC ECFS",
+      "category": "regulatory",
+      "type": "Comment",
+      "title": "Kevin M. Baron, Baron Aerial Media, LLC, Red Baron Art, LLC, Works By Red Baron LLC: COMMENT (FCC 26-22)",
+      "url": "https://www.fcc.gov/ecfs/search/search-filings/filing/26109985300",
+      "agency": "FCC",
+      "identifier": "FCC 26-22",
+      "date": "2026-07-06",
+      "deadline": null,
+      "summary": "I submit these comments individually and on behalf of Baron Aerial Media LLC, Red Baron Art, LLC, and Works By Red Baron, LLC. DJI drones are productive business equipment, not recreational luxuries. Baron Aerial Media uses drone technology for aerial photography and video, real-estate marketing, 3D modeling, construction reporting, inspections, insurance documentation, and thermal solar work. My",
+      "score": 80,
+      "domains": [
+        "air",
+        "supply-chain"
+      ],
+      "matched_terms": [
+        "drone",
+        "dji",
+        "26-22"
+      ],
+      "watchlist": {
+        "key": "et-26-22",
+        "label": "ET 26-22 / DA-26-592 (DJI Security Assessment — comment by Aug 28, 2026)"
+      },
+      "extra": {
+        "proceeding": "26-22"
+      },
+      "first_seen": "2026-07-06T22:46:18.809779+00:00",
+      "is_new": false
+    },
+    {
+      "id": "FCC ECFS:10702055201256",
+      "source": "FCC ECFS",
+      "category": "regulatory",
+      "type": "ORDER",
+      "title": "Office of Engineering & Technology: ORDER (FCC 26-74)",
+      "url": "https://docs.fcc.gov/public/attachments/DA-26-657A1.pdf",
+      "agency": "FCC",
+      "identifier": "FCC 26-74",
+      "date": "2026-07-02",
+      "deadline": null,
+      "summary": "",
+      "score": 80,
+      "domains": [
+        "air",
+        "spectrum",
+        "supply-chain"
+      ],
+      "matched_terms": [],
+      "watchlist": {
+        "key": "gn-26-74",
+        "label": "GN 26-74 (Unleashing American Drone Dominance)"
+      },
+      "extra": {
+        "proceeding": "26-74"
+      },
+      "first_seen": "2026-07-02T18:19:03.065344+00:00",
+      "is_new": false
+    },
+    {
       "id": "FCC ECFS:107022321324871",
       "source": "FCC ECFS",
       "category": "regulatory",
@@ -744,35 +773,6 @@
       "type": "ORDER",
       "title": "Wireless Telecommunications Bureau: ORDER (FCC 26-74)",
       "url": "https://docs.fcc.gov/public/attachments/DA-26-656A1.pdf",
-      "agency": "FCC",
-      "identifier": "FCC 26-74",
-      "date": "2026-07-02",
-      "deadline": null,
-      "summary": "",
-      "score": 80,
-      "domains": [
-        "air",
-        "spectrum",
-        "supply-chain"
-      ],
-      "matched_terms": [],
-      "watchlist": {
-        "key": "gn-26-74",
-        "label": "GN 26-74 (Unleashing American Drone Dominance)"
-      },
-      "extra": {
-        "proceeding": "26-74"
-      },
-      "first_seen": "2026-07-02T18:19:03.065344+00:00",
-      "is_new": false
-    },
-    {
-      "id": "FCC ECFS:10702055201256",
-      "source": "FCC ECFS",
-      "category": "regulatory",
-      "type": "ORDER",
-      "title": "Office of Engineering & Technology: ORDER (FCC 26-74)",
-      "url": "https://docs.fcc.gov/public/attachments/DA-26-657A1.pdf",
       "agency": "FCC",
       "identifier": "FCC 26-74",
       "date": "2026-07-02",
@@ -4151,6 +4151,34 @@
       "is_new": false
     },
     {
+      "id": "SAM.gov:a92306f6d3aa4ab8abfa3152c12eb566",
+      "source": "SAM.gov",
+      "category": "procurement",
+      "type": "Combined Synopsis",
+      "title": "Notice of Intent to Sole Source and Sources Sought: Counter-small Unmanned Aerial Systems (C-sUAS) for the Amphibious Combat Vehicle (ACV)",
+      "url": "https://sam.gov/workspace/contract/opp/a92306f6d3aa4ab8abfa3152c12eb566/view",
+      "agency": "DEPT OF DEFENSE",
+      "identifier": "M67854-26-I-0225",
+      "date": "2026-08-03",
+      "deadline": "2026-08-18",
+      "summary": "Notice of Intent to Sole Source and Sources Sought: Counter-small Unmanned Aerial Systems (C-sUAS) for the Amphibious Combat Vehicle (ACV)",
+      "score": 35,
+      "domains": [
+        "air"
+      ],
+      "matched_terms": [
+        "suas",
+        "small unmanned"
+      ],
+      "watchlist": null,
+      "extra": {
+        "naics": "334511",
+        "setaside": "NONE"
+      },
+      "first_seen": "2026-08-03T19:39:36.720104+00:00",
+      "is_new": true
+    },
+    {
       "id": "Federal Register:2026-15483",
       "source": "Federal Register",
       "category": "regulatory",
@@ -6251,6 +6279,30 @@
       "is_new": false
     },
     {
+      "id": "Regulations.gov:FAA-2026-0902-0006",
+      "source": "Regulations.gov",
+      "category": "regulatory",
+      "type": "Document",
+      "title": "Allstate Drone Solutions LLC - Additional Information",
+      "url": "https://www.regulations.gov/document/FAA-2026-0902-0006",
+      "agency": "FAA",
+      "identifier": "FAA-2026-0902",
+      "date": "2026-08-03",
+      "deadline": null,
+      "summary": "Allstate Drone Solutions LLC - Additional Information",
+      "score": 20,
+      "domains": [
+        "air"
+      ],
+      "matched_terms": [
+        "drone"
+      ],
+      "watchlist": null,
+      "extra": {},
+      "first_seen": "2026-08-03T19:39:36.720104+00:00",
+      "is_new": true
+    },
+    {
       "id": "Regulations.gov:FAA-2026-9080-0001",
       "source": "Regulations.gov",
       "category": "regulatory",
@@ -6491,54 +6543,6 @@
         "setaside": "NONE"
       },
       "first_seen": "2026-07-27T14:36:59.932223+00:00",
-      "is_new": false
-    },
-    {
-      "id": "Regulations.gov:FAA-2024-0726-0003",
-      "source": "Regulations.gov",
-      "category": "regulatory",
-      "type": "Document",
-      "title": "Doss Drone Services LLC - Petition",
-      "url": "https://www.regulations.gov/document/FAA-2024-0726-0003",
-      "agency": "FAA",
-      "identifier": "FAA-2024-0726",
-      "date": "2026-07-24",
-      "deadline": null,
-      "summary": "Doss Drone Services LLC - Petition",
-      "score": 20,
-      "domains": [
-        "air"
-      ],
-      "matched_terms": [
-        "drone"
-      ],
-      "watchlist": null,
-      "extra": {},
-      "first_seen": "2026-07-24T13:47:55.933322+00:00",
-      "is_new": false
-    },
-    {
-      "id": "Regulations.gov:FAA-2022-0136-0013",
-      "source": "Regulations.gov",
-      "category": "regulatory",
-      "type": "Document",
-      "title": "Drone Zone Spray Service - Exemption/Rulemaking (Request for Extension)",
-      "url": "https://www.regulations.gov/document/FAA-2022-0136-0013",
-      "agency": "FAA",
-      "identifier": "FAA-2022-0136",
-      "date": "2026-07-22",
-      "deadline": null,
-      "summary": "Drone Zone Spray Service - Exemption/Rulemaking (Request for Extension)",
-      "score": 20,
-      "domains": [
-        "air"
-      ],
-      "matched_terms": [
-        "drone"
-      ],
-      "watchlist": null,
-      "extra": {},
-      "first_seen": "2026-07-22T13:57:46.141912+00:00",
       "is_new": false
     },
     {
@@ -6923,6 +6927,33 @@
       "is_new": false
     },
     {
+      "id": "SAM.gov:04d3f0ed5d8d43f3ad42c95ee5ee940f",
+      "source": "SAM.gov",
+      "category": "procurement",
+      "type": "Sources Sought",
+      "title": "UAS Purchase",
+      "url": "https://sam.gov/workspace/contract/opp/04d3f0ed5d8d43f3ad42c95ee5ee940f/view",
+      "agency": "DEPT OF DEFENSE",
+      "identifier": "27_08",
+      "date": "2026-08-03",
+      "deadline": "2026-08-10",
+      "summary": "UAS Purchase",
+      "score": 18,
+      "domains": [
+        "air"
+      ],
+      "matched_terms": [
+        "uas"
+      ],
+      "watchlist": null,
+      "extra": {
+        "naics": "336411",
+        "setaside": "SBA"
+      },
+      "first_seen": "2026-08-03T19:39:36.720104+00:00",
+      "is_new": true
+    },
+    {
       "id": "SAM.gov:57c9803d1ef345de9e0069b7b6428419",
       "source": "SAM.gov",
       "category": "procurement",
@@ -6984,8 +7015,8 @@
     {
       "name": "Regulations.gov",
       "status": "ok",
-      "detail": "35 kept",
-      "count": 35
+      "detail": "34 kept",
+      "count": 34
     },
     {
       "name": "FCC ECFS",
@@ -7002,8 +7033,8 @@
     {
       "name": "SAM.gov",
       "status": "ok",
-      "detail": "35 kept",
-      "count": 35
+      "detail": "37 kept",
+      "count": 37
     },
     {
       "name": "CourtListener",
@@ -7019,16 +7050,16 @@
     }
   ],
   "stats": {
-    "total": 249,
-    "new": 0,
+    "total": 250,
+    "new": 4,
     "by_category": {
-      "regulatory": 141,
-      "procurement": 95,
+      "regulatory": 140,
+      "procurement": 97,
       "litigation": 9,
       "legislative": 4
     },
     "by_domain": {
-      "air": 191,
+      "air": 192,
       "supply-chain": 116,
       "spectrum": 53,
       "defense": 15,
@@ -7038,8 +7069,8 @@
     "by_source": {
       "FCC ECFS": 98,
       "USAspending": 60,
-      "SAM.gov": 35,
-      "Regulations.gov": 23,
+      "SAM.gov": 37,
+      "Regulations.gov": 22,
       "Federal Register": 20,
       "CourtListener": 9,
       "Congress.gov": 4
@@ -7056,7 +7087,7 @@
       ],
       "deadline": "2026-07-06",
       "count": 2,
-      "latest": "2026-07-31"
+      "latest": "2026-08-03"
     },
     {
       "key": "et-26-22",
@@ -7309,6 +7340,15 @@
       "url": "https://sam.gov/workspace/contract/opp/e083a1d1e3954cf0a8631672e1068409/view"
     },
     {
+      "deadline": "2026-08-10",
+      "days": 7,
+      "title": "UAS Purchase",
+      "identifier": "27_08",
+      "category": "procurement",
+      "source": "SAM.gov",
+      "url": "https://sam.gov/workspace/contract/opp/04d3f0ed5d8d43f3ad42c95ee5ee940f/view"
+    },
+    {
       "deadline": "2026-08-12",
       "days": 9,
       "title": "Drone Targets",
@@ -7325,6 +7365,15 @@
       "category": "procurement",
       "source": "SAM.gov",
       "url": "https://sam.gov/workspace/contract/opp/37ada978d83e47cf84a9fdf19d0d4ab4/view"
+    },
+    {
+      "deadline": "2026-08-18",
+      "days": 15,
+      "title": "Notice of Intent to Sole Source and Sources Sought: Counter-small Unmanned Aerial Systems (C-sUAS) for the Amphibious Combat Vehicle (ACV)",
+      "identifier": "M67854-26-I-0225",
+      "category": "procurement",
+      "source": "SAM.gov",
+      "url": "https://sam.gov/workspace/contract/opp/a92306f6d3aa4ab8abfa3152c12eb566/view"
     },
     {
       "deadline": "2026-08-19",
