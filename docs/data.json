@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-04T02:36:09.761685+00:00",
-  "generated_human": "2026-08-04 02:36 UTC",
+  "generated_at": "2026-08-04T08:39:18.092758+00:00",
+  "generated_human": "2026-08-04 08:39 UTC",
   "demo": false,
   "items": [
     {
@@ -115,12 +115,12 @@
       "is_new": false
     },
     {
-      "id": "Regulations.gov:FAA-2026-4558-1380",
+      "id": "Regulations.gov:FAA-2026-4558-1442",
       "source": "Regulations.gov",
       "category": "regulatory",
       "type": "Comment",
       "title": "Comment on Designation – Restrict the Operation of Unmanned Aircraft in Close Proximity  to a Fixed Site Facility: Comment from Anonymous",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1380",
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1442",
       "agency": "FAA",
       "identifier": "FAA-2026-4558",
       "date": "2026-08-03",
@@ -141,7 +141,7 @@
       "extra": {
         "docket_total_comments": 1434
       },
-      "first_seen": "2026-08-04T02:36:09.761685+00:00",
+      "first_seen": "2026-08-04T08:39:18.092758+00:00",
       "is_new": true
     },
     {
@@ -4151,6 +4151,33 @@
       "is_new": false
     },
     {
+      "id": "SAM.gov:0a6104650333458a8cb3537bced96356",
+      "source": "SAM.gov",
+      "category": "procurement",
+      "type": "RFI",
+      "title": "Request for Information – Drone Components",
+      "url": "https://sam.gov/workspace/contract/opp/0a6104650333458a8cb3537bced96356/view",
+      "agency": "DEPT OF DEFENSE",
+      "identifier": "FA9101-RFI-Drone-Components",
+      "date": "2026-08-04",
+      "deadline": "2026-08-06",
+      "summary": "Request for Information – Drone Components",
+      "score": 35,
+      "domains": [
+        "air"
+      ],
+      "matched_terms": [
+        "drone"
+      ],
+      "watchlist": null,
+      "extra": {
+        "naics": "336411",
+        "setaside": null
+      },
+      "first_seen": "2026-08-04T02:36:09.761685+00:00",
+      "is_new": false
+    },
+    {
       "id": "SAM.gov:a92306f6d3aa4ab8abfa3152c12eb566",
       "source": "SAM.gov",
       "category": "procurement",
@@ -4199,34 +4226,7 @@
         "setaside": null
       },
       "first_seen": "2026-08-04T02:36:09.761685+00:00",
-      "is_new": true
-    },
-    {
-      "id": "SAM.gov:0a6104650333458a8cb3537bced96356",
-      "source": "SAM.gov",
-      "category": "procurement",
-      "type": "RFI",
-      "title": "Request for Information – Drone Components",
-      "url": "https://sam.gov/workspace/contract/opp/0a6104650333458a8cb3537bced96356/view",
-      "agency": "DEPT OF DEFENSE",
-      "identifier": "FA9101-RFI-Drone-Components",
-      "date": "2026-08-03",
-      "deadline": "2026-08-06",
-      "summary": "Request for Information – Drone Components",
-      "score": 35,
-      "domains": [
-        "air"
-      ],
-      "matched_terms": [
-        "drone"
-      ],
-      "watchlist": null,
-      "extra": {
-        "naics": "336411",
-        "setaside": null
-      },
-      "first_seen": "2026-08-04T02:36:09.761685+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "Federal Register:2026-15483",
@@ -4522,7 +4522,7 @@
       "url": "https://sam.gov/workspace/contract/opp/3f6f5d1fdf2c47189145c74846cbfcf0/view",
       "agency": "DEPT OF DEFENSE",
       "identifier": "F1L3SF6125A001",
-      "date": "2026-07-20",
+      "date": "2026-07-21",
       "deadline": "2026-07-24",
       "summary": "Titan 4 Counter Unmanned Aerial System",
       "score": 35,
@@ -4700,56 +4700,6 @@
         "setaside": null
       },
       "first_seen": "2026-07-14T21:33:14.070617+00:00",
-      "is_new": false
-    },
-    {
-      "id": "SAM.gov:b257aaf62a7b4198baa1b81fd0200810",
-      "source": "SAM.gov",
-      "category": "procurement",
-      "type": "Sources Sought",
-      "title": "S201--Building Drone Cleaning Service  VA Loma Linda Health Care Systems",
-      "url": "https://sam.gov/workspace/contract/opp/b257aaf62a7b4198baa1b81fd0200810/view",
-      "agency": "VETERANS AFFAIRS, DEPARTMENT OF",
-      "identifier": "36C26226Q1150",
-      "date": "2026-07-13",
-      "deadline": "2026-07-20",
-      "summary": "S201--Building Drone Cleaning Service  VA Loma Linda Health Care Systems",
-      "score": 35,
-      "domains": [
-        "air"
-      ],
-      "matched_terms": [
-        "drone"
-      ],
-      "watchlist": null,
-      "extra": {
-        "naics": "488190",
-        "setaside": ""
-      },
-      "first_seen": "2026-07-14T07:24:55.569004+00:00",
-      "is_new": false
-    },
-    {
-      "id": "SAM.gov:5734f4714185448ba13036ae7b461ea6",
-      "source": "SAM.gov",
-      "category": "procurement",
-      "type": "Sources Sought",
-      "title": "50 SFS DRONEBUSTERS",
-      "url": "https://sam.gov/workspace/contract/opp/5734f4714185448ba13036ae7b461ea6/view",
-      "agency": "DEPT OF DEFENSE",
-      "identifier": "50SFSDB",
-      "date": "2026-07-13",
-      "deadline": "2026-07-20",
-      "summary": "50 SFS DRONEBUSTERS",
-      "score": 35,
-      "domains": [],
-      "matched_terms": [],
-      "watchlist": null,
-      "extra": {
-        "naics": "541715",
-        "setaside": "SBA"
-      },
-      "first_seen": "2026-07-14T07:24:55.569004+00:00",
       "is_new": false
     },
     {
@@ -5063,29 +5013,6 @@
       "is_new": false
     },
     {
-      "id": "USAspending:FA862926PB003",
-      "source": "USAspending",
-      "category": "procurement",
-      "type": "Award",
-      "title": "AEROVIRONMENT, INC: ACC/A3J-MIPR-TACP ACC HURRICANE ORDER",
-      "url": "https://www.usaspending.gov/award/CONT_AWD_FA862926PB003_9700_-NONE-_-NONE-",
-      "agency": "Department of Defense",
-      "identifier": "FA862926PB003",
-      "date": "2026-04-29",
-      "deadline": null,
-      "summary": "ACC/A3J-MIPR-TACP ACC HURRICANE ORDER",
-      "score": 30,
-      "domains": [],
-      "matched_terms": [],
-      "watchlist": null,
-      "extra": {
-        "amount": 4451223.0,
-        "award_type": "PURCHASE ORDER"
-      },
-      "first_seen": "2026-08-01T02:52:21.345368+00:00",
-      "is_new": false
-    },
-    {
       "id": "USAspending:80NM0026F7025",
       "source": "USAspending",
       "category": "procurement",
@@ -5106,33 +5033,6 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": false
-    },
-    {
-      "id": "USAspending:W15P7T26F0103",
-      "source": "USAspending",
-      "category": "procurement",
-      "type": "Award",
-      "title": "LEIDOS, INC.: PROCURE DRONE SYSTEM AND ACCESSORIES",
-      "url": "https://www.usaspending.gov/award/CONT_AWD_W15P7T26F0103_9700_W15P7T23D0003_9700",
-      "agency": "Department of Defense",
-      "identifier": "W15P7T26F0103",
-      "date": "2026-04-22",
-      "deadline": null,
-      "summary": "PROCURE DRONE SYSTEM AND ACCESSORIES",
-      "score": 30,
-      "domains": [
-        "air"
-      ],
-      "matched_terms": [
-        "drone"
-      ],
-      "watchlist": null,
-      "extra": {
-        "amount": 4195186.53,
-        "award_type": "DELIVERY ORDER"
-      },
-      "first_seen": "2026-08-01T02:52:21.345368+00:00",
       "is_new": false
     },
     {
@@ -5387,6 +5287,29 @@
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
       "is_new": false
+    },
+    {
+      "id": "USAspending:W58RGZ26F0028",
+      "source": "USAspending",
+      "category": "procurement",
+      "type": "Award",
+      "title": "AEROVIRONMENT, INC: PUMAS, RAVENS AND SPARES IN SUPPORT OF MACEDONIA",
+      "url": "https://www.usaspending.gov/award/CONT_AWD_W58RGZ26F0028_9700_W58RGZ26D0001_9700",
+      "agency": "Department of Defense",
+      "identifier": "W58RGZ26F0028",
+      "date": "2025-12-05",
+      "deadline": null,
+      "summary": "PUMAS, RAVENS AND SPARES IN SUPPORT OF MACEDONIA",
+      "score": 30,
+      "domains": [],
+      "matched_terms": [],
+      "watchlist": null,
+      "extra": {
+        "amount": 4973557.56,
+        "award_type": "DELIVERY ORDER"
+      },
+      "first_seen": "2026-08-04T08:39:18.092758+00:00",
+      "is_new": true
     },
     {
       "id": "USAspending:89233126FNA400749",
@@ -5989,7 +5912,7 @@
       ],
       "watchlist": null,
       "extra": {
-        "amount": 92807124.39,
+        "amount": 92903293.26,
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
@@ -6044,6 +5967,29 @@
       },
       "first_seen": "2026-07-31T02:54:03.245875+00:00",
       "is_new": false
+    },
+    {
+      "id": "USAspending:N0001921F0362",
+      "source": "USAspending",
+      "category": "procurement",
+      "type": "Award",
+      "title": "NORTHROP GRUMMAN SYSTEMS CORPORATION: UA B10 PRESERVATION AND STORAGE",
+      "url": "https://www.usaspending.gov/award/CONT_AWD_N0001921F0362_9700_N0001920G0005_9700",
+      "agency": "Department of Defense",
+      "identifier": "N0001921F0362",
+      "date": "2021-02-24",
+      "deadline": null,
+      "summary": "UA B10 PRESERVATION AND STORAGE",
+      "score": 30,
+      "domains": [],
+      "matched_terms": [],
+      "watchlist": null,
+      "extra": {
+        "amount": 5422877.61,
+        "award_type": "DELIVERY ORDER"
+      },
+      "first_seen": "2026-08-04T08:39:18.092758+00:00",
+      "is_new": true
     },
     {
       "id": "USAspending:FA868920C2013",
@@ -6350,7 +6296,7 @@
       "watchlist": null,
       "extra": {},
       "first_seen": "2026-08-04T02:36:09.761685+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "Regulations.gov:FAA-2026-0902-0006",
@@ -7001,7 +6947,7 @@
         "setaside": null
       },
       "first_seen": "2026-08-04T02:36:09.761685+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "SAM.gov:04d3f0ed5d8d43f3ad42c95ee5ee940f",
@@ -7110,8 +7056,8 @@
     {
       "name": "SAM.gov",
       "status": "ok",
-      "detail": "40 kept",
-      "count": 40
+      "detail": "38 kept",
+      "count": 38
     },
     {
       "name": "CourtListener",
@@ -7127,16 +7073,16 @@
     }
   ],
   "stats": {
-    "total": 253,
-    "new": 5,
+    "total": 251,
+    "new": 3,
     "by_category": {
       "regulatory": 140,
-      "procurement": 100,
+      "procurement": 98,
       "litigation": 9,
       "legislative": 4
     },
     "by_domain": {
-      "air": 194,
+      "air": 192,
       "supply-chain": 116,
       "spectrum": 53,
       "defense": 15,
@@ -7146,7 +7092,7 @@
     "by_source": {
       "FCC ECFS": 98,
       "USAspending": 60,
-      "SAM.gov": 40,
+      "SAM.gov": 38,
       "Regulations.gov": 22,
       "Federal Register": 20,
       "CourtListener": 9,
