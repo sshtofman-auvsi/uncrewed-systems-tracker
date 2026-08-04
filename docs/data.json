@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-04T08:39:18.092758+00:00",
-  "generated_human": "2026-08-04 08:39 UTC",
+  "generated_at": "2026-08-04T14:14:26.910316+00:00",
+  "generated_human": "2026-08-04 14:14 UTC",
   "demo": false,
   "items": [
     {
@@ -78,6 +78,36 @@
       "is_new": false
     },
     {
+      "id": "Regulations.gov:FAA-2026-4558-1471",
+      "source": "Regulations.gov",
+      "category": "regulatory",
+      "type": "Comment",
+      "title": "Comment on Designation – Restrict the Operation of Unmanned Aircraft in Close Proximity  to a Fixed Site Facility: Comment from Lira Samanta",
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1471",
+      "agency": "FAA",
+      "identifier": "FAA-2026-4558",
+      "date": "2026-08-04",
+      "deadline": null,
+      "summary": "Comment from Lira Samanta",
+      "score": 80,
+      "domains": [
+        "air"
+      ],
+      "matched_terms": [
+        "unmanned aircraft",
+        "faa-2026-4558"
+      ],
+      "watchlist": {
+        "key": "section-2209",
+        "label": "Section 2209 (Critical Infrastructure UAS Restrictions)"
+      },
+      "extra": {
+        "docket_total_comments": 1477
+      },
+      "first_seen": "2026-08-04T14:14:26.910316+00:00",
+      "is_new": true
+    },
+    {
       "id": "Federal Register:2026-15659",
       "source": "Federal Register",
       "category": "regulatory",
@@ -113,36 +143,6 @@
       },
       "first_seen": "2026-08-01T08:23:41.032699+00:00",
       "is_new": false
-    },
-    {
-      "id": "Regulations.gov:FAA-2026-4558-1442",
-      "source": "Regulations.gov",
-      "category": "regulatory",
-      "type": "Comment",
-      "title": "Comment on Designation – Restrict the Operation of Unmanned Aircraft in Close Proximity  to a Fixed Site Facility: Comment from Anonymous",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1442",
-      "agency": "FAA",
-      "identifier": "FAA-2026-4558",
-      "date": "2026-08-03",
-      "deadline": null,
-      "summary": "Comment from Anonymous",
-      "score": 80,
-      "domains": [
-        "air"
-      ],
-      "matched_terms": [
-        "unmanned aircraft",
-        "faa-2026-4558"
-      ],
-      "watchlist": {
-        "key": "section-2209",
-        "label": "Section 2209 (Critical Infrastructure UAS Restrictions)"
-      },
-      "extra": {
-        "docket_total_comments": 1434
-      },
-      "first_seen": "2026-08-04T08:39:18.092758+00:00",
-      "is_new": true
     },
     {
       "id": "FCC ECFS:26110061910",
@@ -4036,6 +4036,36 @@
       "is_new": false
     },
     {
+      "id": "SAM.gov:36d4d5bb3e4f48499d1aea7a22432e4c",
+      "source": "SAM.gov",
+      "category": "procurement",
+      "type": "Solicitation (RFP)",
+      "title": "Drone Marketplace Onboarding of Group 3 UAS",
+      "url": "https://sam.gov/workspace/contract/opp/36d4d5bb3e4f48499d1aea7a22432e4c/view",
+      "agency": "DEPT OF DEFENSE",
+      "identifier": "W58RGZ-26-S-C001-0008",
+      "date": "2026-08-04",
+      "deadline": "2031-08-03",
+      "summary": "Drone Marketplace Onboarding of Group 3 UAS",
+      "score": 45,
+      "domains": [
+        "air",
+        "defense"
+      ],
+      "matched_terms": [
+        "uas",
+        "drone",
+        "group 3 uas"
+      ],
+      "watchlist": null,
+      "extra": {
+        "naics": "336411",
+        "setaside": "NONE"
+      },
+      "first_seen": "2026-08-04T14:14:26.910316+00:00",
+      "is_new": true
+    },
+    {
       "id": "SAM.gov:6552b25bf0e648f39b44228275998eef",
       "source": "SAM.gov",
       "category": "procurement",
@@ -4151,17 +4181,17 @@
       "is_new": false
     },
     {
-      "id": "SAM.gov:0a6104650333458a8cb3537bced96356",
+      "id": "SAM.gov:4c51062315db462aa23cc30599f914ba",
       "source": "SAM.gov",
       "category": "procurement",
-      "type": "RFI",
-      "title": "Request for Information – Drone Components",
-      "url": "https://sam.gov/workspace/contract/opp/0a6104650333458a8cb3537bced96356/view",
+      "type": "Solicitation (RFP)",
+      "title": "Call for Solutions (CFS): Drone Marketplace Onboarding of US Payloads, Software, Components, and Enablers/Accessories",
+      "url": "https://sam.gov/workspace/contract/opp/4c51062315db462aa23cc30599f914ba/view",
       "agency": "DEPT OF DEFENSE",
-      "identifier": "FA9101-RFI-Drone-Components",
+      "identifier": "W58RGZ-26-S-C001-0007",
       "date": "2026-08-04",
-      "deadline": "2026-08-06",
-      "summary": "Request for Information – Drone Components",
+      "deadline": "2031-08-03",
+      "summary": "Call for Solutions (CFS): Drone Marketplace Onboarding of US Payloads, Software, Components, and Enablers/Accessories",
       "score": 35,
       "domains": [
         "air"
@@ -4174,8 +4204,8 @@
         "naics": "336411",
         "setaside": null
       },
-      "first_seen": "2026-08-04T02:36:09.761685+00:00",
-      "is_new": false
+      "first_seen": "2026-08-04T14:14:26.910316+00:00",
+      "is_new": true
     },
     {
       "id": "SAM.gov:a92306f6d3aa4ab8abfa3152c12eb566",
@@ -4223,6 +4253,33 @@
       "watchlist": null,
       "extra": {
         "naics": null,
+        "setaside": null
+      },
+      "first_seen": "2026-08-04T02:36:09.761685+00:00",
+      "is_new": false
+    },
+    {
+      "id": "SAM.gov:0a6104650333458a8cb3537bced96356",
+      "source": "SAM.gov",
+      "category": "procurement",
+      "type": "RFI",
+      "title": "Request for Information – Drone Components",
+      "url": "https://sam.gov/workspace/contract/opp/0a6104650333458a8cb3537bced96356/view",
+      "agency": "DEPT OF DEFENSE",
+      "identifier": "FA9101-RFI-Drone-Components",
+      "date": "2026-08-03",
+      "deadline": "2026-08-06",
+      "summary": "Request for Information – Drone Components",
+      "score": 35,
+      "domains": [
+        "air"
+      ],
+      "matched_terms": [
+        "drone"
+      ],
+      "watchlist": null,
+      "extra": {
+        "naics": "336411",
         "setaside": null
       },
       "first_seen": "2026-08-04T02:36:09.761685+00:00",
@@ -4522,7 +4579,7 @@
       "url": "https://sam.gov/workspace/contract/opp/3f6f5d1fdf2c47189145c74846cbfcf0/view",
       "agency": "DEPT OF DEFENSE",
       "identifier": "F1L3SF6125A001",
-      "date": "2026-07-21",
+      "date": "2026-07-20",
       "deadline": "2026-07-24",
       "summary": "Titan 4 Counter Unmanned Aerial System",
       "score": 35,
@@ -5309,7 +5366,7 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-08-04T08:39:18.092758+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:89233126FNA400749",
@@ -5989,7 +6046,7 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-08-04T08:39:18.092758+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:FA868920C2013",
@@ -6275,6 +6332,30 @@
       "is_new": false
     },
     {
+      "id": "Regulations.gov:FAA-2026-9242-0001",
+      "source": "Regulations.gov",
+      "category": "regulatory",
+      "type": "Document",
+      "title": "STERLING DRONE SOLUTIONS LLC - Petition",
+      "url": "https://www.regulations.gov/document/FAA-2026-9242-0001",
+      "agency": "FAA",
+      "identifier": "FAA-2026-9242",
+      "date": "2026-08-04",
+      "deadline": null,
+      "summary": "STERLING DRONE SOLUTIONS LLC - Petition",
+      "score": 20,
+      "domains": [
+        "air"
+      ],
+      "matched_terms": [
+        "drone"
+      ],
+      "watchlist": null,
+      "extra": {},
+      "first_seen": "2026-08-04T14:14:26.910316+00:00",
+      "is_new": true
+    },
+    {
       "id": "Regulations.gov:FAA-2024-2566-0004",
       "source": "Regulations.gov",
       "category": "regulatory",
@@ -6515,30 +6596,6 @@
       "is_new": false
     },
     {
-      "id": "Regulations.gov:FAA-2026-8914-0001",
-      "source": "Regulations.gov",
-      "category": "regulatory",
-      "type": "Document",
-      "title": "Sky to Soil Drone Applications LLC - Exemption/Rulemaking",
-      "url": "https://www.regulations.gov/document/FAA-2026-8914-0001",
-      "agency": "FAA",
-      "identifier": "FAA-2026-8914",
-      "date": "2026-07-28",
-      "deadline": null,
-      "summary": "Sky to Soil Drone Applications LLC - Exemption/Rulemaking",
-      "score": 20,
-      "domains": [
-        "air"
-      ],
-      "matched_terms": [
-        "drone"
-      ],
-      "watchlist": null,
-      "extra": {},
-      "first_seen": "2026-07-28T19:25:57.892287+00:00",
-      "is_new": false
-    },
-    {
       "id": "SAM.gov:236627a4da2d452b8ffb111910617335",
       "source": "SAM.gov",
       "category": "procurement",
@@ -6601,30 +6658,6 @@
       "date": "2026-07-16",
       "deadline": null,
       "summary": "EA Drone Solutions LLC - Exemption/Rulemaking",
-      "score": 20,
-      "domains": [
-        "air"
-      ],
-      "matched_terms": [
-        "drone"
-      ],
-      "watchlist": null,
-      "extra": {},
-      "first_seen": "2026-07-16T16:50:49.896750+00:00",
-      "is_new": false
-    },
-    {
-      "id": "Regulations.gov:FAA-2026-8321-0001",
-      "source": "Regulations.gov",
-      "category": "regulatory",
-      "type": "Document",
-      "title": "AG AIR DRONE APPLICATIONS - Exemption/Rulemaking",
-      "url": "https://www.regulations.gov/document/FAA-2026-8321-0001",
-      "agency": "FAA",
-      "identifier": "FAA-2026-8321",
-      "date": "2026-07-16",
-      "deadline": null,
-      "summary": "AG AIR DRONE APPLICATIONS - Exemption/Rulemaking",
       "score": 20,
       "domains": [
         "air"
@@ -7038,8 +7071,8 @@
     {
       "name": "Regulations.gov",
       "status": "ok",
-      "detail": "34 kept",
-      "count": 34
+      "detail": "33 kept",
+      "count": 33
     },
     {
       "name": "FCC ECFS",
@@ -7056,8 +7089,8 @@
     {
       "name": "SAM.gov",
       "status": "ok",
-      "detail": "38 kept",
-      "count": 38
+      "detail": "40 kept",
+      "count": 40
     },
     {
       "name": "CourtListener",
@@ -7073,27 +7106,27 @@
     }
   ],
   "stats": {
-    "total": 251,
-    "new": 3,
+    "total": 252,
+    "new": 4,
     "by_category": {
-      "regulatory": 140,
-      "procurement": 98,
+      "regulatory": 139,
+      "procurement": 100,
       "litigation": 9,
       "legislative": 4
     },
     "by_domain": {
-      "air": 192,
+      "air": 193,
       "supply-chain": 116,
       "spectrum": 53,
-      "defense": 15,
+      "defense": 16,
       "ground": 9,
       "maritime": 2
     },
     "by_source": {
       "FCC ECFS": 98,
       "USAspending": 60,
-      "SAM.gov": 38,
-      "Regulations.gov": 22,
+      "SAM.gov": 40,
+      "Regulations.gov": 21,
       "Federal Register": 20,
       "CourtListener": 9,
       "Congress.gov": 4
@@ -7110,7 +7143,7 @@
       ],
       "deadline": "2026-07-06",
       "count": 2,
-      "latest": "2026-08-03"
+      "latest": "2026-08-04"
     },
     {
       "key": "et-26-22",
@@ -7505,6 +7538,24 @@
       "category": "regulatory",
       "source": "Regulations.gov",
       "url": "https://www.regulations.gov/document/FBI-2026-0001-0002"
+    },
+    {
+      "deadline": "2031-08-03",
+      "days": 1825,
+      "title": "Drone Marketplace Onboarding of Group 3 UAS",
+      "identifier": "W58RGZ-26-S-C001-0008",
+      "category": "procurement",
+      "source": "SAM.gov",
+      "url": "https://sam.gov/workspace/contract/opp/36d4d5bb3e4f48499d1aea7a22432e4c/view"
+    },
+    {
+      "deadline": "2031-08-03",
+      "days": 1825,
+      "title": "Call for Solutions (CFS): Drone Marketplace Onboarding of US Payloads, Software, Components, and Enablers/Accessories",
+      "identifier": "W58RGZ-26-S-C001-0007",
+      "category": "procurement",
+      "source": "SAM.gov",
+      "url": "https://sam.gov/workspace/contract/opp/4c51062315db462aa23cc30599f914ba/view"
     }
   ],
   "domain_labels": {
