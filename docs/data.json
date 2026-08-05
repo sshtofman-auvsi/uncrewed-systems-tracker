@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-05T14:12:17.192935+00:00",
-  "generated_human": "2026-08-05 14:12 UTC",
+  "generated_at": "2026-08-05T19:36:47.243549+00:00",
+  "generated_human": "2026-08-05 19:36 UTC",
   "demo": false,
   "items": [
     {
@@ -78,17 +78,17 @@
       "is_new": false
     },
     {
-      "id": "Regulations.gov:FAA-2026-4558-1553",
+      "id": "Regulations.gov:FAA-2026-4558-1552",
       "source": "Regulations.gov",
       "category": "regulatory",
       "type": "Comment",
-      "title": "Comment on Designation – Restrict the Operation of Unmanned Aircraft in Close Proximity  to a Fixed Site Facility: Comment from Erika Woods",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1553",
+      "title": "Comment on Designation – Restrict the Operation of Unmanned Aircraft in Close Proximity  to a Fixed Site Facility: Comment from Mary Dudley",
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1552",
       "agency": "FAA",
       "identifier": "FAA-2026-4558",
       "date": "2026-08-05",
       "deadline": null,
-      "summary": "Comment from Erika Woods",
+      "summary": "Comment from Mary Dudley",
       "score": 80,
       "domains": [
         "air"
@@ -102,9 +102,42 @@
         "label": "Section 2209 (Critical Infrastructure UAS Restrictions)"
       },
       "extra": {
-        "docket_total_comments": 1534
+        "docket_total_comments": 1563
       },
-      "first_seen": "2026-08-05T14:12:17.192935+00:00",
+      "first_seen": "2026-08-05T19:36:47.243549+00:00",
+      "is_new": true
+    },
+    {
+      "id": "SAM.gov:2e455a535bb14ed8aa1ad85075444448",
+      "source": "SAM.gov",
+      "category": "procurement",
+      "type": "Solicitation (RFP)",
+      "title": "Drone Dominance Program (DDP) Firefighting Safety Gear",
+      "url": "https://sam.gov/workspace/contract/opp/2e455a535bb14ed8aa1ad85075444448/view",
+      "agency": "DEPT OF DEFENSE",
+      "identifier": "W911RZ26QA037",
+      "date": "2026-08-05",
+      "deadline": "2026-08-07",
+      "summary": "Drone Dominance Program (DDP) Firefighting Safety Gear",
+      "score": 80,
+      "domains": [
+        "air",
+        "spectrum",
+        "supply-chain"
+      ],
+      "matched_terms": [
+        "drone",
+        "drone dominance"
+      ],
+      "watchlist": {
+        "key": "gn-26-74",
+        "label": "GN 26-74 (Unleashing American Drone Dominance)"
+      },
+      "extra": {
+        "naics": "333998",
+        "setaside": "SBA"
+      },
+      "first_seen": "2026-08-05T19:36:47.243549+00:00",
       "is_new": true
     },
     {
@@ -135,6 +168,35 @@
       },
       "first_seen": "2026-08-04T19:39:24.965524+00:00",
       "is_new": false
+    },
+    {
+      "id": "FCC ECFS:26110069388",
+      "source": "FCC ECFS",
+      "category": "regulatory",
+      "type": "PETITION",
+      "title": "CTIA: PETITION (FCC 26-74)",
+      "url": "https://www.fcc.gov/ecfs/document/26110069388/1",
+      "agency": "FCC",
+      "identifier": "FCC 26-74",
+      "date": "2026-08-04",
+      "deadline": null,
+      "summary": "",
+      "score": 80,
+      "domains": [
+        "air",
+        "spectrum",
+        "supply-chain"
+      ],
+      "matched_terms": [],
+      "watchlist": {
+        "key": "gn-26-74",
+        "label": "GN 26-74 (Unleashing American Drone Dominance)"
+      },
+      "extra": {
+        "proceeding": "26-74"
+      },
+      "first_seen": "2026-08-05T19:36:47.243549+00:00",
+      "is_new": true
     },
     {
       "id": "FCC ECFS:26110069404",
@@ -3087,122 +3149,6 @@
       "is_new": false
     },
     {
-      "id": "FCC ECFS:10515139713804",
-      "source": "FCC ECFS",
-      "category": "regulatory",
-      "type": "Notice",
-      "title": "GPS Innovation Alliance: NOTICE OF EXPARTE (FCC 26-74)",
-      "url": "https://www.fcc.gov/ecfs/document/10515139713804/1",
-      "agency": "FCC",
-      "identifier": "FCC 26-74",
-      "date": "2026-05-18",
-      "deadline": null,
-      "summary": "",
-      "score": 80,
-      "domains": [
-        "air",
-        "spectrum",
-        "supply-chain"
-      ],
-      "matched_terms": [],
-      "watchlist": {
-        "key": "gn-26-74",
-        "label": "GN 26-74 (Unleashing American Drone Dominance)"
-      },
-      "extra": {
-        "proceeding": "26-74"
-      },
-      "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": false
-    },
-    {
-      "id": "FCC ECFS:1051614927309",
-      "source": "FCC ECFS",
-      "category": "regulatory",
-      "type": "Comment",
-      "title": "HIGHSITE AERIAL MAPPING LLC: COMMENT (FCC 26-74)",
-      "url": "https://www.fcc.gov/ecfs/document/1051614927309/1",
-      "agency": "FCC",
-      "identifier": "FCC 26-74",
-      "date": "2026-05-18",
-      "deadline": null,
-      "summary": "",
-      "score": 80,
-      "domains": [
-        "air",
-        "spectrum",
-        "supply-chain"
-      ],
-      "matched_terms": [],
-      "watchlist": {
-        "key": "gn-26-74",
-        "label": "GN 26-74 (Unleashing American Drone Dominance)"
-      },
-      "extra": {
-        "proceeding": "26-74"
-      },
-      "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": false
-    },
-    {
-      "id": "FCC ECFS:10518649125925",
-      "source": "FCC ECFS",
-      "category": "regulatory",
-      "type": "Comment",
-      "title": "Dryver Huston: COMMENT (FCC 26-74)",
-      "url": "https://www.fcc.gov/ecfs/search/search-filings/filing/10518649125925",
-      "agency": "FCC",
-      "identifier": "FCC 26-74",
-      "date": "2026-05-18",
-      "deadline": null,
-      "summary": "This is a follow-on reply largely in response to comment 10501275429009 by Guvenc et al. regarding the use of ultrawideband (UWB) on UAVs.  UWB has at least two primary applications on UAVs.  The first is to use UWB pulses as the source of ground penetrating radar (GPR) signals. GPR is very useful in subsurface sensing, such as: locating buried utilities; detecting the condition of pavement, concr",
-      "score": 80,
-      "domains": [
-        "air",
-        "spectrum",
-        "supply-chain"
-      ],
-      "matched_terms": [],
-      "watchlist": {
-        "key": "gn-26-74",
-        "label": "GN 26-74 (Unleashing American Drone Dominance)"
-      },
-      "extra": {
-        "proceeding": "26-74"
-      },
-      "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": false
-    },
-    {
-      "id": "FCC ECFS:10517710321020",
-      "source": "FCC ECFS",
-      "category": "regulatory",
-      "type": "Reply Comment",
-      "title": "Abhilash S, Annu, S Vanka, P Rajalakshmi: REPLY TO COMMENTS (FCC 26-74)",
-      "url": "https://www.fcc.gov/ecfs/document/10517710321020/1",
-      "agency": "FCC",
-      "identifier": "FCC 26-74",
-      "date": "2026-05-18",
-      "deadline": null,
-      "summary": "",
-      "score": 80,
-      "domains": [
-        "air",
-        "spectrum",
-        "supply-chain"
-      ],
-      "matched_terms": [],
-      "watchlist": {
-        "key": "gn-26-74",
-        "label": "GN 26-74 (Unleashing American Drone Dominance)"
-      },
-      "extra": {
-        "proceeding": "26-74"
-      },
-      "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": false
-    },
-    {
       "id": "Federal Register:2026-07381",
       "source": "Federal Register",
       "category": "regulatory",
@@ -3666,7 +3612,7 @@
         "setaside": "NONE"
       },
       "first_seen": "2026-08-05T14:12:17.192935+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "SAM.gov:2ea9d5b8f1dd415799d6761829ca5130",
@@ -3966,7 +3912,7 @@
         "setaside": null
       },
       "first_seen": "2026-08-05T14:12:17.192935+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "Federal Register:2026-15417",
@@ -4167,7 +4113,7 @@
         "setaside": "SBA"
       },
       "first_seen": "2026-08-05T14:12:17.192935+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "SAM.gov:4c79054bc3f44760b606e9279d13d181",
@@ -4194,7 +4140,7 @@
         "setaside": "SBA"
       },
       "first_seen": "2026-08-05T14:12:17.192935+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "SAM.gov:4c51062315db462aa23cc30599f914ba",
@@ -6377,7 +6323,7 @@
       "watchlist": null,
       "extra": {},
       "first_seen": "2026-08-05T14:12:17.192935+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "Regulations.gov:FAA-2026-9242-0001",
@@ -7437,8 +7383,8 @@
     {
       "name": "SAM.gov",
       "status": "ok",
-      "detail": "56 kept",
-      "count": 56
+      "detail": "57 kept",
+      "count": 57
     },
     {
       "name": "CourtListener",
@@ -7454,26 +7400,26 @@
     }
   ],
   "stats": {
-    "total": 265,
-    "new": 6,
+    "total": 263,
+    "new": 3,
     "by_category": {
-      "regulatory": 136,
-      "procurement": 116,
+      "regulatory": 133,
+      "procurement": 117,
       "litigation": 9,
       "legislative": 4
     },
     "by_domain": {
-      "air": 196,
-      "supply-chain": 113,
-      "spectrum": 50,
+      "air": 194,
+      "supply-chain": 111,
+      "spectrum": 48,
       "ground": 21,
       "defense": 17,
       "maritime": 2
     },
     "by_source": {
-      "FCC ECFS": 95,
+      "FCC ECFS": 92,
       "USAspending": 60,
-      "SAM.gov": 56,
+      "SAM.gov": 57,
       "Regulations.gov": 21,
       "Federal Register": 20,
       "CourtListener": 9,
@@ -7517,8 +7463,8 @@
         "supply-chain"
       ],
       "deadline": null,
-      "count": 49,
-      "latest": "2026-08-04"
+      "count": 47,
+      "latest": "2026-08-05"
     },
     {
       "key": "dji-ca9",
@@ -7724,6 +7670,15 @@
       "category": "procurement",
       "source": "SAM.gov",
       "url": "https://sam.gov/workspace/contract/opp/57c9803d1ef345de9e0069b7b6428419/view"
+    },
+    {
+      "deadline": "2026-08-07",
+      "days": 2,
+      "title": "Drone Dominance Program (DDP) Firefighting Safety Gear",
+      "identifier": "W911RZ26QA037",
+      "category": "procurement",
+      "source": "SAM.gov",
+      "url": "https://sam.gov/workspace/contract/opp/2e455a535bb14ed8aa1ad85075444448/view"
     },
     {
       "deadline": "2026-08-07",
@@ -8012,15 +7967,6 @@
       "category": "regulatory",
       "source": "Federal Register",
       "url": "https://www.federalregister.gov/documents/2026/07/31/2026-15483/av-framework-updates-and-request-for-comments-on-interim-guidance"
-    },
-    {
-      "deadline": "2026-09-02",
-      "days": 28,
-      "title": "Seeking Comment on Prohibiting the Importation and Marketing of Certain Foreign-Produced Military-Grade Uncrewed Aircraft Systems (UAS) and UAS Critical Components for Non-U.S. Government, Including Those With Swarming Capabilities",
-      "identifier": "PSHSB & OET: PS Docket No. 26-189",
-      "category": "regulatory",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/08/03/2026-15659/seeking-comment-on-prohibiting-the-importation-and-marketing-of-certain-foreign-produced"
     }
   ],
   "domain_labels": {
