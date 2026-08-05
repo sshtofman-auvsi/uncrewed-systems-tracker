@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-05T02:35:57.412264+00:00",
-  "generated_human": "2026-08-05 02:35 UTC",
+  "generated_at": "2026-08-05T08:38:26.964387+00:00",
+  "generated_human": "2026-08-05 08:38 UTC",
   "demo": false,
   "items": [
     {
@@ -78,17 +78,17 @@
       "is_new": false
     },
     {
-      "id": "Regulations.gov:FAA-2026-4558-1478",
+      "id": "Regulations.gov:FAA-2026-4558-1500",
       "source": "Regulations.gov",
       "category": "regulatory",
       "type": "Comment",
-      "title": "Comment on Designation – Restrict the Operation of Unmanned Aircraft in Close Proximity  to a Fixed Site Facility: Comment from City of Henderson, NV",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1478",
+      "title": "Comment on Designation – Restrict the Operation of Unmanned Aircraft in Close Proximity  to a Fixed Site Facility: Comment from City of Houston, Houston Airport System",
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1500",
       "agency": "FAA",
       "identifier": "FAA-2026-4558",
       "date": "2026-08-04",
       "deadline": null,
-      "summary": "Comment from City of Henderson, NV",
+      "summary": "Comment from City of Houston, Houston Airport System",
       "score": 80,
       "domains": [
         "air"
@@ -104,8 +104,8 @@
       "extra": {
         "docket_total_comments": 1506
       },
-      "first_seen": "2026-08-04T19:39:24.965524+00:00",
-      "is_new": false
+      "first_seen": "2026-08-05T08:38:26.964387+00:00",
+      "is_new": true
     },
     {
       "id": "FCC ECFS:26110069384",
@@ -4137,6 +4137,33 @@
       "is_new": false
     },
     {
+      "id": "SAM.gov:0a6104650333458a8cb3537bced96356",
+      "source": "SAM.gov",
+      "category": "procurement",
+      "type": "RFI",
+      "title": "Request for Information – Drone Components",
+      "url": "https://sam.gov/workspace/contract/opp/0a6104650333458a8cb3537bced96356/view",
+      "agency": "DEPT OF DEFENSE",
+      "identifier": "FA9101-RFI-Drone-Components",
+      "date": "2026-08-04",
+      "deadline": "2026-08-06",
+      "summary": "Request for Information – Drone Components",
+      "score": 35,
+      "domains": [
+        "air"
+      ],
+      "matched_terms": [
+        "drone"
+      ],
+      "watchlist": null,
+      "extra": {
+        "naics": "336411",
+        "setaside": null
+      },
+      "first_seen": "2026-08-04T02:36:09.761685+00:00",
+      "is_new": false
+    },
+    {
       "id": "SAM.gov:70591dad2ee84d60b66a879d3194ae9c",
       "source": "SAM.gov",
       "category": "procurement",
@@ -4209,33 +4236,6 @@
       "watchlist": null,
       "extra": {
         "naics": null,
-        "setaside": null
-      },
-      "first_seen": "2026-08-04T02:36:09.761685+00:00",
-      "is_new": false
-    },
-    {
-      "id": "SAM.gov:0a6104650333458a8cb3537bced96356",
-      "source": "SAM.gov",
-      "category": "procurement",
-      "type": "RFI",
-      "title": "Request for Information – Drone Components",
-      "url": "https://sam.gov/workspace/contract/opp/0a6104650333458a8cb3537bced96356/view",
-      "agency": "DEPT OF DEFENSE",
-      "identifier": "FA9101-RFI-Drone-Components",
-      "date": "2026-08-03",
-      "deadline": "2026-08-06",
-      "summary": "Request for Information – Drone Components",
-      "score": 35,
-      "domains": [
-        "air"
-      ],
-      "matched_terms": [
-        "drone"
-      ],
-      "watchlist": null,
-      "extra": {
-        "naics": "336411",
         "setaside": null
       },
       "first_seen": "2026-08-04T02:36:09.761685+00:00",
@@ -4535,7 +4535,7 @@
       "url": "https://sam.gov/workspace/contract/opp/3f6f5d1fdf2c47189145c74846cbfcf0/view",
       "agency": "DEPT OF DEFENSE",
       "identifier": "F1L3SF6125A001",
-      "date": "2026-07-20",
+      "date": "2026-07-21",
       "deadline": "2026-07-24",
       "summary": "Titan 4 Counter Unmanned Aerial System",
       "score": 35,
@@ -5026,29 +5026,6 @@
       "is_new": false
     },
     {
-      "id": "USAspending:FA862926PB003",
-      "source": "USAspending",
-      "category": "procurement",
-      "type": "Award",
-      "title": "AEROVIRONMENT, INC: ACC/A3J-MIPR-TACP ACC HURRICANE ORDER",
-      "url": "https://www.usaspending.gov/award/CONT_AWD_FA862926PB003_9700_-NONE-_-NONE-",
-      "agency": "Department of Defense",
-      "identifier": "FA862926PB003",
-      "date": "2026-04-29",
-      "deadline": null,
-      "summary": "ACC/A3J-MIPR-TACP ACC HURRICANE ORDER",
-      "score": 30,
-      "domains": [],
-      "matched_terms": [],
-      "watchlist": null,
-      "extra": {
-        "amount": 4451223.0,
-        "award_type": "PURCHASE ORDER"
-      },
-      "first_seen": "2026-08-05T02:35:57.412264+00:00",
-      "is_new": true
-    },
-    {
       "id": "USAspending:80NM0026F7025",
       "source": "USAspending",
       "category": "procurement",
@@ -5300,6 +5277,33 @@
       },
       "first_seen": "2026-06-24T10:37:40.965591+00:00",
       "is_new": false
+    },
+    {
+      "id": "USAspending:FA865022F2611",
+      "source": "USAspending",
+      "category": "procurement",
+      "type": "Award",
+      "title": "DCS CORPORATION: TEAMING OF HUMANS AND UNMANNED NETWORKED DRONE RESEARCH",
+      "url": "https://www.usaspending.gov/award/CONT_AWD_FA865022F2611_9700_FA865021D2602_9700",
+      "agency": "Department of Defense",
+      "identifier": "FA865022F2611",
+      "date": "2026-02-16",
+      "deadline": null,
+      "summary": "TEAMING OF HUMANS AND UNMANNED NETWORKED DRONE RESEARCH",
+      "score": 30,
+      "domains": [
+        "air"
+      ],
+      "matched_terms": [
+        "drone"
+      ],
+      "watchlist": null,
+      "extra": {
+        "amount": 11460965.76,
+        "award_type": "DELIVERY ORDER"
+      },
+      "first_seen": "2026-08-05T08:38:26.964387+00:00",
+      "is_new": true
     },
     {
       "id": "USAspending:FA868126FB012",
@@ -5959,29 +5963,6 @@
       "is_new": false
     },
     {
-      "id": "USAspending:FA868921F2004",
-      "source": "USAspending",
-      "category": "procurement",
-      "type": "Award",
-      "title": "GENERAL ATOMICS AERONAUTICAL SYSTEMS, INC.: MQ-9 REAPER FY20 MISSION READINESS CAPABILITY",
-      "url": "https://www.usaspending.gov/award/CONT_AWD_FA868921F2004_9700_FA862017D2000_9700",
-      "agency": "Department of Defense",
-      "identifier": "FA868921F2004",
-      "date": "2021-07-23",
-      "deadline": null,
-      "summary": "MQ-9 REAPER FY20 MISSION READINESS CAPABILITY",
-      "score": 30,
-      "domains": [],
-      "matched_terms": [],
-      "watchlist": null,
-      "extra": {
-        "amount": 4472830.42,
-        "award_type": "DELIVERY ORDER"
-      },
-      "first_seen": "2026-07-31T02:54:03.245875+00:00",
-      "is_new": false
-    },
-    {
       "id": "USAspending:N0001921F0362",
       "source": "USAspending",
       "category": "procurement",
@@ -6118,6 +6099,33 @@
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
       "is_new": false
+    },
+    {
+      "id": "USAspending:M803",
+      "source": "USAspending",
+      "category": "procurement",
+      "type": "Award",
+      "title": "BOWHEAD SCIENCE AND TECHNOLOGY, LLC: THE CONTRACTOR SHALL PROVIDE PROGRAM MANAGEMENT SUPPORT SERVICES ACROSS PM263 (SMALL TACTICAL UNMANNED AIRCRAFT SYSTEMS)",
+      "url": "https://www.usaspending.gov/award/CONT_AWD_M803_9700_N0017808D5651_9700",
+      "agency": "Department of Defense",
+      "identifier": "M803",
+      "date": "2014-02-01",
+      "deadline": null,
+      "summary": "THE CONTRACTOR SHALL PROVIDE PROGRAM MANAGEMENT SUPPORT SERVICES ACROSS PM263 (SMALL TACTICAL UNMANNED AIRCRAFT SYSTEMS).",
+      "score": 30,
+      "domains": [
+        "air"
+      ],
+      "matched_terms": [
+        "unmanned aircraft"
+      ],
+      "watchlist": null,
+      "extra": {
+        "amount": 16780598.53,
+        "award_type": "DELIVERY ORDER"
+      },
+      "first_seen": "2026-08-05T08:38:26.964387+00:00",
+      "is_new": true
     },
     {
       "id": "Regulations.gov:FBI-2026-0001-0002",
@@ -7387,7 +7395,7 @@
   ],
   "stats": {
     "total": 263,
-    "new": 1,
+    "new": 3,
     "by_category": {
       "regulatory": 136,
       "procurement": 114,
@@ -7395,7 +7403,7 @@
       "legislative": 4
     },
     "by_domain": {
-      "air": 192,
+      "air": 194,
       "supply-chain": 113,
       "spectrum": 50,
       "ground": 21,
