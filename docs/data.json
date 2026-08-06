@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-06T08:39:14.025996+00:00",
-  "generated_human": "2026-08-06 08:39 UTC",
+  "generated_at": "2026-08-06T14:11:41.063924+00:00",
+  "generated_human": "2026-08-06 14:11 UTC",
   "demo": false,
   "items": [
     {
@@ -37,7 +37,7 @@
         "label": "Safer Skies Act (C-UAS)"
       },
       "extra": {
-        "comment_url": null,
+        "comment_url": "http://www.regulations.gov/commenton/FBI-2026-0001-0002",
         "dockets": [
           "Docket No. FBI-2026-0001"
         ]
@@ -78,17 +78,17 @@
       "is_new": false
     },
     {
-      "id": "Regulations.gov:FAA-2026-4558-1571",
+      "id": "Regulations.gov:FAA-2026-4558-1629",
       "source": "Regulations.gov",
       "category": "regulatory",
       "type": "Comment",
-      "title": "Comment on Designation – Restrict the Operation of Unmanned Aircraft in Close Proximity  to a Fixed Site Facility: Comment from National Association of Manufacturers",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1571",
+      "title": "Comment on Designation – Restrict the Operation of Unmanned Aircraft in Close Proximity  to a Fixed Site Facility: Comment from Karin L",
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1629",
       "agency": "FAA",
       "identifier": "FAA-2026-4558",
-      "date": "2026-08-05",
+      "date": "2026-08-06",
       "deadline": null,
-      "summary": "Comment from National Association of Manufacturers",
+      "summary": "Comment from Karin L",
       "score": 80,
       "domains": [
         "air"
@@ -102,10 +102,10 @@
         "label": "Section 2209 (Critical Infrastructure UAS Restrictions)"
       },
       "extra": {
-        "docket_total_comments": 1595
+        "docket_total_comments": 1669
       },
-      "first_seen": "2026-08-06T02:38:32.929266+00:00",
-      "is_new": false
+      "first_seen": "2026-08-06T14:11:41.063924+00:00",
+      "is_new": true
     },
     {
       "id": "SAM.gov:2e455a535bb14ed8aa1ad85075444448",
@@ -4197,33 +4197,6 @@
       "is_new": false
     },
     {
-      "id": "SAM.gov:0a6104650333458a8cb3537bced96356",
-      "source": "SAM.gov",
-      "category": "procurement",
-      "type": "RFI",
-      "title": "Request for Information – Drone Components",
-      "url": "https://sam.gov/workspace/contract/opp/0a6104650333458a8cb3537bced96356/view",
-      "agency": "DEPT OF DEFENSE",
-      "identifier": "FA9101-RFI-Drone-Components",
-      "date": "2026-08-04",
-      "deadline": "2026-08-06",
-      "summary": "Request for Information – Drone Components",
-      "score": 35,
-      "domains": [
-        "air"
-      ],
-      "matched_terms": [
-        "drone"
-      ],
-      "watchlist": null,
-      "extra": {
-        "naics": "336411",
-        "setaside": null
-      },
-      "first_seen": "2026-08-04T02:36:09.761685+00:00",
-      "is_new": false
-    },
-    {
       "id": "SAM.gov:70591dad2ee84d60b66a879d3194ae9c",
       "source": "SAM.gov",
       "category": "procurement",
@@ -4296,6 +4269,33 @@
       "watchlist": null,
       "extra": {
         "naics": null,
+        "setaside": null
+      },
+      "first_seen": "2026-08-04T02:36:09.761685+00:00",
+      "is_new": false
+    },
+    {
+      "id": "SAM.gov:0a6104650333458a8cb3537bced96356",
+      "source": "SAM.gov",
+      "category": "procurement",
+      "type": "RFI",
+      "title": "Request for Information – Drone Components",
+      "url": "https://sam.gov/workspace/contract/opp/0a6104650333458a8cb3537bced96356/view",
+      "agency": "DEPT OF DEFENSE",
+      "identifier": "FA9101-RFI-Drone-Components",
+      "date": "2026-08-03",
+      "deadline": "2026-08-06",
+      "summary": "Request for Information – Drone Components",
+      "score": 35,
+      "domains": [
+        "air"
+      ],
+      "matched_terms": [
+        "drone"
+      ],
+      "watchlist": null,
+      "extra": {
+        "naics": "336411",
         "setaside": null
       },
       "first_seen": "2026-08-04T02:36:09.761685+00:00",
@@ -4568,7 +4568,7 @@
       "url": "https://sam.gov/workspace/contract/opp/3f6f5d1fdf2c47189145c74846cbfcf0/view",
       "agency": "DEPT OF DEFENSE",
       "identifier": "F1L3SF6125A001",
-      "date": "2026-07-21",
+      "date": "2026-07-20",
       "deadline": "2026-07-24",
       "summary": "Titan 4 Counter Unmanned Aerial System",
       "score": 35,
@@ -5989,7 +5989,7 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-08-06T08:39:14.025996+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:FA868920C2013",
@@ -6302,6 +6302,30 @@
       "is_new": false
     },
     {
+      "id": "Regulations.gov:FAA-2026-9439-0001",
+      "source": "Regulations.gov",
+      "category": "regulatory",
+      "type": "Document",
+      "title": "Brightflight Drone Shows - Petition",
+      "url": "https://www.regulations.gov/document/FAA-2026-9439-0001",
+      "agency": "FAA",
+      "identifier": "FAA-2026-9439",
+      "date": "2026-08-06",
+      "deadline": null,
+      "summary": "Brightflight Drone Shows - Petition",
+      "score": 20,
+      "domains": [
+        "air"
+      ],
+      "matched_terms": [
+        "drone"
+      ],
+      "watchlist": null,
+      "extra": {},
+      "first_seen": "2026-08-06T14:11:41.063924+00:00",
+      "is_new": true
+    },
+    {
       "id": "Regulations.gov:FAA-2026-9340-0001",
       "source": "Regulations.gov",
       "category": "regulatory",
@@ -6566,30 +6590,6 @@
       "watchlist": null,
       "extra": {},
       "first_seen": "2026-07-29T19:18:31.005999+00:00",
-      "is_new": false
-    },
-    {
-      "id": "Regulations.gov:FAA-2025-2307-0004",
-      "source": "Regulations.gov",
-      "category": "regulatory",
-      "type": "Document",
-      "title": "Agriation Drone Services LLC - Amendment",
-      "url": "https://www.regulations.gov/document/FAA-2025-2307-0004",
-      "agency": "FAA",
-      "identifier": "FAA-2025-2307",
-      "date": "2026-07-28",
-      "deadline": null,
-      "summary": "Agriation Drone Services LLC - Amendment",
-      "score": 20,
-      "domains": [
-        "air"
-      ],
-      "matched_terms": [
-        "drone"
-      ],
-      "watchlist": null,
-      "extra": {},
-      "first_seen": "2026-07-28T19:25:57.892287+00:00",
       "is_new": false
     },
     {
@@ -7377,7 +7377,7 @@
   ],
   "stats": {
     "total": 262,
-    "new": 1,
+    "new": 2,
     "by_category": {
       "regulatory": 132,
       "procurement": 117,
@@ -7413,7 +7413,7 @@
       ],
       "deadline": "2026-07-06",
       "count": 2,
-      "latest": "2026-08-05"
+      "latest": "2026-08-06"
     },
     {
       "key": "et-26-22",
