@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-06T02:38:32.929266+00:00",
-  "generated_human": "2026-08-06 02:38 UTC",
+  "generated_at": "2026-08-06T08:39:14.025996+00:00",
+  "generated_human": "2026-08-06 08:39 UTC",
   "demo": false,
   "items": [
     {
@@ -105,7 +105,7 @@
         "docket_total_comments": 1595
       },
       "first_seen": "2026-08-06T02:38:32.929266+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "SAM.gov:2e455a535bb14ed8aa1ad85075444448",
@@ -2239,35 +2239,6 @@
       "is_new": false
     },
     {
-      "id": "FCC ECFS:1051813119257",
-      "source": "FCC ECFS",
-      "category": "regulatory",
-      "type": "Reply Comment",
-      "title": "Aerospace Industries Association, Air Line Pilots Association International, AURA Network Systems, Inc., Aviation Spectrum Resources, Inc., The Boeing Company, Joby Aviation, and Vertical Aviation International: REPLY TO COMMENTS (FCC 26-74)",
-      "url": "https://www.fcc.gov/ecfs/document/1051813119257/1",
-      "agency": "FCC",
-      "identifier": "FCC 26-74",
-      "date": "2026-05-19",
-      "deadline": null,
-      "summary": "",
-      "score": 80,
-      "domains": [
-        "air",
-        "spectrum",
-        "supply-chain"
-      ],
-      "matched_terms": [],
-      "watchlist": {
-        "key": "gn-26-74",
-        "label": "GN 26-74 (Unleashing American Drone Dominance)"
-      },
-      "extra": {
-        "proceeding": "26-74"
-      },
-      "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": false
-    },
-    {
       "id": "FCC ECFS:1051812307908",
       "source": "FCC ECFS",
       "category": "regulatory",
@@ -2297,12 +2268,12 @@
       "is_new": false
     },
     {
-      "id": "FCC ECFS:10518843201689",
+      "id": "FCC ECFS:10518639213118",
       "source": "FCC ECFS",
       "category": "regulatory",
       "type": "Reply Comment",
-      "title": "Connected Devices for America Coalition, E-ZPass Group, American Trucking Associations (ATA), International Bridge, Tunnel, and Turnpike Association (IBTTA), LoRa Alliance, National Retail Federation (NRF), RAIN Alliance Inc., Wi-Fi Alliance, WISPA – The Association for Broadband Without Boundaries, Wi-SUN Alliance: REPLY TO COMMENTS (FCC 26-74)",
-      "url": "https://www.fcc.gov/ecfs/document/10518843201689/1",
+      "title": "Silvus Technologies Inc.: REPLY TO COMMENTS (FCC 26-74)",
+      "url": "https://www.fcc.gov/ecfs/document/10518639213118/1",
       "agency": "FCC",
       "identifier": "FCC 26-74",
       "date": "2026-05-19",
@@ -2326,12 +2297,41 @@
       "is_new": false
     },
     {
-      "id": "FCC ECFS:10518639213118",
+      "id": "FCC ECFS:1051813119257",
       "source": "FCC ECFS",
       "category": "regulatory",
       "type": "Reply Comment",
-      "title": "Silvus Technologies Inc.: REPLY TO COMMENTS (FCC 26-74)",
-      "url": "https://www.fcc.gov/ecfs/document/10518639213118/1",
+      "title": "Aerospace Industries Association, Air Line Pilots Association International, AURA Network Systems, Inc., Aviation Spectrum Resources, Inc., The Boeing Company, Joby Aviation, and Vertical Aviation International: REPLY TO COMMENTS (FCC 26-74)",
+      "url": "https://www.fcc.gov/ecfs/document/1051813119257/1",
+      "agency": "FCC",
+      "identifier": "FCC 26-74",
+      "date": "2026-05-19",
+      "deadline": null,
+      "summary": "",
+      "score": 80,
+      "domains": [
+        "air",
+        "spectrum",
+        "supply-chain"
+      ],
+      "matched_terms": [],
+      "watchlist": {
+        "key": "gn-26-74",
+        "label": "GN 26-74 (Unleashing American Drone Dominance)"
+      },
+      "extra": {
+        "proceeding": "26-74"
+      },
+      "first_seen": "2026-06-22T17:58:20.979820+00:00",
+      "is_new": false
+    },
+    {
+      "id": "FCC ECFS:10518843201689",
+      "source": "FCC ECFS",
+      "category": "regulatory",
+      "type": "Reply Comment",
+      "title": "Connected Devices for America Coalition, E-ZPass Group, American Trucking Associations (ATA), International Bridge, Tunnel, and Turnpike Association (IBTTA), LoRa Alliance, National Retail Federation (NRF), RAIN Alliance Inc., Wi-Fi Alliance, WISPA – The Association for Broadband Without Boundaries, Wi-SUN Alliance: REPLY TO COMMENTS (FCC 26-74)",
+      "url": "https://www.fcc.gov/ecfs/document/10518843201689/1",
       "agency": "FCC",
       "identifier": "FCC 26-74",
       "date": "2026-05-19",
@@ -2413,6 +2413,35 @@
       "is_new": false
     },
     {
+      "id": "FCC ECFS:10518135533675",
+      "source": "FCC ECFS",
+      "category": "regulatory",
+      "type": "Reply Comment",
+      "title": "CACI International: REPLY TO COMMENTS (FCC 26-74)",
+      "url": "https://www.fcc.gov/ecfs/document/10518135533675/1",
+      "agency": "FCC",
+      "identifier": "FCC 26-74",
+      "date": "2026-05-19",
+      "deadline": null,
+      "summary": "",
+      "score": 80,
+      "domains": [
+        "air",
+        "spectrum",
+        "supply-chain"
+      ],
+      "matched_terms": [],
+      "watchlist": {
+        "key": "gn-26-74",
+        "label": "GN 26-74 (Unleashing American Drone Dominance)"
+      },
+      "extra": {
+        "proceeding": "26-74"
+      },
+      "first_seen": "2026-06-22T17:58:20.979820+00:00",
+      "is_new": false
+    },
+    {
       "id": "FCC ECFS:10518100110610",
       "source": "FCC ECFS",
       "category": "regulatory",
@@ -2442,12 +2471,12 @@
       "is_new": false
     },
     {
-      "id": "FCC ECFS:10518135533675",
+      "id": "FCC ECFS:1051801407885",
       "source": "FCC ECFS",
       "category": "regulatory",
       "type": "Reply Comment",
-      "title": "CACI International: REPLY TO COMMENTS (FCC 26-74)",
-      "url": "https://www.fcc.gov/ecfs/document/10518135533675/1",
+      "title": "CTIA: REPLY TO COMMENTS (FCC 26-74)",
+      "url": "https://www.fcc.gov/ecfs/document/1051801407885/1",
       "agency": "FCC",
       "identifier": "FCC 26-74",
       "date": "2026-05-19",
@@ -2506,35 +2535,6 @@
       "type": "Reply Comment",
       "title": "American Petroleum Institute: REPLY TO COMMENTS (FCC 26-74)",
       "url": "https://www.fcc.gov/ecfs/document/10518822622475/1",
-      "agency": "FCC",
-      "identifier": "FCC 26-74",
-      "date": "2026-05-19",
-      "deadline": null,
-      "summary": "",
-      "score": 80,
-      "domains": [
-        "air",
-        "spectrum",
-        "supply-chain"
-      ],
-      "matched_terms": [],
-      "watchlist": {
-        "key": "gn-26-74",
-        "label": "GN 26-74 (Unleashing American Drone Dominance)"
-      },
-      "extra": {
-        "proceeding": "26-74"
-      },
-      "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": false
-    },
-    {
-      "id": "FCC ECFS:1051801407885",
-      "source": "FCC ECFS",
-      "category": "regulatory",
-      "type": "Reply Comment",
-      "title": "CTIA: REPLY TO COMMENTS (FCC 26-74)",
-      "url": "https://www.fcc.gov/ecfs/document/1051801407885/1",
       "agency": "FCC",
       "identifier": "FCC 26-74",
       "date": "2026-05-19",
@@ -2674,12 +2674,12 @@
       "is_new": false
     },
     {
-      "id": "FCC ECFS:105191782521525",
+      "id": "FCC ECFS:1051922013627",
       "source": "FCC ECFS",
       "category": "regulatory",
       "type": "Reply Comment",
-      "title": "Perennial Autonomy, Inc.: REPLY TO COMMENTS (FCC 26-74)",
-      "url": "https://www.fcc.gov/ecfs/document/105191782521525/1",
+      "title": "Ceres Air LLC, Elevon Aerial AG, Exedy Drones: REPLY TO COMMENTS (FCC 26-74)",
+      "url": "https://www.fcc.gov/ecfs/document/1051922013627/1",
       "agency": "FCC",
       "identifier": "FCC 26-74",
       "date": "2026-05-19",
@@ -2703,12 +2703,12 @@
       "is_new": false
     },
     {
-      "id": "FCC ECFS:1051922013627",
+      "id": "FCC ECFS:105191782521525",
       "source": "FCC ECFS",
       "category": "regulatory",
       "type": "Reply Comment",
-      "title": "Ceres Air LLC, Elevon Aerial AG, Exedy Drones: REPLY TO COMMENTS (FCC 26-74)",
-      "url": "https://www.fcc.gov/ecfs/document/1051922013627/1",
+      "title": "Perennial Autonomy, Inc.: REPLY TO COMMENTS (FCC 26-74)",
+      "url": "https://www.fcc.gov/ecfs/document/105191782521525/1",
       "agency": "FCC",
       "identifier": "FCC 26-74",
       "date": "2026-05-19",
@@ -2790,12 +2790,12 @@
       "is_new": false
     },
     {
-      "id": "FCC ECFS:10518153927989",
+      "id": "FCC ECFS:10518492919672",
       "source": "FCC ECFS",
       "category": "regulatory",
       "type": "Reply Comment",
-      "title": "Sadik Kara: REPLY TO COMMENTS (FCC 26-74)",
-      "url": "https://www.fcc.gov/ecfs/document/10518153927989/1",
+      "title": "450 MHz Alliance: REPLY TO COMMENTS (FCC 26-74)",
+      "url": "https://www.fcc.gov/ecfs/document/10518492919672/1",
       "agency": "FCC",
       "identifier": "FCC 26-74",
       "date": "2026-05-18",
@@ -2819,12 +2819,12 @@
       "is_new": false
     },
     {
-      "id": "FCC ECFS:10518492919672",
+      "id": "FCC ECFS:10518153927989",
       "source": "FCC ECFS",
       "category": "regulatory",
       "type": "Reply Comment",
-      "title": "450 MHz Alliance: REPLY TO COMMENTS (FCC 26-74)",
-      "url": "https://www.fcc.gov/ecfs/document/10518492919672/1",
+      "title": "Sadik Kara: REPLY TO COMMENTS (FCC 26-74)",
+      "url": "https://www.fcc.gov/ecfs/document/10518153927989/1",
       "agency": "FCC",
       "identifier": "FCC 26-74",
       "date": "2026-05-18",
@@ -3214,7 +3214,7 @@
         "label": "GN 26-74 (Unleashing American Drone Dominance)"
       },
       "extra": {
-        "amount": 56294987.96,
+        "amount": 77729004.5,
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-08-01T08:23:41.032699+00:00",
@@ -4089,33 +4089,6 @@
       "is_new": false
     },
     {
-      "id": "SAM.gov:692f37ce05674dbe8fd798752e63c9a1",
-      "source": "SAM.gov",
-      "category": "procurement",
-      "type": "Solicitation (RFP)",
-      "title": "SFS Drone Detection System",
-      "url": "https://sam.gov/workspace/contract/opp/692f37ce05674dbe8fd798752e63c9a1/view",
-      "agency": "DEPT OF DEFENSE",
-      "identifier": "FA302226Q0012",
-      "date": "2026-08-05",
-      "deadline": "2026-08-06",
-      "summary": "SFS Drone Detection System",
-      "score": 35,
-      "domains": [
-        "air"
-      ],
-      "matched_terms": [
-        "drone"
-      ],
-      "watchlist": null,
-      "extra": {
-        "naics": "334511",
-        "setaside": "SBA"
-      },
-      "first_seen": "2026-08-05T14:12:17.192935+00:00",
-      "is_new": false
-    },
-    {
       "id": "SAM.gov:4c79054bc3f44760b606e9279d13d181",
       "source": "SAM.gov",
       "category": "procurement",
@@ -4167,7 +4140,7 @@
         "setaside": "SBA"
       },
       "first_seen": "2026-08-06T02:38:32.929266+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "SAM.gov:4c51062315db462aa23cc30599f914ba",
@@ -5052,7 +5025,7 @@
       "matched_terms": [],
       "watchlist": null,
       "extra": {
-        "amount": 43200000.0,
+        "amount": 51700000.0,
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
@@ -5973,29 +5946,6 @@
       "is_new": false
     },
     {
-      "id": "USAspending:FA868921F2004",
-      "source": "USAspending",
-      "category": "procurement",
-      "type": "Award",
-      "title": "GENERAL ATOMICS AERONAUTICAL SYSTEMS, INC.: MQ-9 REAPER FY20 MISSION READINESS CAPABILITY",
-      "url": "https://www.usaspending.gov/award/CONT_AWD_FA868921F2004_9700_FA862017D2000_9700",
-      "agency": "Department of Defense",
-      "identifier": "FA868921F2004",
-      "date": "2021-07-23",
-      "deadline": null,
-      "summary": "MQ-9 REAPER FY20 MISSION READINESS CAPABILITY",
-      "score": 30,
-      "domains": [],
-      "matched_terms": [],
-      "watchlist": null,
-      "extra": {
-        "amount": 4472830.42,
-        "award_type": "DELIVERY ORDER"
-      },
-      "first_seen": "2026-08-06T02:38:32.929266+00:00",
-      "is_new": true
-    },
-    {
       "id": "USAspending:N0001921F0362",
       "source": "USAspending",
       "category": "procurement",
@@ -6017,6 +5967,29 @@
       },
       "first_seen": "2026-08-04T08:39:18.092758+00:00",
       "is_new": false
+    },
+    {
+      "id": "USAspending:FA862020F2401",
+      "source": "USAspending",
+      "category": "procurement",
+      "type": "Award",
+      "title": "GENERAL ATOMICS AERONAUTICAL SYSTEMS, INC.: MQ-9 REAPER GROUND CONTROL STATION AND AIRFRAME SPARES ORGANIC DEPOT",
+      "url": "https://www.usaspending.gov/award/CONT_AWD_FA862020F2401_9700_FA862017D2000_9700",
+      "agency": "Department of Defense",
+      "identifier": "FA862020F2401",
+      "date": "2020-09-30",
+      "deadline": null,
+      "summary": "MQ-9 REAPER GROUND CONTROL STATION AND AIRFRAME SPARES ORGANIC DEPOT",
+      "score": 30,
+      "domains": [],
+      "matched_terms": [],
+      "watchlist": null,
+      "extra": {
+        "amount": 26535990.17,
+        "award_type": "DELIVERY ORDER"
+      },
+      "first_seen": "2026-08-06T08:39:14.025996+00:00",
+      "is_new": true
     },
     {
       "id": "USAspending:FA868920C2013",
@@ -6953,7 +6926,7 @@
         "setaside": "NONE"
       },
       "first_seen": "2026-08-06T02:38:32.929266+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "SAM.gov:e998c14d1b624457b0b14bd8cdd0bcfe",
@@ -7386,8 +7359,8 @@
     {
       "name": "SAM.gov",
       "status": "ok",
-      "detail": "58 kept",
-      "count": 58
+      "detail": "57 kept",
+      "count": 57
     },
     {
       "name": "CourtListener",
@@ -7403,16 +7376,16 @@
     }
   ],
   "stats": {
-    "total": 263,
-    "new": 4,
+    "total": 262,
+    "new": 1,
     "by_category": {
       "regulatory": 132,
-      "procurement": 118,
+      "procurement": 117,
       "litigation": 9,
       "legislative": 4
     },
     "by_domain": {
-      "air": 194,
+      "air": 193,
       "supply-chain": 111,
       "spectrum": 48,
       "ground": 21,
@@ -7422,7 +7395,7 @@
     "by_source": {
       "FCC ECFS": 92,
       "USAspending": 60,
-      "SAM.gov": 58,
+      "SAM.gov": 57,
       "Federal Register": 20,
       "Regulations.gov": 20,
       "CourtListener": 9,
@@ -7611,15 +7584,6 @@
     }
   ],
   "deadlines": [
-    {
-      "deadline": "2026-08-06",
-      "days": 0,
-      "title": "SFS Drone Detection System",
-      "identifier": "FA302226Q0012",
-      "category": "procurement",
-      "source": "SAM.gov",
-      "url": "https://sam.gov/workspace/contract/opp/692f37ce05674dbe8fd798752e63c9a1/view"
-    },
     {
       "deadline": "2026-08-06",
       "days": 0,
@@ -7970,6 +7934,15 @@
       "category": "regulatory",
       "source": "Federal Register",
       "url": "https://www.federalregister.gov/documents/2026/08/03/2026-15659/seeking-comment-on-prohibiting-the-importation-and-marketing-of-certain-foreign-produced"
+    },
+    {
+      "deadline": "2026-09-05",
+      "days": 30,
+      "title": "Counter-UAS Authority for State, Local, Tribal, and Territorial Law Enforcement and Correctional Agencies",
+      "identifier": "FBI-2026-0001",
+      "category": "regulatory",
+      "source": "Regulations.gov",
+      "url": "https://www.regulations.gov/document/FBI-2026-0001-0002"
     }
   ],
   "domain_labels": {
