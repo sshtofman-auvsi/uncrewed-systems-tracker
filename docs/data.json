@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-07T07:17:16.654060+00:00",
-  "generated_human": "2026-08-07 07:17 UTC",
+  "generated_at": "2026-08-07T13:06:18.210500+00:00",
+  "generated_human": "2026-08-07 13:06 UTC",
   "demo": false,
   "items": [
     {
@@ -105,7 +105,7 @@
         "docket_total_comments": 1669
       },
       "first_seen": "2026-08-07T07:17:16.654060+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:26110069569",
@@ -3969,7 +3969,7 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-08-07T07:17:16.654060+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "SAM.gov:36d4d5bb3e4f48499d1aea7a22432e4c",
@@ -4191,7 +4191,7 @@
         "setaside": "SBA"
       },
       "first_seen": "2026-08-07T07:17:16.654060+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "SAM.gov:4c79054bc3f44760b606e9279d13d181",
@@ -5080,7 +5080,7 @@
         "award_type": "DEFINITIVE CONTRACT"
       },
       "first_seen": "2026-08-07T07:17:16.654060+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:80NM0026F7025",
@@ -5195,7 +5195,7 @@
         "award_type": "PURCHASE ORDER"
       },
       "first_seen": "2026-08-07T07:17:16.654060+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:W15P7T26F0084",
@@ -7377,7 +7377,7 @@
   ],
   "stats": {
     "total": 262,
-    "new": 5,
+    "new": 0,
     "by_category": {
       "regulatory": 131,
       "procurement": 118,
