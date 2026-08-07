@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-07T13:06:18.210500+00:00",
-  "generated_human": "2026-08-07 13:06 UTC",
+  "generated_at": "2026-08-07T18:58:44.285172+00:00",
+  "generated_human": "2026-08-07 18:58 UTC",
   "demo": false,
   "items": [
     {
@@ -78,17 +78,17 @@
       "is_new": false
     },
     {
-      "id": "Regulations.gov:FAA-2026-4558-1629",
+      "id": "Regulations.gov:FAA-2026-4558-1677",
       "source": "Regulations.gov",
       "category": "regulatory",
       "type": "Comment",
-      "title": "Comment on Designation – Restrict the Operation of Unmanned Aircraft in Close Proximity  to a Fixed Site Facility: Comment from Karin L",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1629",
+      "title": "Comment on Designation – Restrict the Operation of Unmanned Aircraft in Close Proximity  to a Fixed Site Facility: Comment from Warren fire dept",
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1677",
       "agency": "FAA",
       "identifier": "FAA-2026-4558",
       "date": "2026-08-06",
       "deadline": null,
-      "summary": "Comment from Karin L",
+      "summary": "Comment from Warren fire dept",
       "score": 80,
       "domains": [
         "air"
@@ -104,8 +104,8 @@
       "extra": {
         "docket_total_comments": 1669
       },
-      "first_seen": "2026-08-07T07:17:16.654060+00:00",
-      "is_new": false
+      "first_seen": "2026-08-07T18:58:44.285172+00:00",
+      "is_new": true
     },
     {
       "id": "FCC ECFS:26110069569",
@@ -172,12 +172,12 @@
       "is_new": false
     },
     {
-      "id": "FCC ECFS:26110069382",
+      "id": "FCC ECFS:26110069384",
       "source": "FCC ECFS",
       "category": "regulatory",
       "type": "PETITION FOR RECONSIDERATION",
       "title": "CTIA: PETITION FOR RECONSIDERATION (FCC 26-74)",
-      "url": "https://www.fcc.gov/ecfs/document/26110069382/1",
+      "url": "https://www.fcc.gov/ecfs/document/26110069384/1",
       "agency": "FCC",
       "identifier": "FCC 26-74",
       "date": "2026-08-04",
@@ -197,16 +197,16 @@
       "extra": {
         "proceeding": "26-74"
       },
-      "first_seen": "2026-08-07T00:02:59.527823+00:00",
-      "is_new": false
+      "first_seen": "2026-08-07T18:58:44.285172+00:00",
+      "is_new": true
     },
     {
-      "id": "FCC ECFS:26110069386",
+      "id": "FCC ECFS:26110069389",
       "source": "FCC ECFS",
       "category": "regulatory",
       "type": "PETITION",
       "title": "CTIA: PETITION (FCC 26-74)",
-      "url": "https://www.fcc.gov/ecfs/document/26110069386/1",
+      "url": "https://www.fcc.gov/ecfs/document/26110069389/1",
       "agency": "FCC",
       "identifier": "FCC 26-74",
       "date": "2026-08-04",
@@ -226,8 +226,8 @@
       "extra": {
         "proceeding": "26-74"
       },
-      "first_seen": "2026-08-07T00:02:59.527823+00:00",
-      "is_new": false
+      "first_seen": "2026-08-07T18:58:44.285172+00:00",
+      "is_new": true
     },
     {
       "id": "FCC ECFS:26110069404",
@@ -4117,6 +4117,83 @@
       "is_new": false
     },
     {
+      "id": "SAM.gov:231668c988f04e459fc4a911d89adaf9",
+      "source": "SAM.gov",
+      "category": "procurement",
+      "type": "Presolicitation",
+      "title": "Multi-Domain Force Applications and Traffic Management for Unmanned Aircraft Systems (M-FAT)",
+      "url": "https://sam.gov/workspace/contract/opp/231668c988f04e459fc4a911d89adaf9/view",
+      "agency": "DEPT OF DEFENSE",
+      "identifier": "FA8750-25-S-7004",
+      "date": "2026-08-07",
+      "deadline": null,
+      "summary": "Multi-Domain Force Applications and Traffic Management for Unmanned Aircraft Systems (M-FAT)",
+      "score": 35,
+      "domains": [
+        "air"
+      ],
+      "matched_terms": [
+        "unmanned aircraft"
+      ],
+      "watchlist": null,
+      "extra": {
+        "naics": "541715",
+        "setaside": null
+      },
+      "first_seen": "2026-08-07T18:58:44.285172+00:00",
+      "is_new": true
+    },
+    {
+      "id": "SAM.gov:b4584aa7c98e41f69431761f0bd1b8f7",
+      "source": "SAM.gov",
+      "category": "procurement",
+      "type": "RFI",
+      "title": "Expeditionary Unmanned Aerial System (eUAS) Manufacturing and Employment Capability Request for Information",
+      "url": "https://sam.gov/workspace/contract/opp/b4584aa7c98e41f69431761f0bd1b8f7/view",
+      "agency": "DEPT OF DEFENSE",
+      "identifier": "RSO-AMPOECT-04",
+      "date": "2026-08-07",
+      "deadline": "2026-08-28",
+      "summary": "Expeditionary Unmanned Aerial System (eUAS) Manufacturing and Employment Capability Request for Information",
+      "score": 35,
+      "domains": [],
+      "matched_terms": [],
+      "watchlist": null,
+      "extra": {
+        "naics": "334511",
+        "setaside": null
+      },
+      "first_seen": "2026-08-07T18:58:44.285172+00:00",
+      "is_new": true
+    },
+    {
+      "id": "SAM.gov:9ce0c8e65bf840e29e5a2e2e30761a04",
+      "source": "SAM.gov",
+      "category": "procurement",
+      "type": "Combined Synopsis",
+      "title": "Drone Targets",
+      "url": "https://sam.gov/workspace/contract/opp/9ce0c8e65bf840e29e5a2e2e30761a04/view",
+      "agency": "DEPT OF DEFENSE",
+      "identifier": "FA282326Q0062",
+      "date": "2026-08-07",
+      "deadline": "2026-08-12",
+      "summary": "Drone Targets",
+      "score": 35,
+      "domains": [
+        "air"
+      ],
+      "matched_terms": [
+        "drone"
+      ],
+      "watchlist": null,
+      "extra": {
+        "naics": "336411",
+        "setaside": "SBA"
+      },
+      "first_seen": "2026-08-07T18:58:44.285172+00:00",
+      "is_new": true
+    },
+    {
       "id": "SAM.gov:c367fddbe8f24722bdcf5746924e2888",
       "source": "SAM.gov",
       "category": "procurement",
@@ -4191,33 +4268,6 @@
         "setaside": "SBA"
       },
       "first_seen": "2026-08-07T07:17:16.654060+00:00",
-      "is_new": false
-    },
-    {
-      "id": "SAM.gov:4c79054bc3f44760b606e9279d13d181",
-      "source": "SAM.gov",
-      "category": "procurement",
-      "type": "Combined Synopsis",
-      "title": "Drone Targets",
-      "url": "https://sam.gov/workspace/contract/opp/4c79054bc3f44760b606e9279d13d181/view",
-      "agency": "DEPT OF DEFENSE",
-      "identifier": "FA282326Q0062",
-      "date": "2026-08-05",
-      "deadline": "2026-08-12",
-      "summary": "Drone Targets",
-      "score": 35,
-      "domains": [
-        "air"
-      ],
-      "matched_terms": [
-        "drone"
-      ],
-      "watchlist": null,
-      "extra": {
-        "naics": "336411",
-        "setaside": "SBA"
-      },
-      "first_seen": "2026-08-05T14:12:17.192935+00:00",
       "is_new": false
     },
     {
@@ -4565,29 +4615,6 @@
       "is_new": false
     },
     {
-      "id": "SAM.gov:346a90fa681a4db0b14f311fafe95764",
-      "source": "SAM.gov",
-      "category": "procurement",
-      "type": "RFI",
-      "title": "Expeditionary Unmanned Aerial System (eUAS) Manufacturing and Employment Capability Request for Information",
-      "url": "https://sam.gov/workspace/contract/opp/346a90fa681a4db0b14f311fafe95764/view",
-      "agency": "DEPT OF DEFENSE",
-      "identifier": "RSO-AMPOECT-04",
-      "date": "2026-07-29",
-      "deadline": "2026-08-28",
-      "summary": "Expeditionary Unmanned Aerial System (eUAS) Manufacturing and Employment Capability Request for Information",
-      "score": 35,
-      "domains": [],
-      "matched_terms": [],
-      "watchlist": null,
-      "extra": {
-        "naics": "334511",
-        "setaside": null
-      },
-      "first_seen": "2026-07-29T14:12:24.588304+00:00",
-      "is_new": false
-    },
-    {
       "id": "SAM.gov:ccb1df3f18604375b96e7a61d3065913",
       "source": "SAM.gov",
       "category": "procurement",
@@ -4743,33 +4770,6 @@
         "setaside": "SBA"
       },
       "first_seen": "2026-07-15T16:53:01.175304+00:00",
-      "is_new": false
-    },
-    {
-      "id": "SAM.gov:7f9dfb501f064dd5b545a737845f540a",
-      "source": "SAM.gov",
-      "category": "procurement",
-      "type": "Presolicitation",
-      "title": "Multi-Domain Force Applications and Traffic Management for Unmanned Aircraft Systems (M-FAT)",
-      "url": "https://sam.gov/workspace/contract/opp/7f9dfb501f064dd5b545a737845f540a/view",
-      "agency": "DEPT OF DEFENSE",
-      "identifier": "FA8750-25-S-7004",
-      "date": "2026-07-14",
-      "deadline": null,
-      "summary": "Multi-Domain Force Applications and Traffic Management for Unmanned Aircraft Systems (M-FAT)",
-      "score": 35,
-      "domains": [
-        "air"
-      ],
-      "matched_terms": [
-        "unmanned aircraft"
-      ],
-      "watchlist": null,
-      "extra": {
-        "naics": "541715",
-        "setaside": null
-      },
-      "first_seen": "2026-07-14T21:33:14.070617+00:00",
       "is_new": false
     },
     {
@@ -7377,7 +7377,7 @@
   ],
   "stats": {
     "total": 262,
-    "new": 0,
+    "new": 6,
     "by_category": {
       "regulatory": 131,
       "procurement": 118,
@@ -7735,7 +7735,7 @@
       "identifier": "FA282326Q0062",
       "category": "procurement",
       "source": "SAM.gov",
-      "url": "https://sam.gov/workspace/contract/opp/4c79054bc3f44760b606e9279d13d181/view"
+      "url": "https://sam.gov/workspace/contract/opp/9ce0c8e65bf840e29e5a2e2e30761a04/view"
     },
     {
       "deadline": "2026-08-13",
@@ -7870,7 +7870,7 @@
       "identifier": "RSO-AMPOECT-04",
       "category": "procurement",
       "source": "SAM.gov",
-      "url": "https://sam.gov/workspace/contract/opp/346a90fa681a4db0b14f311fafe95764/view"
+      "url": "https://sam.gov/workspace/contract/opp/b4584aa7c98e41f69431761f0bd1b8f7/view"
     },
     {
       "deadline": "2026-08-28",
