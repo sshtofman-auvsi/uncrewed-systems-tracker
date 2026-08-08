@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-08T01:48:51.883526+00:00",
-  "generated_human": "2026-08-08 01:48 UTC",
+  "generated_at": "2026-08-08T06:54:40.460991+00:00",
+  "generated_human": "2026-08-08 06:54 UTC",
   "demo": false,
   "items": [
     {
@@ -78,17 +78,17 @@
       "is_new": false
     },
     {
-      "id": "Regulations.gov:FAA-2026-4558-1677",
+      "id": "Regulations.gov:FAA-2026-4558-1629",
       "source": "Regulations.gov",
       "category": "regulatory",
       "type": "Comment",
-      "title": "Comment on Designation – Restrict the Operation of Unmanned Aircraft in Close Proximity  to a Fixed Site Facility: Comment from Warren fire dept",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1677",
+      "title": "Comment on Designation – Restrict the Operation of Unmanned Aircraft in Close Proximity  to a Fixed Site Facility: Comment from Karin L",
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1629",
       "agency": "FAA",
       "identifier": "FAA-2026-4558",
       "date": "2026-08-06",
       "deadline": null,
-      "summary": "Comment from Warren fire dept",
+      "summary": "Comment from Karin L",
       "score": 80,
       "domains": [
         "air"
@@ -104,8 +104,8 @@
       "extra": {
         "docket_total_comments": 1669
       },
-      "first_seen": "2026-08-07T18:58:44.285172+00:00",
-      "is_new": false
+      "first_seen": "2026-08-08T06:54:40.460991+00:00",
+      "is_new": true
     },
     {
       "id": "FCC ECFS:26110069569",
@@ -577,6 +577,35 @@
       },
       "first_seen": "2026-07-22T19:21:46.407615+00:00",
       "is_new": false
+    },
+    {
+      "id": "Congress.gov:119-s-4429",
+      "source": "Congress.gov",
+      "category": "legislative",
+      "type": "Bill",
+      "title": "S. 4429: Connected Vehicle Security Act of 2026",
+      "url": "https://www.congress.gov/bill/119th-congress/senate-bill/4429",
+      "agency": "Congress",
+      "identifier": "S. 4429",
+      "date": "2026-07-22",
+      "deadline": null,
+      "summary": "Committee on Commerce, Science, and Transportation. Ordered to be reported with an amendment in the nature of a substitute favorably.",
+      "score": 80,
+      "domains": [
+        "ground",
+        "supply-chain"
+      ],
+      "matched_terms": [
+        "connected vehicle",
+        "connected vehicle security act"
+      ],
+      "watchlist": {
+        "key": "connected-vehicle",
+        "label": "S. 4429 Connected Vehicle Security Act"
+      },
+      "extra": {},
+      "first_seen": "2026-08-08T06:54:40.460991+00:00",
+      "is_new": true
     },
     {
       "id": "SAM.gov:9c5ce42f40c34d4e8a608d0454e49981",
@@ -1519,6 +1548,34 @@
       "is_new": false
     },
     {
+      "id": "Congress.gov:119-hr-9129",
+      "source": "Congress.gov",
+      "category": "legislative",
+      "type": "Bill",
+      "title": "H.R. 9129: GUARD Act of 2026",
+      "url": "https://www.congress.gov/bill/119th-congress/house-bill/9129",
+      "agency": "Congress",
+      "identifier": "H.R. 9129",
+      "date": "2026-06-03",
+      "deadline": null,
+      "summary": "Referred to the House Committee on Energy and Commerce.",
+      "score": 80,
+      "domains": [
+        "ground",
+        "supply-chain"
+      ],
+      "matched_terms": [
+        "h.r. 9129"
+      ],
+      "watchlist": {
+        "key": "guard-act",
+        "label": "GUARD Act of 2026 (H.R. 9129, robotics on FCC Covered List)"
+      },
+      "extra": {},
+      "first_seen": "2026-08-08T06:54:40.460991+00:00",
+      "is_new": true
+    },
+    {
       "id": "FCC ECFS:106020769100046",
       "source": "FCC ECFS",
       "category": "regulatory",
@@ -2181,64 +2238,6 @@
       "is_new": false
     },
     {
-      "id": "FCC ECFS:1051812307908",
-      "source": "FCC ECFS",
-      "category": "regulatory",
-      "type": "Reply Comment",
-      "title": "Lower Colorado River Authority: REPLY TO COMMENTS (FCC 26-74)",
-      "url": "https://www.fcc.gov/ecfs/document/1051812307908/1",
-      "agency": "FCC",
-      "identifier": "FCC 26-74",
-      "date": "2026-05-19",
-      "deadline": null,
-      "summary": "",
-      "score": 80,
-      "domains": [
-        "air",
-        "spectrum",
-        "supply-chain"
-      ],
-      "matched_terms": [],
-      "watchlist": {
-        "key": "gn-26-74",
-        "label": "GN 26-74 (Unleashing American Drone Dominance)"
-      },
-      "extra": {
-        "proceeding": "26-74"
-      },
-      "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": false
-    },
-    {
-      "id": "FCC ECFS:10518639213118",
-      "source": "FCC ECFS",
-      "category": "regulatory",
-      "type": "Reply Comment",
-      "title": "Silvus Technologies Inc.: REPLY TO COMMENTS (FCC 26-74)",
-      "url": "https://www.fcc.gov/ecfs/document/10518639213118/1",
-      "agency": "FCC",
-      "identifier": "FCC 26-74",
-      "date": "2026-05-19",
-      "deadline": null,
-      "summary": "",
-      "score": 80,
-      "domains": [
-        "air",
-        "spectrum",
-        "supply-chain"
-      ],
-      "matched_terms": [],
-      "watchlist": {
-        "key": "gn-26-74",
-        "label": "GN 26-74 (Unleashing American Drone Dominance)"
-      },
-      "extra": {
-        "proceeding": "26-74"
-      },
-      "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": false
-    },
-    {
       "id": "FCC ECFS:1051813119257",
       "source": "FCC ECFS",
       "category": "regulatory",
@@ -2268,12 +2267,70 @@
       "is_new": false
     },
     {
+      "id": "FCC ECFS:1051812307908",
+      "source": "FCC ECFS",
+      "category": "regulatory",
+      "type": "Reply Comment",
+      "title": "Lower Colorado River Authority: REPLY TO COMMENTS (FCC 26-74)",
+      "url": "https://www.fcc.gov/ecfs/document/1051812307908/1",
+      "agency": "FCC",
+      "identifier": "FCC 26-74",
+      "date": "2026-05-19",
+      "deadline": null,
+      "summary": "",
+      "score": 80,
+      "domains": [
+        "air",
+        "spectrum",
+        "supply-chain"
+      ],
+      "matched_terms": [],
+      "watchlist": {
+        "key": "gn-26-74",
+        "label": "GN 26-74 (Unleashing American Drone Dominance)"
+      },
+      "extra": {
+        "proceeding": "26-74"
+      },
+      "first_seen": "2026-06-22T17:58:20.979820+00:00",
+      "is_new": false
+    },
+    {
       "id": "FCC ECFS:10518843201689",
       "source": "FCC ECFS",
       "category": "regulatory",
       "type": "Reply Comment",
       "title": "Connected Devices for America Coalition, E-ZPass Group, American Trucking Associations (ATA), International Bridge, Tunnel, and Turnpike Association (IBTTA), LoRa Alliance, National Retail Federation (NRF), RAIN Alliance Inc., Wi-Fi Alliance, WISPA – The Association for Broadband Without Boundaries, Wi-SUN Alliance: REPLY TO COMMENTS (FCC 26-74)",
       "url": "https://www.fcc.gov/ecfs/document/10518843201689/1",
+      "agency": "FCC",
+      "identifier": "FCC 26-74",
+      "date": "2026-05-19",
+      "deadline": null,
+      "summary": "",
+      "score": 80,
+      "domains": [
+        "air",
+        "spectrum",
+        "supply-chain"
+      ],
+      "matched_terms": [],
+      "watchlist": {
+        "key": "gn-26-74",
+        "label": "GN 26-74 (Unleashing American Drone Dominance)"
+      },
+      "extra": {
+        "proceeding": "26-74"
+      },
+      "first_seen": "2026-06-22T17:58:20.979820+00:00",
+      "is_new": false
+    },
+    {
+      "id": "FCC ECFS:10518639213118",
+      "source": "FCC ECFS",
+      "category": "regulatory",
+      "type": "Reply Comment",
+      "title": "Silvus Technologies Inc.: REPLY TO COMMENTS (FCC 26-74)",
+      "url": "https://www.fcc.gov/ecfs/document/10518639213118/1",
       "agency": "FCC",
       "identifier": "FCC 26-74",
       "date": "2026-05-19",
@@ -2355,35 +2412,6 @@
       "is_new": false
     },
     {
-      "id": "FCC ECFS:10518135533675",
-      "source": "FCC ECFS",
-      "category": "regulatory",
-      "type": "Reply Comment",
-      "title": "CACI International: REPLY TO COMMENTS (FCC 26-74)",
-      "url": "https://www.fcc.gov/ecfs/document/10518135533675/1",
-      "agency": "FCC",
-      "identifier": "FCC 26-74",
-      "date": "2026-05-19",
-      "deadline": null,
-      "summary": "",
-      "score": 80,
-      "domains": [
-        "air",
-        "spectrum",
-        "supply-chain"
-      ],
-      "matched_terms": [],
-      "watchlist": {
-        "key": "gn-26-74",
-        "label": "GN 26-74 (Unleashing American Drone Dominance)"
-      },
-      "extra": {
-        "proceeding": "26-74"
-      },
-      "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": false
-    },
-    {
       "id": "FCC ECFS:10518100110610",
       "source": "FCC ECFS",
       "category": "regulatory",
@@ -2413,12 +2441,12 @@
       "is_new": false
     },
     {
-      "id": "FCC ECFS:1051801407885",
+      "id": "FCC ECFS:10518135533675",
       "source": "FCC ECFS",
       "category": "regulatory",
       "type": "Reply Comment",
-      "title": "CTIA: REPLY TO COMMENTS (FCC 26-74)",
-      "url": "https://www.fcc.gov/ecfs/document/1051801407885/1",
+      "title": "CACI International: REPLY TO COMMENTS (FCC 26-74)",
+      "url": "https://www.fcc.gov/ecfs/document/10518135533675/1",
       "agency": "FCC",
       "identifier": "FCC 26-74",
       "date": "2026-05-19",
@@ -2477,6 +2505,35 @@
       "type": "Reply Comment",
       "title": "American Petroleum Institute: REPLY TO COMMENTS (FCC 26-74)",
       "url": "https://www.fcc.gov/ecfs/document/10518822622475/1",
+      "agency": "FCC",
+      "identifier": "FCC 26-74",
+      "date": "2026-05-19",
+      "deadline": null,
+      "summary": "",
+      "score": 80,
+      "domains": [
+        "air",
+        "spectrum",
+        "supply-chain"
+      ],
+      "matched_terms": [],
+      "watchlist": {
+        "key": "gn-26-74",
+        "label": "GN 26-74 (Unleashing American Drone Dominance)"
+      },
+      "extra": {
+        "proceeding": "26-74"
+      },
+      "first_seen": "2026-06-22T17:58:20.979820+00:00",
+      "is_new": false
+    },
+    {
+      "id": "FCC ECFS:1051801407885",
+      "source": "FCC ECFS",
+      "category": "regulatory",
+      "type": "Reply Comment",
+      "title": "CTIA: REPLY TO COMMENTS (FCC 26-74)",
+      "url": "https://www.fcc.gov/ecfs/document/1051801407885/1",
       "agency": "FCC",
       "identifier": "FCC 26-74",
       "date": "2026-05-19",
@@ -2616,12 +2673,12 @@
       "is_new": false
     },
     {
-      "id": "FCC ECFS:1051922013627",
+      "id": "FCC ECFS:105191782521525",
       "source": "FCC ECFS",
       "category": "regulatory",
       "type": "Reply Comment",
-      "title": "Ceres Air LLC, Elevon Aerial AG, Exedy Drones: REPLY TO COMMENTS (FCC 26-74)",
-      "url": "https://www.fcc.gov/ecfs/document/1051922013627/1",
+      "title": "Perennial Autonomy, Inc.: REPLY TO COMMENTS (FCC 26-74)",
+      "url": "https://www.fcc.gov/ecfs/document/105191782521525/1",
       "agency": "FCC",
       "identifier": "FCC 26-74",
       "date": "2026-05-19",
@@ -2645,12 +2702,12 @@
       "is_new": false
     },
     {
-      "id": "FCC ECFS:105191782521525",
+      "id": "FCC ECFS:1051922013627",
       "source": "FCC ECFS",
       "category": "regulatory",
       "type": "Reply Comment",
-      "title": "Perennial Autonomy, Inc.: REPLY TO COMMENTS (FCC 26-74)",
-      "url": "https://www.fcc.gov/ecfs/document/105191782521525/1",
+      "title": "Ceres Air LLC, Elevon Aerial AG, Exedy Drones: REPLY TO COMMENTS (FCC 26-74)",
+      "url": "https://www.fcc.gov/ecfs/document/1051922013627/1",
       "agency": "FCC",
       "identifier": "FCC 26-74",
       "date": "2026-05-19",
@@ -2732,12 +2789,12 @@
       "is_new": false
     },
     {
-      "id": "FCC ECFS:10518492919672",
+      "id": "FCC ECFS:10518153927989",
       "source": "FCC ECFS",
       "category": "regulatory",
       "type": "Reply Comment",
-      "title": "450 MHz Alliance: REPLY TO COMMENTS (FCC 26-74)",
-      "url": "https://www.fcc.gov/ecfs/document/10518492919672/1",
+      "title": "Sadik Kara: REPLY TO COMMENTS (FCC 26-74)",
+      "url": "https://www.fcc.gov/ecfs/document/10518153927989/1",
       "agency": "FCC",
       "identifier": "FCC 26-74",
       "date": "2026-05-18",
@@ -2761,12 +2818,12 @@
       "is_new": false
     },
     {
-      "id": "FCC ECFS:10518153927989",
+      "id": "FCC ECFS:10518492919672",
       "source": "FCC ECFS",
       "category": "regulatory",
       "type": "Reply Comment",
-      "title": "Sadik Kara: REPLY TO COMMENTS (FCC 26-74)",
-      "url": "https://www.fcc.gov/ecfs/document/10518153927989/1",
+      "title": "450 MHz Alliance: REPLY TO COMMENTS (FCC 26-74)",
+      "url": "https://www.fcc.gov/ecfs/document/10518492919672/1",
       "agency": "FCC",
       "identifier": "FCC 26-74",
       "date": "2026-05-18",
@@ -3190,6 +3247,34 @@
       "extra": {},
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
       "is_new": false
+    },
+    {
+      "id": "Congress.gov:119-s-3481",
+      "source": "Congress.gov",
+      "category": "legislative",
+      "type": "Bill",
+      "title": "S. 3481: SAFER SKIES Act",
+      "url": "https://www.congress.gov/bill/119th-congress/senate-bill/3481",
+      "agency": "Congress",
+      "identifier": "S. 3481",
+      "date": "2025-12-15",
+      "deadline": null,
+      "summary": "Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
+      "score": 80,
+      "domains": [
+        "air",
+        "defense"
+      ],
+      "matched_terms": [
+        "safer skies act"
+      ],
+      "watchlist": {
+        "key": "safer-skies",
+        "label": "Safer Skies Act (C-UAS)"
+      },
+      "extra": {},
+      "first_seen": "2026-08-08T06:54:40.460991+00:00",
+      "is_new": true
     },
     {
       "id": "USAspending:6973GH25F01296",
@@ -4106,7 +4191,7 @@
         "setaside": "SBA"
       },
       "first_seen": "2026-08-08T01:48:51.883526+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "SAM.gov:9ce0c8e65bf840e29e5a2e2e30761a04",
@@ -4577,33 +4662,6 @@
         "setaside": null
       },
       "first_seen": "2026-07-24T02:45:04.692230+00:00",
-      "is_new": false
-    },
-    {
-      "id": "SAM.gov:3f6f5d1fdf2c47189145c74846cbfcf0",
-      "source": "SAM.gov",
-      "category": "procurement",
-      "type": "Sources Sought",
-      "title": "Titan 4 Counter Unmanned Aerial System",
-      "url": "https://sam.gov/workspace/contract/opp/3f6f5d1fdf2c47189145c74846cbfcf0/view",
-      "agency": "DEPT OF DEFENSE",
-      "identifier": "F1L3SF6125A001",
-      "date": "2026-07-20",
-      "deadline": "2026-07-24",
-      "summary": "Titan 4 Counter Unmanned Aerial System",
-      "score": 35,
-      "domains": [
-        "defense"
-      ],
-      "matched_terms": [
-        "counter unmanned"
-      ],
-      "watchlist": null,
-      "extra": {
-        "naics": "334511",
-        "setaside": null
-      },
-      "first_seen": "2026-07-21T02:46:07.944509+00:00",
       "is_new": false
     },
     {
@@ -5685,33 +5743,6 @@
       "is_new": false
     },
     {
-      "id": "USAspending:FA462523C0025",
-      "source": "USAspending",
-      "category": "procurement",
-      "type": "Award",
-      "title": "ASYLON INC: SMALL BUSINESS INNOVATION AND RESEARCH ADVANCING DRONE TECHNOLOGY FOR STRATFI SBIR PHASE II",
-      "url": "https://www.usaspending.gov/award/CONT_AWD_FA462523C0025_9700_-NONE-_-NONE-",
-      "agency": "Department of Defense",
-      "identifier": "FA462523C0025",
-      "date": "2023-09-01",
-      "deadline": null,
-      "summary": "SMALL BUSINESS INNOVATION AND RESEARCH ADVANCING DRONE TECHNOLOGY FOR STRATFI SBIR PHASE II",
-      "score": 30,
-      "domains": [
-        "air"
-      ],
-      "matched_terms": [
-        "drone"
-      ],
-      "watchlist": null,
-      "extra": {
-        "amount": 4599818.86,
-        "award_type": "DEFINITIVE CONTRACT"
-      },
-      "first_seen": "2026-07-31T02:54:03.245875+00:00",
-      "is_new": false
-    },
-    {
       "id": "USAspending:N0001923F0041",
       "source": "USAspending",
       "category": "procurement",
@@ -5783,6 +5814,29 @@
       },
       "first_seen": "2026-07-16T07:38:06.465860+00:00",
       "is_new": false
+    },
+    {
+      "id": "USAspending:FA868923C2018",
+      "source": "USAspending",
+      "category": "procurement",
+      "type": "Award",
+      "title": "GENERAL ATOMICS AERONAUTICAL SYSTEMS, INC.: MQ-9B PRODUCTION FMS TAIWAN",
+      "url": "https://www.usaspending.gov/award/CONT_AWD_FA868923C2018_9700_-NONE-_-NONE-",
+      "agency": "Department of Defense",
+      "identifier": "FA868923C2018",
+      "date": "2023-04-28",
+      "deadline": null,
+      "summary": "MQ-9B PRODUCTION FMS TAIWAN",
+      "score": 30,
+      "domains": [],
+      "matched_terms": [],
+      "watchlist": null,
+      "extra": {
+        "amount": 465480453.17,
+        "award_type": "DEFINITIVE CONTRACT"
+      },
+      "first_seen": "2026-08-08T06:54:40.460991+00:00",
+      "is_new": true
     },
     {
       "id": "USAspending:FA862222F8449",
@@ -7295,14 +7349,14 @@
     {
       "name": "Congress.gov",
       "status": "ok",
-      "detail": "1 kept; 4 query error(s)",
-      "count": 1
+      "detail": "4 kept",
+      "count": 4
     },
     {
       "name": "SAM.gov",
       "status": "ok",
-      "detail": "59 kept",
-      "count": 59
+      "detail": "58 kept",
+      "count": 58
     },
     {
       "name": "CourtListener",
@@ -7318,30 +7372,30 @@
     }
   ],
   "stats": {
-    "total": 260,
-    "new": 1,
+    "total": 262,
+    "new": 5,
     "by_category": {
       "regulatory": 131,
-      "procurement": 119,
+      "procurement": 118,
       "litigation": 9,
-      "legislative": 1
+      "legislative": 4
     },
     "by_domain": {
       "air": 192,
-      "supply-chain": 109,
+      "supply-chain": 111,
       "spectrum": 48,
-      "ground": 19,
+      "ground": 21,
       "defense": 16,
       "maritime": 2
     },
     "by_source": {
       "FCC ECFS": 92,
       "USAspending": 60,
-      "SAM.gov": 59,
+      "SAM.gov": 58,
       "Federal Register": 20,
       "Regulations.gov": 19,
       "CourtListener": 9,
-      "Congress.gov": 1
+      "Congress.gov": 4
     }
   },
   "watchlist": [
@@ -7411,6 +7465,19 @@
       "latest": "2026-07-22"
     },
     {
+      "key": "safer-skies",
+      "label": "Safer Skies Act (C-UAS)",
+      "category": "legislative",
+      "agency": "",
+      "domain": [
+        "defense",
+        "air"
+      ],
+      "deadline": null,
+      "count": 2,
+      "latest": "2026-07-06"
+    },
+    {
       "key": "dji-cadc-1260h",
       "label": "DJI 1260H appeal (D.C. Circuit)",
       "category": "litigation",
@@ -7449,17 +7516,30 @@
       "latest": "2025-08-08"
     },
     {
-      "key": "safer-skies",
-      "label": "Safer Skies Act (C-UAS)",
+      "key": "guard-act",
+      "label": "GUARD Act of 2026 (H.R. 9129, robotics on FCC Covered List)",
       "category": "legislative",
       "agency": "",
       "domain": [
-        "defense",
-        "air"
+        "ground",
+        "supply-chain"
       ],
       "deadline": null,
       "count": 1,
-      "latest": "2026-07-06"
+      "latest": "2026-06-03"
+    },
+    {
+      "key": "connected-vehicle",
+      "label": "S. 4429 Connected Vehicle Security Act",
+      "category": "legislative",
+      "agency": "",
+      "domain": [
+        "ground",
+        "supply-chain"
+      ],
+      "deadline": null,
+      "count": 1,
+      "latest": "2026-07-22"
     },
     {
       "key": "ustr-301",
@@ -7475,38 +7555,12 @@
       "latest": ""
     },
     {
-      "key": "guard-act",
-      "label": "GUARD Act of 2026 (H.R. 9129, robotics on FCC Covered List)",
-      "category": "legislative",
-      "agency": "",
-      "domain": [
-        "ground",
-        "supply-chain"
-      ],
-      "deadline": null,
-      "count": 0,
-      "latest": ""
-    },
-    {
       "key": "ndaa",
       "label": "NDAA (UAS provisions)",
       "category": "legislative",
       "agency": "",
       "domain": [
         "defense"
-      ],
-      "deadline": null,
-      "count": 0,
-      "latest": ""
-    },
-    {
-      "key": "connected-vehicle",
-      "label": "S. 4429 Connected Vehicle Security Act",
-      "category": "legislative",
-      "agency": "",
-      "domain": [
-        "ground",
-        "supply-chain"
       ],
       "deadline": null,
       "count": 0,
