@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-09T01:48:22.809513+00:00",
-  "generated_human": "2026-08-09 01:48 UTC",
+  "generated_at": "2026-08-09T06:57:57.450317+00:00",
+  "generated_human": "2026-08-09 06:57 UTC",
   "demo": false,
   "items": [
     {
@@ -3910,7 +3910,7 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-08-09T01:48:22.809513+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "SAM.gov:b1140aa605ee4f2bb775dfbfe42589f6",
@@ -6019,7 +6019,7 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-08-09T01:48:22.809513+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:N0001921F0362",
@@ -7379,7 +7379,7 @@
   ],
   "stats": {
     "total": 262,
-    "new": 2,
+    "new": 0,
     "by_category": {
       "regulatory": 131,
       "procurement": 118,
