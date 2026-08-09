@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-09T12:53:06.324383+00:00",
-  "generated_human": "2026-08-09 12:53 UTC",
+  "generated_at": "2026-08-09T18:42:28.165807+00:00",
+  "generated_human": "2026-08-09 18:42 UTC",
   "demo": false,
   "items": [
     {
@@ -78,17 +78,17 @@
       "is_new": false
     },
     {
-      "id": "Regulations.gov:FAA-2026-4558-1629",
+      "id": "Regulations.gov:FAA-2026-4558-1677",
       "source": "Regulations.gov",
       "category": "regulatory",
       "type": "Comment",
-      "title": "Comment on Designation – Restrict the Operation of Unmanned Aircraft in Close Proximity  to a Fixed Site Facility: Comment from Karin L",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1629",
+      "title": "Comment on Designation – Restrict the Operation of Unmanned Aircraft in Close Proximity  to a Fixed Site Facility: Comment from Warren fire dept",
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1677",
       "agency": "FAA",
       "identifier": "FAA-2026-4558",
       "date": "2026-08-06",
       "deadline": null,
-      "summary": "Comment from Karin L",
+      "summary": "Comment from Warren fire dept",
       "score": 80,
       "domains": [
         "air"
@@ -104,8 +104,8 @@
       "extra": {
         "docket_total_comments": 1669
       },
-      "first_seen": "2026-08-08T06:54:40.460991+00:00",
-      "is_new": false
+      "first_seen": "2026-08-09T18:42:28.165807+00:00",
+      "is_new": true
     },
     {
       "id": "FCC ECFS:26110069569",
@@ -7379,7 +7379,7 @@
   ],
   "stats": {
     "total": 262,
-    "new": 0,
+    "new": 1,
     "by_category": {
       "regulatory": 131,
       "procurement": 118,
