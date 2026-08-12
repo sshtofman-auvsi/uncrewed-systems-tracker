@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-12T02:01:31.422885+00:00",
-  "generated_human": "2026-08-12 02:01 UTC",
+  "generated_at": "2026-08-12T07:27:54.577518+00:00",
+  "generated_human": "2026-08-12 07:27 UTC",
   "demo": false,
   "items": [
     {
@@ -135,7 +135,7 @@
         "proceeding": "26-22"
       },
       "first_seen": "2026-08-12T02:01:31.422885+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:26110070443",
@@ -314,7 +314,7 @@
         "setaside": "SBA"
       },
       "first_seen": "2026-08-12T02:01:31.422885+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:26110070015",
@@ -3648,36 +3648,6 @@
       "is_new": false
     },
     {
-      "id": "SAM.gov:2ea9d5b8f1dd415799d6761829ca5130",
-      "source": "SAM.gov",
-      "category": "procurement",
-      "type": "Sources Sought",
-      "title": "Fixed-Wing Vertical Take-Off and Landing (VTOL) small Unmanned Aircraft System (sUAS)",
-      "url": "https://sam.gov/workspace/contract/opp/2ea9d5b8f1dd415799d6761829ca5130/view",
-      "agency": "DEPT OF DEFENSE",
-      "identifier": "FA805126S4007",
-      "date": "2026-07-17",
-      "deadline": "2026-07-28",
-      "summary": "Fixed-Wing Vertical Take-Off and Landing (VTOL) small Unmanned Aircraft System (sUAS)",
-      "score": 66,
-      "domains": [
-        "air"
-      ],
-      "matched_terms": [
-        "unmanned aircraft",
-        "unmanned aircraft system",
-        "suas",
-        "small unmanned"
-      ],
-      "watchlist": null,
-      "extra": {
-        "naics": "336411",
-        "setaside": "NONE"
-      },
-      "first_seen": "2026-07-17T19:11:27.799174+00:00",
-      "is_new": false
-    },
-    {
       "id": "USAspending:FA875026FB005",
       "source": "USAspending",
       "category": "procurement",
@@ -4151,6 +4121,34 @@
       "is_new": false
     },
     {
+      "id": "USAspending:W15P7T21F0110",
+      "source": "USAspending",
+      "category": "procurement",
+      "type": "Award",
+      "title": "AMENTUM SERVICES, INC.: PURPOSE OF THIS ACTION IS TO AWARD RS3-20-0003 CONTRACT TASK ORDER W15P7T-17-D-0155 W15P7T-21-F-0110 FOR PMA 263 SMALL U",
+      "url": "https://www.usaspending.gov/award/CONT_AWD_W15P7T21F0110_9700_W15P7T17D0155_9700",
+      "agency": "Department of Defense",
+      "identifier": "W15P7T21F0110",
+      "date": "2021-05-19",
+      "deadline": null,
+      "summary": "PURPOSE OF THIS ACTION IS TO AWARD RS3-20-0003 CONTRACT TASK ORDER W15P7T-17-D-0155 W15P7T-21-F-0110 FOR PMA 263 SMALL UNMANNED AIRCRAFT SYSTEMS SERVICES IN PROGRAM EXECUTIVE OFFICE FOR UNMANNED AVIATION AND STRIKE WEAPONS (PEO U&W).",
+      "score": 36,
+      "domains": [
+        "air"
+      ],
+      "matched_terms": [
+        "unmanned aircraft",
+        "small unmanned"
+      ],
+      "watchlist": null,
+      "extra": {
+        "amount": 98060427.53,
+        "award_type": "DELIVERY ORDER"
+      },
+      "first_seen": "2026-08-12T07:27:54.577518+00:00",
+      "is_new": true
+    },
+    {
       "id": "SAM.gov:cd6fea492fef48a3b99b7154d8536181",
       "source": "SAM.gov",
       "category": "procurement",
@@ -4171,7 +4169,7 @@
         "setaside": "SBA"
       },
       "first_seen": "2026-08-12T02:01:31.422885+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "SAM.gov:b49351c7687545ba93c3ba8a051051e9",
@@ -4221,7 +4219,7 @@
         "setaside": "SBA"
       },
       "first_seen": "2026-08-12T02:01:31.422885+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "SAM.gov:376d728915cc46a38e65516153e76ca7",
@@ -4428,6 +4426,29 @@
       "is_new": false
     },
     {
+      "id": "SAM.gov:8ba382483ad8492188669c306ee94c3e",
+      "source": "SAM.gov",
+      "category": "procurement",
+      "type": "Combined Synopsis",
+      "title": "30 SFS Dronebusters",
+      "url": "https://sam.gov/workspace/contract/opp/8ba382483ad8492188669c306ee94c3e/view",
+      "agency": "DEPT OF DEFENSE",
+      "identifier": "FA461026QDRON",
+      "date": "2026-08-07",
+      "deadline": "2026-08-17",
+      "summary": "30 SFS Dronebusters",
+      "score": 35,
+      "domains": [],
+      "matched_terms": [],
+      "watchlist": null,
+      "extra": {
+        "naics": "334511",
+        "setaside": "SBA"
+      },
+      "first_seen": "2026-08-07T07:17:16.654060+00:00",
+      "is_new": false
+    },
+    {
       "id": "SAM.gov:c367fddbe8f24722bdcf5746924e2888",
       "source": "SAM.gov",
       "category": "procurement",
@@ -4452,29 +4473,6 @@
         "setaside": "SBA"
       },
       "first_seen": "2026-08-07T00:02:59.527823+00:00",
-      "is_new": false
-    },
-    {
-      "id": "SAM.gov:8ba382483ad8492188669c306ee94c3e",
-      "source": "SAM.gov",
-      "category": "procurement",
-      "type": "Combined Synopsis",
-      "title": "30 SFS Dronebusters",
-      "url": "https://sam.gov/workspace/contract/opp/8ba382483ad8492188669c306ee94c3e/view",
-      "agency": "DEPT OF DEFENSE",
-      "identifier": "FA461026QDRON",
-      "date": "2026-08-06",
-      "deadline": "2026-08-17",
-      "summary": "30 SFS Dronebusters",
-      "score": 35,
-      "domains": [],
-      "matched_terms": [],
-      "watchlist": null,
-      "extra": {
-        "naics": "334511",
-        "setaside": "SBA"
-      },
-      "first_seen": "2026-08-07T07:17:16.654060+00:00",
       "is_new": false
     },
     {
@@ -4559,6 +4557,33 @@
       "is_new": false
     },
     {
+      "id": "SAM.gov:0a6104650333458a8cb3537bced96356",
+      "source": "SAM.gov",
+      "category": "procurement",
+      "type": "RFI",
+      "title": "Request for Information – Drone Components",
+      "url": "https://sam.gov/workspace/contract/opp/0a6104650333458a8cb3537bced96356/view",
+      "agency": "DEPT OF DEFENSE",
+      "identifier": "FA9101-RFI-Drone-Components",
+      "date": "2026-08-04",
+      "deadline": "2026-08-06",
+      "summary": "Request for Information – Drone Components",
+      "score": 35,
+      "domains": [
+        "air"
+      ],
+      "matched_terms": [
+        "drone"
+      ],
+      "watchlist": null,
+      "extra": {
+        "naics": "336411",
+        "setaside": null
+      },
+      "first_seen": "2026-08-04T02:36:09.761685+00:00",
+      "is_new": false
+    },
+    {
       "id": "SAM.gov:70591dad2ee84d60b66a879d3194ae9c",
       "source": "SAM.gov",
       "category": "procurement",
@@ -4631,33 +4656,6 @@
       "watchlist": null,
       "extra": {
         "naics": null,
-        "setaside": null
-      },
-      "first_seen": "2026-08-04T02:36:09.761685+00:00",
-      "is_new": false
-    },
-    {
-      "id": "SAM.gov:0a6104650333458a8cb3537bced96356",
-      "source": "SAM.gov",
-      "category": "procurement",
-      "type": "RFI",
-      "title": "Request for Information – Drone Components",
-      "url": "https://sam.gov/workspace/contract/opp/0a6104650333458a8cb3537bced96356/view",
-      "agency": "DEPT OF DEFENSE",
-      "identifier": "FA9101-RFI-Drone-Components",
-      "date": "2026-08-03",
-      "deadline": "2026-08-06",
-      "summary": "Request for Information – Drone Components",
-      "score": 35,
-      "domains": [
-        "air"
-      ],
-      "matched_terms": [
-        "drone"
-      ],
-      "watchlist": null,
-      "extra": {
-        "naics": "336411",
         "setaside": null
       },
       "first_seen": "2026-08-04T02:36:09.761685+00:00",
@@ -5282,29 +5280,6 @@
       "is_new": false
     },
     {
-      "id": "USAspending:FA862926PB002",
-      "source": "USAspending",
-      "category": "procurement",
-      "type": "Award",
-      "title": "AEROVIRONMENT, INC: HURRICANE AND TRAINING ASSETS",
-      "url": "https://www.usaspending.gov/award/CONT_AWD_FA862926PB002_9700_-NONE-_-NONE-",
-      "agency": "Department of Defense",
-      "identifier": "FA862926PB002",
-      "date": "2026-03-30",
-      "deadline": null,
-      "summary": "HURRICANE AND TRAINING ASSETS",
-      "score": 30,
-      "domains": [],
-      "matched_terms": [],
-      "watchlist": null,
-      "extra": {
-        "amount": 4922723.0,
-        "award_type": "PURCHASE ORDER"
-      },
-      "first_seen": "2026-08-07T07:17:16.654060+00:00",
-      "is_new": false
-    },
-    {
       "id": "USAspending:W15P7T26F0084",
       "source": "USAspending",
       "category": "procurement",
@@ -5326,6 +5301,29 @@
       },
       "first_seen": "2026-06-27T09:34:03.007731+00:00",
       "is_new": false
+    },
+    {
+      "id": "USAspending:W58RGZ26F0223",
+      "source": "USAspending",
+      "category": "procurement",
+      "type": "Award",
+      "title": "THE SURVICE ENGINEERING COMPANY LLC: ACQUISITION OF JOINT TACTICAL AUTONOMOUS AREIAL RESUPPLY VEHICLE",
+      "url": "https://www.usaspending.gov/award/CONT_AWD_W58RGZ26F0223_9700_W58RGZ26G0020_9700",
+      "agency": "Department of Defense",
+      "identifier": "W58RGZ26F0223",
+      "date": "2026-03-19",
+      "deadline": null,
+      "summary": "ACQUISITION OF JOINT TACTICAL AUTONOMOUS AREIAL RESUPPLY VEHICLE",
+      "score": 30,
+      "domains": [],
+      "matched_terms": [],
+      "watchlist": null,
+      "extra": {
+        "amount": 13155389.06,
+        "award_type": "DELIVERY ORDER"
+      },
+      "first_seen": "2026-08-12T07:27:54.577518+00:00",
+      "is_new": true
     },
     {
       "id": "USAspending:W912CH26CA009",
@@ -5490,29 +5488,6 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": false
-    },
-    {
-      "id": "USAspending:W58RGZ26F0028",
-      "source": "USAspending",
-      "category": "procurement",
-      "type": "Award",
-      "title": "AEROVIRONMENT, INC: PUMAS, RAVENS AND SPARES IN SUPPORT OF MACEDONIA",
-      "url": "https://www.usaspending.gov/award/CONT_AWD_W58RGZ26F0028_9700_W58RGZ26D0001_9700",
-      "agency": "Department of Defense",
-      "identifier": "W58RGZ26F0028",
-      "date": "2025-12-05",
-      "deadline": null,
-      "summary": "PUMAS, RAVENS AND SPARES IN SUPPORT OF MACEDONIA",
-      "score": 30,
-      "domains": [],
-      "matched_terms": [],
-      "watchlist": null,
-      "extra": {
-        "amount": 4973557.56,
-        "award_type": "DELIVERY ORDER"
-      },
-      "first_seen": "2026-08-04T08:39:18.092758+00:00",
       "is_new": false
     },
     {
@@ -5962,7 +5937,7 @@
       "matched_terms": [],
       "watchlist": null,
       "extra": {
-        "amount": 465480453.17,
+        "amount": 470692041.17,
         "award_type": "DEFINITIVE CONTRACT"
       },
       "first_seen": "2026-08-08T06:54:40.460991+00:00",
@@ -7536,8 +7511,8 @@
     {
       "name": "SAM.gov",
       "status": "ok",
-      "detail": "64 kept",
-      "count": 64
+      "detail": "63 kept",
+      "count": 63
     },
     {
       "name": "CourtListener",
@@ -7553,11 +7528,11 @@
     }
   ],
   "stats": {
-    "total": 269,
-    "new": 4,
+    "total": 268,
+    "new": 2,
     "by_category": {
       "regulatory": 132,
-      "procurement": 124,
+      "procurement": 123,
       "litigation": 9,
       "legislative": 4
     },
@@ -7571,7 +7546,7 @@
     },
     "by_source": {
       "FCC ECFS": 92,
-      "SAM.gov": 64,
+      "SAM.gov": 63,
       "USAspending": 60,
       "Federal Register": 20,
       "Regulations.gov": 20,
