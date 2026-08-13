@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-13T02:03:16.596113+00:00",
-  "generated_human": "2026-08-13 02:03 UTC",
+  "generated_at": "2026-08-13T07:29:33.811556+00:00",
+  "generated_human": "2026-08-13 07:29 UTC",
   "demo": false,
   "items": [
     {
@@ -1290,17 +1290,17 @@
       "is_new": false
     },
     {
-      "id": "Regulations.gov:FAA-2026-4558-1630",
+      "id": "Regulations.gov:FAA-2026-4558-1629",
       "source": "Regulations.gov",
       "category": "regulatory",
       "type": "Comment",
-      "title": "Comment on Designation – Restrict the Operation of Unmanned Aircraft in Close Proximity  to a Fixed Site Facility: Comment from American Chemistry Council",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1630",
+      "title": "Comment on Designation – Restrict the Operation of Unmanned Aircraft in Close Proximity  to a Fixed Site Facility: Comment from Karin L",
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1629",
       "agency": "FAA",
       "identifier": "FAA-2026-4558",
       "date": "2026-08-06",
       "deadline": null,
-      "summary": "Comment from American Chemistry Council",
+      "summary": "Comment from Karin L",
       "score": 80,
       "domains": [
         "air"
@@ -1316,7 +1316,7 @@
       "extra": {
         "docket_total_comments": 1669
       },
-      "first_seen": "2026-08-13T02:03:16.596113+00:00",
+      "first_seen": "2026-08-13T07:29:33.811556+00:00",
       "is_new": true
     },
     {
@@ -5280,29 +5280,6 @@
       "is_new": false
     },
     {
-      "id": "USAspending:W15P7T26F0090",
-      "source": "USAspending",
-      "category": "procurement",
-      "type": "Award",
-      "title": "LEIDOS, INC.: PROCURE TACTICAL EDGE COMPUTER KIT AND MOUNT KIT",
-      "url": "https://www.usaspending.gov/award/CONT_AWD_W15P7T26F0090_9700_W15P7T23D0003_9700",
-      "agency": "Department of Defense",
-      "identifier": "W15P7T26F0090",
-      "date": "2026-04-03",
-      "deadline": null,
-      "summary": "PROCURE TACTICAL EDGE COMPUTER KIT AND MOUNT KIT",
-      "score": 30,
-      "domains": [],
-      "matched_terms": [],
-      "watchlist": null,
-      "extra": {
-        "amount": 5327450.0,
-        "award_type": "DELIVERY ORDER"
-      },
-      "first_seen": "2026-07-31T02:54:03.245875+00:00",
-      "is_new": false
-    },
-    {
       "id": "USAspending:W15P7T26F0084",
       "source": "USAspending",
       "category": "procurement",
@@ -5434,7 +5411,7 @@
       "matched_terms": [],
       "watchlist": null,
       "extra": {
-        "amount": 19342200.0,
+        "amount": 24998500.0,
         "award_type": "DEFINITIVE CONTRACT"
       },
       "first_seen": "2026-06-24T10:37:40.965591+00:00",
@@ -5457,7 +5434,7 @@
       "matched_terms": [],
       "watchlist": null,
       "extra": {
-        "amount": 12671100.0,
+        "amount": 14994135.0,
         "award_type": "DEFINITIVE CONTRACT"
       },
       "first_seen": "2026-06-24T10:37:40.965591+00:00",
@@ -5726,7 +5703,7 @@
       "matched_terms": [],
       "watchlist": null,
       "extra": {
-        "amount": 685170808.0,
+        "amount": 685920808.0,
         "award_type": "DEFINITIVE CONTRACT"
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
@@ -6144,27 +6121,27 @@
       "is_new": false
     },
     {
-      "id": "USAspending:N0001921F0362",
+      "id": "USAspending:FA868921F2802",
       "source": "USAspending",
       "category": "procurement",
       "type": "Award",
-      "title": "NORTHROP GRUMMAN SYSTEMS CORPORATION: UA B10 PRESERVATION AND STORAGE",
-      "url": "https://www.usaspending.gov/award/CONT_AWD_N0001921F0362_9700_N0001920G0005_9700",
+      "title": "GENERAL ATOMICS AERONAUTICAL SYSTEMS, INC.: MQ-9 REAPER OPEN MISSION SYSTEMS STELLAR RELAY TECHNICAL MATURATION EFFORT",
+      "url": "https://www.usaspending.gov/award/CONT_AWD_FA868921F2802_9700_FA862017D2000_9700",
       "agency": "Department of Defense",
-      "identifier": "N0001921F0362",
-      "date": "2021-02-24",
+      "identifier": "FA868921F2802",
+      "date": "2021-03-19",
       "deadline": null,
-      "summary": "UA B10 PRESERVATION AND STORAGE",
+      "summary": "MQ-9 REAPER OPEN MISSION SYSTEMS STELLAR RELAY TECHNICAL MATURATION EFFORT",
       "score": 30,
       "domains": [],
       "matched_terms": [],
       "watchlist": null,
       "extra": {
-        "amount": 5422877.61,
+        "amount": 54188254.89,
         "award_type": "DELIVERY ORDER"
       },
-      "first_seen": "2026-08-04T08:39:18.092758+00:00",
-      "is_new": false
+      "first_seen": "2026-08-13T07:29:33.811556+00:00",
+      "is_new": true
     },
     {
       "id": "USAspending:FA862020F2401",
@@ -6236,6 +6213,29 @@
       "is_new": false
     },
     {
+      "id": "USAspending:FA862018C2002",
+      "source": "USAspending",
+      "category": "procurement",
+      "type": "Award",
+      "title": "GENERAL ATOMICS AERONAUTICAL SYSTEMS, INC.: FRANCE EXPORTABLE MQ-9 REAPER 3RD AND 4TH SYSTEMS",
+      "url": "https://www.usaspending.gov/award/CONT_AWD_FA862018C2002_9700_-NONE-_-NONE-",
+      "agency": "Department of Defense",
+      "identifier": "FA862018C2002",
+      "date": "2018-07-12",
+      "deadline": null,
+      "summary": "FRANCE EXPORTABLE MQ-9 REAPER 3RD AND 4TH SYSTEMS",
+      "score": 30,
+      "domains": [],
+      "matched_terms": [],
+      "watchlist": null,
+      "extra": {
+        "amount": 123777264.32,
+        "award_type": "DEFINITIVE CONTRACT"
+      },
+      "first_seen": "2026-08-13T07:29:33.811556+00:00",
+      "is_new": true
+    },
+    {
       "id": "USAspending:FA862018C2009",
       "source": "USAspending",
       "category": "procurement",
@@ -6252,7 +6252,7 @@
       "matched_terms": [],
       "watchlist": null,
       "extra": {
-        "amount": 308618554.2,
+        "amount": 309812533.2,
         "award_type": "DEFINITIVE CONTRACT"
       },
       "first_seen": "2026-06-25T10:30:41.560386+00:00",
@@ -6498,7 +6498,7 @@
       "watchlist": null,
       "extra": {},
       "first_seen": "2026-08-13T02:03:16.596113+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "Regulations.gov:FAA-2026-9573-0002",
@@ -7525,7 +7525,7 @@
   ],
   "stats": {
     "total": 268,
-    "new": 2,
+    "new": 3,
     "by_category": {
       "regulatory": 132,
       "procurement": 123,
