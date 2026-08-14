@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-14T02:01:38.652289+00:00",
-  "generated_human": "2026-08-14 02:01 UTC",
+  "generated_at": "2026-08-14T07:27:07.790928+00:00",
+  "generated_human": "2026-08-14 07:27 UTC",
   "demo": false,
   "items": [
     {
@@ -108,7 +108,7 @@
         "proceeding": "26-74"
       },
       "first_seen": "2026-08-14T02:01:38.652289+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:26110071071",
@@ -136,7 +136,7 @@
         "proceeding": "26-22"
       },
       "first_seen": "2026-08-14T02:01:38.652289+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:26110070944",
@@ -424,7 +424,7 @@
         "setaside": "SBA"
       },
       "first_seen": "2026-08-14T02:01:38.652289+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:26110070723",
@@ -1608,17 +1608,17 @@
       "is_new": false
     },
     {
-      "id": "Regulations.gov:FAA-2026-4558-1629",
+      "id": "Regulations.gov:FAA-2026-4558-1630",
       "source": "Regulations.gov",
       "category": "regulatory",
       "type": "Comment",
-      "title": "Comment on Designation – Restrict the Operation of Unmanned Aircraft in Close Proximity  to a Fixed Site Facility: Comment from Karin L",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1629",
+      "title": "Comment on Designation – Restrict the Operation of Unmanned Aircraft in Close Proximity  to a Fixed Site Facility: Comment from American Chemistry Council",
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1630",
       "agency": "FAA",
       "identifier": "FAA-2026-4558",
       "date": "2026-08-06",
       "deadline": null,
-      "summary": "Comment from Karin L",
+      "summary": "Comment from American Chemistry Council",
       "score": 80,
       "domains": [
         "air"
@@ -1634,8 +1634,8 @@
       "extra": {
         "docket_total_comments": 1669
       },
-      "first_seen": "2026-08-13T07:29:33.811556+00:00",
-      "is_new": false
+      "first_seen": "2026-08-14T07:27:07.790928+00:00",
+      "is_new": true
     },
     {
       "id": "FCC ECFS:26110069569",
@@ -4149,7 +4149,7 @@
         "setaside": "SBA"
       },
       "first_seen": "2026-08-14T02:01:38.652289+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:W15P7T21F0110",
@@ -4200,7 +4200,7 @@
         "setaside": null
       },
       "first_seen": "2026-08-14T02:01:38.652289+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "SAM.gov:2b5fb5b033914f0b804e9ea2eea29897",
@@ -5191,35 +5191,6 @@
       "is_new": false
     },
     {
-      "id": "USAspending:W56KGU25C0003",
-      "source": "USAspending",
-      "category": "procurement",
-      "type": "Award",
-      "title": "BLACK SAGE TECHNOLOGIES INC: BROAD AGENCY ANNOUNCEMENT TO DEVELOP A MULTI-INT SENSOR FUSION FRAMEWORK WITHIN AN EXISTING COUNTER UAS (CUAS) COMMAND A",
-      "url": "https://www.usaspending.gov/award/CONT_AWD_W56KGU25C0003_9700_-NONE-_-NONE-",
-      "agency": "Department of Defense",
-      "identifier": "W56KGU25C0003",
-      "date": "2025-02-18",
-      "deadline": null,
-      "summary": "BROAD AGENCY ANNOUNCEMENT TO DEVELOP A MULTI-INT SENSOR FUSION FRAMEWORK WITHIN AN EXISTING COUNTER UAS (CUAS) COMMAND AND CONTROL (C2) SOFTWARE SUITE.",
-      "score": 34,
-      "domains": [
-        "air",
-        "defense"
-      ],
-      "matched_terms": [
-        "uas",
-        "counter uas"
-      ],
-      "watchlist": null,
-      "extra": {
-        "amount": 4627205.0,
-        "award_type": "DEFINITIVE CONTRACT"
-      },
-      "first_seen": "2026-08-14T02:01:38.652289+00:00",
-      "is_new": true
-    },
-    {
       "id": "USAspending:W31P4Q24FE001",
       "source": "USAspending",
       "category": "procurement",
@@ -5367,6 +5338,29 @@
       "is_new": false
     },
     {
+      "id": "USAspending:W15P7T26F0089",
+      "source": "USAspending",
+      "category": "procurement",
+      "type": "Award",
+      "title": "LEIDOS, INC.: PROCURE TACTICAL EDGE COMPUTER KITS",
+      "url": "https://www.usaspending.gov/award/CONT_AWD_W15P7T26F0089_9700_W15P7T23D0003_9700",
+      "agency": "Department of Defense",
+      "identifier": "W15P7T26F0089",
+      "date": "2026-04-10",
+      "deadline": null,
+      "summary": "PROCURE TACTICAL EDGE COMPUTER KITS",
+      "score": 30,
+      "domains": [],
+      "matched_terms": [],
+      "watchlist": null,
+      "extra": {
+        "amount": 128482452.0,
+        "award_type": "DELIVERY ORDER"
+      },
+      "first_seen": "2026-08-14T07:27:07.790928+00:00",
+      "is_new": true
+    },
+    {
       "id": "USAspending:W15P7T26F0090",
       "source": "USAspending",
       "category": "procurement",
@@ -5387,30 +5381,7 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-08-14T02:01:38.652289+00:00",
-      "is_new": true
-    },
-    {
-      "id": "USAspending:FA862926PB002",
-      "source": "USAspending",
-      "category": "procurement",
-      "type": "Award",
-      "title": "AEROVIRONMENT, INC: HURRICANE AND TRAINING ASSETS",
-      "url": "https://www.usaspending.gov/award/CONT_AWD_FA862926PB002_9700_-NONE-_-NONE-",
-      "agency": "Department of Defense",
-      "identifier": "FA862926PB002",
-      "date": "2026-03-30",
-      "deadline": null,
-      "summary": "HURRICANE AND TRAINING ASSETS",
-      "score": 30,
-      "domains": [],
-      "matched_terms": [],
-      "watchlist": null,
-      "extra": {
-        "amount": 4922723.0,
-        "award_type": "PURCHASE ORDER"
-      },
-      "first_seen": "2026-08-14T02:01:38.652289+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:W15P7T26F0084",
@@ -5621,7 +5592,7 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-08-14T02:01:38.652289+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:89233126FNA400749",
@@ -6108,6 +6079,33 @@
       "is_new": false
     },
     {
+      "id": "USAspending:HTC71122CR001",
+      "source": "USAspending",
+      "category": "procurement",
+      "type": "Award",
+      "title": "ASPEN HELICOPTERS INC: AIR TRANSPORTATION AND DRONE RECOVERY",
+      "url": "https://www.usaspending.gov/award/CONT_AWD_HTC71122CR001_9700_-NONE-_-NONE-",
+      "agency": "Department of Defense",
+      "identifier": "HTC71122CR001",
+      "date": "2021-10-01",
+      "deadline": null,
+      "summary": "AIR TRANSPORTATION AND DRONE RECOVERY",
+      "score": 30,
+      "domains": [
+        "air"
+      ],
+      "matched_terms": [
+        "drone"
+      ],
+      "watchlist": null,
+      "extra": {
+        "amount": 9653961.1,
+        "award_type": "DEFINITIVE CONTRACT"
+      },
+      "first_seen": "2026-08-14T07:27:07.790928+00:00",
+      "is_new": true
+    },
+    {
       "id": "USAspending:N0001921F0188",
       "source": "USAspending",
       "category": "procurement",
@@ -6178,7 +6176,7 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-08-14T02:01:38.652289+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:FA862020F2401",
@@ -6270,7 +6268,7 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-08-14T02:01:38.652289+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:FA862018C2002",
@@ -7483,6 +7481,33 @@
       "is_new": false
     },
     {
+      "id": "SAM.gov:071317653fa34def9f6b4d68d8dab858",
+      "source": "SAM.gov",
+      "category": "procurement",
+      "type": "Solicitation (RFP)",
+      "title": "USMS FY26 D79 GROUND ROBOT - Galveston",
+      "url": "https://sam.gov/workspace/contract/opp/071317653fa34def9f6b4d68d8dab858/view",
+      "agency": "JUSTICE, DEPARTMENT OF",
+      "identifier": "15M10226QA4700233",
+      "date": "2026-08-04",
+      "deadline": "2026-08-11",
+      "summary": "USMS FY26 D79 GROUND ROBOT - Galveston",
+      "score": 18,
+      "domains": [
+        "ground"
+      ],
+      "matched_terms": [
+        "ground robot"
+      ],
+      "watchlist": null,
+      "extra": {
+        "naics": "334511",
+        "setaside": "SBA"
+      },
+      "first_seen": "2026-08-14T07:27:07.790928+00:00",
+      "is_new": true
+    },
+    {
       "id": "SAM.gov:1dd228678c8e4520881937e1a251887a",
       "source": "SAM.gov",
       "category": "procurement",
@@ -7538,8 +7563,8 @@
     {
       "name": "SAM.gov",
       "status": "ok",
-      "detail": "66 kept",
-      "count": 66
+      "detail": "67 kept",
+      "count": 67
     },
     {
       "name": "CourtListener",
@@ -7555,11 +7580,11 @@
     }
   ],
   "stats": {
-    "total": 269,
-    "new": 11,
+    "total": 270,
+    "new": 4,
     "by_category": {
       "regulatory": 130,
-      "procurement": 126,
+      "procurement": 127,
       "litigation": 9,
       "legislative": 4
     },
@@ -7567,13 +7592,13 @@
       "air": 199,
       "supply-chain": 112,
       "spectrum": 49,
-      "ground": 25,
-      "defense": 16,
+      "ground": 26,
+      "defense": 15,
       "maritime": 2
     },
     "by_source": {
       "FCC ECFS": 91,
-      "SAM.gov": 66,
+      "SAM.gov": 67,
       "USAspending": 60,
       "Regulations.gov": 20,
       "Federal Register": 19,
