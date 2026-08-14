@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-14T07:27:07.790928+00:00",
-  "generated_human": "2026-08-14 07:27 UTC",
+  "generated_at": "2026-08-14T13:07:51.036627+00:00",
+  "generated_human": "2026-08-14 13:07 UTC",
   "demo": false,
   "items": [
     {
@@ -1608,17 +1608,17 @@
       "is_new": false
     },
     {
-      "id": "Regulations.gov:FAA-2026-4558-1630",
+      "id": "Regulations.gov:FAA-2026-4558-1629",
       "source": "Regulations.gov",
       "category": "regulatory",
       "type": "Comment",
-      "title": "Comment on Designation – Restrict the Operation of Unmanned Aircraft in Close Proximity  to a Fixed Site Facility: Comment from American Chemistry Council",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1630",
+      "title": "Comment on Designation – Restrict the Operation of Unmanned Aircraft in Close Proximity  to a Fixed Site Facility: Comment from Karin L",
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1629",
       "agency": "FAA",
       "identifier": "FAA-2026-4558",
       "date": "2026-08-06",
       "deadline": null,
-      "summary": "Comment from American Chemistry Council",
+      "summary": "Comment from Karin L",
       "score": 80,
       "domains": [
         "air"
@@ -1634,7 +1634,7 @@
       "extra": {
         "docket_total_comments": 1669
       },
-      "first_seen": "2026-08-14T07:27:07.790928+00:00",
+      "first_seen": "2026-08-14T13:07:51.036627+00:00",
       "is_new": true
     },
     {
@@ -5219,6 +5219,36 @@
       "is_new": false
     },
     {
+      "id": "Federal Register:2026-16628",
+      "source": "Federal Register",
+      "category": "regulatory",
+      "type": "Final Rule",
+      "title": "Streamlining Export Controls for Drone Exports",
+      "url": "https://www.federalregister.gov/documents/2026/08/14/2026-16628/streamlining-export-controls-for-drone-exports",
+      "agency": "Commerce Department, Industry and Security Bureau",
+      "identifier": "Docket No. 260723-0178",
+      "date": "2026-08-14",
+      "deadline": null,
+      "summary": "The Bureau of Industry and Security (BIS) is easing export controls on certain Unmanned Aerial Vehicles (UAVs or drones) and related parts, components, accessories, attachments, technology, and software under the Export Administration Regulations (EAR). Specifically, this rule: eliminates wind gust tolerance as a parameter for determining UAV controls under the EAR; increases the threshold for national security controls on certain UAVs from an endurance of 30 minutes to an endurance of 3 hours; makes conforming changes to remove national security controls on software and technology associated ",
+      "score": 32,
+      "domains": [
+        "air"
+      ],
+      "matched_terms": [
+        "uav",
+        "drone"
+      ],
+      "watchlist": null,
+      "extra": {
+        "comment_url": null,
+        "dockets": [
+          "Docket No. 260723-0178"
+        ]
+      },
+      "first_seen": "2026-08-14T13:07:51.036627+00:00",
+      "is_new": true
+    },
+    {
       "id": "USAspending:89233126FNA400803",
       "source": "USAspending",
       "category": "procurement",
@@ -5358,7 +5388,7 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-08-14T07:27:07.790928+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:W15P7T26F0090",
@@ -6103,7 +6133,7 @@
         "award_type": "DEFINITIVE CONTRACT"
       },
       "first_seen": "2026-08-14T07:27:07.790928+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:N0001921F0188",
@@ -6506,6 +6536,126 @@
       "is_new": false
     },
     {
+      "id": "Regulations.gov:FAA-2026-9969-0001",
+      "source": "Regulations.gov",
+      "category": "regulatory",
+      "type": "Document",
+      "title": "Drone and Robotic Solutions, LLC - Petition",
+      "url": "https://www.regulations.gov/document/FAA-2026-9969-0001",
+      "agency": "FAA",
+      "identifier": "FAA-2026-9969",
+      "date": "2026-08-14",
+      "deadline": null,
+      "summary": "Drone and Robotic Solutions, LLC - Petition",
+      "score": 20,
+      "domains": [
+        "air"
+      ],
+      "matched_terms": [
+        "drone"
+      ],
+      "watchlist": null,
+      "extra": {},
+      "first_seen": "2026-08-14T13:07:51.036627+00:00",
+      "is_new": true
+    },
+    {
+      "id": "Regulations.gov:FAA-2026-9971-0001",
+      "source": "Regulations.gov",
+      "category": "regulatory",
+      "type": "Document",
+      "title": "Drone and Robotic Solutions, LLC - Petition",
+      "url": "https://www.regulations.gov/document/FAA-2026-9971-0001",
+      "agency": "FAA",
+      "identifier": "FAA-2026-9971",
+      "date": "2026-08-14",
+      "deadline": null,
+      "summary": "Drone and Robotic Solutions, LLC - Petition",
+      "score": 20,
+      "domains": [
+        "air"
+      ],
+      "matched_terms": [
+        "drone"
+      ],
+      "watchlist": null,
+      "extra": {},
+      "first_seen": "2026-08-14T13:07:51.036627+00:00",
+      "is_new": true
+    },
+    {
+      "id": "Regulations.gov:FAA-2026-9970-0001",
+      "source": "Regulations.gov",
+      "category": "regulatory",
+      "type": "Document",
+      "title": "Drone and Robotic Solutions, LLC - Petition",
+      "url": "https://www.regulations.gov/document/FAA-2026-9970-0001",
+      "agency": "FAA",
+      "identifier": "FAA-2026-9970",
+      "date": "2026-08-14",
+      "deadline": null,
+      "summary": "Drone and Robotic Solutions, LLC - Petition",
+      "score": 20,
+      "domains": [
+        "air"
+      ],
+      "matched_terms": [
+        "drone"
+      ],
+      "watchlist": null,
+      "extra": {},
+      "first_seen": "2026-08-14T13:07:51.036627+00:00",
+      "is_new": true
+    },
+    {
+      "id": "Regulations.gov:FAA-2026-9973-0001",
+      "source": "Regulations.gov",
+      "category": "regulatory",
+      "type": "Document",
+      "title": "Southern Drone OPS LLC - Petition",
+      "url": "https://www.regulations.gov/document/FAA-2026-9973-0001",
+      "agency": "FAA",
+      "identifier": "FAA-2026-9973",
+      "date": "2026-08-14",
+      "deadline": null,
+      "summary": "Southern Drone OPS LLC - Petition",
+      "score": 20,
+      "domains": [
+        "air"
+      ],
+      "matched_terms": [
+        "drone"
+      ],
+      "watchlist": null,
+      "extra": {},
+      "first_seen": "2026-08-14T13:07:51.036627+00:00",
+      "is_new": true
+    },
+    {
+      "id": "Regulations.gov:BIS_FRDOC_0001-0719",
+      "source": "Regulations.gov",
+      "category": "regulatory",
+      "type": "Final Rule",
+      "title": "Streamlining Export Controls for Drone Exports",
+      "url": "https://www.regulations.gov/document/BIS_FRDOC_0001-0719",
+      "agency": "BIS",
+      "identifier": "BIS_FRDOC_0001",
+      "date": "2026-08-14",
+      "deadline": null,
+      "summary": "Streamlining Export Controls for Drone Exports",
+      "score": 20,
+      "domains": [
+        "air"
+      ],
+      "matched_terms": [
+        "drone"
+      ],
+      "watchlist": null,
+      "extra": {},
+      "first_seen": "2026-08-14T13:07:51.036627+00:00",
+      "is_new": true
+    },
+    {
       "id": "Regulations.gov:FAA-2026-9836-0001",
       "source": "Regulations.gov",
       "category": "regulatory",
@@ -6749,30 +6899,6 @@
       "watchlist": null,
       "extra": {},
       "first_seen": "2026-08-04T02:36:09.761685+00:00",
-      "is_new": false
-    },
-    {
-      "id": "Regulations.gov:FAA-2026-0902-0006",
-      "source": "Regulations.gov",
-      "category": "regulatory",
-      "type": "Document",
-      "title": "Allstate Drone Solutions LLC - Additional Information",
-      "url": "https://www.regulations.gov/document/FAA-2026-0902-0006",
-      "agency": "FAA",
-      "identifier": "FAA-2026-0902",
-      "date": "2026-08-03",
-      "deadline": null,
-      "summary": "Allstate Drone Solutions LLC - Additional Information",
-      "score": 20,
-      "domains": [
-        "air"
-      ],
-      "matched_terms": [
-        "drone"
-      ],
-      "watchlist": null,
-      "extra": {},
-      "first_seen": "2026-08-03T19:39:36.720104+00:00",
       "is_new": false
     },
     {
@@ -7454,60 +7580,6 @@
       "is_new": false
     },
     {
-      "id": "SAM.gov:10dbefea93e44efba1aa18c90ca50ed1",
-      "source": "SAM.gov",
-      "category": "procurement",
-      "type": "Solicitation (RFP)",
-      "title": "USMS FY26 IOD GCRFTF GROUND ROBOT",
-      "url": "https://sam.gov/workspace/contract/opp/10dbefea93e44efba1aa18c90ca50ed1/view",
-      "agency": "JUSTICE, DEPARTMENT OF",
-      "identifier": "15M10226QA4700252",
-      "date": "2026-08-04",
-      "deadline": "2026-08-11",
-      "summary": "USMS FY26 IOD GCRFTF GROUND ROBOT",
-      "score": 18,
-      "domains": [
-        "ground"
-      ],
-      "matched_terms": [
-        "ground robot"
-      ],
-      "watchlist": null,
-      "extra": {
-        "naics": "334511",
-        "setaside": "SBA"
-      },
-      "first_seen": "2026-08-04T19:39:24.965524+00:00",
-      "is_new": false
-    },
-    {
-      "id": "SAM.gov:071317653fa34def9f6b4d68d8dab858",
-      "source": "SAM.gov",
-      "category": "procurement",
-      "type": "Solicitation (RFP)",
-      "title": "USMS FY26 D79 GROUND ROBOT - Galveston",
-      "url": "https://sam.gov/workspace/contract/opp/071317653fa34def9f6b4d68d8dab858/view",
-      "agency": "JUSTICE, DEPARTMENT OF",
-      "identifier": "15M10226QA4700233",
-      "date": "2026-08-04",
-      "deadline": "2026-08-11",
-      "summary": "USMS FY26 D79 GROUND ROBOT - Galveston",
-      "score": 18,
-      "domains": [
-        "ground"
-      ],
-      "matched_terms": [
-        "ground robot"
-      ],
-      "watchlist": null,
-      "extra": {
-        "naics": "334511",
-        "setaside": "SBA"
-      },
-      "first_seen": "2026-08-14T07:27:07.790928+00:00",
-      "is_new": true
-    },
-    {
       "id": "SAM.gov:1dd228678c8e4520881937e1a251887a",
       "source": "SAM.gov",
       "category": "procurement",
@@ -7539,14 +7611,14 @@
     {
       "name": "Federal Register",
       "status": "ok",
-      "detail": "20 kept",
-      "count": 20
+      "detail": "21 kept",
+      "count": 21
     },
     {
       "name": "Regulations.gov",
       "status": "ok",
-      "detail": "32 kept",
-      "count": 32
+      "detail": "36 kept",
+      "count": 36
     },
     {
       "name": "FCC ECFS",
@@ -7563,8 +7635,8 @@
     {
       "name": "SAM.gov",
       "status": "ok",
-      "detail": "67 kept",
-      "count": 67
+      "detail": "65 kept",
+      "count": 65
     },
     {
       "name": "CourtListener",
@@ -7580,28 +7652,28 @@
     }
   ],
   "stats": {
-    "total": 270,
-    "new": 4,
+    "total": 273,
+    "new": 7,
     "by_category": {
-      "regulatory": 130,
-      "procurement": 127,
+      "regulatory": 135,
+      "procurement": 125,
       "litigation": 9,
       "legislative": 4
     },
     "by_domain": {
-      "air": 199,
+      "air": 204,
       "supply-chain": 112,
       "spectrum": 49,
-      "ground": 26,
+      "ground": 24,
       "defense": 15,
       "maritime": 2
     },
     "by_source": {
       "FCC ECFS": 91,
-      "SAM.gov": 67,
+      "SAM.gov": 65,
       "USAspending": 60,
-      "Regulations.gov": 20,
-      "Federal Register": 19,
+      "Regulations.gov": 24,
+      "Federal Register": 20,
       "CourtListener": 9,
       "Congress.gov": 4
     }
