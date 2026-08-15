@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-15T12:39:18.747182+00:00",
-  "generated_human": "2026-08-15 12:39 UTC",
+  "generated_at": "2026-08-15T18:31:21.252897+00:00",
+  "generated_human": "2026-08-15 18:31 UTC",
   "demo": false,
   "items": [
     {
@@ -1920,17 +1920,17 @@
       "is_new": false
     },
     {
-      "id": "Regulations.gov:FAA-2026-4558-1629",
+      "id": "Regulations.gov:FAA-2026-4558-1630",
       "source": "Regulations.gov",
       "category": "regulatory",
       "type": "Comment",
-      "title": "Comment on Designation – Restrict the Operation of Unmanned Aircraft in Close Proximity  to a Fixed Site Facility: Comment from Karin L",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1629",
+      "title": "Comment on Designation – Restrict the Operation of Unmanned Aircraft in Close Proximity  to a Fixed Site Facility: Comment from American Chemistry Council",
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1630",
       "agency": "FAA",
       "identifier": "FAA-2026-4558",
       "date": "2026-08-06",
       "deadline": null,
-      "summary": "Comment from Karin L",
+      "summary": "Comment from American Chemistry Council",
       "score": 80,
       "domains": [
         "air"
@@ -1946,7 +1946,7 @@
       "extra": {
         "docket_total_comments": 1669
       },
-      "first_seen": "2026-08-15T12:39:18.747182+00:00",
+      "first_seen": "2026-08-15T18:31:21.252897+00:00",
       "is_new": true
     },
     {
@@ -4141,6 +4141,33 @@
       },
       "first_seen": "2026-08-12T07:27:54.577518+00:00",
       "is_new": false
+    },
+    {
+      "id": "SAM.gov:eea49f1acfa44dc1978156592ad3b08f",
+      "source": "SAM.gov",
+      "category": "procurement",
+      "type": "Presolicitation",
+      "title": "Z1QA--Requirement-Drone Power Wash Service-South and East Tower  VA Medical Center Miami",
+      "url": "https://sam.gov/workspace/contract/opp/eea49f1acfa44dc1978156592ad3b08f/view",
+      "agency": "VETERANS AFFAIRS, DEPARTMENT OF",
+      "identifier": "36C24826Q1136",
+      "date": "2026-08-15",
+      "deadline": "2026-08-26",
+      "summary": "Z1QA--Requirement-Drone Power Wash Service-South and East Tower  VA Medical Center Miami",
+      "score": 35,
+      "domains": [
+        "air"
+      ],
+      "matched_terms": [
+        "drone"
+      ],
+      "watchlist": null,
+      "extra": {
+        "naics": "561790",
+        "setaside": "VSA"
+      },
+      "first_seen": "2026-08-15T18:31:21.252897+00:00",
+      "is_new": true
     },
     {
       "id": "SAM.gov:dbfd57b914894755b932e366049d063e",
@@ -7569,8 +7596,8 @@
     {
       "name": "SAM.gov",
       "status": "ok",
-      "detail": "63 kept",
-      "count": 63
+      "detail": "64 kept",
+      "count": 64
     },
     {
       "name": "CourtListener",
@@ -7586,16 +7613,16 @@
     }
   ],
   "stats": {
-    "total": 271,
-    "new": 1,
+    "total": 272,
+    "new": 2,
     "by_category": {
       "regulatory": 135,
-      "procurement": 123,
+      "procurement": 124,
       "litigation": 9,
       "legislative": 4
     },
     "by_domain": {
-      "air": 203,
+      "air": 204,
       "supply-chain": 112,
       "spectrum": 47,
       "ground": 23,
@@ -7604,7 +7631,7 @@
     },
     "by_source": {
       "FCC ECFS": 92,
-      "SAM.gov": 63,
+      "SAM.gov": 64,
       "USAspending": 60,
       "Regulations.gov": 24,
       "Federal Register": 19,
@@ -8004,6 +8031,15 @@
     {
       "deadline": "2026-08-26",
       "days": 11,
+      "title": "Z1QA--Requirement-Drone Power Wash Service-South and East Tower  VA Medical Center Miami",
+      "identifier": "36C24826Q1136",
+      "category": "procurement",
+      "source": "SAM.gov",
+      "url": "https://sam.gov/workspace/contract/opp/eea49f1acfa44dc1978156592ad3b08f/view"
+    },
+    {
+      "deadline": "2026-08-26",
+      "days": 11,
       "title": "5BDE Drones Equipment",
       "identifier": "W911S226U4050",
       "category": "procurement",
@@ -8144,15 +8180,6 @@
       "category": "procurement",
       "source": "SAM.gov",
       "url": "https://sam.gov/workspace/contract/opp/da82da9604cb462cb1f612cbaa42366c/view"
-    },
-    {
-      "deadline": "2031-05-28",
-      "days": 1747,
-      "title": "INVITATION TO PARTICIPATE IN THE DEPARTMENT OF WAR DRONE OTA CONSORTIUM - AMENDMENT 0001",
-      "identifier": "W58RGZ-26-2-SN01-0001",
-      "category": "procurement",
-      "source": "SAM.gov",
-      "url": "https://sam.gov/workspace/contract/opp/b49351c7687545ba93c3ba8a051051e9/view"
     }
   ],
   "domain_labels": {
