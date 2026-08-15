@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-15T06:40:20.759098+00:00",
-  "generated_human": "2026-08-15 06:40 UTC",
+  "generated_at": "2026-08-15T12:39:18.747182+00:00",
+  "generated_human": "2026-08-15 12:39 UTC",
   "demo": false,
   "items": [
     {
@@ -1920,17 +1920,17 @@
       "is_new": false
     },
     {
-      "id": "Regulations.gov:FAA-2026-4558-1630",
+      "id": "Regulations.gov:FAA-2026-4558-1629",
       "source": "Regulations.gov",
       "category": "regulatory",
       "type": "Comment",
-      "title": "Comment on Designation – Restrict the Operation of Unmanned Aircraft in Close Proximity  to a Fixed Site Facility: Comment from American Chemistry Council",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1630",
+      "title": "Comment on Designation – Restrict the Operation of Unmanned Aircraft in Close Proximity  to a Fixed Site Facility: Comment from Karin L",
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1629",
       "agency": "FAA",
       "identifier": "FAA-2026-4558",
       "date": "2026-08-06",
       "deadline": null,
-      "summary": "Comment from American Chemistry Council",
+      "summary": "Comment from Karin L",
       "score": 80,
       "domains": [
         "air"
@@ -1946,7 +1946,7 @@
       "extra": {
         "docket_total_comments": 1669
       },
-      "first_seen": "2026-08-15T06:40:20.759098+00:00",
+      "first_seen": "2026-08-15T12:39:18.747182+00:00",
       "is_new": true
     },
     {
@@ -5338,7 +5338,7 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-08-15T06:40:20.759098+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:89233126FNA400787",
@@ -5687,7 +5687,7 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-08-15T06:40:20.759098+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:W58RGZ26F0028",
@@ -7587,7 +7587,7 @@
   ],
   "stats": {
     "total": 271,
-    "new": 3,
+    "new": 1,
     "by_category": {
       "regulatory": 135,
       "procurement": 123,
