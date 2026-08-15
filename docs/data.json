@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-14T18:55:22.284701+00:00",
-  "generated_human": "2026-08-14 18:55 UTC",
+  "generated_at": "2026-08-15T01:17:04.615194+00:00",
+  "generated_human": "2026-08-15 01:17 UTC",
   "demo": false,
   "items": [
     {
@@ -104,7 +104,7 @@
         "proceeding": "26-74"
       },
       "first_seen": "2026-08-14T18:55:22.284701+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:26110071164",
@@ -138,7 +138,7 @@
         "proceeding": "26-74"
       },
       "first_seen": "2026-08-14T18:55:22.284701+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:26110071178",
@@ -167,7 +167,7 @@
         "proceeding": "26-74"
       },
       "first_seen": "2026-08-14T18:55:22.284701+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:26110071197",
@@ -196,7 +196,7 @@
         "proceeding": "26-74"
       },
       "first_seen": "2026-08-14T18:55:22.284701+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:26110071217",
@@ -225,6 +225,135 @@
         "proceeding": "26-74"
       },
       "first_seen": "2026-08-14T18:55:22.284701+00:00",
+      "is_new": false
+    },
+    {
+      "id": "FCC ECFS:26110071376",
+      "source": "FCC ECFS",
+      "category": "regulatory",
+      "type": "Comment",
+      "title": "Blue Pearl Drones LLC: COMMENT (FCC 26-22)",
+      "url": "https://www.fcc.gov/ecfs/search/search-filings/filing/26110071376",
+      "agency": "FCC",
+      "identifier": "FCC 26-22",
+      "date": "2026-08-14",
+      "deadline": null,
+      "summary": "A ban on existing or future DJI drones would have a significant impact on my ability to operate my small business in a cost-effective and competitive manner. DJI currently provides capabilities, reliability, and technology at a price point that I have not found from comparable alternatives.\n\nReplacing my current equipment with non-DJI platforms offering similar capabilities could increase my equip",
+      "score": 80,
+      "domains": [
+        "air",
+        "supply-chain"
+      ],
+      "matched_terms": [
+        "dji",
+        "26-22"
+      ],
+      "watchlist": {
+        "key": "et-26-22",
+        "label": "ET 26-22 / DA-26-592 (DJI Security Assessment — comment by Aug 28, 2026)"
+      },
+      "extra": {
+        "proceeding": "26-22"
+      },
+      "first_seen": "2026-08-15T01:17:04.615194+00:00",
+      "is_new": true
+    },
+    {
+      "id": "FCC ECFS:26110071401",
+      "source": "FCC ECFS",
+      "category": "regulatory",
+      "type": "Comment",
+      "title": "Thomas  Ferguson: COMMENT (FCC 26-22)",
+      "url": "https://www.fcc.gov/ecfs/search/search-filings/filing/26110071401",
+      "agency": "FCC",
+      "identifier": "FCC 26-22",
+      "date": "2026-08-14",
+      "deadline": null,
+      "summary": "Dear sir or Madam, I am writing to express my concern over the upcoming FCC revocation/ban of foreign made drone equipment.  I believe this is a bad idea because it will affect many American businesses and first responders that use this equipment every day to spray fertilizers on farm fields, help firefighters find hot spots at fire incidents, and help search and rescue teams look for and find los",
+      "score": 80,
+      "domains": [
+        "air",
+        "supply-chain"
+      ],
+      "matched_terms": [
+        "drone",
+        "26-22"
+      ],
+      "watchlist": {
+        "key": "et-26-22",
+        "label": "ET 26-22 / DA-26-592 (DJI Security Assessment — comment by Aug 28, 2026)"
+      },
+      "extra": {
+        "proceeding": "26-22"
+      },
+      "first_seen": "2026-08-15T01:17:04.615194+00:00",
+      "is_new": true
+    },
+    {
+      "id": "FCC ECFS:26110071396",
+      "source": "FCC ECFS",
+      "category": "regulatory",
+      "type": "Comment",
+      "title": "Robert Winkle Jr: COMMENT (FCC 26-22)",
+      "url": "https://www.fcc.gov/ecfs/search/search-filings/filing/26110071396",
+      "agency": "FCC",
+      "identifier": "FCC 26-22",
+      "date": "2026-08-14",
+      "deadline": null,
+      "summary": "DJI and Sky rover drones incorporate the top-of-the-line camera quality the American drone manufactures simply cannot match. The lidar technologies used for thermal imaging avoids collisions and promotes better and safer national airspace. Thermal technology being limited also hampers first responders many departments using the Mavic Enterprise or Matrice T Models and drone usage by those first re",
+      "score": 80,
+      "domains": [
+        "air",
+        "ground",
+        "supply-chain"
+      ],
+      "matched_terms": [
+        "drone",
+        "dji",
+        "lidar",
+        "national airspace",
+        "airspace",
+        "26-22"
+      ],
+      "watchlist": {
+        "key": "et-26-22",
+        "label": "ET 26-22 / DA-26-592 (DJI Security Assessment — comment by Aug 28, 2026)"
+      },
+      "extra": {
+        "proceeding": "26-22"
+      },
+      "first_seen": "2026-08-15T01:17:04.615194+00:00",
+      "is_new": true
+    },
+    {
+      "id": "FCC ECFS:26110071339",
+      "source": "FCC ECFS",
+      "category": "regulatory",
+      "type": "Comment",
+      "title": "Aaron Allen: COMMENT (FCC 26-22)",
+      "url": "https://www.fcc.gov/ecfs/search/search-filings/filing/26110071339",
+      "agency": "FCC",
+      "identifier": "FCC 26-22",
+      "date": "2026-08-14",
+      "deadline": null,
+      "summary": "Please reconsider the ban on the Agras series drone. We as a small business have invested and scaled our business on the best ag drones in the world. Our farmers rely on these capabilities when traditional methods cannot be utilized. We are currently in the process of salvaging thousands of acres of cotton, which is a national defense specified crop. Our drones are literally the only line of defen",
+      "score": 80,
+      "domains": [
+        "air",
+        "supply-chain"
+      ],
+      "matched_terms": [
+        "drone",
+        "26-22"
+      ],
+      "watchlist": {
+        "key": "et-26-22",
+        "label": "ET 26-22 / DA-26-592 (DJI Security Assessment — comment by Aug 28, 2026)"
+      },
+      "extra": {
+        "proceeding": "26-22"
+      },
+      "first_seen": "2026-08-15T01:17:04.615194+00:00",
       "is_new": true
     },
     {
@@ -258,7 +387,7 @@
         "proceeding": "26-22"
       },
       "first_seen": "2026-08-14T18:55:22.284701+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:26110071300",
@@ -292,7 +421,7 @@
         "proceeding": "26-22"
       },
       "first_seen": "2026-08-14T18:55:22.284701+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:26110071297",
@@ -323,7 +452,7 @@
         "proceeding": "26-22"
       },
       "first_seen": "2026-08-14T18:55:22.284701+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:26110071295",
@@ -354,7 +483,7 @@
         "proceeding": "26-22"
       },
       "first_seen": "2026-08-14T18:55:22.284701+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:26110071290",
@@ -382,7 +511,7 @@
         "proceeding": "26-22"
       },
       "first_seen": "2026-08-14T18:55:22.284701+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:26110071276",
@@ -415,7 +544,7 @@
         "proceeding": "26-22"
       },
       "first_seen": "2026-08-14T18:55:22.284701+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:26110071168",
@@ -447,7 +576,7 @@
         "proceeding": "26-22"
       },
       "first_seen": "2026-08-14T18:55:22.284701+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:26110071194",
@@ -480,7 +609,7 @@
         "proceeding": "26-22"
       },
       "first_seen": "2026-08-14T18:55:22.284701+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:26110071138",
@@ -511,7 +640,7 @@
         "proceeding": "26-22"
       },
       "first_seen": "2026-08-14T18:55:22.284701+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:26110071135",
@@ -542,7 +671,7 @@
         "proceeding": "26-22"
       },
       "first_seen": "2026-08-14T18:55:22.284701+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:26110071084",
@@ -1791,130 +1920,6 @@
       "is_new": false
     },
     {
-      "id": "FCC ECFS:26110069752",
-      "source": "FCC ECFS",
-      "category": "regulatory",
-      "type": "Comment",
-      "title": "Grantas Perevicius: COMMENT (FCC 26-22)",
-      "url": "https://www.fcc.gov/ecfs/search/search-filings/filing/26110069752",
-      "agency": "FCC",
-      "identifier": "FCC 26-22",
-      "date": "2026-08-10",
-      "deadline": null,
-      "summary": "I am a DJI drone owner and use my drone for recreational photography and videography. I purchased my drone legally and rely on it to capture landscapes, travel, and family memories.\n\nI urge the FCC to carefully consider the impact that additional restrictions on DJI products would have on current owners and future consumers. Many people invested hundreds or thousands of dollars in these products w",
-      "score": 80,
-      "domains": [
-        "air",
-        "supply-chain"
-      ],
-      "matched_terms": [
-        "drone",
-        "dji",
-        "26-22"
-      ],
-      "watchlist": {
-        "key": "et-26-22",
-        "label": "ET 26-22 / DA-26-592 (DJI Security Assessment — comment by Aug 28, 2026)"
-      },
-      "extra": {
-        "proceeding": "26-22"
-      },
-      "first_seen": "2026-08-10T18:59:28.827229+00:00",
-      "is_new": false
-    },
-    {
-      "id": "FCC ECFS:26110069857",
-      "source": "FCC ECFS",
-      "category": "regulatory",
-      "type": "Comment",
-      "title": "Jeffrey Harding: COMMENT (FCC 26-22)",
-      "url": "https://www.fcc.gov/ecfs/search/search-filings/filing/26110069857",
-      "agency": "FCC",
-      "identifier": "FCC 26-22",
-      "date": "2026-08-10",
-      "deadline": null,
-      "summary": "I am a drone pilot for a sheriff's office in mid-Missouri.  We fly three DJI drones, one for interior flight during high-risk ops and two for SAR, firefighting, pre-search warrant surveillance, community outreach, etc.\n\nOur drones have collision avoidance and the two SAR drones have thermal cameras.  We have had numerous successes with these drone, from finding missing children,  and locating stol",
-      "score": 80,
-      "domains": [
-        "air",
-        "supply-chain"
-      ],
-      "matched_terms": [
-        "drone",
-        "dji",
-        "26-22"
-      ],
-      "watchlist": {
-        "key": "et-26-22",
-        "label": "ET 26-22 / DA-26-592 (DJI Security Assessment — comment by Aug 28, 2026)"
-      },
-      "extra": {
-        "proceeding": "26-22"
-      },
-      "first_seen": "2026-08-10T18:59:28.827229+00:00",
-      "is_new": false
-    },
-    {
-      "id": "FCC ECFS:26110069984",
-      "source": "FCC ECFS",
-      "category": "regulatory",
-      "type": "Comment",
-      "title": "Adam Badger: COMMENT (FCC 26-22)",
-      "url": "https://www.fcc.gov/ecfs/search/search-filings/filing/26110069984",
-      "agency": "FCC",
-      "identifier": "FCC 26-22",
-      "date": "2026-08-10",
-      "deadline": null,
-      "summary": "I do not agree with or support any of the following bans or restrictions set in place or being pursued regarding any and all consumer drones! This is one hobby I fully enjoy and am an American citizen. The drones that are being added to the list are some of the best drone in the world on the market for consumers like myself. DJI is the number 1 drone company in the world for consumer drones for a",
-      "score": 80,
-      "domains": [
-        "air",
-        "supply-chain"
-      ],
-      "matched_terms": [
-        "drone",
-        "dji",
-        "26-22"
-      ],
-      "watchlist": {
-        "key": "et-26-22",
-        "label": "ET 26-22 / DA-26-592 (DJI Security Assessment — comment by Aug 28, 2026)"
-      },
-      "extra": {
-        "proceeding": "26-22"
-      },
-      "first_seen": "2026-08-10T18:59:28.827229+00:00",
-      "is_new": false
-    },
-    {
-      "id": "FCC ECFS:26110069825",
-      "source": "FCC ECFS",
-      "category": "regulatory",
-      "type": "Comment",
-      "title": "Douglas Davidson: COMMENT (FCC 26-22)",
-      "url": "https://www.fcc.gov/ecfs/document/26110069825/1",
-      "agency": "FCC",
-      "identifier": "FCC 26-22",
-      "date": "2026-08-10",
-      "deadline": null,
-      "summary": "",
-      "score": 80,
-      "domains": [
-        "supply-chain",
-        "air"
-      ],
-      "matched_terms": [],
-      "watchlist": {
-        "key": "et-26-22",
-        "label": "ET 26-22 / DA-26-592 (DJI Security Assessment — comment by Aug 28, 2026)"
-      },
-      "extra": {
-        "proceeding": "26-22"
-      },
-      "first_seen": "2026-08-10T18:59:28.827229+00:00",
-      "is_new": false
-    },
-    {
       "id": "Regulations.gov:FAA-2026-4558-1629",
       "source": "Regulations.gov",
       "category": "regulatory",
@@ -2230,35 +2235,6 @@
       "is_new": false
     },
     {
-      "id": "FCC ECFS:107022321324871",
-      "source": "FCC ECFS",
-      "category": "regulatory",
-      "type": "OTHER",
-      "title": "Wireless Telecommunications Bureau: OTHER (FCC 26-74)",
-      "url": "https://docs.fcc.gov/public/attachments/DA-26-654A1.pdf",
-      "agency": "FCC",
-      "identifier": "FCC 26-74",
-      "date": "2026-07-02",
-      "deadline": null,
-      "summary": "",
-      "score": 80,
-      "domains": [
-        "air",
-        "spectrum",
-        "supply-chain"
-      ],
-      "matched_terms": [],
-      "watchlist": {
-        "key": "gn-26-74",
-        "label": "GN 26-74 (Unleashing American Drone Dominance)"
-      },
-      "extra": {
-        "proceeding": "26-74"
-      },
-      "first_seen": "2026-08-14T18:55:22.284701+00:00",
-      "is_new": true
-    },
-    {
       "id": "FCC ECFS:1070228697854",
       "source": "FCC ECFS",
       "category": "regulatory",
@@ -2285,6 +2261,35 @@
         "proceeding": "26-74"
       },
       "first_seen": "2026-07-02T18:19:03.065344+00:00",
+      "is_new": false
+    },
+    {
+      "id": "FCC ECFS:107022321324871",
+      "source": "FCC ECFS",
+      "category": "regulatory",
+      "type": "OTHER",
+      "title": "Wireless Telecommunications Bureau: OTHER (FCC 26-74)",
+      "url": "https://docs.fcc.gov/public/attachments/DA-26-654A1.pdf",
+      "agency": "FCC",
+      "identifier": "FCC 26-74",
+      "date": "2026-07-02",
+      "deadline": null,
+      "summary": "",
+      "score": 80,
+      "domains": [
+        "air",
+        "spectrum",
+        "supply-chain"
+      ],
+      "matched_terms": [],
+      "watchlist": {
+        "key": "gn-26-74",
+        "label": "GN 26-74 (Unleashing American Drone Dominance)"
+      },
+      "extra": {
+        "proceeding": "26-74"
+      },
+      "first_seen": "2026-08-14T18:55:22.284701+00:00",
       "is_new": false
     },
     {
@@ -3219,45 +3224,6 @@
       "is_new": false
     },
     {
-      "id": "Federal Register:2026-07381",
-      "source": "Federal Register",
-      "category": "regulatory",
-      "type": "Notice",
-      "title": "Unleashing American Drone Dominance",
-      "url": "https://www.federalregister.gov/documents/2026/04/16/2026-07381/unleashing-american-drone-dominance",
-      "agency": "Federal Communications Commission",
-      "identifier": "GN Docket No. 26-74",
-      "date": "2026-04-16",
-      "deadline": "2026-05-01",
-      "summary": "In this document, the Federal Communications Commission (FCC or Commission) seeks comment on additional means by which the Commission can continue to fulfill its public interest mandate and achieve American drone dominance. The Commission's Wireless Telecommunications Bureau and Office of Engineering and Technology seek input on an array of reforms the Commission might take to unleash American drone dominance, including: alleviating unnecessary regulatory burdens; ensuring that American drone manufacturers and users have sufficient spectrum for drone testing and operations; facilitating and en",
-      "score": 80,
-      "domains": [
-        "air",
-        "spectrum",
-        "supply-chain"
-      ],
-      "matched_terms": [
-        "drone",
-        "spectrum",
-        "gn docket no. 26-74"
-      ],
-      "watchlist": {
-        "key": "gn-26-74",
-        "label": "GN 26-74 (Unleashing American Drone Dominance)"
-      },
-      "extra": {
-        "comment_url": null,
-        "dockets": [
-          "GN Docket No. 26-74",
-          "WT Docket Nos. 22-323 and 24-629",
-          "DA 26-314",
-          "FR ID 340786"
-        ]
-      },
-      "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": false
-    },
-    {
       "id": "USAspending:W58RGZ26F0211",
       "source": "USAspending",
       "category": "procurement",
@@ -3655,6 +3621,36 @@
       "is_new": false
     },
     {
+      "id": "SAM.gov:c4d361af279341b68655f944aef8c06c",
+      "source": "SAM.gov",
+      "category": "procurement",
+      "type": "Combined Synopsis",
+      "title": "Fixed-Wing Vertical Take-Off and Landing (VTOL) small Unmanned Aircraft System (sUAS) WingtraRay \"or Equal",
+      "url": "https://sam.gov/workspace/contract/opp/c4d361af279341b68655f944aef8c06c/view",
+      "agency": "DEPT OF DEFENSE",
+      "identifier": "FA805126Q4007",
+      "date": "2026-08-14",
+      "deadline": "2026-08-27",
+      "summary": "Fixed-Wing Vertical Take-Off and Landing (VTOL) small Unmanned Aircraft System (sUAS) WingtraRay \"or Equal",
+      "score": 66,
+      "domains": [
+        "air"
+      ],
+      "matched_terms": [
+        "unmanned aircraft",
+        "unmanned aircraft system",
+        "suas",
+        "small unmanned"
+      ],
+      "watchlist": null,
+      "extra": {
+        "naics": "336411",
+        "setaside": "SBA"
+      },
+      "first_seen": "2026-08-15T01:17:04.615194+00:00",
+      "is_new": true
+    },
+    {
       "id": "SAM.gov:da82da9604cb462cb1f612cbaa42366c",
       "source": "SAM.gov",
       "category": "procurement",
@@ -3682,37 +3678,6 @@
         "setaside": "NONE"
       },
       "first_seen": "2026-08-05T14:12:17.192935+00:00",
-      "is_new": false
-    },
-    {
-      "id": "USAspending:FA875026FB005",
-      "source": "USAspending",
-      "category": "procurement",
-      "type": "Award",
-      "title": "BOOZ ALLEN HAMILTON INC: THE OBJECTIVE OF THIS EFFORT IS TO PROCURE, INTEGRATE, DEPLOY, AND SUSTAIN PROTOTYPE AND LOW-RATE INITIAL PRODUCTION (LR",
-      "url": "https://www.usaspending.gov/award/CONT_AWD_FA875026FB005_9700_FA875021D1100_9700",
-      "agency": "Department of Defense",
-      "identifier": "FA875026FB005",
-      "date": "2026-03-13",
-      "deadline": null,
-      "summary": "THE OBJECTIVE OF THIS EFFORT IS TO PROCURE, INTEGRATE, DEPLOY, AND SUSTAIN PROTOTYPE AND LOW-RATE INITIAL PRODUCTION (LRIP) UNMANNED AIRCRAFT SYSTEM (UAS) AND COUNTER UAS SOLUTIONS SUCH AS THE SMALL UNCREWED AIR DEFENSE SYSTEM (SUADS).",
-      "score": 66,
-      "domains": [
-        "air",
-        "defense"
-      ],
-      "matched_terms": [
-        "unmanned aircraft",
-        "unmanned aircraft system",
-        "uas",
-        "counter uas"
-      ],
-      "watchlist": null,
-      "extra": {
-        "amount": 18344627.0,
-        "award_type": "DELIVERY ORDER"
-      },
-      "first_seen": "2026-07-17T08:11:37.172872+00:00",
       "is_new": false
     },
     {
@@ -3835,7 +3800,7 @@
         "setaside": null
       },
       "first_seen": "2026-08-14T18:55:22.284701+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "SAM.gov:72e6eaf5b9954e2580f23ba019db49af",
@@ -3864,7 +3829,7 @@
         "setaside": null
       },
       "first_seen": "2026-08-14T18:55:22.284701+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "SAM.gov:970bb5e6f21e434693375a6c131763ff",
@@ -3923,6 +3888,35 @@
       },
       "first_seen": "2026-07-16T19:13:46.904593+00:00",
       "is_new": false
+    },
+    {
+      "id": "USAspending:FA480326F0017",
+      "source": "USAspending",
+      "category": "procurement",
+      "type": "Award",
+      "title": "CLOUDFIT SOFTWARE, LLC: INTEGRATION OF THE MANET CLOUD HIGH MOBILITY RADIO/ROUTING (MCHMR) SYSTEM WITH THE AIR FORCES CENTRAL (AFCENT) MISSION E",
+      "url": "https://www.usaspending.gov/award/CONT_AWD_FA480326F0017_9700_FA480326D0006_9700",
+      "agency": "Department of Defense",
+      "identifier": "FA480326F0017",
+      "date": "2026-04-17",
+      "deadline": null,
+      "summary": "INTEGRATION OF THE MANET CLOUD HIGH MOBILITY RADIO/ROUTING (MCHMR) SYSTEM WITH THE AIR FORCES CENTRAL (AFCENT) MISSION EXECUTION ENVIRONMENT. THE COMBINED SYSTEM FIELDS CONNECTED SMALL UNMANNED AIRCRAFT SYSTEMS (SUAS) ACROSS THE USCENTCOM AOR.",
+      "score": 50,
+      "domains": [
+        "air"
+      ],
+      "matched_terms": [
+        "unmanned aircraft",
+        "suas",
+        "small unmanned"
+      ],
+      "watchlist": null,
+      "extra": {
+        "amount": 4504500.0,
+        "award_type": "DELIVERY ORDER"
+      },
+      "first_seen": "2026-08-15T01:17:04.615194+00:00",
+      "is_new": true
     },
     {
       "id": "SAM.gov:1cd4532d9a0742bab72594b2fbf691b3",
@@ -4238,7 +4232,7 @@
         "setaside": "SBA"
       },
       "first_seen": "2026-08-14T18:55:22.284701+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "SAM.gov:cdcfb9cab1f84627ae724dbeea1b7225",
@@ -4261,7 +4255,7 @@
         "setaside": "NONE"
       },
       "first_seen": "2026-08-14T18:55:22.284701+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "SAM.gov:b2169aa07743466f8345307f5f6fa457",
@@ -4284,6 +4278,33 @@
         "setaside": "SBA"
       },
       "first_seen": "2026-08-14T18:55:22.284701+00:00",
+      "is_new": false
+    },
+    {
+      "id": "SAM.gov:915cae4d98d64367a15944104b6335fe",
+      "source": "SAM.gov",
+      "category": "procurement",
+      "type": "Solicitation (RFP)",
+      "title": "PKB DJI \"Red Fleet\" Drones",
+      "url": "https://sam.gov/workspace/contract/opp/915cae4d98d64367a15944104b6335fe/view",
+      "agency": "DEPT OF DEFENSE",
+      "identifier": "FA461326Q1042",
+      "date": "2026-08-14",
+      "deadline": "2026-08-24",
+      "summary": "PKB DJI \"Red Fleet\" Drones",
+      "score": 35,
+      "domains": [
+        "supply-chain"
+      ],
+      "matched_terms": [
+        "dji"
+      ],
+      "watchlist": null,
+      "extra": {
+        "naics": "336411",
+        "setaside": "SBA"
+      },
+      "first_seen": "2026-08-15T01:17:04.615194+00:00",
       "is_new": true
     },
     {
@@ -4311,7 +4332,7 @@
         "setaside": "SBA"
       },
       "first_seen": "2026-08-14T18:55:22.284701+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "SAM.gov:543a5139e3d345ed86f46666d831af8f",
@@ -4649,7 +4670,7 @@
       "url": "https://sam.gov/workspace/contract/opp/8ba382483ad8492188669c306ee94c3e/view",
       "agency": "DEPT OF DEFENSE",
       "identifier": "FA461026QDRON",
-      "date": "2026-08-07",
+      "date": "2026-08-06",
       "deadline": "2026-08-17",
       "summary": "30 SFS Dronebusters",
       "score": 35,
@@ -4745,33 +4766,6 @@
       "is_new": false
     },
     {
-      "id": "SAM.gov:0a6104650333458a8cb3537bced96356",
-      "source": "SAM.gov",
-      "category": "procurement",
-      "type": "RFI",
-      "title": "Request for Information – Drone Components",
-      "url": "https://sam.gov/workspace/contract/opp/0a6104650333458a8cb3537bced96356/view",
-      "agency": "DEPT OF DEFENSE",
-      "identifier": "FA9101-RFI-Drone-Components",
-      "date": "2026-08-04",
-      "deadline": "2026-08-06",
-      "summary": "Request for Information – Drone Components",
-      "score": 35,
-      "domains": [
-        "air"
-      ],
-      "matched_terms": [
-        "drone"
-      ],
-      "watchlist": null,
-      "extra": {
-        "naics": "336411",
-        "setaside": null
-      },
-      "first_seen": "2026-08-04T02:36:09.761685+00:00",
-      "is_new": false
-    },
-    {
       "id": "SAM.gov:70591dad2ee84d60b66a879d3194ae9c",
       "source": "SAM.gov",
       "category": "procurement",
@@ -4844,6 +4838,33 @@
       "watchlist": null,
       "extra": {
         "naics": null,
+        "setaside": null
+      },
+      "first_seen": "2026-08-04T02:36:09.761685+00:00",
+      "is_new": false
+    },
+    {
+      "id": "SAM.gov:0a6104650333458a8cb3537bced96356",
+      "source": "SAM.gov",
+      "category": "procurement",
+      "type": "RFI",
+      "title": "Request for Information – Drone Components",
+      "url": "https://sam.gov/workspace/contract/opp/0a6104650333458a8cb3537bced96356/view",
+      "agency": "DEPT OF DEFENSE",
+      "identifier": "FA9101-RFI-Drone-Components",
+      "date": "2026-08-03",
+      "deadline": "2026-08-06",
+      "summary": "Request for Information – Drone Components",
+      "score": 35,
+      "domains": [
+        "air"
+      ],
+      "matched_terms": [
+        "drone"
+      ],
+      "watchlist": null,
+      "extra": {
+        "naics": "336411",
         "setaside": null
       },
       "first_seen": "2026-08-04T02:36:09.761685+00:00",
@@ -5298,6 +5319,35 @@
       "is_new": false
     },
     {
+      "id": "USAspending:W56KGU25C0003",
+      "source": "USAspending",
+      "category": "procurement",
+      "type": "Award",
+      "title": "BLACK SAGE TECHNOLOGIES INC: BROAD AGENCY ANNOUNCEMENT TO DEVELOP A MULTI-INT SENSOR FUSION FRAMEWORK WITHIN AN EXISTING COUNTER UAS (CUAS) COMMAND A",
+      "url": "https://www.usaspending.gov/award/CONT_AWD_W56KGU25C0003_9700_-NONE-_-NONE-",
+      "agency": "Department of Defense",
+      "identifier": "W56KGU25C0003",
+      "date": "2025-02-18",
+      "deadline": null,
+      "summary": "BROAD AGENCY ANNOUNCEMENT TO DEVELOP A MULTI-INT SENSOR FUSION FRAMEWORK WITHIN AN EXISTING COUNTER UAS (CUAS) COMMAND AND CONTROL (C2) SOFTWARE SUITE.",
+      "score": 34,
+      "domains": [
+        "air",
+        "defense"
+      ],
+      "matched_terms": [
+        "uas",
+        "counter uas"
+      ],
+      "watchlist": null,
+      "extra": {
+        "amount": 4627205.0,
+        "award_type": "DEFINITIVE CONTRACT"
+      },
+      "first_seen": "2026-08-15T01:17:04.615194+00:00",
+      "is_new": true
+    },
+    {
       "id": "USAspending:W31P4Q24FE001",
       "source": "USAspending",
       "category": "procurement",
@@ -5498,27 +5548,27 @@
       "is_new": false
     },
     {
-      "id": "USAspending:W15P7T26F0090",
+      "id": "USAspending:FA862926PB002",
       "source": "USAspending",
       "category": "procurement",
       "type": "Award",
-      "title": "LEIDOS, INC.: PROCURE TACTICAL EDGE COMPUTER KIT AND MOUNT KIT",
-      "url": "https://www.usaspending.gov/award/CONT_AWD_W15P7T26F0090_9700_W15P7T23D0003_9700",
+      "title": "AEROVIRONMENT, INC: HURRICANE AND TRAINING ASSETS",
+      "url": "https://www.usaspending.gov/award/CONT_AWD_FA862926PB002_9700_-NONE-_-NONE-",
       "agency": "Department of Defense",
-      "identifier": "W15P7T26F0090",
-      "date": "2026-04-03",
+      "identifier": "FA862926PB002",
+      "date": "2026-03-30",
       "deadline": null,
-      "summary": "PROCURE TACTICAL EDGE COMPUTER KIT AND MOUNT KIT",
+      "summary": "HURRICANE AND TRAINING ASSETS",
       "score": 30,
       "domains": [],
       "matched_terms": [],
       "watchlist": null,
       "extra": {
-        "amount": 5327450.0,
-        "award_type": "DELIVERY ORDER"
+        "amount": 4922723.0,
+        "award_type": "PURCHASE ORDER"
       },
-      "first_seen": "2026-08-14T02:01:38.652289+00:00",
-      "is_new": false
+      "first_seen": "2026-08-15T01:17:04.615194+00:00",
+      "is_new": true
     },
     {
       "id": "USAspending:W15P7T26F0084",
@@ -5755,33 +5805,6 @@
       "is_new": false
     },
     {
-      "id": "USAspending:FA862926FB002",
-      "source": "USAspending",
-      "category": "procurement",
-      "type": "Award",
-      "title": "AEROVIRONMENT, INC: SUAS HURRICANE DRONES",
-      "url": "https://www.usaspending.gov/award/CONT_AWD_FA862926FB002_9700_FA862926DB001_9700",
-      "agency": "Department of Defense",
-      "identifier": "FA862926FB002",
-      "date": "2025-10-03",
-      "deadline": null,
-      "summary": "SUAS HURRICANE DRONES",
-      "score": 30,
-      "domains": [
-        "air"
-      ],
-      "matched_terms": [
-        "suas"
-      ],
-      "watchlist": null,
-      "extra": {
-        "amount": 49257580.67,
-        "award_type": "DELIVERY ORDER"
-      },
-      "first_seen": "2026-07-17T08:11:37.172872+00:00",
-      "is_new": false
-    },
-    {
       "id": "USAspending:N0001925F0971",
       "source": "USAspending",
       "category": "procurement",
@@ -5872,29 +5895,6 @@
       "watchlist": null,
       "extra": {
         "amount": 19592152.9,
-        "award_type": "DELIVERY ORDER"
-      },
-      "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": false
-    },
-    {
-      "id": "USAspending:FA862024F4040",
-      "source": "USAspending",
-      "category": "procurement",
-      "type": "Award",
-      "title": "AEVEX AEROSPACE, LLC: BIG SAFARI",
-      "url": "https://www.usaspending.gov/award/CONT_AWD_FA862024F4040_9700_FA862019G4023_9700",
-      "agency": "Department of Defense",
-      "identifier": "FA862024F4040",
-      "date": "2024-09-30",
-      "deadline": null,
-      "summary": "BIG SAFARI",
-      "score": 30,
-      "domains": [],
-      "matched_terms": [],
-      "watchlist": null,
-      "extra": {
-        "amount": 11882004.0,
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
@@ -6014,6 +6014,33 @@
       },
       "first_seen": "2026-08-01T08:23:41.032699+00:00",
       "is_new": false
+    },
+    {
+      "id": "USAspending:FA462523C0025",
+      "source": "USAspending",
+      "category": "procurement",
+      "type": "Award",
+      "title": "ASYLON INC: SMALL BUSINESS INNOVATION AND RESEARCH ADVANCING DRONE TECHNOLOGY FOR STRATFI SBIR PHASE II",
+      "url": "https://www.usaspending.gov/award/CONT_AWD_FA462523C0025_9700_-NONE-_-NONE-",
+      "agency": "Department of Defense",
+      "identifier": "FA462523C0025",
+      "date": "2023-09-01",
+      "deadline": null,
+      "summary": "SMALL BUSINESS INNOVATION AND RESEARCH ADVANCING DRONE TECHNOLOGY FOR STRATFI SBIR PHASE II",
+      "score": 30,
+      "domains": [
+        "air"
+      ],
+      "matched_terms": [
+        "drone"
+      ],
+      "watchlist": null,
+      "extra": {
+        "amount": 4599818.86,
+        "award_type": "DEFINITIVE CONTRACT"
+      },
+      "first_seen": "2026-08-15T01:17:04.615194+00:00",
+      "is_new": true
     },
     {
       "id": "USAspending:693KA823F00244",
@@ -6139,29 +6166,6 @@
       "is_new": false
     },
     {
-      "id": "USAspending:W58RGZ22C0021",
-      "source": "USAspending",
-      "category": "procurement",
-      "type": "Award",
-      "title": "AEROVIRONMENT, INC.: PROCUREMENT OF PUMA LE",
-      "url": "https://www.usaspending.gov/award/CONT_AWD_W58RGZ22C0021_9700_-NONE-_-NONE-",
-      "agency": "Department of Defense",
-      "identifier": "W58RGZ22C0021",
-      "date": "2022-01-21",
-      "deadline": null,
-      "summary": "PROCUREMENT OF PUMA LE",
-      "score": 30,
-      "domains": [],
-      "matched_terms": [],
-      "watchlist": null,
-      "extra": {
-        "amount": 6172242.4,
-        "award_type": "DEFINITIVE CONTRACT"
-      },
-      "first_seen": "2026-07-24T02:45:04.692230+00:00",
-      "is_new": false
-    },
-    {
       "id": "USAspending:W9127822C0004",
       "source": "USAspending",
       "category": "procurement",
@@ -6268,6 +6272,29 @@
       },
       "first_seen": "2026-07-23T02:49:34.258910+00:00",
       "is_new": false
+    },
+    {
+      "id": "USAspending:FA868921F2004",
+      "source": "USAspending",
+      "category": "procurement",
+      "type": "Award",
+      "title": "GENERAL ATOMICS AERONAUTICAL SYSTEMS, INC.: MQ-9 REAPER FY20 MISSION READINESS CAPABILITY",
+      "url": "https://www.usaspending.gov/award/CONT_AWD_FA868921F2004_9700_FA862017D2000_9700",
+      "agency": "Department of Defense",
+      "identifier": "FA868921F2004",
+      "date": "2021-07-23",
+      "deadline": null,
+      "summary": "MQ-9 REAPER FY20 MISSION READINESS CAPABILITY",
+      "score": 30,
+      "domains": [],
+      "matched_terms": [],
+      "watchlist": null,
+      "extra": {
+        "amount": 4472830.42,
+        "award_type": "DELIVERY ORDER"
+      },
+      "first_seen": "2026-08-15T01:17:04.615194+00:00",
+      "is_new": true
     },
     {
       "id": "USAspending:FA868921F2802",
@@ -7606,33 +7633,6 @@
       "is_new": false
     },
     {
-      "id": "SAM.gov:48333d589c9d4c5f8e6f78670d3b7ab7",
-      "source": "SAM.gov",
-      "category": "procurement",
-      "type": "Solicitation (RFP)",
-      "title": "USMS FY26 D07 GROUND ROBOT",
-      "url": "https://sam.gov/workspace/contract/opp/48333d589c9d4c5f8e6f78670d3b7ab7/view",
-      "agency": "JUSTICE, DEPARTMENT OF",
-      "identifier": "15M10226QA4700241",
-      "date": "2026-08-04",
-      "deadline": "2026-08-11",
-      "summary": "USMS FY26 D07 GROUND ROBOT",
-      "score": 18,
-      "domains": [
-        "ground"
-      ],
-      "matched_terms": [
-        "ground robot"
-      ],
-      "watchlist": null,
-      "extra": {
-        "naics": "334511",
-        "setaside": "SBA"
-      },
-      "first_seen": "2026-08-04T19:39:24.965524+00:00",
-      "is_new": false
-    },
-    {
       "id": "SAM.gov:1dd228678c8e4520881937e1a251887a",
       "source": "SAM.gov",
       "category": "procurement",
@@ -7664,8 +7664,8 @@
     {
       "name": "Federal Register",
       "status": "ok",
-      "detail": "21 kept",
-      "count": 21
+      "detail": "20 kept",
+      "count": 20
     },
     {
       "name": "Regulations.gov",
@@ -7688,8 +7688,8 @@
     {
       "name": "SAM.gov",
       "status": "ok",
-      "detail": "66 kept",
-      "count": 66
+      "detail": "67 kept",
+      "count": 67
     },
     {
       "name": "CourtListener",
@@ -7706,27 +7706,27 @@
   ],
   "stats": {
     "total": 275,
-    "new": 22,
+    "new": 11,
     "by_category": {
-      "regulatory": 136,
-      "procurement": 126,
+      "regulatory": 135,
+      "procurement": 127,
       "litigation": 9,
       "legislative": 4
     },
     "by_domain": {
-      "air": 206,
+      "air": 207,
       "supply-chain": 113,
-      "spectrum": 48,
+      "spectrum": 47,
       "ground": 24,
       "defense": 15,
       "maritime": 2
     },
     "by_source": {
       "FCC ECFS": 92,
-      "SAM.gov": 66,
+      "SAM.gov": 67,
       "USAspending": 60,
       "Regulations.gov": 24,
-      "Federal Register": 20,
+      "Federal Register": 19,
       "CourtListener": 9,
       "Congress.gov": 4
     }
@@ -7768,7 +7768,7 @@
         "supply-chain"
       ],
       "deadline": null,
-      "count": 47,
+      "count": 46,
       "latest": "2026-08-14"
     },
     {
@@ -7914,26 +7914,8 @@
   ],
   "deadlines": [
     {
-      "deadline": "2026-08-14",
-      "days": 0,
-      "title": "FPV Drone System with Lights and Picatinny rail to mount accessories",
-      "identifier": "FA487726QA191",
-      "category": "procurement",
-      "source": "SAM.gov",
-      "url": "https://sam.gov/workspace/contract/opp/2b5fb5b033914f0b804e9ea2eea29897/view"
-    },
-    {
-      "deadline": "2026-08-14",
-      "days": 0,
-      "title": "DroneShield Brand Name Initial Response Kit (IRK)",
-      "identifier": "FA3099-26-Q-0019",
-      "category": "procurement",
-      "source": "SAM.gov",
-      "url": "https://sam.gov/workspace/contract/opp/5bf783b1388846eb961d8f936815aedd/view"
-    },
-    {
       "deadline": "2026-08-15",
-      "days": 1,
+      "days": 0,
       "title": "NOTICE OF INTENT TO AWARD SOLE SOURCE GUARDIAN RF PASSIVE UAS DETECTION SYSTEM",
       "identifier": "M6700126Q0134",
       "category": "procurement",
@@ -7942,7 +7924,7 @@
     },
     {
       "deadline": "2026-08-15",
-      "days": 1,
+      "days": 0,
       "title": "Sole Source - Gray Whale Survey, Photo ID & UAS Monitoring",
       "identifier": "143061-26-0088",
       "category": "procurement",
@@ -7951,7 +7933,7 @@
     },
     {
       "deadline": "2026-08-17",
-      "days": 3,
+      "days": 2,
       "title": "Acoustic Unmanned Aerial Vehicle Detection, Identification, and Observation System (AUDIOS) project",
       "identifier": "N6523626QE344",
       "category": "procurement",
@@ -7960,7 +7942,7 @@
     },
     {
       "deadline": "2026-08-17",
-      "days": 3,
+      "days": 2,
       "title": "30 SFS Dronebusters",
       "identifier": "FA461026QDRON",
       "category": "procurement",
@@ -7969,7 +7951,7 @@
     },
     {
       "deadline": "2026-08-17",
-      "days": 3,
+      "days": 2,
       "title": "RFI-Drone CLT",
       "identifier": "H9240826RFIDRONECLT",
       "category": "procurement",
@@ -7978,7 +7960,7 @@
     },
     {
       "deadline": "2026-08-18",
-      "days": 4,
+      "days": 3,
       "title": "Request for Information - Counter Drone Detect and Defeat System",
       "identifier": "FA446026Q0042",
       "category": "procurement",
@@ -7987,7 +7969,7 @@
     },
     {
       "deadline": "2026-08-18",
-      "days": 4,
+      "days": 3,
       "title": "Notice of Intent to Sole Source and Sources Sought: Counter-small Unmanned Aerial Systems (C-sUAS) for the Amphibious Combat Vehicle (ACV)",
       "identifier": "M67854-26-I-0225",
       "category": "procurement",
@@ -7996,7 +7978,7 @@
     },
     {
       "deadline": "2026-08-18",
-      "days": 4,
+      "days": 3,
       "title": "Antioxidant Therapy for Smith-Lemli-Opitz Syndrone",
       "identifier": "NICHD-08610",
       "category": "procurement",
@@ -8005,7 +7987,7 @@
     },
     {
       "deadline": "2026-08-19",
-      "days": 5,
+      "days": 4,
       "title": "RFI for Counter Small Unmanned Aircraft Systems (C-sUAS) Mobile Solutions",
       "identifier": "W912CH26QCsUAS",
       "category": "procurement",
@@ -8014,7 +7996,7 @@
     },
     {
       "deadline": "2026-08-19",
-      "days": 5,
+      "days": 4,
       "title": "ATEC HQ 001, Autonomous Swarm Dynamics & Counter-Drone (C-UAS) Technologies",
       "identifier": "ATEC_RIW26_001",
       "category": "procurement",
@@ -8023,7 +8005,7 @@
     },
     {
       "deadline": "2026-08-19",
-      "days": 5,
+      "days": 4,
       "title": "Request for Information (RFI): Special Mission Vessel (SMV) – Helicopter, Unmanned Aerial System (UAS), Unmanned Surface Vehicle (USV) & Small Craft Support Vessel",
       "identifier": "N0002426RXXXX",
       "category": "procurement",
@@ -8032,7 +8014,7 @@
     },
     {
       "deadline": "2026-08-19",
-      "days": 5,
+      "days": 4,
       "title": "CsUAS DRONE DETECTION",
       "identifier": "FA303026Q0036",
       "category": "procurement",
@@ -8041,7 +8023,7 @@
     },
     {
       "deadline": "2026-08-20",
-      "days": 6,
+      "days": 5,
       "title": "Next Generation Counter-Small UAS Missile (NGCM)",
       "identifier": "PANRSA-26-P-040123",
       "category": "procurement",
@@ -8050,7 +8032,7 @@
     },
     {
       "deadline": "2026-08-21",
-      "days": 7,
+      "days": 6,
       "title": "Request for White Papers - Organic Counter Small Unmanned Aircraft System Dismounted Effectors",
       "identifier": "M67854-26-R-0129",
       "category": "procurement",
@@ -8059,7 +8041,7 @@
     },
     {
       "deadline": "2026-08-21",
-      "days": 7,
+      "days": 6,
       "title": "Request for White Papers - Organic Counter Small Unmanned Aircraft System (O-CsUAS) Dismounted Sensors",
       "identifier": "M67854-26-R-0131",
       "category": "procurement",
@@ -8068,7 +8050,7 @@
     },
     {
       "deadline": "2026-08-21",
-      "days": 7,
+      "days": 6,
       "title": "S201--Building Drone Cleaning",
       "identifier": "36C26226Q1150",
       "category": "procurement",
@@ -8077,7 +8059,7 @@
     },
     {
       "deadline": "2026-08-21",
-      "days": 7,
+      "days": 6,
       "title": "Drone",
       "identifier": "W911S226U4093",
       "category": "procurement",
@@ -8086,7 +8068,7 @@
     },
     {
       "deadline": "2026-08-21",
-      "days": 7,
+      "days": 6,
       "title": "Agricultural Drone",
       "identifier": "1232SA26Q1215",
       "category": "procurement",
@@ -8095,7 +8077,7 @@
     },
     {
       "deadline": "2026-08-21",
-      "days": 7,
+      "days": 6,
       "title": "Request For Quote - Survey Drone Boat – NRCS, Missouri 12FPC126Q0046",
       "identifier": "12FPC126Q0046",
       "category": "procurement",
@@ -8104,7 +8086,16 @@
     },
     {
       "deadline": "2026-08-24",
-      "days": 10,
+      "days": 9,
+      "title": "PKB DJI \"Red Fleet\" Drones",
+      "identifier": "FA461326Q1042",
+      "category": "procurement",
+      "source": "SAM.gov",
+      "url": "https://sam.gov/workspace/contract/opp/915cae4d98d64367a15944104b6335fe/view"
+    },
+    {
+      "deadline": "2026-08-24",
+      "days": 9,
       "title": "INL PAKISTAN: UNMANNED AIRCRAFT SYSTEMS (UAS)",
       "identifier": "191NLE26Q0118",
       "category": "procurement",
@@ -8113,7 +8104,7 @@
     },
     {
       "deadline": "2026-08-25",
-      "days": 11,
+      "days": 10,
       "title": "UAS LIDAR YELLOWSCAN MAPPER ULTRA",
       "identifier": "140G0226Q0096",
       "category": "procurement",
@@ -8122,7 +8113,7 @@
     },
     {
       "deadline": "2026-08-26",
-      "days": 12,
+      "days": 11,
       "title": "EchoOne small Unmanned Aircraft System (sUAS) Light Detection and Ranging (LiDAR) System “or equal”",
       "identifier": "FA805126Q4006",
       "category": "procurement",
@@ -8131,7 +8122,7 @@
     },
     {
       "deadline": "2026-08-26",
-      "days": 12,
+      "days": 11,
       "title": "Multirotor small Unmanned Aircraft Systems (sUASs), Skydio “Or Equal”",
       "identifier": "FA805126Q4008",
       "category": "procurement",
@@ -8140,7 +8131,7 @@
     },
     {
       "deadline": "2026-08-26",
-      "days": 12,
+      "days": 11,
       "title": "5BDE Drones Equipment",
       "identifier": "W911S226U4050",
       "category": "procurement",
@@ -8149,7 +8140,7 @@
     },
     {
       "deadline": "2026-08-26",
-      "days": 12,
+      "days": 11,
       "title": "112th Signal Drones",
       "identifier": "H9242126QE042",
       "category": "procurement",
@@ -8158,7 +8149,7 @@
     },
     {
       "deadline": "2026-08-26",
-      "days": 12,
+      "days": 11,
       "title": "50 SFS DRONEBUSTERS",
       "identifier": "50SFSDBPSN",
       "category": "procurement",
@@ -8166,8 +8157,17 @@
       "url": "https://sam.gov/workspace/contract/opp/6fbcadb8ec084a8fa3cbf4029a0b0b77/view"
     },
     {
+      "deadline": "2026-08-27",
+      "days": 12,
+      "title": "Fixed-Wing Vertical Take-Off and Landing (VTOL) small Unmanned Aircraft System (sUAS) WingtraRay \"or Equal",
+      "identifier": "FA805126Q4007",
+      "category": "procurement",
+      "source": "SAM.gov",
+      "url": "https://sam.gov/workspace/contract/opp/c4d361af279341b68655f944aef8c06c/view"
+    },
+    {
       "deadline": "2026-08-28",
-      "days": 14,
+      "days": 13,
       "title": "Design-Build to Budget (DB2B) Tactical Unmanned Aerial Vehicle (TUAV) Hangar",
       "identifier": "W912PL26RA039",
       "category": "procurement",
@@ -8176,7 +8176,7 @@
     },
     {
       "deadline": "2026-08-28",
-      "days": 14,
+      "days": 13,
       "title": "Expeditionary Unmanned Aerial System (eUAS) Manufacturing and Employment Capability Request for Information",
       "identifier": "RSO-AMPOECT-04",
       "category": "procurement",
@@ -8185,7 +8185,7 @@
     },
     {
       "deadline": "2026-08-28",
-      "days": 14,
+      "days": 13,
       "title": "Battalion Reconnaissance UAS",
       "identifier": "W58RGZ-26-S-C001-006",
       "category": "procurement",
@@ -8194,7 +8194,7 @@
     },
     {
       "deadline": "2026-08-28",
-      "days": 14,
+      "days": 13,
       "title": "ET 26-22 / DA-26-592 (DJI Security Assessment — comment by Aug 28, 2026)",
       "identifier": "FCC",
       "category": "regulatory",
@@ -8203,7 +8203,7 @@
     },
     {
       "deadline": "2026-08-31",
-      "days": 17,
+      "days": 16,
       "title": "50mm weapon based Air Defense Counter-Unmanned Aircraft System (C-UAS)",
       "identifier": "W15QKN-26-X-1C9P",
       "category": "procurement",
@@ -8212,7 +8212,7 @@
     },
     {
       "deadline": "2026-08-31",
-      "days": 17,
+      "days": 16,
       "title": "INDUSTRY DAY FOR GROUP 1 AND GROUP 2 UNMANNED AIRCRAFT SYSTEM (UAS) TRAINING, MISSION PLANNING, MISSION REHEARSAL, SIMULATION, AND QUALIFICATION MANAGEMENT SYSTEMS",
       "identifier": "N00019-26-PMA-263-0999",
       "category": "procurement",
@@ -8221,7 +8221,7 @@
     },
     {
       "deadline": "2026-08-31",
-      "days": 17,
+      "days": 16,
       "title": "Intent to Acquire Sole Source - Axon by Dedrone RF-560 fixed and mobile sensors",
       "identifier": "cdcfb9cab1f84627ae724dbeea1b7225",
       "category": "procurement",
@@ -8230,7 +8230,7 @@
     },
     {
       "deadline": "2026-08-31",
-      "days": 17,
+      "days": 16,
       "title": "AV Framework Updates and Request for Comments on Interim Guidance",
       "identifier": "Docket No. NHTSA-2026-1552",
       "category": "regulatory",
@@ -8239,7 +8239,7 @@
     },
     {
       "deadline": "2026-08-31",
-      "days": 17,
+      "days": 16,
       "title": "Counter-sUAS Radar System Lease",
       "identifier": "FA480326Q0102",
       "category": "procurement",
@@ -8248,7 +8248,7 @@
     },
     {
       "deadline": "2026-09-02",
-      "days": 19,
+      "days": 18,
       "title": "Seeking Comment on Prohibiting the Importation and Marketing of Certain Foreign-Produced Military-Grade Uncrewed Aircraft Systems (UAS) and UAS Critical Components for Non-U.S. Government, Including Those With Swarming Capabilities",
       "identifier": "PSHSB & OET: PS Docket No. 26-189",
       "category": "regulatory",
@@ -8257,7 +8257,7 @@
     },
     {
       "deadline": "2026-09-05",
-      "days": 22,
+      "days": 21,
       "title": "Counter-UAS Authority for State, Local, Tribal, and Territorial Law Enforcement and Correctional Agencies",
       "identifier": "FBI-2026-0001",
       "category": "regulatory",
@@ -8266,7 +8266,7 @@
     },
     {
       "deadline": "2026-09-11",
-      "days": 28,
+      "days": 27,
       "title": "5.56mm Counter-small Unmanned Aircraft System (C-sUAS) Ammunition",
       "identifier": "M67854-26-I-5206",
       "category": "procurement",
