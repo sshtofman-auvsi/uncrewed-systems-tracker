@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-16T01:21:11.886412+00:00",
-  "generated_human": "2026-08-16 01:21 UTC",
+  "generated_at": "2026-08-16T06:41:51.656344+00:00",
+  "generated_human": "2026-08-16 06:41 UTC",
   "demo": false,
   "items": [
     {
@@ -1947,7 +1947,7 @@
         "docket_total_comments": 1669
       },
       "first_seen": "2026-08-16T01:21:11.886412+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "SAM.gov:2e455a535bb14ed8aa1ad85075444448",
@@ -4134,7 +4134,7 @@
         "setaside": null
       },
       "first_seen": "2026-08-16T01:21:11.886412+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "SAM.gov:dbfd57b914894755b932e366049d063e",
@@ -5988,7 +5988,7 @@
       ],
       "watchlist": null,
       "extra": {
-        "amount": 8849701.33,
+        "amount": 8908576.33,
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
@@ -6219,7 +6219,7 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-08-16T01:21:11.886412+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:FA868921F2802",
@@ -7604,7 +7604,7 @@
   ],
   "stats": {
     "total": 272,
-    "new": 3,
+    "new": 0,
     "by_category": {
       "regulatory": 134,
       "procurement": 125,
