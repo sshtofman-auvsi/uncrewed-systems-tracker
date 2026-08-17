@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-17T06:57:00.946314+00:00",
-  "generated_human": "2026-08-17 06:57 UTC",
+  "generated_at": "2026-08-17T12:45:45.985190+00:00",
+  "generated_human": "2026-08-17 12:45 UTC",
   "demo": false,
   "items": [
     {
@@ -6595,30 +6595,6 @@
       "is_new": false
     },
     {
-      "id": "Regulations.gov:FAA-2026-9969-0001",
-      "source": "Regulations.gov",
-      "category": "regulatory",
-      "type": "Document",
-      "title": "Drone and Robotic Solutions, LLC - Petition",
-      "url": "https://www.regulations.gov/document/FAA-2026-9969-0001",
-      "agency": "FAA",
-      "identifier": "FAA-2026-9969",
-      "date": "2026-08-14",
-      "deadline": null,
-      "summary": "Drone and Robotic Solutions, LLC - Petition",
-      "score": 20,
-      "domains": [
-        "air"
-      ],
-      "matched_terms": [
-        "drone"
-      ],
-      "watchlist": null,
-      "extra": {},
-      "first_seen": "2026-08-14T13:07:51.036627+00:00",
-      "is_new": false
-    },
-    {
       "id": "Regulations.gov:FAA-2026-9971-0001",
       "source": "Regulations.gov",
       "category": "regulatory",
@@ -6643,14 +6619,14 @@
       "is_new": false
     },
     {
-      "id": "Regulations.gov:FAA-2026-9970-0001",
+      "id": "Regulations.gov:FAA-2026-9969-0001",
       "source": "Regulations.gov",
       "category": "regulatory",
       "type": "Document",
       "title": "Drone and Robotic Solutions, LLC - Petition",
-      "url": "https://www.regulations.gov/document/FAA-2026-9970-0001",
+      "url": "https://www.regulations.gov/document/FAA-2026-9969-0001",
       "agency": "FAA",
-      "identifier": "FAA-2026-9970",
+      "identifier": "FAA-2026-9969",
       "date": "2026-08-14",
       "deadline": null,
       "summary": "Drone and Robotic Solutions, LLC - Petition",
@@ -6678,6 +6654,30 @@
       "date": "2026-08-14",
       "deadline": null,
       "summary": "Southern Drone OPS LLC - Petition",
+      "score": 20,
+      "domains": [
+        "air"
+      ],
+      "matched_terms": [
+        "drone"
+      ],
+      "watchlist": null,
+      "extra": {},
+      "first_seen": "2026-08-14T13:07:51.036627+00:00",
+      "is_new": false
+    },
+    {
+      "id": "Regulations.gov:FAA-2026-9970-0001",
+      "source": "Regulations.gov",
+      "category": "regulatory",
+      "type": "Document",
+      "title": "Drone and Robotic Solutions, LLC - Petition",
+      "url": "https://www.regulations.gov/document/FAA-2026-9970-0001",
+      "agency": "FAA",
+      "identifier": "FAA-2026-9970",
+      "date": "2026-08-14",
+      "deadline": null,
+      "summary": "Drone and Robotic Solutions, LLC - Petition",
       "score": 20,
       "domains": [
         "air"
