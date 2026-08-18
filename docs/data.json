@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-18T06:43:25.448189+00:00",
-  "generated_human": "2026-08-18 06:43 UTC",
+  "generated_at": "2026-08-18T12:47:50.728437+00:00",
+  "generated_human": "2026-08-18 12:47 UTC",
   "demo": false,
   "items": [
     {
@@ -2051,7 +2051,7 @@
         "docket_total_comments": 1669
       },
       "first_seen": "2026-08-18T06:43:25.448189+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "SAM.gov:2e455a535bb14ed8aa1ad85075444448",
@@ -2358,7 +2358,7 @@
         "proceeding": "26-74"
       },
       "first_seen": "2026-08-18T06:43:25.448189+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "Federal Register:2026-13126",
@@ -3753,6 +3753,35 @@
       "is_new": false
     },
     {
+      "id": "SAM.gov:a124663729874dc4b40bb52ec5b3074c",
+      "source": "SAM.gov",
+      "category": "procurement",
+      "type": "Presolicitation",
+      "title": "DRAFT RFP/FOPR Force Protection Counter-small Unmanned Aircraft Systems (C-sUAS) Sustainment, Engineering, & Integration Services (SEIS)",
+      "url": "https://sam.gov/workspace/contract/opp/a124663729874dc4b40bb52ec5b3074c/view",
+      "agency": "DEPT OF DEFENSE",
+      "identifier": "SEIS21226",
+      "date": "2026-08-18",
+      "deadline": "2026-03-16",
+      "summary": "DRAFT RFP/FOPR Force Protection Counter-small Unmanned Aircraft Systems (C-sUAS) Sustainment, Engineering, & Integration Services (SEIS)",
+      "score": 50,
+      "domains": [
+        "air"
+      ],
+      "matched_terms": [
+        "unmanned aircraft",
+        "suas",
+        "small unmanned"
+      ],
+      "watchlist": null,
+      "extra": {
+        "naics": "541330",
+        "setaside": "SBA"
+      },
+      "first_seen": "2026-08-18T12:47:50.728437+00:00",
+      "is_new": true
+    },
+    {
       "id": "SAM.gov:970bb5e6f21e434693375a6c131763ff",
       "source": "SAM.gov",
       "category": "procurement",
@@ -3899,6 +3928,36 @@
       "is_new": false
     },
     {
+      "id": "SAM.gov:b44b9134f8d941689a341329a87ccf33",
+      "source": "SAM.gov",
+      "category": "procurement",
+      "type": "RFI",
+      "title": "Request for Information (RFI): Special Mission Vessel (SMV) – Helicopter, Unmanned Aerial System (UAS), Unmanned Surface Vehicle (USV) & Small Craft Support Vessel",
+      "url": "https://sam.gov/workspace/contract/opp/b44b9134f8d941689a341329a87ccf33/view",
+      "agency": "DEPT OF DEFENSE",
+      "identifier": "N0002426RXXXX",
+      "date": "2026-08-18",
+      "deadline": "2026-08-26",
+      "summary": "Request for Information (RFI): Special Mission Vessel (SMV) – Helicopter, Unmanned Aerial System (UAS), Unmanned Surface Vehicle (USV) & Small Craft Support Vessel",
+      "score": 45,
+      "domains": [
+        "air",
+        "maritime"
+      ],
+      "matched_terms": [
+        "uas",
+        "unmanned surface vehicle",
+        "usv"
+      ],
+      "watchlist": null,
+      "extra": {
+        "naics": "336612",
+        "setaside": "NONE"
+      },
+      "first_seen": "2026-08-18T12:47:50.728437+00:00",
+      "is_new": true
+    },
+    {
       "id": "SAM.gov:36d4d5bb3e4f48499d1aea7a22432e4c",
       "source": "SAM.gov",
       "category": "procurement",
@@ -3929,34 +3988,33 @@
       "is_new": false
     },
     {
-      "id": "SAM.gov:6552b25bf0e648f39b44228275998eef",
+      "id": "SAM.gov:f4ebb5016b4a44f08be54fe21f0f42fe",
       "source": "SAM.gov",
       "category": "procurement",
-      "type": "RFI",
-      "title": "Request for Information (RFI): Special Mission Vessel (SMV) – Helicopter, Unmanned Aerial System (UAS), Unmanned Surface Vehicle (USV) & Small Craft Support Vessel",
-      "url": "https://sam.gov/workspace/contract/opp/6552b25bf0e648f39b44228275998eef/view",
-      "agency": "DEPT OF DEFENSE",
-      "identifier": "N0002426RXXXX",
-      "date": "2026-07-29",
-      "deadline": "2026-08-19",
-      "summary": "Request for Information (RFI): Special Mission Vessel (SMV) – Helicopter, Unmanned Aerial System (UAS), Unmanned Surface Vehicle (USV) & Small Craft Support Vessel",
-      "score": 45,
+      "type": "Combined Synopsis",
+      "title": "Acquisition of Unmanned Aircraft System (UAS) for U.S. Embassy Quito, Ecuador",
+      "url": "https://sam.gov/workspace/contract/opp/f4ebb5016b4a44f08be54fe21f0f42fe/view",
+      "agency": "STATE, DEPARTMENT OF",
+      "identifier": "19GE5026Q0131",
+      "date": "2026-08-18",
+      "deadline": "2026-09-07",
+      "summary": "Acquisition of Unmanned Aircraft System (UAS) for U.S. Embassy Quito, Ecuador",
+      "score": 44,
       "domains": [
-        "air",
-        "maritime"
+        "air"
       ],
       "matched_terms": [
-        "uas",
-        "unmanned surface vehicle",
-        "usv"
+        "unmanned aircraft",
+        "unmanned aircraft system",
+        "uas"
       ],
       "watchlist": null,
       "extra": {
-        "naics": "336612",
-        "setaside": "NONE"
+        "naics": "336411",
+        "setaside": null
       },
-      "first_seen": "2026-07-29T19:18:31.005999+00:00",
-      "is_new": false
+      "first_seen": "2026-08-18T12:47:50.728437+00:00",
+      "is_new": true
     },
     {
       "id": "USAspending:W911QX24C0004",
@@ -6341,7 +6399,7 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-08-18T06:43:25.448189+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:FA862018C2002",
@@ -6605,30 +6663,6 @@
         ]
       },
       "first_seen": "2026-08-18T06:43:25.448189+00:00",
-      "is_new": true
-    },
-    {
-      "id": "Regulations.gov:FAA-2023-0465-0003",
-      "source": "Regulations.gov",
-      "category": "regulatory",
-      "type": "Document",
-      "title": "CAL Drone Applications LLC - Petition",
-      "url": "https://www.regulations.gov/document/FAA-2023-0465-0003",
-      "agency": "FAA",
-      "identifier": "FAA-2023-0465",
-      "date": "2026-08-17",
-      "deadline": null,
-      "summary": "CAL Drone Applications LLC - Petition",
-      "score": 20,
-      "domains": [
-        "air"
-      ],
-      "matched_terms": [
-        "drone"
-      ],
-      "watchlist": null,
-      "extra": {},
-      "first_seen": "2026-08-17T18:40:13.579342+00:00",
       "is_new": false
     },
     {
@@ -6643,6 +6677,30 @@
       "date": "2026-08-17",
       "deadline": null,
       "summary": "Kansas Agricultural Drone Services, LLC - Exemption/Rulemaking",
+      "score": 20,
+      "domains": [
+        "air"
+      ],
+      "matched_terms": [
+        "drone"
+      ],
+      "watchlist": null,
+      "extra": {},
+      "first_seen": "2026-08-17T18:40:13.579342+00:00",
+      "is_new": false
+    },
+    {
+      "id": "Regulations.gov:FAA-2023-0465-0003",
+      "source": "Regulations.gov",
+      "category": "regulatory",
+      "type": "Document",
+      "title": "CAL Drone Applications LLC - Petition",
+      "url": "https://www.regulations.gov/document/FAA-2023-0465-0003",
+      "agency": "FAA",
+      "identifier": "FAA-2023-0465",
+      "date": "2026-08-17",
+      "deadline": null,
+      "summary": "CAL Drone Applications LLC - Petition",
       "score": 20,
       "domains": [
         "air"
@@ -7434,8 +7492,8 @@
     {
       "name": "SAM.gov",
       "status": "ok",
-      "detail": "58 kept",
-      "count": 58
+      "detail": "60 kept",
+      "count": 60
     },
     {
       "name": "CourtListener",
@@ -7451,16 +7509,16 @@
     }
   ],
   "stats": {
-    "total": 266,
-    "new": 4,
+    "total": 268,
+    "new": 3,
     "by_category": {
       "regulatory": 135,
-      "procurement": 118,
+      "procurement": 120,
       "litigation": 9,
       "legislative": 4
     },
     "by_domain": {
-      "air": 203,
+      "air": 205,
       "supply-chain": 111,
       "spectrum": 46,
       "ground": 16,
@@ -7469,8 +7527,8 @@
     },
     "by_source": {
       "FCC ECFS": 91,
+      "SAM.gov": 60,
       "USAspending": 60,
-      "SAM.gov": 58,
       "Regulations.gov": 25,
       "Federal Register": 19,
       "CourtListener": 9,
@@ -7707,15 +7765,6 @@
     {
       "deadline": "2026-08-19",
       "days": 1,
-      "title": "Request for Information (RFI): Special Mission Vessel (SMV) – Helicopter, Unmanned Aerial System (UAS), Unmanned Surface Vehicle (USV) & Small Craft Support Vessel",
-      "identifier": "N0002426RXXXX",
-      "category": "procurement",
-      "source": "SAM.gov",
-      "url": "https://sam.gov/workspace/contract/opp/6552b25bf0e648f39b44228275998eef/view"
-    },
-    {
-      "deadline": "2026-08-19",
-      "days": 1,
       "title": "CsUAS DRONE DETECTION",
       "identifier": "FA303026Q0036",
       "category": "procurement",
@@ -7811,6 +7860,15 @@
       "category": "procurement",
       "source": "SAM.gov",
       "url": "https://sam.gov/workspace/contract/opp/4d910bedaf804d0ba11de837e584336f/view"
+    },
+    {
+      "deadline": "2026-08-26",
+      "days": 8,
+      "title": "Request for Information (RFI): Special Mission Vessel (SMV) – Helicopter, Unmanned Aerial System (UAS), Unmanned Surface Vehicle (USV) & Small Craft Support Vessel",
+      "identifier": "N0002426RXXXX",
+      "category": "procurement",
+      "source": "SAM.gov",
+      "url": "https://sam.gov/workspace/contract/opp/b44b9134f8d941689a341329a87ccf33/view"
     },
     {
       "deadline": "2026-08-26",
@@ -7975,6 +8033,15 @@
       "url": "https://www.regulations.gov/document/FBI-2026-0001-0002"
     },
     {
+      "deadline": "2026-09-07",
+      "days": 20,
+      "title": "Acquisition of Unmanned Aircraft System (UAS) for U.S. Embassy Quito, Ecuador",
+      "identifier": "19GE5026Q0131",
+      "category": "procurement",
+      "source": "SAM.gov",
+      "url": "https://sam.gov/workspace/contract/opp/f4ebb5016b4a44f08be54fe21f0f42fe/view"
+    },
+    {
       "deadline": "2026-09-11",
       "days": 24,
       "title": "5.56mm Counter-small Unmanned Aircraft System (C-sUAS) Ammunition",
@@ -8009,15 +8076,6 @@
       "category": "procurement",
       "source": "SAM.gov",
       "url": "https://sam.gov/workspace/contract/opp/36d4d5bb3e4f48499d1aea7a22432e4c/view"
-    },
-    {
-      "deadline": "2031-08-03",
-      "days": 1811,
-      "title": "Call for Solutions (CFS): Drone Marketplace Onboarding of US Payloads, Software, Components, and Enablers/Accessories",
-      "identifier": "W58RGZ-26-S-C001-0007",
-      "category": "procurement",
-      "source": "SAM.gov",
-      "url": "https://sam.gov/workspace/contract/opp/4c51062315db462aa23cc30599f914ba/view"
     }
   ],
   "domain_labels": {
