@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-19T01:19:31.769318+00:00",
-  "generated_human": "2026-08-19 01:19 UTC",
+  "generated_at": "2026-08-19T06:43:51.710138+00:00",
+  "generated_human": "2026-08-19 06:43 UTC",
   "demo": false,
   "items": [
     {
@@ -107,7 +107,7 @@
         "proceeding": "26-22"
       },
       "first_seen": "2026-08-19T01:19:31.769318+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:26110072042",
@@ -139,7 +139,7 @@
         "proceeding": "26-22"
       },
       "first_seen": "2026-08-19T01:19:31.769318+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:26110072009",
@@ -2025,17 +2025,17 @@
       "is_new": false
     },
     {
-      "id": "Regulations.gov:FAA-2026-4558-1630",
+      "id": "Regulations.gov:FAA-2026-4558-1629",
       "source": "Regulations.gov",
       "category": "regulatory",
       "type": "Comment",
-      "title": "Comment on Designation – Restrict the Operation of Unmanned Aircraft in Close Proximity  to a Fixed Site Facility: Comment from American Chemistry Council",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1630",
+      "title": "Comment on Designation – Restrict the Operation of Unmanned Aircraft in Close Proximity  to a Fixed Site Facility: Comment from Karin L",
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1629",
       "agency": "FAA",
       "identifier": "FAA-2026-4558",
       "date": "2026-08-06",
       "deadline": null,
-      "summary": "Comment from American Chemistry Council",
+      "summary": "Comment from Karin L",
       "score": 80,
       "domains": [
         "air"
@@ -2051,7 +2051,7 @@
       "extra": {
         "docket_total_comments": 1669
       },
-      "first_seen": "2026-08-19T01:19:31.769318+00:00",
+      "first_seen": "2026-08-19T06:43:51.710138+00:00",
       "is_new": true
     },
     {
@@ -3754,35 +3754,6 @@
       "is_new": false
     },
     {
-      "id": "SAM.gov:9173b142ef2348ac826e937ce1a9a60b",
-      "source": "SAM.gov",
-      "category": "procurement",
-      "type": "Presolicitation",
-      "title": "DRAFT RFP/FOPR Force Protection Counter-small Unmanned Aircraft Systems (C-sUAS) Sustainment, Engineering, & Integration Services (SEIS)",
-      "url": "https://sam.gov/workspace/contract/opp/9173b142ef2348ac826e937ce1a9a60b/view",
-      "agency": "DEPT OF DEFENSE",
-      "identifier": "SEIS21226",
-      "date": "2026-08-18",
-      "deadline": "2026-03-16",
-      "summary": "DRAFT RFP/FOPR Force Protection Counter-small Unmanned Aircraft Systems (C-sUAS) Sustainment, Engineering, & Integration Services (SEIS)",
-      "score": 50,
-      "domains": [
-        "air"
-      ],
-      "matched_terms": [
-        "unmanned aircraft",
-        "suas",
-        "small unmanned"
-      ],
-      "watchlist": null,
-      "extra": {
-        "naics": "541330",
-        "setaside": "SBA"
-      },
-      "first_seen": "2026-08-18T18:40:16.479992+00:00",
-      "is_new": false
-    },
-    {
       "id": "SAM.gov:970bb5e6f21e434693375a6c131763ff",
       "source": "SAM.gov",
       "category": "procurement",
@@ -4130,6 +4101,29 @@
       "is_new": false
     },
     {
+      "id": "SAM.gov:013351806cba4c89bcccc17b948ed429",
+      "source": "SAM.gov",
+      "category": "procurement",
+      "type": "Sources Sought",
+      "title": "DroneBuster 5 w/ PNT",
+      "url": "https://sam.gov/workspace/contract/opp/013351806cba4c89bcccc17b948ed429/view",
+      "agency": "DEPT OF DEFENSE",
+      "identifier": "FA527026RFIdronebuster2026",
+      "date": "2026-08-19",
+      "deadline": "2026-08-23",
+      "summary": "DroneBuster 5 w/ PNT",
+      "score": 35,
+      "domains": [],
+      "matched_terms": [],
+      "watchlist": null,
+      "extra": {
+        "naics": "334511",
+        "setaside": "NONE"
+      },
+      "first_seen": "2026-08-19T06:43:51.710138+00:00",
+      "is_new": true
+    },
+    {
       "id": "SAM.gov:c5a57833b0724671a664c6078e3d06dc",
       "source": "SAM.gov",
       "category": "procurement",
@@ -4209,7 +4203,7 @@
         "setaside": "SBA"
       },
       "first_seen": "2026-08-19T01:19:31.769318+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "SAM.gov:b66f59f582a34113a9a668c49070477f",
@@ -4872,29 +4866,6 @@
         "setaside": "NONE"
       },
       "first_seen": "2026-08-03T19:39:36.720104+00:00",
-      "is_new": false
-    },
-    {
-      "id": "SAM.gov:d513c25641a44698ba0a7c1a1c0ccad3",
-      "source": "SAM.gov",
-      "category": "procurement",
-      "type": "Special Notice",
-      "title": "Antioxidant Therapy for Smith-Lemli-Opitz Syndrone",
-      "url": "https://sam.gov/workspace/contract/opp/d513c25641a44698ba0a7c1a1c0ccad3/view",
-      "agency": "HEALTH AND HUMAN SERVICES, DEPARTMENT OF",
-      "identifier": "NICHD-08610",
-      "date": "2026-08-03",
-      "deadline": "2026-08-18",
-      "summary": "Antioxidant Therapy for Smith-Lemli-Opitz Syndrone",
-      "score": 35,
-      "domains": [],
-      "matched_terms": [],
-      "watchlist": null,
-      "extra": {
-        "naics": null,
-        "setaside": null
-      },
-      "first_seen": "2026-08-04T02:36:09.761685+00:00",
       "is_new": false
     },
     {
@@ -6186,7 +6157,7 @@
       ],
       "watchlist": null,
       "extra": {
-        "amount": 75733611.13,
+        "amount": 75886925.45,
         "award_type": "DEFINITIVE CONTRACT"
       },
       "first_seen": "2026-06-25T10:30:41.560386+00:00",
@@ -6267,7 +6238,7 @@
       ],
       "watchlist": null,
       "extra": {
-        "amount": 19384971.0,
+        "amount": 19505357.0,
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-07-23T02:49:34.258910+00:00",
@@ -6294,7 +6265,7 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-08-19T01:19:31.769318+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:FA868921F2802",
@@ -6743,7 +6714,7 @@
       "watchlist": null,
       "extra": {},
       "first_seen": "2026-08-19T01:19:31.769318+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "Regulations.gov:FAA-2024-1924-0004",
@@ -6767,30 +6738,6 @@
       "watchlist": null,
       "extra": {},
       "first_seen": "2026-08-19T01:19:31.769318+00:00",
-      "is_new": true
-    },
-    {
-      "id": "Regulations.gov:FAA-2026-10069-0001",
-      "source": "Regulations.gov",
-      "category": "regulatory",
-      "type": "Document",
-      "title": "Kansas Agricultural Drone Services, LLC - Exemption/Rulemaking",
-      "url": "https://www.regulations.gov/document/FAA-2026-10069-0001",
-      "agency": "FAA",
-      "identifier": "FAA-2026-10069",
-      "date": "2026-08-17",
-      "deadline": null,
-      "summary": "Kansas Agricultural Drone Services, LLC - Exemption/Rulemaking",
-      "score": 20,
-      "domains": [
-        "air"
-      ],
-      "matched_terms": [
-        "drone"
-      ],
-      "watchlist": null,
-      "extra": {},
-      "first_seen": "2026-08-17T18:40:13.579342+00:00",
       "is_new": false
     },
     {
@@ -6805,6 +6752,30 @@
       "date": "2026-08-17",
       "deadline": null,
       "summary": "CAL Drone Applications LLC - Petition",
+      "score": 20,
+      "domains": [
+        "air"
+      ],
+      "matched_terms": [
+        "drone"
+      ],
+      "watchlist": null,
+      "extra": {},
+      "first_seen": "2026-08-17T18:40:13.579342+00:00",
+      "is_new": false
+    },
+    {
+      "id": "Regulations.gov:FAA-2026-10069-0001",
+      "source": "Regulations.gov",
+      "category": "regulatory",
+      "type": "Document",
+      "title": "Kansas Agricultural Drone Services, LLC - Exemption/Rulemaking",
+      "url": "https://www.regulations.gov/document/FAA-2026-10069-0001",
+      "agency": "FAA",
+      "identifier": "FAA-2026-10069",
+      "date": "2026-08-17",
+      "deadline": null,
+      "summary": "Kansas Agricultural Drone Services, LLC - Exemption/Rulemaking",
       "score": 20,
       "domains": [
         "air"
@@ -7572,8 +7543,8 @@
     {
       "name": "SAM.gov",
       "status": "ok",
-      "detail": "62 kept",
-      "count": 62
+      "detail": "61 kept",
+      "count": 61
     },
     {
       "name": "CourtListener",
@@ -7589,16 +7560,16 @@
     }
   ],
   "stats": {
-    "total": 271,
-    "new": 7,
+    "total": 270,
+    "new": 2,
     "by_category": {
       "regulatory": 136,
-      "procurement": 122,
+      "procurement": 121,
       "litigation": 9,
       "legislative": 4
     },
     "by_domain": {
-      "air": 208,
+      "air": 207,
       "supply-chain": 111,
       "spectrum": 46,
       "ground": 16,
@@ -7607,7 +7578,7 @@
     },
     "by_source": {
       "FCC ECFS": 91,
-      "SAM.gov": 62,
+      "SAM.gov": 61,
       "USAspending": 60,
       "Regulations.gov": 26,
       "Federal Register": 19,
@@ -7879,6 +7850,15 @@
       "url": "https://sam.gov/workspace/contract/opp/bb615273254043758eec97debc81cadb/view"
     },
     {
+      "deadline": "2026-08-23",
+      "days": 4,
+      "title": "DroneBuster 5 w/ PNT",
+      "identifier": "FA527026RFIdronebuster2026",
+      "category": "procurement",
+      "source": "SAM.gov",
+      "url": "https://sam.gov/workspace/contract/opp/013351806cba4c89bcccc17b948ed429/view"
+    },
+    {
       "deadline": "2026-08-24",
       "days": 5,
       "title": "sUAS Training Drone",
@@ -8147,15 +8127,6 @@
       "category": "procurement",
       "source": "SAM.gov",
       "url": "https://sam.gov/workspace/contract/opp/36d4d5bb3e4f48499d1aea7a22432e4c/view"
-    },
-    {
-      "deadline": "2031-08-03",
-      "days": 1810,
-      "title": "Call for Solutions (CFS): Drone Marketplace Onboarding of US Payloads, Software, Components, and Enablers/Accessories",
-      "identifier": "W58RGZ-26-S-C001-0007",
-      "category": "procurement",
-      "source": "SAM.gov",
-      "url": "https://sam.gov/workspace/contract/opp/4c51062315db462aa23cc30599f914ba/view"
     }
   ],
   "domain_labels": {
