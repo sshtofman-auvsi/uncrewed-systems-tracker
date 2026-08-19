@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-19T06:43:51.710138+00:00",
-  "generated_human": "2026-08-19 06:43 UTC",
+  "generated_at": "2026-08-19T12:49:06.216496+00:00",
+  "generated_human": "2026-08-19 12:49 UTC",
   "demo": false,
   "items": [
     {
@@ -2052,7 +2052,7 @@
         "docket_total_comments": 1669
       },
       "first_seen": "2026-08-19T06:43:51.710138+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "SAM.gov:2e455a535bb14ed8aa1ad85075444448",
@@ -4121,7 +4121,7 @@
         "setaside": "NONE"
       },
       "first_seen": "2026-08-19T06:43:51.710138+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "SAM.gov:c5a57833b0724671a664c6078e3d06dc",
@@ -4691,7 +4691,7 @@
       "url": "https://sam.gov/workspace/contract/opp/8ba382483ad8492188669c306ee94c3e/view",
       "agency": "DEPT OF DEFENSE",
       "identifier": "FA461026QDRON",
-      "date": "2026-08-07",
+      "date": "2026-08-06",
       "deadline": "2026-08-17",
       "summary": "30 SFS Dronebusters",
       "score": 35,
@@ -4787,33 +4787,6 @@
       "is_new": false
     },
     {
-      "id": "SAM.gov:0a6104650333458a8cb3537bced96356",
-      "source": "SAM.gov",
-      "category": "procurement",
-      "type": "RFI",
-      "title": "Request for Information – Drone Components",
-      "url": "https://sam.gov/workspace/contract/opp/0a6104650333458a8cb3537bced96356/view",
-      "agency": "DEPT OF DEFENSE",
-      "identifier": "FA9101-RFI-Drone-Components",
-      "date": "2026-08-04",
-      "deadline": "2026-08-06",
-      "summary": "Request for Information – Drone Components",
-      "score": 35,
-      "domains": [
-        "air"
-      ],
-      "matched_terms": [
-        "drone"
-      ],
-      "watchlist": null,
-      "extra": {
-        "naics": "336411",
-        "setaside": null
-      },
-      "first_seen": "2026-08-04T02:36:09.761685+00:00",
-      "is_new": false
-    },
-    {
       "id": "SAM.gov:70591dad2ee84d60b66a879d3194ae9c",
       "source": "SAM.gov",
       "category": "procurement",
@@ -4866,6 +4839,33 @@
         "setaside": "NONE"
       },
       "first_seen": "2026-08-03T19:39:36.720104+00:00",
+      "is_new": false
+    },
+    {
+      "id": "SAM.gov:0a6104650333458a8cb3537bced96356",
+      "source": "SAM.gov",
+      "category": "procurement",
+      "type": "RFI",
+      "title": "Request for Information – Drone Components",
+      "url": "https://sam.gov/workspace/contract/opp/0a6104650333458a8cb3537bced96356/view",
+      "agency": "DEPT OF DEFENSE",
+      "identifier": "FA9101-RFI-Drone-Components",
+      "date": "2026-08-03",
+      "deadline": "2026-08-06",
+      "summary": "Request for Information – Drone Components",
+      "score": 35,
+      "domains": [
+        "air"
+      ],
+      "matched_terms": [
+        "drone"
+      ],
+      "watchlist": null,
+      "extra": {
+        "naics": "336411",
+        "setaside": null
+      },
+      "first_seen": "2026-08-04T02:36:09.761685+00:00",
       "is_new": false
     },
     {
@@ -7561,7 +7561,7 @@
   ],
   "stats": {
     "total": 270,
-    "new": 2,
+    "new": 0,
     "by_category": {
       "regulatory": 136,
       "procurement": 121,
