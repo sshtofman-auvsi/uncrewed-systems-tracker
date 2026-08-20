@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-20T06:48:21.807830+00:00",
-  "generated_human": "2026-08-20 06:48 UTC",
+  "generated_at": "2026-08-20T12:51:54.152674+00:00",
+  "generated_human": "2026-08-20 12:51 UTC",
   "demo": false,
   "items": [
     {
@@ -46,15 +46,15 @@
       "is_new": false
     },
     {
-      "id": "SAM.gov:1d9a85d6b5e8470f86f5d63e8751d484",
+      "id": "SAM.gov:9569c199d8a041779c81fd3dc7c60ad9",
       "source": "SAM.gov",
       "category": "procurement",
       "type": "Sources Sought",
       "title": "50mm weapon based Air Defense Counter-Unmanned Aircraft System (C-UAS)",
-      "url": "https://sam.gov/workspace/contract/opp/1d9a85d6b5e8470f86f5d63e8751d484/view",
+      "url": "https://sam.gov/workspace/contract/opp/9569c199d8a041779c81fd3dc7c60ad9/view",
       "agency": "DEPT OF DEFENSE",
       "identifier": "W15QKN-26-X-1C9P",
-      "date": "2026-08-10",
+      "date": "2026-08-20",
       "deadline": "2026-08-31",
       "summary": "50mm weapon based Air Defense Counter-Unmanned Aircraft System (C-UAS)",
       "score": 82,
@@ -74,8 +74,8 @@
         "naics": "332993",
         "setaside": null
       },
-      "first_seen": "2026-08-10T18:59:28.827229+00:00",
-      "is_new": false
+      "first_seen": "2026-08-20T12:51:54.152674+00:00",
+      "is_new": true
     },
     {
       "id": "FCC ECFS:26110072188",
@@ -2146,7 +2146,7 @@
         "proceeding": "26-74"
       },
       "first_seen": "2026-08-20T06:48:21.807830+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:26110069384",
@@ -4076,6 +4076,34 @@
       "is_new": false
     },
     {
+      "id": "SAM.gov:f0c24ff3fcf74dccae71a3e46800590d",
+      "source": "SAM.gov",
+      "category": "procurement",
+      "type": "Combined Synopsis",
+      "title": "INL PAKISTAN: UNMANNED AIRCRAFT SYSTEMS (UAS)",
+      "url": "https://sam.gov/workspace/contract/opp/f0c24ff3fcf74dccae71a3e46800590d/view",
+      "agency": "STATE, DEPARTMENT OF",
+      "identifier": "191NLE26Q0118",
+      "date": "2026-08-20",
+      "deadline": "2026-08-24",
+      "summary": "INL PAKISTAN: UNMANNED AIRCRAFT SYSTEMS (UAS)",
+      "score": 35,
+      "domains": [
+        "air"
+      ],
+      "matched_terms": [
+        "unmanned aircraft",
+        "uas"
+      ],
+      "watchlist": null,
+      "extra": {
+        "naics": "336411",
+        "setaside": "SBA"
+      },
+      "first_seen": "2026-08-20T12:51:54.152674+00:00",
+      "is_new": true
+    },
+    {
       "id": "SAM.gov:b2cd9fd492074537933909bbde5e8ebd",
       "source": "SAM.gov",
       "category": "procurement",
@@ -4666,7 +4694,7 @@
       "url": "https://sam.gov/workspace/contract/opp/8ba382483ad8492188669c306ee94c3e/view",
       "agency": "DEPT OF DEFENSE",
       "identifier": "FA461026QDRON",
-      "date": "2026-08-06",
+      "date": "2026-08-07",
       "deadline": "2026-08-17",
       "summary": "30 SFS Dronebusters",
       "score": 35,
@@ -4762,6 +4790,33 @@
       "is_new": false
     },
     {
+      "id": "SAM.gov:0a6104650333458a8cb3537bced96356",
+      "source": "SAM.gov",
+      "category": "procurement",
+      "type": "RFI",
+      "title": "Request for Information – Drone Components",
+      "url": "https://sam.gov/workspace/contract/opp/0a6104650333458a8cb3537bced96356/view",
+      "agency": "DEPT OF DEFENSE",
+      "identifier": "FA9101-RFI-Drone-Components",
+      "date": "2026-08-04",
+      "deadline": "2026-08-06",
+      "summary": "Request for Information – Drone Components",
+      "score": 35,
+      "domains": [
+        "air"
+      ],
+      "matched_terms": [
+        "drone"
+      ],
+      "watchlist": null,
+      "extra": {
+        "naics": "336411",
+        "setaside": null
+      },
+      "first_seen": "2026-08-04T02:36:09.761685+00:00",
+      "is_new": false
+    },
+    {
       "id": "SAM.gov:70591dad2ee84d60b66a879d3194ae9c",
       "source": "SAM.gov",
       "category": "procurement",
@@ -4814,33 +4869,6 @@
         "setaside": "NONE"
       },
       "first_seen": "2026-08-03T19:39:36.720104+00:00",
-      "is_new": false
-    },
-    {
-      "id": "SAM.gov:0a6104650333458a8cb3537bced96356",
-      "source": "SAM.gov",
-      "category": "procurement",
-      "type": "RFI",
-      "title": "Request for Information – Drone Components",
-      "url": "https://sam.gov/workspace/contract/opp/0a6104650333458a8cb3537bced96356/view",
-      "agency": "DEPT OF DEFENSE",
-      "identifier": "FA9101-RFI-Drone-Components",
-      "date": "2026-08-03",
-      "deadline": "2026-08-06",
-      "summary": "Request for Information – Drone Components",
-      "score": 35,
-      "domains": [
-        "air"
-      ],
-      "matched_terms": [
-        "drone"
-      ],
-      "watchlist": null,
-      "extra": {
-        "naics": "336411",
-        "setaside": null
-      },
-      "first_seen": "2026-08-04T02:36:09.761685+00:00",
       "is_new": false
     },
     {
@@ -4925,34 +4953,6 @@
         "setaside": "SBA"
       },
       "first_seen": "2026-07-30T19:28:01.731323+00:00",
-      "is_new": false
-    },
-    {
-      "id": "SAM.gov:048c32a4ce934880a05cc6466fd94668",
-      "source": "SAM.gov",
-      "category": "procurement",
-      "type": "Combined Synopsis",
-      "title": "INL PAKISTAN: UNMANNED AIRCRAFT SYSTEMS (UAS)",
-      "url": "https://sam.gov/workspace/contract/opp/048c32a4ce934880a05cc6466fd94668/view",
-      "agency": "STATE, DEPARTMENT OF",
-      "identifier": "191NLE26Q0118",
-      "date": "2026-07-29",
-      "deadline": "2026-08-24",
-      "summary": "INL PAKISTAN: UNMANNED AIRCRAFT SYSTEMS (UAS)",
-      "score": 35,
-      "domains": [
-        "air"
-      ],
-      "matched_terms": [
-        "unmanned aircraft",
-        "uas"
-      ],
-      "watchlist": null,
-      "extra": {
-        "naics": "336411",
-        "setaside": "SBA"
-      },
-      "first_seen": "2026-07-29T19:18:31.005999+00:00",
       "is_new": false
     },
     {
@@ -5353,7 +5353,7 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-08-20T06:48:21.807830+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:FA480326F0022",
@@ -5748,7 +5748,7 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-08-20T06:48:21.807830+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:89233126FNA400749",
@@ -6764,17 +6764,17 @@
       "is_new": false
     },
     {
-      "id": "Regulations.gov:FAA-2023-0465-0003",
+      "id": "Regulations.gov:FAA-2026-10069-0001",
       "source": "Regulations.gov",
       "category": "regulatory",
       "type": "Document",
-      "title": "CAL Drone Applications LLC - Petition",
-      "url": "https://www.regulations.gov/document/FAA-2023-0465-0003",
+      "title": "Kansas Agricultural Drone Services, LLC - Exemption/Rulemaking",
+      "url": "https://www.regulations.gov/document/FAA-2026-10069-0001",
       "agency": "FAA",
-      "identifier": "FAA-2023-0465",
+      "identifier": "FAA-2026-10069",
       "date": "2026-08-17",
       "deadline": null,
-      "summary": "CAL Drone Applications LLC - Petition",
+      "summary": "Kansas Agricultural Drone Services, LLC - Exemption/Rulemaking",
       "score": 20,
       "domains": [
         "air"
@@ -6788,17 +6788,17 @@
       "is_new": false
     },
     {
-      "id": "Regulations.gov:FAA-2026-10069-0001",
+      "id": "Regulations.gov:FAA-2023-0465-0003",
       "source": "Regulations.gov",
       "category": "regulatory",
       "type": "Document",
-      "title": "Kansas Agricultural Drone Services, LLC - Exemption/Rulemaking",
-      "url": "https://www.regulations.gov/document/FAA-2026-10069-0001",
+      "title": "CAL Drone Applications LLC - Petition",
+      "url": "https://www.regulations.gov/document/FAA-2023-0465-0003",
       "agency": "FAA",
-      "identifier": "FAA-2026-10069",
+      "identifier": "FAA-2023-0465",
       "date": "2026-08-17",
       "deadline": null,
-      "summary": "Kansas Agricultural Drone Services, LLC - Exemption/Rulemaking",
+      "summary": "CAL Drone Applications LLC - Petition",
       "score": 20,
       "domains": [
         "air"
@@ -7590,7 +7590,7 @@
   ],
   "stats": {
     "total": 271,
-    "new": 3,
+    "new": 2,
     "by_category": {
       "regulatory": 136,
       "procurement": 122,
@@ -7872,6 +7872,15 @@
     {
       "deadline": "2026-08-24",
       "days": 4,
+      "title": "INL PAKISTAN: UNMANNED AIRCRAFT SYSTEMS (UAS)",
+      "identifier": "191NLE26Q0118",
+      "category": "procurement",
+      "source": "SAM.gov",
+      "url": "https://sam.gov/workspace/contract/opp/f0c24ff3fcf74dccae71a3e46800590d/view"
+    },
+    {
+      "deadline": "2026-08-24",
+      "days": 4,
       "title": "sUAS Training Drone",
       "identifier": "FA302026Q0105",
       "category": "procurement",
@@ -7886,15 +7895,6 @@
       "category": "procurement",
       "source": "SAM.gov",
       "url": "https://sam.gov/workspace/contract/opp/915cae4d98d64367a15944104b6335fe/view"
-    },
-    {
-      "deadline": "2026-08-24",
-      "days": 4,
-      "title": "INL PAKISTAN: UNMANNED AIRCRAFT SYSTEMS (UAS)",
-      "identifier": "191NLE26Q0118",
-      "category": "procurement",
-      "source": "SAM.gov",
-      "url": "https://sam.gov/workspace/contract/opp/048c32a4ce934880a05cc6466fd94668/view"
     },
     {
       "deadline": "2026-08-25",
@@ -8047,7 +8047,7 @@
       "identifier": "W15QKN-26-X-1C9P",
       "category": "procurement",
       "source": "SAM.gov",
-      "url": "https://sam.gov/workspace/contract/opp/1d9a85d6b5e8470f86f5d63e8751d484/view"
+      "url": "https://sam.gov/workspace/contract/opp/9569c199d8a041779c81fd3dc7c60ad9/view"
     },
     {
       "deadline": "2026-08-31",
