@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-22T06:41:52.722649+00:00",
-  "generated_human": "2026-08-22 06:41 UTC",
+  "generated_at": "2026-08-22T12:40:44.879646+00:00",
+  "generated_human": "2026-08-22 12:40 UTC",
   "demo": false,
   "items": [
     {
@@ -1062,37 +1062,6 @@
       "is_new": false
     },
     {
-      "id": "FCC ECFS:26110071435",
-      "source": "FCC ECFS",
-      "category": "regulatory",
-      "type": "Comment",
-      "title": "Daniel Hwang: COMMENT (FCC 26-22)",
-      "url": "https://www.fcc.gov/ecfs/search/search-filings/filing/26110071435",
-      "agency": "FCC",
-      "identifier": "FCC 26-22",
-      "date": "2026-08-17",
-      "deadline": null,
-      "summary": "I respectfully urge the FCC to reconsider restrictions that prevent DJI products from being authorized, imported, and sold in the United States.\n\nAs an American small-business owner, I am concerned about the economic impact these restrictions will have on small businesses and independent professionals across the country. Drones are no longer simply recreational products. They are essential busines",
-      "score": 80,
-      "domains": [
-        "air",
-        "supply-chain"
-      ],
-      "matched_terms": [
-        "dji",
-        "26-22"
-      ],
-      "watchlist": {
-        "key": "et-26-22",
-        "label": "ET 26-22 / DA-26-592 (DJI Security Assessment — comment by Aug 28, 2026)"
-      },
-      "extra": {
-        "proceeding": "26-22"
-      },
-      "first_seen": "2026-08-17T18:40:13.579342+00:00",
-      "is_new": false
-    },
-    {
       "id": "FCC ECFS:26110071655",
       "source": "FCC ECFS",
       "category": "regulatory",
@@ -1111,6 +1080,37 @@
       ],
       "matched_terms": [
         "drone",
+        "dji",
+        "26-22"
+      ],
+      "watchlist": {
+        "key": "et-26-22",
+        "label": "ET 26-22 / DA-26-592 (DJI Security Assessment — comment by Aug 28, 2026)"
+      },
+      "extra": {
+        "proceeding": "26-22"
+      },
+      "first_seen": "2026-08-17T18:40:13.579342+00:00",
+      "is_new": false
+    },
+    {
+      "id": "FCC ECFS:26110071435",
+      "source": "FCC ECFS",
+      "category": "regulatory",
+      "type": "Comment",
+      "title": "Daniel Hwang: COMMENT (FCC 26-22)",
+      "url": "https://www.fcc.gov/ecfs/search/search-filings/filing/26110071435",
+      "agency": "FCC",
+      "identifier": "FCC 26-22",
+      "date": "2026-08-17",
+      "deadline": null,
+      "summary": "I respectfully urge the FCC to reconsider restrictions that prevent DJI products from being authorized, imported, and sold in the United States.\n\nAs an American small-business owner, I am concerned about the economic impact these restrictions will have on small businesses and independent professionals across the country. Drones are no longer simply recreational products. They are essential busines",
+      "score": 80,
+      "domains": [
+        "air",
+        "supply-chain"
+      ],
+      "matched_terms": [
         "dji",
         "26-22"
       ],
@@ -5025,7 +5025,7 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-08-22T06:41:52.722649+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "Federal Register:2026-16628",
@@ -5834,7 +5834,7 @@
         "award_type": "DEFINITIVE CONTRACT"
       },
       "first_seen": "2026-08-22T06:41:52.722649+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:N0042123C0010",
@@ -7267,7 +7267,7 @@
   ],
   "stats": {
     "total": 260,
-    "new": 2,
+    "new": 0,
     "by_category": {
       "regulatory": 134,
       "procurement": 113,
