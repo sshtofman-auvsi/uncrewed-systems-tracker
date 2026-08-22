@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-22T01:15:54.861588+00:00",
-  "generated_human": "2026-08-22 01:15 UTC",
+  "generated_at": "2026-08-22T06:41:52.722649+00:00",
+  "generated_human": "2026-08-22 06:41 UTC",
   "demo": false,
   "items": [
     {
@@ -103,7 +103,7 @@
         "proceeding": "26-22"
       },
       "first_seen": "2026-08-22T01:15:54.861588+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:26110072619",
@@ -136,7 +136,7 @@
         "proceeding": "26-22"
       },
       "first_seen": "2026-08-22T01:15:54.861588+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:26110072521",
@@ -1062,6 +1062,37 @@
       "is_new": false
     },
     {
+      "id": "FCC ECFS:26110071435",
+      "source": "FCC ECFS",
+      "category": "regulatory",
+      "type": "Comment",
+      "title": "Daniel Hwang: COMMENT (FCC 26-22)",
+      "url": "https://www.fcc.gov/ecfs/search/search-filings/filing/26110071435",
+      "agency": "FCC",
+      "identifier": "FCC 26-22",
+      "date": "2026-08-17",
+      "deadline": null,
+      "summary": "I respectfully urge the FCC to reconsider restrictions that prevent DJI products from being authorized, imported, and sold in the United States.\n\nAs an American small-business owner, I am concerned about the economic impact these restrictions will have on small businesses and independent professionals across the country. Drones are no longer simply recreational products. They are essential busines",
+      "score": 80,
+      "domains": [
+        "air",
+        "supply-chain"
+      ],
+      "matched_terms": [
+        "dji",
+        "26-22"
+      ],
+      "watchlist": {
+        "key": "et-26-22",
+        "label": "ET 26-22 / DA-26-592 (DJI Security Assessment — comment by Aug 28, 2026)"
+      },
+      "extra": {
+        "proceeding": "26-22"
+      },
+      "first_seen": "2026-08-17T18:40:13.579342+00:00",
+      "is_new": false
+    },
+    {
       "id": "FCC ECFS:26110071655",
       "source": "FCC ECFS",
       "category": "regulatory",
@@ -1080,37 +1111,6 @@
       ],
       "matched_terms": [
         "drone",
-        "dji",
-        "26-22"
-      ],
-      "watchlist": {
-        "key": "et-26-22",
-        "label": "ET 26-22 / DA-26-592 (DJI Security Assessment — comment by Aug 28, 2026)"
-      },
-      "extra": {
-        "proceeding": "26-22"
-      },
-      "first_seen": "2026-08-17T18:40:13.579342+00:00",
-      "is_new": false
-    },
-    {
-      "id": "FCC ECFS:26110071435",
-      "source": "FCC ECFS",
-      "category": "regulatory",
-      "type": "Comment",
-      "title": "Daniel Hwang: COMMENT (FCC 26-22)",
-      "url": "https://www.fcc.gov/ecfs/search/search-filings/filing/26110071435",
-      "agency": "FCC",
-      "identifier": "FCC 26-22",
-      "date": "2026-08-17",
-      "deadline": null,
-      "summary": "I respectfully urge the FCC to reconsider restrictions that prevent DJI products from being authorized, imported, and sold in the United States.\n\nAs an American small-business owner, I am concerned about the economic impact these restrictions will have on small businesses and independent professionals across the country. Drones are no longer simply recreational products. They are essential busines",
-      "score": 80,
-      "domains": [
-        "air",
-        "supply-chain"
-      ],
-      "matched_terms": [
         "dji",
         "26-22"
       ],
@@ -2031,39 +2031,6 @@
         "docket_total_comments": 1669
       },
       "first_seen": "2026-08-22T01:15:54.861588+00:00",
-      "is_new": true
-    },
-    {
-      "id": "SAM.gov:2e455a535bb14ed8aa1ad85075444448",
-      "source": "SAM.gov",
-      "category": "procurement",
-      "type": "Solicitation (RFP)",
-      "title": "Drone Dominance Program (DDP) Firefighting Safety Gear",
-      "url": "https://sam.gov/workspace/contract/opp/2e455a535bb14ed8aa1ad85075444448/view",
-      "agency": "DEPT OF DEFENSE",
-      "identifier": "W911RZ26QA037",
-      "date": "2026-08-05",
-      "deadline": "2026-08-07",
-      "summary": "Drone Dominance Program (DDP) Firefighting Safety Gear",
-      "score": 80,
-      "domains": [
-        "air",
-        "spectrum",
-        "supply-chain"
-      ],
-      "matched_terms": [
-        "drone",
-        "drone dominance"
-      ],
-      "watchlist": {
-        "key": "gn-26-74",
-        "label": "GN 26-74 (Unleashing American Drone Dominance)"
-      },
-      "extra": {
-        "naics": "333998",
-        "setaside": "SBA"
-      },
-      "first_seen": "2026-08-05T19:36:47.243549+00:00",
       "is_new": false
     },
     {
@@ -3553,37 +3520,6 @@
       "is_new": false
     },
     {
-      "id": "USAspending:70RSAT26FR0000009",
-      "source": "USAspending",
-      "category": "procurement",
-      "type": "Award",
-      "title": "THE MITRE CORPORATION: THE PURPOSE OF THIS REQUISITION IS TO COMMIT $750,000.00 FOR A NEW TASK ORDER UNDER 70RSAT20D00000001 FOR UNMANNED AIRCR",
-      "url": "https://www.usaspending.gov/award/CONT_AWD_70RSAT26FR0000009_7001_70RSAT26D00000001_7001",
-      "agency": "Department of Homeland Security",
-      "identifier": "70RSAT26FR0000009",
-      "date": "2026-03-24",
-      "deadline": null,
-      "summary": "THE PURPOSE OF THIS REQUISITION IS TO COMMIT $750,000.00 FOR A NEW TASK ORDER UNDER 70RSAT20D00000001 FOR UNMANNED AIRCRAFT SYSTEMS (UAS) AND COUNTER-UNMANNED AIRCRAFT SYSTEMS (C-UAS), PROVIDES DHS WITH DATA-DRIVEN INSIGHTS, OPERATIONAL RECOMMENDATIO",
-      "score": 66,
-      "domains": [
-        "air",
-        "defense"
-      ],
-      "matched_terms": [
-        "unmanned aircraft",
-        "uas",
-        "c-uas",
-        "counter-unmanned"
-      ],
-      "watchlist": null,
-      "extra": {
-        "amount": 3676836.0,
-        "award_type": "DELIVERY ORDER"
-      },
-      "first_seen": "2026-08-22T01:15:54.861588+00:00",
-      "is_new": true
-    },
-    {
       "id": "Federal Register:2026-13211",
       "source": "Federal Register",
       "category": "regulatory",
@@ -3760,36 +3696,6 @@
         "setaside": null
       },
       "first_seen": "2026-07-16T19:13:46.904593+00:00",
-      "is_new": false
-    },
-    {
-      "id": "SAM.gov:0ac04c8eb1f54701bebee587f9e6fb1f",
-      "source": "SAM.gov",
-      "category": "procurement",
-      "type": "Special Notice",
-      "title": "ATEC HQ 001, Autonomous Swarm Dynamics & Counter-Drone (C-UAS) Technologies",
-      "url": "https://sam.gov/workspace/contract/opp/0ac04c8eb1f54701bebee587f9e6fb1f/view",
-      "agency": "DEPT OF DEFENSE",
-      "identifier": "ATEC_RIW26_001",
-      "date": "2026-08-18",
-      "deadline": "2026-08-21",
-      "summary": "ATEC HQ 001, Autonomous Swarm Dynamics & Counter-Drone (C-UAS) Technologies",
-      "score": 48,
-      "domains": [
-        "air",
-        "defense"
-      ],
-      "matched_terms": [
-        "uas",
-        "drone",
-        "c-uas"
-      ],
-      "watchlist": null,
-      "extra": {
-        "naics": null,
-        "setaside": null
-      },
-      "first_seen": "2026-08-18T18:40:16.479992+00:00",
       "is_new": false
     },
     {
@@ -4048,7 +3954,7 @@
         "setaside": "SBA"
       },
       "first_seen": "2026-08-22T01:15:54.861588+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "SAM.gov:f0c24ff3fcf74dccae71a3e46800590d",
@@ -4480,33 +4386,6 @@
       "is_new": false
     },
     {
-      "id": "SAM.gov:bb615273254043758eec97debc81cadb",
-      "source": "SAM.gov",
-      "category": "procurement",
-      "type": "Combined Synopsis",
-      "title": "Request For Quote - Survey Drone Boat – NRCS, Missouri 12FPC126Q0046",
-      "url": "https://sam.gov/workspace/contract/opp/bb615273254043758eec97debc81cadb/view",
-      "agency": "AGRICULTURE, DEPARTMENT OF",
-      "identifier": "12FPC126Q0046",
-      "date": "2026-08-10",
-      "deadline": "2026-08-21",
-      "summary": "Request For Quote - Survey Drone Boat – NRCS, Missouri 12FPC126Q0046",
-      "score": 35,
-      "domains": [
-        "air"
-      ],
-      "matched_terms": [
-        "drone"
-      ],
-      "watchlist": null,
-      "extra": {
-        "naics": "541370",
-        "setaside": "SBA"
-      },
-      "first_seen": "2026-08-10T18:59:28.827229+00:00",
-      "is_new": false
-    },
-    {
       "id": "SAM.gov:5bf783b1388846eb961d8f936815aedd",
       "source": "SAM.gov",
       "category": "procurement",
@@ -4850,33 +4729,6 @@
       "is_new": false
     },
     {
-      "id": "SAM.gov:0be8dfdc8afd4ddeb57a0f088be029f7",
-      "source": "SAM.gov",
-      "category": "procurement",
-      "type": "Combined Synopsis",
-      "title": "Mapping Drone",
-      "url": "https://sam.gov/workspace/contract/opp/0be8dfdc8afd4ddeb57a0f088be029f7/view",
-      "agency": "AGRICULTURE, DEPARTMENT OF",
-      "identifier": "1232SA26Q0626",
-      "date": "2026-07-30",
-      "deadline": "2026-08-07",
-      "summary": "Mapping Drone",
-      "score": 35,
-      "domains": [
-        "air"
-      ],
-      "matched_terms": [
-        "drone"
-      ],
-      "watchlist": null,
-      "extra": {
-        "naics": "336411",
-        "setaside": "SBA"
-      },
-      "first_seen": "2026-07-30T19:28:01.731323+00:00",
-      "is_new": false
-    },
-    {
       "id": "SAM.gov:37ada978d83e47cf84a9fdf19d0d4ab4",
       "source": "SAM.gov",
       "category": "procurement",
@@ -5148,6 +5000,34 @@
       "is_new": false
     },
     {
+      "id": "USAspending:W31P4Q24FE001",
+      "source": "USAspending",
+      "category": "procurement",
+      "type": "Award",
+      "title": "THE TOLLIVER GROUP, INC: LOGISTICS SUPPORT TO THE UNMANNED AIRCRAFT SYSTEMS (UAS) PROJECT OFFICE",
+      "url": "https://www.usaspending.gov/award/CONT_AWD_W31P4Q24FE001_9700_GS00F0013W_4730",
+      "agency": "Department of Defense",
+      "identifier": "W31P4Q24FE001",
+      "date": "2023-11-30",
+      "deadline": null,
+      "summary": "LOGISTICS SUPPORT TO THE UNMANNED AIRCRAFT SYSTEMS (UAS) PROJECT OFFICE",
+      "score": 34,
+      "domains": [
+        "air"
+      ],
+      "matched_terms": [
+        "unmanned aircraft",
+        "uas"
+      ],
+      "watchlist": null,
+      "extra": {
+        "amount": 41009202.26,
+        "award_type": "DELIVERY ORDER"
+      },
+      "first_seen": "2026-08-22T06:41:52.722649+00:00",
+      "is_new": true
+    },
+    {
       "id": "Federal Register:2026-16628",
       "source": "Federal Register",
       "category": "regulatory",
@@ -5226,29 +5106,6 @@
       },
       "first_seen": "2026-08-20T06:48:21.807830+00:00",
       "is_new": false
-    },
-    {
-      "id": "USAspending:W15P7T26F0130",
-      "source": "USAspending",
-      "category": "procurement",
-      "type": "Award",
-      "title": "LEIDOS, INC.: PROCURE COMMERCIAL IT HARDWARE USING THE CHS CONTRACT",
-      "url": "https://www.usaspending.gov/award/CONT_AWD_W15P7T26F0130_9700_W15P7T23D0003_9700",
-      "agency": "Department of Defense",
-      "identifier": "W15P7T26F0130",
-      "date": "2026-05-20",
-      "deadline": null,
-      "summary": "PROCURE COMMERCIAL IT HARDWARE USING THE CHS CONTRACT",
-      "score": 30,
-      "domains": [],
-      "matched_terms": [],
-      "watchlist": null,
-      "extra": {
-        "amount": 4206930.0,
-        "award_type": "DELIVERY ORDER"
-      },
-      "first_seen": "2026-08-22T01:15:54.861588+00:00",
-      "is_new": true
     },
     {
       "id": "USAspending:FA480326F0022",
@@ -5957,6 +5814,29 @@
       "is_new": false
     },
     {
+      "id": "USAspending:N0001923C0033",
+      "source": "USAspending",
+      "category": "procurement",
+      "type": "Award",
+      "title": "THE SURVICE ENGINEERING COMPANY LLC: TRUAS TRV-150C SYSTEMS & ASSOCIATED SYSTEMS ENGINEERING/PROGRAM MANAGEMENT, SPARES, REPAIR OF REPAIRABLES, ETC.  NOTE: S",
+      "url": "https://www.usaspending.gov/award/CONT_AWD_N0001923C0033_9700_-NONE-_-NONE-",
+      "agency": "Department of Defense",
+      "identifier": "N0001923C0033",
+      "date": "2023-04-11",
+      "deadline": null,
+      "summary": "TRUAS TRV-150C SYSTEMS & ASSOCIATED SYSTEMS ENGINEERING/PROGRAM MANAGEMENT, SPARES, REPAIR OF REPAIRABLES, ETC.  NOTE: SOLE SOURCE AWARD PURSUANT TO 10 USC 4022(F), BUT CAR CODING DOES NOT INCLUDE THIS AS AN OPTION, AND HENCE FAR 6.302-1 SELECTED.",
+      "score": 30,
+      "domains": [],
+      "matched_terms": [],
+      "watchlist": null,
+      "extra": {
+        "amount": 55258597.21,
+        "award_type": "DEFINITIVE CONTRACT"
+      },
+      "first_seen": "2026-08-22T06:41:52.722649+00:00",
+      "is_new": true
+    },
+    {
       "id": "USAspending:N0042123C0010",
       "source": "USAspending",
       "category": "procurement",
@@ -6054,7 +5934,7 @@
       ],
       "watchlist": null,
       "extra": {
-        "amount": 94864498.24,
+        "amount": 95099069.24,
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
@@ -7369,8 +7249,8 @@
     {
       "name": "SAM.gov",
       "status": "ok",
-      "detail": "57 kept",
-      "count": 57
+      "detail": "53 kept",
+      "count": 53
     },
     {
       "name": "CourtListener",
@@ -7386,26 +7266,26 @@
     }
   ],
   "stats": {
-    "total": 264,
-    "new": 6,
+    "total": 260,
+    "new": 2,
     "by_category": {
       "regulatory": 134,
-      "procurement": 117,
+      "procurement": 113,
       "litigation": 9,
       "legislative": 4
     },
     "by_domain": {
-      "air": 202,
-      "supply-chain": 110,
-      "spectrum": 46,
-      "defense": 15,
+      "air": 198,
+      "supply-chain": 109,
+      "spectrum": 45,
       "ground": 15,
+      "defense": 13,
       "maritime": 2
     },
     "by_source": {
       "FCC ECFS": 91,
       "USAspending": 60,
-      "SAM.gov": 57,
+      "SAM.gov": 53,
       "Regulations.gov": 24,
       "Federal Register": 19,
       "CourtListener": 9,
@@ -7449,7 +7329,7 @@
         "supply-chain"
       ],
       "deadline": null,
-      "count": 45,
+      "count": 44,
       "latest": "2026-08-19"
     },
     {
