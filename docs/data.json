@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-25T01:18:16.855101+00:00",
-  "generated_human": "2026-08-25 01:18 UTC",
+  "generated_at": "2026-08-25T06:49:48.006346+00:00",
+  "generated_human": "2026-08-25 06:49 UTC",
   "demo": false,
   "items": [
     {
@@ -103,7 +103,7 @@
         "proceeding": "26-22"
       },
       "first_seen": "2026-08-25T01:18:16.855101+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:26110072656",
@@ -3524,7 +3524,7 @@
         "setaside": "SBA"
       },
       "first_seen": "2026-08-25T01:18:16.855101+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "SAM.gov:da82da9604cb462cb1f612cbaa42366c",
@@ -4020,7 +4020,7 @@
         "setaside": "SBA"
       },
       "first_seen": "2026-08-25T01:18:16.855101+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "SAM.gov:2e6a83d57d394eeb9d2e71d610b3c297",
@@ -4586,7 +4586,7 @@
       "url": "https://sam.gov/workspace/contract/opp/8ba382483ad8492188669c306ee94c3e/view",
       "agency": "DEPT OF DEFENSE",
       "identifier": "FA461026QDRON",
-      "date": "2026-08-07",
+      "date": "2026-08-06",
       "deadline": "2026-08-17",
       "summary": "30 SFS Dronebusters",
       "score": 35,
@@ -6629,17 +6629,17 @@
       "is_new": false
     },
     {
-      "id": "Regulations.gov:FAA-2023-0465-0003",
+      "id": "Regulations.gov:FAA-2026-10069-0001",
       "source": "Regulations.gov",
       "category": "regulatory",
       "type": "Document",
-      "title": "CAL Drone Applications LLC - Petition",
-      "url": "https://www.regulations.gov/document/FAA-2023-0465-0003",
+      "title": "Kansas Agricultural Drone Services, LLC - Exemption/Rulemaking",
+      "url": "https://www.regulations.gov/document/FAA-2026-10069-0001",
       "agency": "FAA",
-      "identifier": "FAA-2023-0465",
+      "identifier": "FAA-2026-10069",
       "date": "2026-08-17",
       "deadline": null,
-      "summary": "CAL Drone Applications LLC - Petition",
+      "summary": "Kansas Agricultural Drone Services, LLC - Exemption/Rulemaking",
       "score": 20,
       "domains": [
         "air"
@@ -6653,17 +6653,17 @@
       "is_new": false
     },
     {
-      "id": "Regulations.gov:FAA-2026-10069-0001",
+      "id": "Regulations.gov:FAA-2023-0465-0003",
       "source": "Regulations.gov",
       "category": "regulatory",
       "type": "Document",
-      "title": "Kansas Agricultural Drone Services, LLC - Exemption/Rulemaking",
-      "url": "https://www.regulations.gov/document/FAA-2026-10069-0001",
+      "title": "CAL Drone Applications LLC - Petition",
+      "url": "https://www.regulations.gov/document/FAA-2023-0465-0003",
       "agency": "FAA",
-      "identifier": "FAA-2026-10069",
+      "identifier": "FAA-2023-0465",
       "date": "2026-08-17",
       "deadline": null,
-      "summary": "Kansas Agricultural Drone Services, LLC - Exemption/Rulemaking",
+      "summary": "CAL Drone Applications LLC - Petition",
       "score": 20,
       "domains": [
         "air"
@@ -6941,33 +6941,6 @@
       "watchlist": null,
       "extra": {},
       "first_seen": "2026-08-06T14:11:41.063924+00:00",
-      "is_new": false
-    },
-    {
-      "id": "SAM.gov:74cf311659594fb6aa6b0bc1877bcbaa",
-      "source": "SAM.gov",
-      "category": "procurement",
-      "type": "Special Notice",
-      "title": "Notice of Intent to Sole Source- sUAS",
-      "url": "https://sam.gov/workspace/contract/opp/74cf311659594fb6aa6b0bc1877bcbaa/view",
-      "agency": "HOMELAND SECURITY, DEPARTMENT OF",
-      "identifier": "192126VHQ6TEC0033",
-      "date": "2026-08-04",
-      "deadline": "2026-08-10",
-      "summary": "Notice of Intent to Sole Source- sUAS",
-      "score": 20,
-      "domains": [
-        "air"
-      ],
-      "matched_terms": [
-        "suas"
-      ],
-      "watchlist": null,
-      "extra": {
-        "naics": "336411",
-        "setaside": "NONE"
-      },
-      "first_seen": "2026-08-04T19:39:24.965524+00:00",
       "is_new": false
     },
     {
@@ -7277,7 +7250,7 @@
         "setaside": "SBA"
       },
       "first_seen": "2026-08-25T01:18:16.855101+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "SAM.gov:a4f4ac7b6e48423689b6be554ee2f637",
@@ -7362,8 +7335,8 @@
     {
       "name": "SAM.gov",
       "status": "ok",
-      "detail": "54 kept",
-      "count": 54
+      "detail": "53 kept",
+      "count": 53
     },
     {
       "name": "CourtListener",
@@ -7379,16 +7352,16 @@
     }
   ],
   "stats": {
-    "total": 264,
-    "new": 4,
+    "total": 263,
+    "new": 0,
     "by_category": {
       "regulatory": 137,
-      "procurement": 114,
+      "procurement": 113,
       "litigation": 9,
       "legislative": 4
     },
     "by_domain": {
-      "air": 202,
+      "air": 201,
       "supply-chain": 110,
       "spectrum": 45,
       "ground": 14,
@@ -7398,7 +7371,7 @@
     "by_source": {
       "FCC ECFS": 92,
       "USAspending": 60,
-      "SAM.gov": 54,
+      "SAM.gov": 53,
       "Regulations.gov": 26,
       "Federal Register": 19,
       "CourtListener": 9,
