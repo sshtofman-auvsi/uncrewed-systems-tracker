@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-26T06:51:19.107277+00:00",
-  "generated_human": "2026-08-26 06:51 UTC",
+  "generated_at": "2026-08-26T12:54:03.583267+00:00",
+  "generated_human": "2026-08-26 12:54 UTC",
   "demo": false,
   "items": [
     {
@@ -2023,17 +2023,17 @@
       "is_new": false
     },
     {
-      "id": "Regulations.gov:FAA-2026-4558-1629",
+      "id": "Regulations.gov:FAA-2026-4558-1630",
       "source": "Regulations.gov",
       "category": "regulatory",
       "type": "Comment",
-      "title": "Comment on Designation – Restrict the Operation of Unmanned Aircraft in Close Proximity  to a Fixed Site Facility: Comment from Karin L",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1629",
+      "title": "Comment on Designation – Restrict the Operation of Unmanned Aircraft in Close Proximity  to a Fixed Site Facility: Comment from American Chemistry Council",
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1630",
       "agency": "FAA",
       "identifier": "FAA-2026-4558",
       "date": "2026-08-06",
       "deadline": null,
-      "summary": "Comment from Karin L",
+      "summary": "Comment from American Chemistry Council",
       "score": 80,
       "domains": [
         "air"
@@ -2049,8 +2049,8 @@
       "extra": {
         "docket_total_comments": 1669
       },
-      "first_seen": "2026-08-22T01:15:54.861588+00:00",
-      "is_new": false
+      "first_seen": "2026-08-26T12:54:03.583267+00:00",
+      "is_new": true
     },
     {
       "id": "FCC ECFS:26110069388",
@@ -2591,64 +2591,6 @@
       "is_new": false
     },
     {
-      "id": "FCC ECFS:1051812307908",
-      "source": "FCC ECFS",
-      "category": "regulatory",
-      "type": "Reply Comment",
-      "title": "Lower Colorado River Authority: REPLY TO COMMENTS (FCC 26-74)",
-      "url": "https://www.fcc.gov/ecfs/document/1051812307908/1",
-      "agency": "FCC",
-      "identifier": "FCC 26-74",
-      "date": "2026-05-19",
-      "deadline": null,
-      "summary": "",
-      "score": 80,
-      "domains": [
-        "air",
-        "spectrum",
-        "supply-chain"
-      ],
-      "matched_terms": [],
-      "watchlist": {
-        "key": "gn-26-74",
-        "label": "GN 26-74 (Unleashing American Drone Dominance)"
-      },
-      "extra": {
-        "proceeding": "26-74"
-      },
-      "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": false
-    },
-    {
-      "id": "FCC ECFS:10518639213118",
-      "source": "FCC ECFS",
-      "category": "regulatory",
-      "type": "Reply Comment",
-      "title": "Silvus Technologies Inc.: REPLY TO COMMENTS (FCC 26-74)",
-      "url": "https://www.fcc.gov/ecfs/document/10518639213118/1",
-      "agency": "FCC",
-      "identifier": "FCC 26-74",
-      "date": "2026-05-19",
-      "deadline": null,
-      "summary": "",
-      "score": 80,
-      "domains": [
-        "air",
-        "spectrum",
-        "supply-chain"
-      ],
-      "matched_terms": [],
-      "watchlist": {
-        "key": "gn-26-74",
-        "label": "GN 26-74 (Unleashing American Drone Dominance)"
-      },
-      "extra": {
-        "proceeding": "26-74"
-      },
-      "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": false
-    },
-    {
       "id": "FCC ECFS:1051813119257",
       "source": "FCC ECFS",
       "category": "regulatory",
@@ -2678,12 +2620,70 @@
       "is_new": false
     },
     {
+      "id": "FCC ECFS:1051812307908",
+      "source": "FCC ECFS",
+      "category": "regulatory",
+      "type": "Reply Comment",
+      "title": "Lower Colorado River Authority: REPLY TO COMMENTS (FCC 26-74)",
+      "url": "https://www.fcc.gov/ecfs/document/1051812307908/1",
+      "agency": "FCC",
+      "identifier": "FCC 26-74",
+      "date": "2026-05-19",
+      "deadline": null,
+      "summary": "",
+      "score": 80,
+      "domains": [
+        "air",
+        "spectrum",
+        "supply-chain"
+      ],
+      "matched_terms": [],
+      "watchlist": {
+        "key": "gn-26-74",
+        "label": "GN 26-74 (Unleashing American Drone Dominance)"
+      },
+      "extra": {
+        "proceeding": "26-74"
+      },
+      "first_seen": "2026-06-22T17:58:20.979820+00:00",
+      "is_new": false
+    },
+    {
       "id": "FCC ECFS:10518843201689",
       "source": "FCC ECFS",
       "category": "regulatory",
       "type": "Reply Comment",
       "title": "Connected Devices for America Coalition, E-ZPass Group, American Trucking Associations (ATA), International Bridge, Tunnel, and Turnpike Association (IBTTA), LoRa Alliance, National Retail Federation (NRF), RAIN Alliance Inc., Wi-Fi Alliance, WISPA – The Association for Broadband Without Boundaries, Wi-SUN Alliance: REPLY TO COMMENTS (FCC 26-74)",
       "url": "https://www.fcc.gov/ecfs/document/10518843201689/1",
+      "agency": "FCC",
+      "identifier": "FCC 26-74",
+      "date": "2026-05-19",
+      "deadline": null,
+      "summary": "",
+      "score": 80,
+      "domains": [
+        "air",
+        "spectrum",
+        "supply-chain"
+      ],
+      "matched_terms": [],
+      "watchlist": {
+        "key": "gn-26-74",
+        "label": "GN 26-74 (Unleashing American Drone Dominance)"
+      },
+      "extra": {
+        "proceeding": "26-74"
+      },
+      "first_seen": "2026-06-22T17:58:20.979820+00:00",
+      "is_new": false
+    },
+    {
+      "id": "FCC ECFS:10518639213118",
+      "source": "FCC ECFS",
+      "category": "regulatory",
+      "type": "Reply Comment",
+      "title": "Silvus Technologies Inc.: REPLY TO COMMENTS (FCC 26-74)",
+      "url": "https://www.fcc.gov/ecfs/document/10518639213118/1",
       "agency": "FCC",
       "identifier": "FCC 26-74",
       "date": "2026-05-19",
@@ -3026,12 +3026,12 @@
       "is_new": false
     },
     {
-      "id": "FCC ECFS:1051922013627",
+      "id": "FCC ECFS:105191782521525",
       "source": "FCC ECFS",
       "category": "regulatory",
       "type": "Reply Comment",
-      "title": "Ceres Air LLC, Elevon Aerial AG, Exedy Drones: REPLY TO COMMENTS (FCC 26-74)",
-      "url": "https://www.fcc.gov/ecfs/document/1051922013627/1",
+      "title": "Perennial Autonomy, Inc.: REPLY TO COMMENTS (FCC 26-74)",
+      "url": "https://www.fcc.gov/ecfs/document/105191782521525/1",
       "agency": "FCC",
       "identifier": "FCC 26-74",
       "date": "2026-05-19",
@@ -3055,12 +3055,12 @@
       "is_new": false
     },
     {
-      "id": "FCC ECFS:105191782521525",
+      "id": "FCC ECFS:1051922013627",
       "source": "FCC ECFS",
       "category": "regulatory",
       "type": "Reply Comment",
-      "title": "Perennial Autonomy, Inc.: REPLY TO COMMENTS (FCC 26-74)",
-      "url": "https://www.fcc.gov/ecfs/document/105191782521525/1",
+      "title": "Ceres Air LLC, Elevon Aerial AG, Exedy Drones: REPLY TO COMMENTS (FCC 26-74)",
+      "url": "https://www.fcc.gov/ecfs/document/1051922013627/1",
       "agency": "FCC",
       "identifier": "FCC 26-74",
       "date": "2026-05-19",
@@ -4568,7 +4568,7 @@
       "url": "https://sam.gov/workspace/contract/opp/8ba382483ad8492188669c306ee94c3e/view",
       "agency": "DEPT OF DEFENSE",
       "identifier": "FA461026QDRON",
-      "date": "2026-08-07",
+      "date": "2026-08-06",
       "deadline": "2026-08-17",
       "summary": "30 SFS Dronebusters",
       "score": 35,
@@ -5152,7 +5152,7 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-08-26T06:51:19.107277+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:W900KK26FA104",
@@ -6438,6 +6438,35 @@
       "is_new": false
     },
     {
+      "id": "Federal Register:2026-17375",
+      "source": "Federal Register",
+      "category": "regulatory",
+      "type": "Final Rule",
+      "title": "Safety Zone; Spring Lake, Fruitport, MI",
+      "url": "https://www.federalregister.gov/documents/2026/08/26/2026-17375/safety-zone-spring-lake-fruitport-mi",
+      "agency": "Homeland Security Department, Coast Guard",
+      "identifier": "Docket Number USCG-2026-1027",
+      "date": "2026-08-26",
+      "deadline": null,
+      "summary": "The Coast Guard is establishing a temporary safety zone for navigable waters on Spring Lake, in the vicinity of Fruitport, MI. The safety zone is needed to protect personnel, vessels, and the marine environment from potential hazards associated with an overwater aerial drone show. Entry of vessels or persons into this zone is prohibited unless specifically authorized by the Captain of the Port, Sector Lake Michigan, or their designated representative.",
+      "score": 20,
+      "domains": [
+        "air"
+      ],
+      "matched_terms": [
+        "drone"
+      ],
+      "watchlist": null,
+      "extra": {
+        "comment_url": null,
+        "dockets": [
+          "Docket Number USCG-2026-1027"
+        ]
+      },
+      "first_seen": "2026-08-26T12:54:03.583267+00:00",
+      "is_new": true
+    },
+    {
       "id": "Regulations.gov:FAA-2026-10533-0001",
       "source": "Regulations.gov",
       "category": "regulatory",
@@ -6803,33 +6832,6 @@
       "is_new": false
     },
     {
-      "id": "SAM.gov:ee885eb0879e456b856a09659da34552",
-      "source": "SAM.gov",
-      "category": "procurement",
-      "type": "Combined Synopsis",
-      "title": "Counter-sUAS Radar System Lease",
-      "url": "https://sam.gov/workspace/contract/opp/ee885eb0879e456b856a09659da34552/view",
-      "agency": "DEPT OF DEFENSE",
-      "identifier": "FA480326Q0102",
-      "date": "2026-08-13",
-      "deadline": "2026-08-31",
-      "summary": "Counter-sUAS Radar System Lease",
-      "score": 20,
-      "domains": [
-        "air"
-      ],
-      "matched_terms": [
-        "suas"
-      ],
-      "watchlist": null,
-      "extra": {
-        "naics": "334511",
-        "setaside": "SBA"
-      },
-      "first_seen": "2026-08-13T19:05:43.629737+00:00",
-      "is_new": false
-    },
-    {
       "id": "Regulations.gov:FAA-2026-9573-0003",
       "source": "Regulations.gov",
       "category": "regulatory",
@@ -7160,6 +7162,33 @@
       "is_new": false
     },
     {
+      "id": "SAM.gov:65b90705ab5349a9a49c3bf75b9f555f",
+      "source": "SAM.gov",
+      "category": "procurement",
+      "type": "Solicitation (RFP)",
+      "title": "Uncrewed Aircraft Systems (UAS) Services",
+      "url": "https://sam.gov/workspace/contract/opp/65b90705ab5349a9a49c3bf75b9f555f/view",
+      "agency": "COMMERCE, DEPARTMENT OF",
+      "identifier": "1305M226Q0069",
+      "date": "2026-08-26",
+      "deadline": "2026-09-08",
+      "summary": "Uncrewed Aircraft Systems (UAS) Services",
+      "score": 18,
+      "domains": [
+        "air"
+      ],
+      "matched_terms": [
+        "uas"
+      ],
+      "watchlist": null,
+      "extra": {
+        "naics": "541715",
+        "setaside": "SBA"
+      },
+      "first_seen": "2026-08-26T12:54:03.583267+00:00",
+      "is_new": true
+    },
+    {
       "id": "Regulations.gov:FAA-2026-10540-0001",
       "source": "Regulations.gov",
       "category": "regulatory",
@@ -7269,8 +7298,8 @@
     {
       "name": "Federal Register",
       "status": "ok",
-      "detail": "20 kept",
-      "count": 20
+      "detail": "21 kept",
+      "count": 21
     },
     {
       "name": "Regulations.gov",
@@ -7310,16 +7339,16 @@
     }
   ],
   "stats": {
-    "total": 262,
-    "new": 1,
+    "total": 263,
+    "new": 3,
     "by_category": {
-      "regulatory": 136,
+      "regulatory": 137,
       "procurement": 113,
       "litigation": 9,
       "legislative": 4
     },
     "by_domain": {
-      "air": 200,
+      "air": 201,
       "supply-chain": 110,
       "spectrum": 45,
       "defense": 13,
@@ -7331,7 +7360,7 @@
       "USAspending": 60,
       "SAM.gov": 53,
       "Regulations.gov": 25,
-      "Federal Register": 19,
+      "Federal Register": 20,
       "CourtListener": 9,
       "Congress.gov": 4
     }
@@ -7690,15 +7719,6 @@
       "url": "https://www.federalregister.gov/documents/2026/07/31/2026-15483/av-framework-updates-and-request-for-comments-on-interim-guidance"
     },
     {
-      "deadline": "2026-08-31",
-      "days": 5,
-      "title": "Counter-sUAS Radar System Lease",
-      "identifier": "FA480326Q0102",
-      "category": "procurement",
-      "source": "SAM.gov",
-      "url": "https://sam.gov/workspace/contract/opp/ee885eb0879e456b856a09659da34552/view"
-    },
-    {
       "deadline": "2026-09-01",
       "days": 6,
       "title": "sUAS Training Drone",
@@ -7760,6 +7780,15 @@
       "category": "procurement",
       "source": "SAM.gov",
       "url": "https://sam.gov/workspace/contract/opp/f4ebb5016b4a44f08be54fe21f0f42fe/view"
+    },
+    {
+      "deadline": "2026-09-08",
+      "days": 13,
+      "title": "Uncrewed Aircraft Systems (UAS) Services",
+      "identifier": "1305M226Q0069",
+      "category": "procurement",
+      "source": "SAM.gov",
+      "url": "https://sam.gov/workspace/contract/opp/65b90705ab5349a9a49c3bf75b9f555f/view"
     },
     {
       "deadline": "2026-09-11",
