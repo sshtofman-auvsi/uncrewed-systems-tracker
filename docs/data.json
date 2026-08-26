@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-26T01:21:43.238413+00:00",
-  "generated_human": "2026-08-26 01:21 UTC",
+  "generated_at": "2026-08-26T06:51:19.107277+00:00",
+  "generated_human": "2026-08-26 06:51 UTC",
   "demo": false,
   "items": [
     {
@@ -106,7 +106,7 @@
         "proceeding": "26-22"
       },
       "first_seen": "2026-08-26T01:21:43.238413+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:26110072976",
@@ -2079,7 +2079,7 @@
         "proceeding": "26-74"
       },
       "first_seen": "2026-08-26T01:21:43.238413+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:26110069384",
@@ -3539,37 +3539,6 @@
       "is_new": false
     },
     {
-      "id": "USAspending:70RSAT26FR0000009",
-      "source": "USAspending",
-      "category": "procurement",
-      "type": "Award",
-      "title": "THE MITRE CORPORATION: THE PURPOSE OF THIS REQUISITION IS TO COMMIT $750,000.00 FOR A NEW TASK ORDER UNDER 70RSAT20D00000001 FOR UNMANNED AIRCR",
-      "url": "https://www.usaspending.gov/award/CONT_AWD_70RSAT26FR0000009_7001_70RSAT26D00000001_7001",
-      "agency": "Department of Homeland Security",
-      "identifier": "70RSAT26FR0000009",
-      "date": "2026-03-24",
-      "deadline": null,
-      "summary": "THE PURPOSE OF THIS REQUISITION IS TO COMMIT $750,000.00 FOR A NEW TASK ORDER UNDER 70RSAT20D00000001 FOR UNMANNED AIRCRAFT SYSTEMS (UAS) AND COUNTER-UNMANNED AIRCRAFT SYSTEMS (C-UAS), PROVIDES DHS WITH DATA-DRIVEN INSIGHTS, OPERATIONAL RECOMMENDATIO",
-      "score": 66,
-      "domains": [
-        "air",
-        "defense"
-      ],
-      "matched_terms": [
-        "unmanned aircraft",
-        "uas",
-        "c-uas",
-        "counter-unmanned"
-      ],
-      "watchlist": null,
-      "extra": {
-        "amount": 3676836.0,
-        "award_type": "DELIVERY ORDER"
-      },
-      "first_seen": "2026-08-26T01:21:43.238413+00:00",
-      "is_new": true
-    },
-    {
       "id": "Federal Register:2026-13211",
       "source": "Federal Register",
       "category": "regulatory",
@@ -4218,33 +4187,6 @@
       "is_new": false
     },
     {
-      "id": "SAM.gov:c5a57833b0724671a664c6078e3d06dc",
-      "source": "SAM.gov",
-      "category": "procurement",
-      "type": "Sources Sought",
-      "title": "15--Skydio X10 Drone and Starter Kit for WAPA",
-      "url": "https://sam.gov/workspace/contract/opp/c5a57833b0724671a664c6078e3d06dc/view",
-      "agency": "ENERGY, DEPARTMENT OF",
-      "identifier": "89503026QWA000295",
-      "date": "2026-08-18",
-      "deadline": "2026-08-25",
-      "summary": "15--Skydio X10 Drone and Starter Kit for WAPA",
-      "score": 35,
-      "domains": [
-        "air"
-      ],
-      "matched_terms": [
-        "drone"
-      ],
-      "watchlist": null,
-      "extra": {
-        "naics": "336411",
-        "setaside": "SBA"
-      },
-      "first_seen": "2026-08-18T18:40:16.479992+00:00",
-      "is_new": false
-    },
-    {
       "id": "SAM.gov:b66f59f582a34113a9a668c49070477f",
       "source": "SAM.gov",
       "category": "procurement",
@@ -4626,7 +4568,7 @@
       "url": "https://sam.gov/workspace/contract/opp/8ba382483ad8492188669c306ee94c3e/view",
       "agency": "DEPT OF DEFENSE",
       "identifier": "FA461026QDRON",
-      "date": "2026-08-06",
+      "date": "2026-08-07",
       "deadline": "2026-08-17",
       "summary": "30 SFS Dronebusters",
       "score": 35,
@@ -5188,6 +5130,29 @@
       },
       "first_seen": "2026-07-31T02:54:03.245875+00:00",
       "is_new": false
+    },
+    {
+      "id": "USAspending:FA868926FB001",
+      "source": "USAspending",
+      "category": "procurement",
+      "type": "Award",
+      "title": "GENERAL ATOMICS AERONAUTICAL SYSTEMS, INC.: QATAR MQ-9B GREEN AC PURCHASE",
+      "url": "https://www.usaspending.gov/award/CONT_AWD_FA868926FB001_9700_FA868925DB001_9700",
+      "agency": "Department of Defense",
+      "identifier": "FA868926FB001",
+      "date": "2026-05-26",
+      "deadline": null,
+      "summary": "QATAR MQ-9B GREEN AC PURCHASE",
+      "score": 30,
+      "domains": [],
+      "matched_terms": [],
+      "watchlist": null,
+      "extra": {
+        "amount": 81930834.59,
+        "award_type": "DELIVERY ORDER"
+      },
+      "first_seen": "2026-08-26T06:51:19.107277+00:00",
+      "is_new": true
     },
     {
       "id": "USAspending:W900KK26FA104",
@@ -7328,8 +7293,8 @@
     {
       "name": "SAM.gov",
       "status": "ok",
-      "detail": "54 kept",
-      "count": 54
+      "detail": "53 kept",
+      "count": 53
     },
     {
       "name": "CourtListener",
@@ -7345,26 +7310,26 @@
     }
   ],
   "stats": {
-    "total": 263,
-    "new": 3,
+    "total": 262,
+    "new": 1,
     "by_category": {
       "regulatory": 136,
-      "procurement": 114,
+      "procurement": 113,
       "litigation": 9,
       "legislative": 4
     },
     "by_domain": {
-      "air": 202,
+      "air": 200,
       "supply-chain": 110,
       "spectrum": 45,
-      "defense": 14,
+      "defense": 13,
       "ground": 13,
       "maritime": 2
     },
     "by_source": {
       "FCC ECFS": 92,
       "USAspending": 60,
-      "SAM.gov": 54,
+      "SAM.gov": 53,
       "Regulations.gov": 25,
       "Federal Register": 19,
       "CourtListener": 9,
