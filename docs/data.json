@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-29T06:00:46.993514+00:00",
-  "generated_human": "2026-08-29 06:00 UTC",
+  "generated_at": "2026-08-29T12:38:22.268971+00:00",
+  "generated_human": "2026-08-29 12:38 UTC",
   "demo": false,
   "items": [
     {
@@ -2056,35 +2056,6 @@
       "is_new": false
     },
     {
-      "id": "FCC ECFS:26110069388",
-      "source": "FCC ECFS",
-      "category": "regulatory",
-      "type": "PETITION",
-      "title": "CTIA: PETITION (FCC 26-74)",
-      "url": "https://www.fcc.gov/ecfs/document/26110069388/1",
-      "agency": "FCC",
-      "identifier": "FCC 26-74",
-      "date": "2026-08-04",
-      "deadline": null,
-      "summary": "",
-      "score": 80,
-      "domains": [
-        "air",
-        "spectrum",
-        "supply-chain"
-      ],
-      "matched_terms": [],
-      "watchlist": {
-        "key": "gn-26-74",
-        "label": "GN 26-74 (Unleashing American Drone Dominance)"
-      },
-      "extra": {
-        "proceeding": "26-74"
-      },
-      "first_seen": "2026-08-27T07:57:56.307027+00:00",
-      "is_new": false
-    },
-    {
       "id": "FCC ECFS:26110069384",
       "source": "FCC ECFS",
       "category": "regulatory",
@@ -2111,6 +2082,35 @@
         "proceeding": "26-74"
       },
       "first_seen": "2026-08-07T18:58:44.285172+00:00",
+      "is_new": false
+    },
+    {
+      "id": "FCC ECFS:26110069388",
+      "source": "FCC ECFS",
+      "category": "regulatory",
+      "type": "PETITION",
+      "title": "CTIA: PETITION (FCC 26-74)",
+      "url": "https://www.fcc.gov/ecfs/document/26110069388/1",
+      "agency": "FCC",
+      "identifier": "FCC 26-74",
+      "date": "2026-08-04",
+      "deadline": null,
+      "summary": "",
+      "score": 80,
+      "domains": [
+        "air",
+        "spectrum",
+        "supply-chain"
+      ],
+      "matched_terms": [],
+      "watchlist": {
+        "key": "gn-26-74",
+        "label": "GN 26-74 (Unleashing American Drone Dominance)"
+      },
+      "extra": {
+        "proceeding": "26-74"
+      },
+      "first_seen": "2026-08-27T07:57:56.307027+00:00",
       "is_new": false
     },
     {
@@ -3029,12 +3029,12 @@
       "is_new": false
     },
     {
-      "id": "FCC ECFS:1051922013627",
+      "id": "FCC ECFS:105191782521525",
       "source": "FCC ECFS",
       "category": "regulatory",
       "type": "Reply Comment",
-      "title": "Ceres Air LLC, Elevon Aerial AG, Exedy Drones: REPLY TO COMMENTS (FCC 26-74)",
-      "url": "https://www.fcc.gov/ecfs/document/1051922013627/1",
+      "title": "Perennial Autonomy, Inc.: REPLY TO COMMENTS (FCC 26-74)",
+      "url": "https://www.fcc.gov/ecfs/document/105191782521525/1",
       "agency": "FCC",
       "identifier": "FCC 26-74",
       "date": "2026-05-19",
@@ -3058,12 +3058,12 @@
       "is_new": false
     },
     {
-      "id": "FCC ECFS:105191782521525",
+      "id": "FCC ECFS:1051922013627",
       "source": "FCC ECFS",
       "category": "regulatory",
       "type": "Reply Comment",
-      "title": "Perennial Autonomy, Inc.: REPLY TO COMMENTS (FCC 26-74)",
-      "url": "https://www.fcc.gov/ecfs/document/105191782521525/1",
+      "title": "Ceres Air LLC, Elevon Aerial AG, Exedy Drones: REPLY TO COMMENTS (FCC 26-74)",
+      "url": "https://www.fcc.gov/ecfs/document/1051922013627/1",
       "agency": "FCC",
       "identifier": "FCC 26-74",
       "date": "2026-05-19",
@@ -3890,7 +3890,7 @@
         "setaside": "SBA"
       },
       "first_seen": "2026-08-29T06:00:46.993514+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "SAM.gov:dba6a3fb0ee34fd3860cb4bd708d1bf1",
@@ -4442,33 +4442,6 @@
       "is_new": false
     },
     {
-      "id": "SAM.gov:2b5fb5b033914f0b804e9ea2eea29897",
-      "source": "SAM.gov",
-      "category": "procurement",
-      "type": "Sources Sought",
-      "title": "FPV Drone System with Lights and Picatinny rail to mount accessories",
-      "url": "https://sam.gov/workspace/contract/opp/2b5fb5b033914f0b804e9ea2eea29897/view",
-      "agency": "DEPT OF DEFENSE",
-      "identifier": "FA487726QA191",
-      "date": "2026-08-12",
-      "deadline": "2026-08-14",
-      "summary": "FPV Drone System with Lights and Picatinny rail to mount accessories",
-      "score": 35,
-      "domains": [
-        "air"
-      ],
-      "matched_terms": [
-        "drone"
-      ],
-      "watchlist": null,
-      "extra": {
-        "naics": "336411",
-        "setaside": null
-      },
-      "first_seen": "2026-08-12T19:03:06.612125+00:00",
-      "is_new": false
-    },
-    {
       "id": "SAM.gov:cd6fea492fef48a3b99b7154d8536181",
       "source": "SAM.gov",
       "category": "procurement",
@@ -4592,29 +4565,6 @@
       "is_new": false
     },
     {
-      "id": "SAM.gov:5bf783b1388846eb961d8f936815aedd",
-      "source": "SAM.gov",
-      "category": "procurement",
-      "type": "Solicitation (RFP)",
-      "title": "DroneShield Brand Name Initial Response Kit (IRK)",
-      "url": "https://sam.gov/workspace/contract/opp/5bf783b1388846eb961d8f936815aedd/view",
-      "agency": "DEPT OF DEFENSE",
-      "identifier": "FA3099-26-Q-0019",
-      "date": "2026-08-10",
-      "deadline": "2026-08-14",
-      "summary": "DroneShield Brand Name Initial Response Kit (IRK)",
-      "score": 35,
-      "domains": [],
-      "matched_terms": [],
-      "watchlist": null,
-      "extra": {
-        "naics": "334511",
-        "setaside": "SBA"
-      },
-      "first_seen": "2026-08-11T01:48:13.000324+00:00",
-      "is_new": false
-    },
-    {
       "id": "SAM.gov:231668c988f04e459fc4a911d89adaf9",
       "source": "SAM.gov",
       "category": "procurement",
@@ -4700,7 +4650,7 @@
       "url": "https://sam.gov/workspace/contract/opp/8ba382483ad8492188669c306ee94c3e/view",
       "agency": "DEPT OF DEFENSE",
       "identifier": "FA461026QDRON",
-      "date": "2026-08-07",
+      "date": "2026-08-06",
       "deadline": "2026-08-17",
       "summary": "30 SFS Dronebusters",
       "score": 35,
@@ -6297,7 +6247,7 @@
         "award_type": "DEFINITIVE CONTRACT"
       },
       "first_seen": "2026-08-29T06:00:46.993514+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:M803",
@@ -6788,17 +6738,17 @@
       "is_new": false
     },
     {
-      "id": "Regulations.gov:FAA-2023-0465-0003",
+      "id": "Regulations.gov:FAA-2026-10069-0001",
       "source": "Regulations.gov",
       "category": "regulatory",
       "type": "Document",
-      "title": "CAL Drone Applications LLC - Petition",
-      "url": "https://www.regulations.gov/document/FAA-2023-0465-0003",
+      "title": "Kansas Agricultural Drone Services, LLC - Exemption/Rulemaking",
+      "url": "https://www.regulations.gov/document/FAA-2026-10069-0001",
       "agency": "FAA",
-      "identifier": "FAA-2023-0465",
+      "identifier": "FAA-2026-10069",
       "date": "2026-08-17",
       "deadline": null,
-      "summary": "CAL Drone Applications LLC - Petition",
+      "summary": "Kansas Agricultural Drone Services, LLC - Exemption/Rulemaking",
       "score": 20,
       "domains": [
         "air"
@@ -6812,17 +6762,17 @@
       "is_new": false
     },
     {
-      "id": "Regulations.gov:FAA-2026-10069-0001",
+      "id": "Regulations.gov:FAA-2023-0465-0003",
       "source": "Regulations.gov",
       "category": "regulatory",
       "type": "Document",
-      "title": "Kansas Agricultural Drone Services, LLC - Exemption/Rulemaking",
-      "url": "https://www.regulations.gov/document/FAA-2026-10069-0001",
+      "title": "CAL Drone Applications LLC - Petition",
+      "url": "https://www.regulations.gov/document/FAA-2023-0465-0003",
       "agency": "FAA",
-      "identifier": "FAA-2026-10069",
+      "identifier": "FAA-2023-0465",
       "date": "2026-08-17",
       "deadline": null,
-      "summary": "Kansas Agricultural Drone Services, LLC - Exemption/Rulemaking",
+      "summary": "CAL Drone Applications LLC - Petition",
       "score": 20,
       "domains": [
         "air"
@@ -7452,8 +7402,8 @@
     {
       "name": "SAM.gov",
       "status": "ok",
-      "detail": "61 kept",
-      "count": 61
+      "detail": "59 kept",
+      "count": 59
     },
     {
       "name": "CourtListener",
@@ -7469,16 +7419,16 @@
     }
   ],
   "stats": {
-    "total": 269,
-    "new": 2,
+    "total": 267,
+    "new": 0,
     "by_category": {
       "regulatory": 140,
-      "procurement": 116,
+      "procurement": 114,
       "litigation": 9,
       "legislative": 4
     },
     "by_domain": {
-      "air": 207,
+      "air": 206,
       "supply-chain": 110,
       "spectrum": 45,
       "ground": 12,
@@ -7487,7 +7437,7 @@
     },
     "by_source": {
       "FCC ECFS": 92,
-      "SAM.gov": 61,
+      "SAM.gov": 59,
       "USAspending": 55,
       "Regulations.gov": 28,
       "Federal Register": 20,
