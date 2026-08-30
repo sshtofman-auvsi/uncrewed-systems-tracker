@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-30T04:07:23.055744+00:00",
-  "generated_human": "2026-08-30 04:07 UTC",
+  "generated_at": "2026-08-30T11:26:28.247277+00:00",
+  "generated_human": "2026-08-30 11:26 UTC",
   "demo": false,
   "items": [
     {
@@ -5097,7 +5097,7 @@
         "award_type": "DEFINITIVE CONTRACT"
       },
       "first_seen": "2026-08-30T04:07:23.055744+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:W31P4Q24FE001",
@@ -6717,17 +6717,17 @@
       "is_new": false
     },
     {
-      "id": "Regulations.gov:FAA-2026-10069-0001",
+      "id": "Regulations.gov:FAA-2023-0465-0003",
       "source": "Regulations.gov",
       "category": "regulatory",
       "type": "Document",
-      "title": "Kansas Agricultural Drone Services, LLC - Exemption/Rulemaking",
-      "url": "https://www.regulations.gov/document/FAA-2026-10069-0001",
+      "title": "CAL Drone Applications LLC - Petition",
+      "url": "https://www.regulations.gov/document/FAA-2023-0465-0003",
       "agency": "FAA",
-      "identifier": "FAA-2026-10069",
+      "identifier": "FAA-2023-0465",
       "date": "2026-08-17",
       "deadline": null,
-      "summary": "Kansas Agricultural Drone Services, LLC - Exemption/Rulemaking",
+      "summary": "CAL Drone Applications LLC - Petition",
       "score": 20,
       "domains": [
         "air"
@@ -6741,17 +6741,17 @@
       "is_new": false
     },
     {
-      "id": "Regulations.gov:FAA-2023-0465-0003",
+      "id": "Regulations.gov:FAA-2026-10069-0001",
       "source": "Regulations.gov",
       "category": "regulatory",
       "type": "Document",
-      "title": "CAL Drone Applications LLC - Petition",
-      "url": "https://www.regulations.gov/document/FAA-2023-0465-0003",
+      "title": "Kansas Agricultural Drone Services, LLC - Exemption/Rulemaking",
+      "url": "https://www.regulations.gov/document/FAA-2026-10069-0001",
       "agency": "FAA",
-      "identifier": "FAA-2023-0465",
+      "identifier": "FAA-2026-10069",
       "date": "2026-08-17",
       "deadline": null,
-      "summary": "CAL Drone Applications LLC - Petition",
+      "summary": "Kansas Agricultural Drone Services, LLC - Exemption/Rulemaking",
       "score": 20,
       "domains": [
         "air"
@@ -7399,7 +7399,7 @@
   ],
   "stats": {
     "total": 266,
-    "new": 1,
+    "new": 0,
     "by_category": {
       "regulatory": 140,
       "procurement": 113,
