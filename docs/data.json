@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-31T04:12:34.138702+00:00",
-  "generated_human": "2026-08-31 04:12 UTC",
+  "generated_at": "2026-08-31T12:56:56.316203+00:00",
+  "generated_human": "2026-08-31 12:56 UTC",
   "demo": false,
   "items": [
     {
@@ -2056,35 +2056,6 @@
       "is_new": false
     },
     {
-      "id": "FCC ECFS:26110069384",
-      "source": "FCC ECFS",
-      "category": "regulatory",
-      "type": "PETITION FOR RECONSIDERATION",
-      "title": "CTIA: PETITION FOR RECONSIDERATION (FCC 26-74)",
-      "url": "https://www.fcc.gov/ecfs/document/26110069384/1",
-      "agency": "FCC",
-      "identifier": "FCC 26-74",
-      "date": "2026-08-04",
-      "deadline": null,
-      "summary": "",
-      "score": 80,
-      "domains": [
-        "air",
-        "spectrum",
-        "supply-chain"
-      ],
-      "matched_terms": [],
-      "watchlist": {
-        "key": "gn-26-74",
-        "label": "GN 26-74 (Unleashing American Drone Dominance)"
-      },
-      "extra": {
-        "proceeding": "26-74"
-      },
-      "first_seen": "2026-08-07T18:58:44.285172+00:00",
-      "is_new": false
-    },
-    {
       "id": "FCC ECFS:26110069388",
       "source": "FCC ECFS",
       "category": "regulatory",
@@ -2111,6 +2082,35 @@
         "proceeding": "26-74"
       },
       "first_seen": "2026-08-27T07:57:56.307027+00:00",
+      "is_new": false
+    },
+    {
+      "id": "FCC ECFS:26110069384",
+      "source": "FCC ECFS",
+      "category": "regulatory",
+      "type": "PETITION FOR RECONSIDERATION",
+      "title": "CTIA: PETITION FOR RECONSIDERATION (FCC 26-74)",
+      "url": "https://www.fcc.gov/ecfs/document/26110069384/1",
+      "agency": "FCC",
+      "identifier": "FCC 26-74",
+      "date": "2026-08-04",
+      "deadline": null,
+      "summary": "",
+      "score": 80,
+      "domains": [
+        "air",
+        "spectrum",
+        "supply-chain"
+      ],
+      "matched_terms": [],
+      "watchlist": {
+        "key": "gn-26-74",
+        "label": "GN 26-74 (Unleashing American Drone Dominance)"
+      },
+      "extra": {
+        "proceeding": "26-74"
+      },
+      "first_seen": "2026-08-07T18:58:44.285172+00:00",
       "is_new": false
     },
     {
@@ -3029,12 +3029,12 @@
       "is_new": false
     },
     {
-      "id": "FCC ECFS:105191782521525",
+      "id": "FCC ECFS:1051922013627",
       "source": "FCC ECFS",
       "category": "regulatory",
       "type": "Reply Comment",
-      "title": "Perennial Autonomy, Inc.: REPLY TO COMMENTS (FCC 26-74)",
-      "url": "https://www.fcc.gov/ecfs/document/105191782521525/1",
+      "title": "Ceres Air LLC, Elevon Aerial AG, Exedy Drones: REPLY TO COMMENTS (FCC 26-74)",
+      "url": "https://www.fcc.gov/ecfs/document/1051922013627/1",
       "agency": "FCC",
       "identifier": "FCC 26-74",
       "date": "2026-05-19",
@@ -3058,12 +3058,12 @@
       "is_new": false
     },
     {
-      "id": "FCC ECFS:1051922013627",
+      "id": "FCC ECFS:105191782521525",
       "source": "FCC ECFS",
       "category": "regulatory",
       "type": "Reply Comment",
-      "title": "Ceres Air LLC, Elevon Aerial AG, Exedy Drones: REPLY TO COMMENTS (FCC 26-74)",
-      "url": "https://www.fcc.gov/ecfs/document/1051922013627/1",
+      "title": "Perennial Autonomy, Inc.: REPLY TO COMMENTS (FCC 26-74)",
+      "url": "https://www.fcc.gov/ecfs/document/105191782521525/1",
       "agency": "FCC",
       "identifier": "FCC 26-74",
       "date": "2026-05-19",
@@ -3947,6 +3947,33 @@
       },
       "first_seen": "2026-08-12T07:27:54.577518+00:00",
       "is_new": false
+    },
+    {
+      "id": "SAM.gov:dd08e7dfee96418399594eaadd644e9f",
+      "source": "SAM.gov",
+      "category": "procurement",
+      "type": "Special Notice",
+      "title": "Notice of Intent to Sole Source- NEROS Drone Parts and Training",
+      "url": "https://sam.gov/workspace/contract/opp/dd08e7dfee96418399594eaadd644e9f/view",
+      "agency": "DEPT OF DEFENSE",
+      "identifier": "FA558726SSNEROSDrones",
+      "date": "2026-08-31",
+      "deadline": "2026-09-07",
+      "summary": "Notice of Intent to Sole Source- NEROS Drone Parts and Training",
+      "score": 35,
+      "domains": [
+        "air"
+      ],
+      "matched_terms": [
+        "drone"
+      ],
+      "watchlist": null,
+      "extra": {
+        "naics": "334519",
+        "setaside": "NONE"
+      },
+      "first_seen": "2026-08-31T12:56:56.316203+00:00",
+      "is_new": true
     },
     {
       "id": "SAM.gov:a460d948625b465cbdb406e63b068747",
@@ -6395,6 +6422,78 @@
       "is_new": false
     },
     {
+      "id": "Regulations.gov:FAA-2026-10892-0001",
+      "source": "Regulations.gov",
+      "category": "regulatory",
+      "type": "Document",
+      "title": "California Drone Cleaning LLC - Petition",
+      "url": "https://www.regulations.gov/document/FAA-2026-10892-0001",
+      "agency": "FAA",
+      "identifier": "FAA-2026-10892",
+      "date": "2026-08-31",
+      "deadline": null,
+      "summary": "California Drone Cleaning LLC - Petition",
+      "score": 20,
+      "domains": [
+        "air"
+      ],
+      "matched_terms": [
+        "drone"
+      ],
+      "watchlist": null,
+      "extra": {},
+      "first_seen": "2026-08-31T12:56:56.316203+00:00",
+      "is_new": true
+    },
+    {
+      "id": "Regulations.gov:FAA-2026-10895-0001",
+      "source": "Regulations.gov",
+      "category": "regulatory",
+      "type": "Document",
+      "title": "California AG Drone system Inc - Petition",
+      "url": "https://www.regulations.gov/document/FAA-2026-10895-0001",
+      "agency": "FAA",
+      "identifier": "FAA-2026-10895",
+      "date": "2026-08-31",
+      "deadline": null,
+      "summary": "California AG Drone system Inc - Petition",
+      "score": 20,
+      "domains": [
+        "air"
+      ],
+      "matched_terms": [
+        "drone"
+      ],
+      "watchlist": null,
+      "extra": {},
+      "first_seen": "2026-08-31T12:56:56.316203+00:00",
+      "is_new": true
+    },
+    {
+      "id": "Regulations.gov:FAA-2026-10891-0001",
+      "source": "Regulations.gov",
+      "category": "regulatory",
+      "type": "Document",
+      "title": "Drone Dudes - Petition",
+      "url": "https://www.regulations.gov/document/FAA-2026-10891-0001",
+      "agency": "FAA",
+      "identifier": "FAA-2026-10891",
+      "date": "2026-08-31",
+      "deadline": null,
+      "summary": "Drone Dudes - Petition",
+      "score": 20,
+      "domains": [
+        "air"
+      ],
+      "matched_terms": [
+        "drone"
+      ],
+      "watchlist": null,
+      "extra": {},
+      "first_seen": "2026-08-31T12:56:56.316203+00:00",
+      "is_new": true
+    },
+    {
       "id": "Regulations.gov:FAA-2023-0727-0008",
       "source": "Regulations.gov",
       "category": "regulatory",
@@ -6717,17 +6816,17 @@
       "is_new": false
     },
     {
-      "id": "Regulations.gov:FAA-2026-10069-0001",
+      "id": "Regulations.gov:FAA-2023-0465-0003",
       "source": "Regulations.gov",
       "category": "regulatory",
       "type": "Document",
-      "title": "Kansas Agricultural Drone Services, LLC - Exemption/Rulemaking",
-      "url": "https://www.regulations.gov/document/FAA-2026-10069-0001",
+      "title": "CAL Drone Applications LLC - Petition",
+      "url": "https://www.regulations.gov/document/FAA-2023-0465-0003",
       "agency": "FAA",
-      "identifier": "FAA-2026-10069",
+      "identifier": "FAA-2023-0465",
       "date": "2026-08-17",
       "deadline": null,
-      "summary": "Kansas Agricultural Drone Services, LLC - Exemption/Rulemaking",
+      "summary": "CAL Drone Applications LLC - Petition",
       "score": 20,
       "domains": [
         "air"
@@ -6741,17 +6840,17 @@
       "is_new": false
     },
     {
-      "id": "Regulations.gov:FAA-2023-0465-0003",
+      "id": "Regulations.gov:FAA-2026-10069-0001",
       "source": "Regulations.gov",
       "category": "regulatory",
       "type": "Document",
-      "title": "CAL Drone Applications LLC - Petition",
-      "url": "https://www.regulations.gov/document/FAA-2023-0465-0003",
+      "title": "Kansas Agricultural Drone Services, LLC - Exemption/Rulemaking",
+      "url": "https://www.regulations.gov/document/FAA-2026-10069-0001",
       "agency": "FAA",
-      "identifier": "FAA-2023-0465",
+      "identifier": "FAA-2026-10069",
       "date": "2026-08-17",
       "deadline": null,
-      "summary": "CAL Drone Applications LLC - Petition",
+      "summary": "Kansas Agricultural Drone Services, LLC - Exemption/Rulemaking",
       "score": 20,
       "domains": [
         "air"
@@ -6882,30 +6981,6 @@
       "watchlist": null,
       "extra": {},
       "first_seen": "2026-08-13T13:12:52.032606+00:00",
-      "is_new": false
-    },
-    {
-      "id": "Regulations.gov:FAA-2026-9573-0003",
-      "source": "Regulations.gov",
-      "category": "regulatory",
-      "type": "Document",
-      "title": "Mission Drone Services LLC - Amendment",
-      "url": "https://www.regulations.gov/document/FAA-2026-9573-0003",
-      "agency": "FAA",
-      "identifier": "FAA-2026-9573",
-      "date": "2026-08-12",
-      "deadline": null,
-      "summary": "Mission Drone Services LLC - Amendment",
-      "score": 20,
-      "domains": [
-        "air"
-      ],
-      "matched_terms": [
-        "drone"
-      ],
-      "watchlist": null,
-      "extra": {},
-      "first_seen": "2026-08-13T02:03:16.596113+00:00",
       "is_new": false
     },
     {
@@ -7363,8 +7438,8 @@
     {
       "name": "Regulations.gov",
       "status": "ok",
-      "detail": "41 kept",
-      "count": 41
+      "detail": "43 kept",
+      "count": 43
     },
     {
       "name": "FCC ECFS",
@@ -7381,8 +7456,8 @@
     {
       "name": "SAM.gov",
       "status": "ok",
-      "detail": "59 kept",
-      "count": 59
+      "detail": "60 kept",
+      "count": 60
     },
     {
       "name": "CourtListener",
@@ -7398,16 +7473,16 @@
     }
   ],
   "stats": {
-    "total": 266,
-    "new": 0,
+    "total": 269,
+    "new": 4,
     "by_category": {
-      "regulatory": 140,
-      "procurement": 113,
+      "regulatory": 142,
+      "procurement": 114,
       "litigation": 9,
       "legislative": 4
     },
     "by_domain": {
-      "air": 206,
+      "air": 209,
       "supply-chain": 110,
       "spectrum": 45,
       "ground": 12,
@@ -7416,9 +7491,9 @@
     },
     "by_source": {
       "FCC ECFS": 92,
-      "SAM.gov": 59,
+      "SAM.gov": 60,
       "USAspending": 54,
-      "Regulations.gov": 28,
+      "Regulations.gov": 30,
       "Federal Register": 20,
       "CourtListener": 9,
       "Congress.gov": 4
@@ -7776,6 +7851,15 @@
       "category": "procurement",
       "source": "SAM.gov",
       "url": "https://sam.gov/workspace/contract/opp/f4ebb5016b4a44f08be54fe21f0f42fe/view"
+    },
+    {
+      "deadline": "2026-09-07",
+      "days": 7,
+      "title": "Notice of Intent to Sole Source- NEROS Drone Parts and Training",
+      "identifier": "FA558726SSNEROSDrones",
+      "category": "procurement",
+      "source": "SAM.gov",
+      "url": "https://sam.gov/workspace/contract/opp/dd08e7dfee96418399594eaadd644e9f/view"
     },
     {
       "deadline": "2026-09-08",
