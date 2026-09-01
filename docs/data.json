@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-01T16:12:41.977744+00:00",
-  "generated_human": "2026-09-01 16:12 UTC",
+  "generated_at": "2026-09-01T20:41:05.625734+00:00",
+  "generated_human": "2026-09-01 20:41 UTC",
   "demo": false,
   "items": [
     {
@@ -106,7 +106,7 @@
         "proceeding": "26-22"
       },
       "first_seen": "2026-09-01T16:12:41.977744+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:26110074154",
@@ -138,7 +138,7 @@
         "proceeding": "26-22"
       },
       "first_seen": "2026-09-01T16:12:41.977744+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:26110073762",
@@ -2092,7 +2092,7 @@
         "docket_total_comments": 1669
       },
       "first_seen": "2026-09-01T16:12:41.977744+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:26110069384",
@@ -3068,12 +3068,12 @@
       "is_new": false
     },
     {
-      "id": "FCC ECFS:105191782521525",
+      "id": "FCC ECFS:1051922013627",
       "source": "FCC ECFS",
       "category": "regulatory",
       "type": "Reply Comment",
-      "title": "Perennial Autonomy, Inc.: REPLY TO COMMENTS (FCC 26-74)",
-      "url": "https://www.fcc.gov/ecfs/document/105191782521525/1",
+      "title": "Ceres Air LLC, Elevon Aerial AG, Exedy Drones: REPLY TO COMMENTS (FCC 26-74)",
+      "url": "https://www.fcc.gov/ecfs/document/1051922013627/1",
       "agency": "FCC",
       "identifier": "FCC 26-74",
       "date": "2026-05-19",
@@ -3093,8 +3093,8 @@
       "extra": {
         "proceeding": "26-74"
       },
-      "first_seen": "2026-09-01T11:15:06.324377+00:00",
-      "is_new": false
+      "first_seen": "2026-09-01T20:41:05.625734+00:00",
+      "is_new": true
     },
     {
       "id": "Regulations.gov:FAA-2026-4558-0001",
@@ -6468,7 +6468,7 @@
       "watchlist": null,
       "extra": {},
       "first_seen": "2026-09-01T16:12:41.977744+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "Regulations.gov:FAA-2026-10892-0001",
@@ -6865,17 +6865,17 @@
       "is_new": false
     },
     {
-      "id": "Regulations.gov:FAA-2023-0465-0003",
+      "id": "Regulations.gov:FAA-2026-10069-0001",
       "source": "Regulations.gov",
       "category": "regulatory",
       "type": "Document",
-      "title": "CAL Drone Applications LLC - Petition",
-      "url": "https://www.regulations.gov/document/FAA-2023-0465-0003",
+      "title": "Kansas Agricultural Drone Services, LLC - Exemption/Rulemaking",
+      "url": "https://www.regulations.gov/document/FAA-2026-10069-0001",
       "agency": "FAA",
-      "identifier": "FAA-2023-0465",
+      "identifier": "FAA-2026-10069",
       "date": "2026-08-17",
       "deadline": null,
-      "summary": "CAL Drone Applications LLC - Petition",
+      "summary": "Kansas Agricultural Drone Services, LLC - Exemption/Rulemaking",
       "score": 20,
       "domains": [
         "air"
@@ -6889,17 +6889,17 @@
       "is_new": false
     },
     {
-      "id": "Regulations.gov:FAA-2026-10069-0001",
+      "id": "Regulations.gov:FAA-2023-0465-0003",
       "source": "Regulations.gov",
       "category": "regulatory",
       "type": "Document",
-      "title": "Kansas Agricultural Drone Services, LLC - Exemption/Rulemaking",
-      "url": "https://www.regulations.gov/document/FAA-2026-10069-0001",
+      "title": "CAL Drone Applications LLC - Petition",
+      "url": "https://www.regulations.gov/document/FAA-2023-0465-0003",
       "agency": "FAA",
-      "identifier": "FAA-2026-10069",
+      "identifier": "FAA-2023-0465",
       "date": "2026-08-17",
       "deadline": null,
-      "summary": "Kansas Agricultural Drone Services, LLC - Exemption/Rulemaking",
+      "summary": "CAL Drone Applications LLC - Petition",
       "score": 20,
       "domains": [
         "air"
@@ -7291,6 +7291,33 @@
       "is_new": false
     },
     {
+      "id": "SAM.gov:4ef85c8c57de4e0e83f4f9dfefc59249",
+      "source": "SAM.gov",
+      "category": "procurement",
+      "type": "Solicitation (RFP)",
+      "title": "A--Uncrewed Aircraft Systems (UAS) Services",
+      "url": "https://sam.gov/workspace/contract/opp/4ef85c8c57de4e0e83f4f9dfefc59249/view",
+      "agency": "COMMERCE, DEPARTMENT OF",
+      "identifier": "1305M226Q0069",
+      "date": "2026-09-01",
+      "deadline": "2026-09-09",
+      "summary": "A--Uncrewed Aircraft Systems (UAS) Services",
+      "score": 18,
+      "domains": [
+        "air"
+      ],
+      "matched_terms": [
+        "uas"
+      ],
+      "watchlist": null,
+      "extra": {
+        "naics": "541715",
+        "setaside": "SBA"
+      },
+      "first_seen": "2026-09-01T20:41:05.625734+00:00",
+      "is_new": true
+    },
+    {
       "id": "SAM.gov:9672e5e15216441f9569d5ffb9bf13ff",
       "source": "SAM.gov",
       "category": "procurement",
@@ -7372,33 +7399,6 @@
       "is_new": false
     },
     {
-      "id": "SAM.gov:65b90705ab5349a9a49c3bf75b9f555f",
-      "source": "SAM.gov",
-      "category": "procurement",
-      "type": "Solicitation (RFP)",
-      "title": "Uncrewed Aircraft Systems (UAS) Services",
-      "url": "https://sam.gov/workspace/contract/opp/65b90705ab5349a9a49c3bf75b9f555f/view",
-      "agency": "COMMERCE, DEPARTMENT OF",
-      "identifier": "1305M226Q0069",
-      "date": "2026-08-26",
-      "deadline": "2026-09-08",
-      "summary": "Uncrewed Aircraft Systems (UAS) Services",
-      "score": 18,
-      "domains": [
-        "air"
-      ],
-      "matched_terms": [
-        "uas"
-      ],
-      "watchlist": null,
-      "extra": {
-        "naics": "541715",
-        "setaside": "SBA"
-      },
-      "first_seen": "2026-08-26T12:54:03.583267+00:00",
-      "is_new": false
-    },
-    {
       "id": "Regulations.gov:FAA-2026-10540-0001",
       "source": "Regulations.gov",
       "category": "regulatory",
@@ -7448,33 +7448,6 @@
       },
       "first_seen": "2026-08-25T01:18:16.855101+00:00",
       "is_new": false
-    },
-    {
-      "id": "SAM.gov:1dd228678c8e4520881937e1a251887a",
-      "source": "SAM.gov",
-      "category": "procurement",
-      "type": "Solicitation (RFP)",
-      "title": "Battalion Reconnaissance UAS",
-      "url": "https://sam.gov/workspace/contract/opp/1dd228678c8e4520881937e1a251887a/view",
-      "agency": "DEPT OF DEFENSE",
-      "identifier": "W58RGZ-26-S-C001-006",
-      "date": "2026-08-03",
-      "deadline": "2026-08-28",
-      "summary": "Battalion Reconnaissance UAS",
-      "score": 18,
-      "domains": [
-        "air"
-      ],
-      "matched_terms": [
-        "uas"
-      ],
-      "watchlist": null,
-      "extra": {
-        "naics": "336411",
-        "setaside": null
-      },
-      "first_seen": "2026-08-04T02:36:09.761685+00:00",
-      "is_new": false
     }
   ],
   "sources": [
@@ -7505,8 +7478,8 @@
     {
       "name": "SAM.gov",
       "status": "ok",
-      "detail": "57 kept",
-      "count": 57
+      "detail": "56 kept",
+      "count": 56
     },
     {
       "name": "CourtListener",
@@ -7522,16 +7495,16 @@
     }
   ],
   "stats": {
-    "total": 270,
-    "new": 4,
+    "total": 269,
+    "new": 2,
     "by_category": {
       "regulatory": 145,
-      "procurement": 112,
+      "procurement": 111,
       "litigation": 9,
       "legislative": 4
     },
     "by_domain": {
-      "air": 212,
+      "air": 211,
       "supply-chain": 110,
       "spectrum": 45,
       "defense": 11,
@@ -7540,7 +7513,7 @@
     },
     "by_source": {
       "FCC ECFS": 92,
-      "SAM.gov": 57,
+      "SAM.gov": 56,
       "USAspending": 55,
       "Regulations.gov": 31,
       "Federal Register": 22,
@@ -7848,15 +7821,6 @@
       "url": "https://sam.gov/workspace/contract/opp/bc6282d783a44e0e9e24cee6d553011b/view"
     },
     {
-      "deadline": "2026-09-08",
-      "days": 7,
-      "title": "Uncrewed Aircraft Systems (UAS) Services",
-      "identifier": "1305M226Q0069",
-      "category": "procurement",
-      "source": "SAM.gov",
-      "url": "https://sam.gov/workspace/contract/opp/65b90705ab5349a9a49c3bf75b9f555f/view"
-    },
-    {
       "deadline": "2026-09-09",
       "days": 8,
       "title": "Counter Drone Detect and Defeat System",
@@ -7864,6 +7828,15 @@
       "category": "procurement",
       "source": "SAM.gov",
       "url": "https://sam.gov/workspace/contract/opp/ddefeb1ff5c24b04863a156077f29cba/view"
+    },
+    {
+      "deadline": "2026-09-09",
+      "days": 8,
+      "title": "A--Uncrewed Aircraft Systems (UAS) Services",
+      "identifier": "1305M226Q0069",
+      "category": "procurement",
+      "source": "SAM.gov",
+      "url": "https://sam.gov/workspace/contract/opp/4ef85c8c57de4e0e83f4f9dfefc59249/view"
     },
     {
       "deadline": "2026-09-11",
