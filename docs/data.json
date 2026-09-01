@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-31T22:38:23.590071+00:00",
-  "generated_human": "2026-08-31 22:38 UTC",
+  "generated_at": "2026-09-01T04:00:06.000510+00:00",
+  "generated_human": "2026-09-01 04:00 UTC",
   "demo": false,
   "items": [
     {
@@ -108,7 +108,7 @@
         "proceeding": "26-74"
       },
       "first_seen": "2026-08-31T22:38:23.590071+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:26110073604",
@@ -139,7 +139,7 @@
         "proceeding": "26-22"
       },
       "first_seen": "2026-08-31T22:38:23.590071+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:26110073694",
@@ -171,7 +171,7 @@
         "proceeding": "26-22"
       },
       "first_seen": "2026-08-31T22:38:23.590071+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:26110073743",
@@ -199,7 +199,7 @@
         "proceeding": "26-22"
       },
       "first_seen": "2026-08-31T22:38:23.590071+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:26110073795",
@@ -231,7 +231,7 @@
         "proceeding": "26-22"
       },
       "first_seen": "2026-08-31T22:38:23.590071+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:26110073836",
@@ -262,7 +262,7 @@
         "proceeding": "26-22"
       },
       "first_seen": "2026-08-31T22:38:23.590071+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:26110073750",
@@ -290,7 +290,7 @@
         "proceeding": "26-22"
       },
       "first_seen": "2026-08-31T22:38:23.590071+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:26110073756",
@@ -318,7 +318,7 @@
         "proceeding": "26-22"
       },
       "first_seen": "2026-08-31T22:38:23.590071+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:26110073731",
@@ -350,7 +350,7 @@
         "proceeding": "26-22"
       },
       "first_seen": "2026-08-31T22:38:23.590071+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:26110073782",
@@ -381,7 +381,7 @@
         "proceeding": "26-22"
       },
       "first_seen": "2026-08-31T22:38:23.590071+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:26110073663",
@@ -412,7 +412,7 @@
         "proceeding": "26-22"
       },
       "first_seen": "2026-08-31T22:38:23.590071+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:26110073633",
@@ -446,7 +446,7 @@
         "proceeding": "26-22"
       },
       "first_seen": "2026-08-31T22:38:23.590071+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:26110073672",
@@ -478,7 +478,7 @@
         "proceeding": "26-22"
       },
       "first_seen": "2026-08-31T22:38:23.590071+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:26110073580",
@@ -2058,17 +2058,17 @@
       "is_new": false
     },
     {
-      "id": "Regulations.gov:FAA-2026-4558-1630",
+      "id": "Regulations.gov:FAA-2026-4558-1629",
       "source": "Regulations.gov",
       "category": "regulatory",
       "type": "Comment",
-      "title": "Comment on Designation – Restrict the Operation of Unmanned Aircraft in Close Proximity  to a Fixed Site Facility: Comment from American Chemistry Council",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1630",
+      "title": "Comment on Designation – Restrict the Operation of Unmanned Aircraft in Close Proximity  to a Fixed Site Facility: Comment from Karin L",
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1629",
       "agency": "FAA",
       "identifier": "FAA-2026-4558",
       "date": "2026-08-06",
       "deadline": null,
-      "summary": "Comment from American Chemistry Council",
+      "summary": "Comment from Karin L",
       "score": 80,
       "domains": [
         "air"
@@ -2084,7 +2084,36 @@
       "extra": {
         "docket_total_comments": 1669
       },
-      "first_seen": "2026-08-31T22:38:23.590071+00:00",
+      "first_seen": "2026-09-01T04:00:06.000510+00:00",
+      "is_new": true
+    },
+    {
+      "id": "FCC ECFS:26110069388",
+      "source": "FCC ECFS",
+      "category": "regulatory",
+      "type": "PETITION",
+      "title": "CTIA: PETITION (FCC 26-74)",
+      "url": "https://www.fcc.gov/ecfs/document/26110069388/1",
+      "agency": "FCC",
+      "identifier": "FCC 26-74",
+      "date": "2026-08-04",
+      "deadline": null,
+      "summary": "",
+      "score": 80,
+      "domains": [
+        "air",
+        "spectrum",
+        "supply-chain"
+      ],
+      "matched_terms": [],
+      "watchlist": {
+        "key": "gn-26-74",
+        "label": "GN 26-74 (Unleashing American Drone Dominance)"
+      },
+      "extra": {
+        "proceeding": "26-74"
+      },
+      "first_seen": "2026-09-01T04:00:06.000510+00:00",
       "is_new": true
     },
     {
@@ -2115,35 +2144,6 @@
       },
       "first_seen": "2026-08-07T18:58:44.285172+00:00",
       "is_new": false
-    },
-    {
-      "id": "FCC ECFS:26110069389",
-      "source": "FCC ECFS",
-      "category": "regulatory",
-      "type": "PETITION",
-      "title": "CTIA: PETITION (FCC 26-74)",
-      "url": "https://www.fcc.gov/ecfs/document/26110069389/1",
-      "agency": "FCC",
-      "identifier": "FCC 26-74",
-      "date": "2026-08-04",
-      "deadline": null,
-      "summary": "",
-      "score": 80,
-      "domains": [
-        "air",
-        "spectrum",
-        "supply-chain"
-      ],
-      "matched_terms": [],
-      "watchlist": {
-        "key": "gn-26-74",
-        "label": "GN 26-74 (Unleashing American Drone Dominance)"
-      },
-      "extra": {
-        "proceeding": "26-74"
-      },
-      "first_seen": "2026-08-31T22:38:23.590071+00:00",
-      "is_new": true
     },
     {
       "id": "Federal Register:2026-15659",
@@ -3061,12 +3061,12 @@
       "is_new": false
     },
     {
-      "id": "FCC ECFS:105191782521525",
+      "id": "FCC ECFS:1051922013627",
       "source": "FCC ECFS",
       "category": "regulatory",
       "type": "Reply Comment",
-      "title": "Perennial Autonomy, Inc.: REPLY TO COMMENTS (FCC 26-74)",
-      "url": "https://www.fcc.gov/ecfs/document/105191782521525/1",
+      "title": "Ceres Air LLC, Elevon Aerial AG, Exedy Drones: REPLY TO COMMENTS (FCC 26-74)",
+      "url": "https://www.fcc.gov/ecfs/document/1051922013627/1",
       "agency": "FCC",
       "identifier": "FCC 26-74",
       "date": "2026-05-19",
@@ -3086,8 +3086,8 @@
       "extra": {
         "proceeding": "26-74"
       },
-      "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": false
+      "first_seen": "2026-09-01T04:00:06.000510+00:00",
+      "is_new": true
     },
     {
       "id": "Regulations.gov:FAA-2026-4558-0001",
@@ -3149,6 +3149,35 @@
       },
       "first_seen": "2026-08-01T08:23:41.032699+00:00",
       "is_new": false
+    },
+    {
+      "id": "CourtListener:72313063",
+      "source": "CourtListener",
+      "category": "litigation",
+      "type": "Court Docket",
+      "title": "SZ DJI Technology Co., Ltd., et al. v. Federal Communications Commission, et al.",
+      "url": "https://www.courtlistener.com/docket/72313063/sz-dji-technology-co-ltd-et-al-v-federal-communications-commission/",
+      "agency": "COURT OF APPEALS FOR THE NINTH CIRCUIT",
+      "identifier": "26-1029",
+      "date": "2026-02-20",
+      "deadline": null,
+      "summary": "SZ DJI Technology Co., Ltd., et al. v. Federal Communications Commission, et al.",
+      "score": 80,
+      "domains": [
+        "air",
+        "supply-chain"
+      ],
+      "matched_terms": [
+        "dji",
+        "26-1029"
+      ],
+      "watchlist": {
+        "key": "dji-ca9",
+        "label": "DJI petition (9th Circuit, 26-1029)"
+      },
+      "extra": {},
+      "first_seen": "2026-09-01T04:00:06.000510+00:00",
+      "is_new": true
     },
     {
       "id": "Congress.gov:119-s-3481",
@@ -3245,6 +3274,32 @@
       "is_new": false
     },
     {
+      "id": "CourtListener:72502129",
+      "source": "CourtListener",
+      "category": "litigation",
+      "type": "Court Docket",
+      "title": "Amazon.com Services, LLC v. Perplexity AI, Inc.",
+      "url": "https://www.courtlistener.com/docket/72502129/amazoncom-services-llc-v-perplexity-ai-inc/",
+      "agency": "COURT OF APPEALS FOR THE NINTH CIRCUIT",
+      "identifier": "26-1444",
+      "date": "2026-03-11",
+      "deadline": null,
+      "summary": "Amazon.com Services, LLC v. Perplexity AI, Inc.",
+      "score": 70,
+      "domains": [
+        "supply-chain",
+        "air"
+      ],
+      "matched_terms": [],
+      "watchlist": {
+        "key": "dji-ca9",
+        "label": "DJI petition (9th Circuit, 26-1029)"
+      },
+      "extra": {},
+      "first_seen": "2026-09-01T04:00:06.000510+00:00",
+      "is_new": true
+    },
+    {
       "id": "CourtListener:71665018",
       "source": "CourtListener",
       "category": "litigation",
@@ -3297,6 +3352,136 @@
       "extra": {},
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
       "is_new": false
+    },
+    {
+      "id": "CourtListener:69153875",
+      "source": "CourtListener",
+      "category": "litigation",
+      "type": "Court Docket",
+      "title": "Knife Rights, Inc., et al. v. Bonta",
+      "url": "https://www.courtlistener.com/docket/69153875/knife-rights-inc-et-al-v-bonta/",
+      "agency": "COURT OF APPEALS FOR THE NINTH CIRCUIT",
+      "identifier": "24-5536",
+      "date": "2024-09-11",
+      "deadline": null,
+      "summary": "Knife Rights, Inc., et al. v. Bonta",
+      "score": 70,
+      "domains": [
+        "supply-chain",
+        "air"
+      ],
+      "matched_terms": [],
+      "watchlist": {
+        "key": "dji-ca9",
+        "label": "DJI petition (9th Circuit, 26-1029)"
+      },
+      "extra": {},
+      "first_seen": "2026-09-01T04:00:06.000510+00:00",
+      "is_new": true
+    },
+    {
+      "id": "CourtListener:67042850",
+      "source": "CourtListener",
+      "category": "litigation",
+      "type": "Court Docket",
+      "title": "United States v. Ramesh Balwani",
+      "url": "https://www.courtlistener.com/docket/67042850/united-states-v-ramesh-balwani/",
+      "agency": "COURT OF APPEALS FOR THE NINTH CIRCUIT",
+      "identifier": "22-10338",
+      "date": "2022-12-21",
+      "deadline": null,
+      "summary": "United States v. Ramesh Balwani",
+      "score": 70,
+      "domains": [
+        "supply-chain",
+        "air"
+      ],
+      "matched_terms": [],
+      "watchlist": {
+        "key": "dji-ca9",
+        "label": "DJI petition (9th Circuit, 26-1029)"
+      },
+      "extra": {},
+      "first_seen": "2026-09-01T04:00:06.000510+00:00",
+      "is_new": true
+    },
+    {
+      "id": "CourtListener:4139710",
+      "source": "CourtListener",
+      "category": "litigation",
+      "type": "Court Docket",
+      "title": "Gregory Yount v. S.M.R. Jewell",
+      "url": "https://www.courtlistener.com/docket/4139710/gregory-yount-v-smr-jewell/",
+      "agency": "COURT OF APPEALS FOR THE NINTH CIRCUIT",
+      "identifier": "14-17374",
+      "date": "2014-12-03",
+      "deadline": null,
+      "summary": "2380 Other Personal Property Damage",
+      "score": 70,
+      "domains": [
+        "supply-chain",
+        "air"
+      ],
+      "matched_terms": [],
+      "watchlist": {
+        "key": "dji-ca9",
+        "label": "DJI petition (9th Circuit, 26-1029)"
+      },
+      "extra": {},
+      "first_seen": "2026-09-01T04:00:06.000510+00:00",
+      "is_new": true
+    },
+    {
+      "id": "CourtListener:6225353",
+      "source": "CourtListener",
+      "category": "litigation",
+      "type": "Court Docket",
+      "title": "United States v. Steven Zinnel",
+      "url": "https://www.courtlistener.com/docket/6225353/united-states-v-steven-zinnel/",
+      "agency": "COURT OF APPEALS FOR THE NINTH CIRCUIT",
+      "identifier": "14-10141",
+      "date": "2014-03-25",
+      "deadline": null,
+      "summary": "United States v. Steven Zinnel",
+      "score": 70,
+      "domains": [
+        "supply-chain",
+        "air"
+      ],
+      "matched_terms": [],
+      "watchlist": {
+        "key": "dji-ca9",
+        "label": "DJI petition (9th Circuit, 26-1029)"
+      },
+      "extra": {},
+      "first_seen": "2026-09-01T04:00:06.000510+00:00",
+      "is_new": true
+    },
+    {
+      "id": "CourtListener:4139469",
+      "source": "CourtListener",
+      "category": "litigation",
+      "type": "Court Docket",
+      "title": "Padres Hacia Una Vida Mejor v. Lisa Jackson",
+      "url": "https://www.courtlistener.com/docket/4139469/padres-hacia-una-vida-mejor-v-lisa-jackson/",
+      "agency": "COURT OF APPEALS FOR THE NINTH CIRCUIT",
+      "identifier": "13-15633",
+      "date": "2013-04-04",
+      "deadline": null,
+      "summary": "2890 Other Statutory Actions",
+      "score": 70,
+      "domains": [
+        "supply-chain",
+        "air"
+      ],
+      "matched_terms": [],
+      "watchlist": {
+        "key": "dji-ca9",
+        "label": "DJI petition (9th Circuit, 26-1029)"
+      },
+      "extra": {},
+      "first_seen": "2026-09-01T04:00:06.000510+00:00",
+      "is_new": true
     },
     {
       "id": "SAM.gov:7b8200aba1fd407abc45c0fffbfd4f78",
@@ -4495,7 +4680,7 @@
       "url": "https://sam.gov/workspace/contract/opp/8ba382483ad8492188669c306ee94c3e/view",
       "agency": "DEPT OF DEFENSE",
       "identifier": "FA461026QDRON",
-      "date": "2026-08-06",
+      "date": "2026-08-07",
       "deadline": "2026-08-17",
       "summary": "30 SFS Dronebusters",
       "score": 35,
@@ -4835,29 +5020,6 @@
         "setaside": null
       },
       "first_seen": "2026-07-07T19:18:20.451500+00:00",
-      "is_new": false
-    },
-    {
-      "id": "SAM.gov:07a6292f97f540eab6359092fd3519cf",
-      "source": "SAM.gov",
-      "category": "procurement",
-      "type": "Combined Synopsis",
-      "title": "Drones (JROTC edition) - Classroom",
-      "url": "https://sam.gov/workspace/contract/opp/07a6292f97f540eab6359092fd3519cf/view",
-      "agency": "DEPT OF DEFENSE",
-      "identifier": "W911S226U3572",
-      "date": "2026-07-02",
-      "deadline": "2026-07-13",
-      "summary": "Drones (JROTC edition) - Classroom",
-      "score": 35,
-      "domains": [],
-      "matched_terms": [],
-      "watchlist": null,
-      "extra": {
-        "naics": "336411",
-        "setaside": "SBA"
-      },
-      "first_seen": "2026-07-02T18:19:03.065344+00:00",
       "is_new": false
     },
     {
@@ -6634,17 +6796,17 @@
       "is_new": false
     },
     {
-      "id": "Regulations.gov:FAA-2026-10069-0001",
+      "id": "Regulations.gov:FAA-2023-0465-0003",
       "source": "Regulations.gov",
       "category": "regulatory",
       "type": "Document",
-      "title": "Kansas Agricultural Drone Services, LLC - Exemption/Rulemaking",
-      "url": "https://www.regulations.gov/document/FAA-2026-10069-0001",
+      "title": "CAL Drone Applications LLC - Petition",
+      "url": "https://www.regulations.gov/document/FAA-2023-0465-0003",
       "agency": "FAA",
-      "identifier": "FAA-2026-10069",
+      "identifier": "FAA-2023-0465",
       "date": "2026-08-17",
       "deadline": null,
-      "summary": "Kansas Agricultural Drone Services, LLC - Exemption/Rulemaking",
+      "summary": "CAL Drone Applications LLC - Petition",
       "score": 20,
       "domains": [
         "air"
@@ -6658,17 +6820,17 @@
       "is_new": false
     },
     {
-      "id": "Regulations.gov:FAA-2023-0465-0003",
+      "id": "Regulations.gov:FAA-2026-10069-0001",
       "source": "Regulations.gov",
       "category": "regulatory",
       "type": "Document",
-      "title": "CAL Drone Applications LLC - Petition",
-      "url": "https://www.regulations.gov/document/FAA-2023-0465-0003",
+      "title": "Kansas Agricultural Drone Services, LLC - Exemption/Rulemaking",
+      "url": "https://www.regulations.gov/document/FAA-2026-10069-0001",
       "agency": "FAA",
-      "identifier": "FAA-2023-0465",
+      "identifier": "FAA-2026-10069",
       "date": "2026-08-17",
       "deadline": null,
-      "summary": "CAL Drone Applications LLC - Petition",
+      "summary": "Kansas Agricultural Drone Services, LLC - Exemption/Rulemaking",
       "score": 20,
       "domains": [
         "air"
@@ -7084,7 +7246,7 @@
         "setaside": "SBA"
       },
       "first_seen": "2026-08-31T22:38:23.590071+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "SAM.gov:66e541bd982444198c8b01c1de2ac17d",
@@ -7274,14 +7436,14 @@
     {
       "name": "SAM.gov",
       "status": "ok",
-      "detail": "60 kept",
-      "count": 60
+      "detail": "59 kept",
+      "count": 59
     },
     {
       "name": "CourtListener",
       "status": "ok",
-      "detail": "2 kept; 1 query error(s)",
-      "count": 2
+      "detail": "9 kept",
+      "count": 9
     },
     {
       "name": "USAspending",
@@ -7291,17 +7453,17 @@
     }
   ],
   "stats": {
-    "total": 262,
-    "new": 16,
+    "total": 268,
+    "new": 10,
     "by_category": {
       "regulatory": 142,
-      "procurement": 114,
-      "legislative": 4,
-      "litigation": 2
+      "procurement": 113,
+      "litigation": 9,
+      "legislative": 4
     },
     "by_domain": {
-      "air": 202,
-      "supply-chain": 103,
+      "air": 209,
+      "supply-chain": 110,
       "spectrum": 45,
       "defense": 11,
       "ground": 11,
@@ -7309,12 +7471,12 @@
     },
     "by_source": {
       "FCC ECFS": 92,
-      "SAM.gov": 60,
+      "SAM.gov": 59,
       "USAspending": 54,
       "Regulations.gov": 30,
       "Federal Register": 20,
-      "Congress.gov": 4,
-      "CourtListener": 2
+      "CourtListener": 9,
+      "Congress.gov": 4
     }
   },
   "watchlist": [
@@ -7356,6 +7518,19 @@
       "deadline": null,
       "count": 44,
       "latest": "2026-08-31"
+    },
+    {
+      "key": "dji-ca9",
+      "label": "DJI petition (9th Circuit, 26-1029)",
+      "category": "litigation",
+      "agency": "",
+      "domain": [
+        "supply-chain",
+        "air"
+      ],
+      "deadline": null,
+      "count": 7,
+      "latest": "2026-03-11"
     },
     {
       "key": "build-america-250",
@@ -7483,97 +7658,12 @@
       "deadline": null,
       "count": 0,
       "latest": ""
-    },
-    {
-      "key": "dji-ca9",
-      "label": "DJI petition (9th Circuit, 26-1029)",
-      "category": "litigation",
-      "agency": "",
-      "domain": [
-        "supply-chain",
-        "air"
-      ],
-      "deadline": null,
-      "count": 0,
-      "latest": ""
     }
   ],
   "deadlines": [
     {
-      "deadline": "2026-08-31",
-      "days": 0,
-      "title": "50mm weapon based Air Defense Counter-Unmanned Aircraft System (C-UAS)",
-      "identifier": "W15QKN-26-X-1C9P",
-      "category": "procurement",
-      "source": "SAM.gov",
-      "url": "https://sam.gov/workspace/contract/opp/fe9fa43b9c374a4689cb45d5de124c25/view"
-    },
-    {
-      "deadline": "2026-08-31",
-      "days": 0,
-      "title": "Fixed-Wing Vertical Take-Off and Landing (VTOL) small Unmanned Aircraft System (sUAS) WingtraRay \"or Equal",
-      "identifier": "FA805126Q4007",
-      "category": "procurement",
-      "source": "SAM.gov",
-      "url": "https://sam.gov/workspace/contract/opp/7b8200aba1fd407abc45c0fffbfd4f78/view"
-    },
-    {
-      "deadline": "2026-08-31",
-      "days": 0,
-      "title": "INDUSTRY DAY FOR GROUP 1 AND GROUP 2 UNMANNED AIRCRAFT SYSTEM (UAS) TRAINING, MISSION PLANNING, MISSION REHEARSAL, SIMULATION, AND QUALIFICATION MANAGEMENT SYSTEMS",
-      "identifier": "N00019-26-PMA-263-0999",
-      "category": "procurement",
-      "source": "SAM.gov",
-      "url": "https://sam.gov/workspace/contract/opp/8268da7209564560804b3e65345d2a98/view"
-    },
-    {
-      "deadline": "2026-08-31",
-      "days": 0,
-      "title": "Unmanned Underwater Vehicle (UUV) Operator and Maintainer Training",
-      "identifier": "N0018926QL3810001",
-      "category": "procurement",
-      "source": "SAM.gov",
-      "url": "https://sam.gov/workspace/contract/opp/03394860579e405281e9c0595a009f18/view"
-    },
-    {
-      "deadline": "2026-08-31",
-      "days": 0,
-      "title": "Z1QA--Requirement-Drone Power Wash Service-South and East Tower  VA Medical Center Miami",
-      "identifier": "36C24826Q1136",
-      "category": "procurement",
-      "source": "SAM.gov",
-      "url": "https://sam.gov/workspace/contract/opp/834aed07771545d6953d687dfd735cb1/view"
-    },
-    {
-      "deadline": "2026-08-31",
-      "days": 0,
-      "title": "Intent to Acquire Sole Source - Axon by Dedrone RF-560 fixed and mobile sensors",
-      "identifier": "cdcfb9cab1f84627ae724dbeea1b7225",
-      "category": "procurement",
-      "source": "SAM.gov",
-      "url": "https://sam.gov/workspace/contract/opp/cdcfb9cab1f84627ae724dbeea1b7225/view"
-    },
-    {
-      "deadline": "2026-08-31",
-      "days": 0,
-      "title": "AV Framework Updates and Request for Comments on Interim Guidance",
-      "identifier": "Docket No. NHTSA-2026-1552",
-      "category": "regulatory",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/07/31/2026-15483/av-framework-updates-and-request-for-comments-on-interim-guidance"
-    },
-    {
-      "deadline": "2026-08-31",
-      "days": 0,
-      "title": "UAS Brand Name Skydio",
-      "identifier": "15A00026Q00000092",
-      "category": "procurement",
-      "source": "SAM.gov",
-      "url": "https://sam.gov/workspace/contract/opp/9672e5e15216441f9569d5ffb9bf13ff/view"
-    },
-    {
       "deadline": "2026-09-01",
-      "days": 1,
+      "days": 0,
       "title": "sUAS Training Drone",
       "identifier": "FA302026Q0105",
       "category": "procurement",
@@ -7582,7 +7672,7 @@
     },
     {
       "deadline": "2026-09-02",
-      "days": 2,
+      "days": 1,
       "title": "Seeking Comment on Prohibiting the Importation and Marketing of Certain Foreign-Produced Military-Grade Uncrewed Aircraft Systems (UAS) and UAS Critical Components for Non-U.S. Government, Including Those With Swarming Capabilities",
       "identifier": "PSHSB & OET: PS Docket No. 26-189",
       "category": "regulatory",
@@ -7591,7 +7681,7 @@
     },
     {
       "deadline": "2026-09-02",
-      "days": 2,
+      "days": 1,
       "title": "SOURCES SOUGHT NOTICE for Brand-Name or Equal requirement for Vector Dagger and Hammer sUAS drones bundles",
       "identifier": "W911YP26QA013",
       "category": "procurement",
@@ -7600,7 +7690,7 @@
     },
     {
       "deadline": "2026-09-02",
-      "days": 2,
+      "days": 1,
       "title": "INL PAKISTAN: UNMANNED AIRCRAFT SYSTEMS (UAS)",
       "identifier": "191NLE26Q0118",
       "category": "procurement",
@@ -7609,7 +7699,7 @@
     },
     {
       "deadline": "2026-09-03",
-      "days": 3,
+      "days": 2,
       "title": "AstroMax UAS",
       "identifier": "W911S226U4324",
       "category": "procurement",
@@ -7618,7 +7708,7 @@
     },
     {
       "deadline": "2026-09-04",
-      "days": 4,
+      "days": 3,
       "title": "Multirotor small Unmanned Aircraft Systems (sUASs), Skydio “Or Equal”",
       "identifier": "FA805126Q4008",
       "category": "procurement",
@@ -7627,7 +7717,7 @@
     },
     {
       "deadline": "2026-09-04",
-      "days": 4,
+      "days": 3,
       "title": "Drone",
       "identifier": "W911S226U4322",
       "category": "procurement",
@@ -7636,7 +7726,7 @@
     },
     {
       "deadline": "2026-09-04",
-      "days": 4,
+      "days": 3,
       "title": "PAO UAS purchase",
       "identifier": "27_08",
       "category": "procurement",
@@ -7645,7 +7735,7 @@
     },
     {
       "deadline": "2026-09-05",
-      "days": 5,
+      "days": 4,
       "title": "DroneBuster 5 w/ PNT",
       "identifier": "FA527026QA051",
       "category": "procurement",
@@ -7654,7 +7744,7 @@
     },
     {
       "deadline": "2026-09-05",
-      "days": 5,
+      "days": 4,
       "title": "Counter-UAS Authority for State, Local, Tribal, and Territorial Law Enforcement and Correctional Agencies",
       "identifier": "FBI-2026-0001",
       "category": "regulatory",
@@ -7663,7 +7753,7 @@
     },
     {
       "deadline": "2026-09-07",
-      "days": 7,
+      "days": 6,
       "title": "Acquisition of Unmanned Aircraft System (UAS) for U.S. Embassy Quito, Ecuador",
       "identifier": "19GE5026Q0131",
       "category": "procurement",
@@ -7672,7 +7762,7 @@
     },
     {
       "deadline": "2026-09-07",
-      "days": 7,
+      "days": 6,
       "title": "Notice of Intent to Sole Source- NEROS Drone Parts and Training",
       "identifier": "FA558726SSNEROSDrones",
       "category": "procurement",
@@ -7681,7 +7771,7 @@
     },
     {
       "deadline": "2026-09-08",
-      "days": 8,
+      "days": 7,
       "title": "Radio Altimeter Test Set, Part Number: ALT-8000 in support of the MQ-4C Triton Unmanned Aircraft Systems (UAS) program.",
       "identifier": "N6833526Q1196",
       "category": "procurement",
@@ -7690,7 +7780,7 @@
     },
     {
       "deadline": "2026-09-08",
-      "days": 8,
+      "days": 7,
       "title": "Uncrewed Aircraft Systems (UAS) Services",
       "identifier": "1305M226Q0069",
       "category": "procurement",
@@ -7699,7 +7789,7 @@
     },
     {
       "deadline": "2026-09-09",
-      "days": 9,
+      "days": 8,
       "title": "Counter Drone Detect and Defeat System",
       "identifier": "FA446026Q0050",
       "category": "procurement",
@@ -7708,7 +7798,7 @@
     },
     {
       "deadline": "2026-09-11",
-      "days": 11,
+      "days": 10,
       "title": "5.56mm Counter-small Unmanned Aircraft System (C-sUAS) Ammunition",
       "identifier": "M67854-26-I-5206",
       "category": "procurement",
@@ -7717,7 +7807,7 @@
     },
     {
       "deadline": "2026-09-17",
-      "days": 17,
+      "days": 16,
       "title": "APC-FY26-000226 FY26 JSD Axon Dedrone",
       "identifier": "15M10226QA4700237",
       "category": "procurement",
@@ -7726,7 +7816,7 @@
     },
     {
       "deadline": "2026-10-12",
-      "days": 42,
+      "days": 41,
       "title": "RFI - Explosive Testing Capability with Unmanned Aerial System (UAS)",
       "identifier": "19AQMM-26-RFI-1003",
       "category": "procurement",
@@ -7735,7 +7825,7 @@
     },
     {
       "deadline": "2031-05-28",
-      "days": 1731,
+      "days": 1730,
       "title": "INVITATION TO PARTICIPATE IN THE DEPARTMENT OF WAR DRONE OTA CONSORTIUM - AMENDMENT 0001",
       "identifier": "W58RGZ-26-2-SN01-0001",
       "category": "procurement",
@@ -7744,7 +7834,7 @@
     },
     {
       "deadline": "2031-08-03",
-      "days": 1798,
+      "days": 1797,
       "title": "Drone Marketplace Onboarding of Group 3 UAS",
       "identifier": "W58RGZ-26-S-C001-0008",
       "category": "procurement",
@@ -7753,7 +7843,7 @@
     },
     {
       "deadline": "2031-08-03",
-      "days": 1798,
+      "days": 1797,
       "title": "Call for Solutions (CFS): Drone Marketplace Onboarding of US Payloads, Software, Components, and Enablers/Accessories",
       "identifier": "W58RGZ-26-S-C001-0007",
       "category": "procurement",
