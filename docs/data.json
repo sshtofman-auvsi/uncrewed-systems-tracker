@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-01T04:00:06.000510+00:00",
-  "generated_human": "2026-09-01 04:00 UTC",
+  "generated_at": "2026-09-01T11:15:06.324377+00:00",
+  "generated_human": "2026-09-01 11:15 UTC",
   "demo": false,
   "items": [
     {
@@ -2058,17 +2058,17 @@
       "is_new": false
     },
     {
-      "id": "Regulations.gov:FAA-2026-4558-1629",
+      "id": "Regulations.gov:FAA-2026-4558-1630",
       "source": "Regulations.gov",
       "category": "regulatory",
       "type": "Comment",
-      "title": "Comment on Designation – Restrict the Operation of Unmanned Aircraft in Close Proximity  to a Fixed Site Facility: Comment from Karin L",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1629",
+      "title": "Comment on Designation – Restrict the Operation of Unmanned Aircraft in Close Proximity  to a Fixed Site Facility: Comment from American Chemistry Council",
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1630",
       "agency": "FAA",
       "identifier": "FAA-2026-4558",
       "date": "2026-08-06",
       "deadline": null,
-      "summary": "Comment from Karin L",
+      "summary": "Comment from American Chemistry Council",
       "score": 80,
       "domains": [
         "air"
@@ -2084,36 +2084,7 @@
       "extra": {
         "docket_total_comments": 1669
       },
-      "first_seen": "2026-09-01T04:00:06.000510+00:00",
-      "is_new": true
-    },
-    {
-      "id": "FCC ECFS:26110069388",
-      "source": "FCC ECFS",
-      "category": "regulatory",
-      "type": "PETITION",
-      "title": "CTIA: PETITION (FCC 26-74)",
-      "url": "https://www.fcc.gov/ecfs/document/26110069388/1",
-      "agency": "FCC",
-      "identifier": "FCC 26-74",
-      "date": "2026-08-04",
-      "deadline": null,
-      "summary": "",
-      "score": 80,
-      "domains": [
-        "air",
-        "spectrum",
-        "supply-chain"
-      ],
-      "matched_terms": [],
-      "watchlist": {
-        "key": "gn-26-74",
-        "label": "GN 26-74 (Unleashing American Drone Dominance)"
-      },
-      "extra": {
-        "proceeding": "26-74"
-      },
-      "first_seen": "2026-09-01T04:00:06.000510+00:00",
+      "first_seen": "2026-09-01T11:15:06.324377+00:00",
       "is_new": true
     },
     {
@@ -2144,6 +2115,35 @@
       },
       "first_seen": "2026-08-07T18:58:44.285172+00:00",
       "is_new": false
+    },
+    {
+      "id": "FCC ECFS:26110069389",
+      "source": "FCC ECFS",
+      "category": "regulatory",
+      "type": "PETITION",
+      "title": "CTIA: PETITION (FCC 26-74)",
+      "url": "https://www.fcc.gov/ecfs/document/26110069389/1",
+      "agency": "FCC",
+      "identifier": "FCC 26-74",
+      "date": "2026-08-04",
+      "deadline": null,
+      "summary": "",
+      "score": 80,
+      "domains": [
+        "air",
+        "spectrum",
+        "supply-chain"
+      ],
+      "matched_terms": [],
+      "watchlist": {
+        "key": "gn-26-74",
+        "label": "GN 26-74 (Unleashing American Drone Dominance)"
+      },
+      "extra": {
+        "proceeding": "26-74"
+      },
+      "first_seen": "2026-09-01T11:15:06.324377+00:00",
+      "is_new": true
     },
     {
       "id": "Federal Register:2026-15659",
@@ -3061,12 +3061,12 @@
       "is_new": false
     },
     {
-      "id": "FCC ECFS:1051922013627",
+      "id": "FCC ECFS:105191782521525",
       "source": "FCC ECFS",
       "category": "regulatory",
       "type": "Reply Comment",
-      "title": "Ceres Air LLC, Elevon Aerial AG, Exedy Drones: REPLY TO COMMENTS (FCC 26-74)",
-      "url": "https://www.fcc.gov/ecfs/document/1051922013627/1",
+      "title": "Perennial Autonomy, Inc.: REPLY TO COMMENTS (FCC 26-74)",
+      "url": "https://www.fcc.gov/ecfs/document/105191782521525/1",
       "agency": "FCC",
       "identifier": "FCC 26-74",
       "date": "2026-05-19",
@@ -3086,7 +3086,7 @@
       "extra": {
         "proceeding": "26-74"
       },
-      "first_seen": "2026-09-01T04:00:06.000510+00:00",
+      "first_seen": "2026-09-01T11:15:06.324377+00:00",
       "is_new": true
     },
     {
@@ -3177,7 +3177,7 @@
       },
       "extra": {},
       "first_seen": "2026-09-01T04:00:06.000510+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "Congress.gov:119-s-3481",
@@ -3297,7 +3297,7 @@
       },
       "extra": {},
       "first_seen": "2026-09-01T04:00:06.000510+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "CourtListener:71665018",
@@ -3377,7 +3377,7 @@
       },
       "extra": {},
       "first_seen": "2026-09-01T04:00:06.000510+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "CourtListener:67042850",
@@ -3403,7 +3403,7 @@
       },
       "extra": {},
       "first_seen": "2026-09-01T04:00:06.000510+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "CourtListener:4139710",
@@ -3429,7 +3429,7 @@
       },
       "extra": {},
       "first_seen": "2026-09-01T04:00:06.000510+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "CourtListener:6225353",
@@ -3455,7 +3455,7 @@
       },
       "extra": {},
       "first_seen": "2026-09-01T04:00:06.000510+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "CourtListener:4139469",
@@ -3481,7 +3481,7 @@
       },
       "extra": {},
       "first_seen": "2026-09-01T04:00:06.000510+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "SAM.gov:7b8200aba1fd407abc45c0fffbfd4f78",
@@ -3542,6 +3542,36 @@
       },
       "first_seen": "2026-08-05T14:12:17.192935+00:00",
       "is_new": false
+    },
+    {
+      "id": "USAspending:W912CH26CA023",
+      "source": "USAspending",
+      "category": "procurement",
+      "type": "Award",
+      "title": "DRONESHIELD LLC: COUNTER-SMALL UNMANNED AIRCRAFT SYSTEM (C-SUAS) SOLUTION TO EQUIP FOUR (4) FIXED-SITE ZONES AND SIX (6) MOBILE INFANTRY",
+      "url": "https://www.usaspending.gov/award/CONT_AWD_W912CH26CA023_9700_-NONE-_-NONE-",
+      "agency": "Department of Defense",
+      "identifier": "W912CH26CA023",
+      "date": "2026-06-02",
+      "deadline": null,
+      "summary": "COUNTER-SMALL UNMANNED AIRCRAFT SYSTEM (C-SUAS) SOLUTION TO EQUIP FOUR (4) FIXED-SITE ZONES AND SIX (6) MOBILE INFANTRY SQUAD VEHICLES (ISVS).",
+      "score": 66,
+      "domains": [
+        "air"
+      ],
+      "matched_terms": [
+        "unmanned aircraft",
+        "unmanned aircraft system",
+        "suas",
+        "small unmanned"
+      ],
+      "watchlist": null,
+      "extra": {
+        "amount": 13836183.86,
+        "award_type": "DEFINITIVE CONTRACT"
+      },
+      "first_seen": "2026-09-01T11:15:06.324377+00:00",
+      "is_new": true
     },
     {
       "id": "Federal Register:2026-13211",
@@ -4672,29 +4702,6 @@
       "is_new": false
     },
     {
-      "id": "SAM.gov:8ba382483ad8492188669c306ee94c3e",
-      "source": "SAM.gov",
-      "category": "procurement",
-      "type": "Combined Synopsis",
-      "title": "30 SFS Dronebusters",
-      "url": "https://sam.gov/workspace/contract/opp/8ba382483ad8492188669c306ee94c3e/view",
-      "agency": "DEPT OF DEFENSE",
-      "identifier": "FA461026QDRON",
-      "date": "2026-08-07",
-      "deadline": "2026-08-17",
-      "summary": "30 SFS Dronebusters",
-      "score": 35,
-      "domains": [],
-      "matched_terms": [],
-      "watchlist": null,
-      "extra": {
-        "naics": "334511",
-        "setaside": "SBA"
-      },
-      "first_seen": "2026-08-07T07:17:16.654060+00:00",
-      "is_new": false
-    },
-    {
       "id": "SAM.gov:04c2eaecea8044548b243d0346f88f98",
       "source": "SAM.gov",
       "category": "procurement",
@@ -4852,7 +4859,7 @@
       ],
       "watchlist": null,
       "extra": {
-        "comment_url": "http://www.regulations.gov/commenton/NHTSA-2026-1552-0001",
+        "comment_url": null,
         "dockets": [
           "Docket No. NHTSA-2026-1552"
         ]
@@ -4885,33 +4892,6 @@
         "setaside": "SBA"
       },
       "first_seen": "2026-07-30T19:28:01.731323+00:00",
-      "is_new": false
-    },
-    {
-      "id": "SAM.gov:37ada978d83e47cf84a9fdf19d0d4ab4",
-      "source": "SAM.gov",
-      "category": "procurement",
-      "type": "RFI",
-      "title": "RFI-Drone CLT",
-      "url": "https://sam.gov/workspace/contract/opp/37ada978d83e47cf84a9fdf19d0d4ab4/view",
-      "agency": "DEPT OF DEFENSE",
-      "identifier": "H9240826RFIDRONECLT",
-      "date": "2026-07-17",
-      "deadline": "2026-08-17",
-      "summary": "RFI-Drone CLT",
-      "score": 35,
-      "domains": [
-        "air"
-      ],
-      "matched_terms": [
-        "drone"
-      ],
-      "watchlist": null,
-      "extra": {
-        "naics": null,
-        "setaside": null
-      },
-      "first_seen": "2026-07-17T13:40:03.447397+00:00",
       "is_new": false
     },
     {
@@ -5023,6 +5003,37 @@
       "is_new": false
     },
     {
+      "id": "Federal Register:2026-17853",
+      "source": "Federal Register",
+      "category": "regulatory",
+      "type": "Notice",
+      "title": "Agency Information Collection Activities; Proposed eCollection eComments Requested; Revision of a Previously Approved Collection; Title-SAFER SKIES State, Local, Tribal, and Territorial Counter-UAS Information Collection",
+      "url": "https://www.federalregister.gov/documents/2026/09/01/2026-17853/agency-information-collection-activities-proposed-ecollection-ecomments-requested-revision-of-a",
+      "agency": "Justice Department",
+      "identifier": "OMB Number 1110-0090",
+      "date": "2026-09-01",
+      "deadline": "2026-11-02",
+      "summary": "The Federal Bureau of Investigation, Department of Justice (DOJ), will be submitting the following information collection request to the Office of Management and Budget (OMB) for review and approval in accordance with the Paperwork Reduction Act of 1995.",
+      "score": 34,
+      "domains": [
+        "air",
+        "defense"
+      ],
+      "matched_terms": [
+        "uas",
+        "counter-uas"
+      ],
+      "watchlist": null,
+      "extra": {
+        "comment_url": null,
+        "dockets": [
+          "OMB Number 1110-0090"
+        ]
+      },
+      "first_seen": "2026-09-01T11:15:06.324377+00:00",
+      "is_new": true
+    },
+    {
       "id": "Regulations.gov:DHS-2026-0496-0001",
       "source": "Regulations.gov",
       "category": "regulatory",
@@ -5075,35 +5086,6 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-07-03T10:17:16.264437+00:00",
-      "is_new": false
-    },
-    {
-      "id": "USAspending:W56KGU25C0003",
-      "source": "USAspending",
-      "category": "procurement",
-      "type": "Award",
-      "title": "BLACK SAGE TECHNOLOGIES INC: BROAD AGENCY ANNOUNCEMENT TO DEVELOP A MULTI-INT SENSOR FUSION FRAMEWORK WITHIN AN EXISTING COUNTER UAS (CUAS) COMMAND A",
-      "url": "https://www.usaspending.gov/award/CONT_AWD_W56KGU25C0003_9700_-NONE-_-NONE-",
-      "agency": "Department of Defense",
-      "identifier": "W56KGU25C0003",
-      "date": "2025-02-18",
-      "deadline": null,
-      "summary": "BROAD AGENCY ANNOUNCEMENT TO DEVELOP A MULTI-INT SENSOR FUSION FRAMEWORK WITHIN AN EXISTING COUNTER UAS (CUAS) COMMAND AND CONTROL (C2) SOFTWARE SUITE.",
-      "score": 34,
-      "domains": [
-        "air",
-        "defense"
-      ],
-      "matched_terms": [
-        "uas",
-        "counter uas"
-      ],
-      "watchlist": null,
-      "extra": {
-        "amount": 4627205.0,
-        "award_type": "DEFINITIVE CONTRACT"
-      },
-      "first_seen": "2026-08-30T04:07:23.055744+00:00",
       "is_new": false
     },
     {
@@ -5895,7 +5877,7 @@
       ],
       "watchlist": null,
       "extra": {
-        "amount": 95099069.24,
+        "amount": 95754637.4,
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
@@ -6000,6 +5982,33 @@
       },
       "first_seen": "2026-08-14T02:01:38.652289+00:00",
       "is_new": false
+    },
+    {
+      "id": "USAspending:W900KK21F0033",
+      "source": "USAspending",
+      "category": "procurement",
+      "type": "Award",
+      "title": "GRIFFON AEROSPACE, INC.: ORDER FOR PILOT SERVICES, FIELD SUPPORT/OPERATION FOR SMALL UNMANNED AERIAL SYSTEMS.",
+      "url": "https://www.usaspending.gov/award/CONT_AWD_W900KK21F0033_9700_W31P4Q18D0029_9700",
+      "agency": "Department of Defense",
+      "identifier": "W900KK21F0033",
+      "date": "2021-01-19",
+      "deadline": null,
+      "summary": "ORDER FOR PILOT SERVICES, FIELD SUPPORT/OPERATION FOR SMALL UNMANNED AERIAL SYSTEMS.",
+      "score": 30,
+      "domains": [
+        "air"
+      ],
+      "matched_terms": [
+        "small unmanned"
+      ],
+      "watchlist": null,
+      "extra": {
+        "amount": 6660238.61,
+        "award_type": "DELIVERY ORDER"
+      },
+      "first_seen": "2026-09-01T11:15:06.324377+00:00",
+      "is_new": true
     },
     {
       "id": "USAspending:W900KK21F0005",
@@ -6402,6 +6411,35 @@
       "is_new": false
     },
     {
+      "id": "Federal Register:2026-17776",
+      "source": "Federal Register",
+      "category": "regulatory",
+      "type": "Notice",
+      "title": "60-Day Notice of Proposed Information Collection: Information Collection Request (ICR) for the Drone Infrastructure Inspection Grant (DIIG) Program",
+      "url": "https://www.federalregister.gov/documents/2026/09/01/2026-17776/60-day-notice-of-proposed-information-collection-information-collection-request-icr-for-the-drone",
+      "agency": "Transportation Department, Transportation Statistics Bureau",
+      "identifier": "Docket No. DOT-OST-2026-3367",
+      "date": "2026-09-01",
+      "deadline": "2026-10-27",
+      "summary": "In accordance with the Paperwork Reduction Act of 1995, and its implementing regulations, the Office of the Assistant Secretary for Research and Technology (OST-R) invites the general public and all other interested entities to comment on a new information collection request associated with a new Federal Assistance program entitled \"2026 Drone Infrastructure Inspection Grant (DIIG) Program.\" This program was established under the FAA Reauthorization Act of 2024 to support government entities in deploying and enhancing highly automated drone systems for critical infrastructure safety inspection",
+      "score": 20,
+      "domains": [
+        "air"
+      ],
+      "matched_terms": [
+        "drone"
+      ],
+      "watchlist": null,
+      "extra": {
+        "comment_url": null,
+        "dockets": [
+          "Docket No. DOT-OST-2026-3367"
+        ]
+      },
+      "first_seen": "2026-09-01T11:15:06.324377+00:00",
+      "is_new": true
+    },
+    {
       "id": "Regulations.gov:FAA-2026-10892-0001",
       "source": "Regulations.gov",
       "category": "regulatory",
@@ -6796,17 +6834,17 @@
       "is_new": false
     },
     {
-      "id": "Regulations.gov:FAA-2023-0465-0003",
+      "id": "Regulations.gov:FAA-2026-10069-0001",
       "source": "Regulations.gov",
       "category": "regulatory",
       "type": "Document",
-      "title": "CAL Drone Applications LLC - Petition",
-      "url": "https://www.regulations.gov/document/FAA-2023-0465-0003",
+      "title": "Kansas Agricultural Drone Services, LLC - Exemption/Rulemaking",
+      "url": "https://www.regulations.gov/document/FAA-2026-10069-0001",
       "agency": "FAA",
-      "identifier": "FAA-2023-0465",
+      "identifier": "FAA-2026-10069",
       "date": "2026-08-17",
       "deadline": null,
-      "summary": "CAL Drone Applications LLC - Petition",
+      "summary": "Kansas Agricultural Drone Services, LLC - Exemption/Rulemaking",
       "score": 20,
       "domains": [
         "air"
@@ -6820,17 +6858,17 @@
       "is_new": false
     },
     {
-      "id": "Regulations.gov:FAA-2026-10069-0001",
+      "id": "Regulations.gov:FAA-2023-0465-0003",
       "source": "Regulations.gov",
       "category": "regulatory",
       "type": "Document",
-      "title": "Kansas Agricultural Drone Services, LLC - Exemption/Rulemaking",
-      "url": "https://www.regulations.gov/document/FAA-2026-10069-0001",
+      "title": "CAL Drone Applications LLC - Petition",
+      "url": "https://www.regulations.gov/document/FAA-2023-0465-0003",
       "agency": "FAA",
-      "identifier": "FAA-2026-10069",
+      "identifier": "FAA-2023-0465",
       "date": "2026-08-17",
       "deadline": null,
-      "summary": "Kansas Agricultural Drone Services, LLC - Exemption/Rulemaking",
+      "summary": "CAL Drone Applications LLC - Petition",
       "score": 20,
       "domains": [
         "air"
@@ -7412,8 +7450,8 @@
     {
       "name": "Federal Register",
       "status": "ok",
-      "detail": "22 kept",
-      "count": 22
+      "detail": "24 kept",
+      "count": 24
     },
     {
       "name": "Regulations.gov",
@@ -7436,8 +7474,8 @@
     {
       "name": "SAM.gov",
       "status": "ok",
-      "detail": "59 kept",
-      "count": 59
+      "detail": "57 kept",
+      "count": 57
     },
     {
       "name": "CourtListener",
@@ -7453,16 +7491,16 @@
     }
   ],
   "stats": {
-    "total": 268,
-    "new": 10,
+    "total": 269,
+    "new": 7,
     "by_category": {
-      "regulatory": 142,
-      "procurement": 113,
+      "regulatory": 144,
+      "procurement": 112,
       "litigation": 9,
       "legislative": 4
     },
     "by_domain": {
-      "air": 209,
+      "air": 211,
       "supply-chain": 110,
       "spectrum": 45,
       "defense": 11,
@@ -7471,10 +7509,10 @@
     },
     "by_source": {
       "FCC ECFS": 92,
-      "SAM.gov": 59,
-      "USAspending": 54,
+      "SAM.gov": 57,
+      "USAspending": 55,
       "Regulations.gov": 30,
-      "Federal Register": 20,
+      "Federal Register": 22,
       "CourtListener": 9,
       "Congress.gov": 4
     }
@@ -7822,6 +7860,24 @@
       "category": "procurement",
       "source": "SAM.gov",
       "url": "https://sam.gov/workspace/contract/opp/92d5f519f97b4566bfa9e506ffa0b7f1/view"
+    },
+    {
+      "deadline": "2026-10-27",
+      "days": 56,
+      "title": "60-Day Notice of Proposed Information Collection: Information Collection Request (ICR) for the Drone Infrastructure Inspection Grant (DIIG) Program",
+      "identifier": "Docket No. DOT-OST-2026-3367",
+      "category": "regulatory",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/09/01/2026-17776/60-day-notice-of-proposed-information-collection-information-collection-request-icr-for-the-drone"
+    },
+    {
+      "deadline": "2026-11-02",
+      "days": 62,
+      "title": "Agency Information Collection Activities; Proposed eCollection eComments Requested; Revision of a Previously Approved Collection; Title-SAFER SKIES State, Local, Tribal, and Territorial Counter-UAS Information Collection",
+      "identifier": "OMB Number 1110-0090",
+      "category": "regulatory",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/09/01/2026-17853/agency-information-collection-activities-proposed-ecollection-ecomments-requested-revision-of-a"
     },
     {
       "deadline": "2031-05-28",
