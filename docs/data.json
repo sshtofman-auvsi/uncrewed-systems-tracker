@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-02T03:19:08.772510+00:00",
-  "generated_human": "2026-09-02 03:19 UTC",
+  "generated_at": "2026-09-02T10:48:30.323735+00:00",
+  "generated_human": "2026-09-02 10:48 UTC",
   "demo": false,
   "items": [
     {
@@ -107,7 +107,7 @@
         "proceeding": "26-22"
       },
       "first_seen": "2026-09-02T03:19:08.772510+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:26110074420",
@@ -139,7 +139,7 @@
         "proceeding": "26-22"
       },
       "first_seen": "2026-09-02T03:19:08.772510+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:26110074112",
@@ -202,6 +202,34 @@
         "proceeding": "26-22"
       },
       "first_seen": "2026-09-01T16:12:41.977744+00:00",
+      "is_new": false
+    },
+    {
+      "id": "Congress.gov:119-hr-9129",
+      "source": "Congress.gov",
+      "category": "legislative",
+      "type": "Bill",
+      "title": "H.R. 9129: GUARD Act of 2026",
+      "url": "https://www.congress.gov/bill/119th-congress/house-bill/9129",
+      "agency": "Congress",
+      "identifier": "H.R. 9129",
+      "date": "2026-09-01",
+      "deadline": null,
+      "summary": "Forwarded by Subcommittee to Full Committee by Voice Vote.",
+      "score": 80,
+      "domains": [
+        "ground",
+        "supply-chain"
+      ],
+      "matched_terms": [
+        "h.r. 9129"
+      ],
+      "watchlist": {
+        "key": "guard-act",
+        "label": "GUARD Act of 2026 (H.R. 9129, robotics on FCC Covered List)"
+      },
+      "extra": {},
+      "first_seen": "2026-08-08T06:54:40.460991+00:00",
       "is_new": false
     },
     {
@@ -2429,34 +2457,6 @@
       "is_new": false
     },
     {
-      "id": "Congress.gov:119-hr-9129",
-      "source": "Congress.gov",
-      "category": "legislative",
-      "type": "Bill",
-      "title": "H.R. 9129: GUARD Act of 2026",
-      "url": "https://www.congress.gov/bill/119th-congress/house-bill/9129",
-      "agency": "Congress",
-      "identifier": "H.R. 9129",
-      "date": "2026-06-03",
-      "deadline": null,
-      "summary": "Referred to the House Committee on Energy and Commerce.",
-      "score": 80,
-      "domains": [
-        "ground",
-        "supply-chain"
-      ],
-      "matched_terms": [
-        "h.r. 9129"
-      ],
-      "watchlist": {
-        "key": "guard-act",
-        "label": "GUARD Act of 2026 (H.R. 9129, robotics on FCC Covered List)"
-      },
-      "extra": {},
-      "first_seen": "2026-08-08T06:54:40.460991+00:00",
-      "is_new": false
-    },
-    {
       "id": "FCC ECFS:10528281610686",
       "source": "FCC ECFS",
       "category": "regulatory",
@@ -3065,12 +3065,12 @@
       "is_new": false
     },
     {
-      "id": "FCC ECFS:1051922013627",
+      "id": "FCC ECFS:105191782521525",
       "source": "FCC ECFS",
       "category": "regulatory",
       "type": "Reply Comment",
-      "title": "Ceres Air LLC, Elevon Aerial AG, Exedy Drones: REPLY TO COMMENTS (FCC 26-74)",
-      "url": "https://www.fcc.gov/ecfs/document/1051922013627/1",
+      "title": "Perennial Autonomy, Inc.: REPLY TO COMMENTS (FCC 26-74)",
+      "url": "https://www.fcc.gov/ecfs/document/105191782521525/1",
       "agency": "FCC",
       "identifier": "FCC 26-74",
       "date": "2026-05-19",
@@ -3090,8 +3090,8 @@
       "extra": {
         "proceeding": "26-74"
       },
-      "first_seen": "2026-09-01T20:41:05.625734+00:00",
-      "is_new": false
+      "first_seen": "2026-09-02T10:48:30.323735+00:00",
+      "is_new": true
     },
     {
       "id": "Regulations.gov:FAA-2026-4558-0001",
@@ -3152,7 +3152,7 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-09-02T03:19:08.772510+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:W58RGZ26F0211",
@@ -4019,6 +4019,29 @@
       "is_new": false
     },
     {
+      "id": "SAM.gov:c3dbef2ff40c4899b290e436cd73a3c8",
+      "source": "SAM.gov",
+      "category": "procurement",
+      "type": "Combined Synopsis",
+      "title": "DroneBuster 5 w/ PNT",
+      "url": "https://sam.gov/workspace/contract/opp/c3dbef2ff40c4899b290e436cd73a3c8/view",
+      "agency": "DEPT OF DEFENSE",
+      "identifier": "FA527026QA051",
+      "date": "2026-09-02",
+      "deadline": "2026-09-08",
+      "summary": "DroneBuster 5 w/ PNT",
+      "score": 35,
+      "domains": [],
+      "matched_terms": [],
+      "watchlist": null,
+      "extra": {
+        "naics": "334511",
+        "setaside": "NONE"
+      },
+      "first_seen": "2026-09-02T10:48:30.323735+00:00",
+      "is_new": true
+    },
+    {
       "id": "SAM.gov:dd08e7dfee96418399594eaadd644e9f",
       "source": "SAM.gov",
       "category": "procurement",
@@ -4043,29 +4066,6 @@
         "setaside": "NONE"
       },
       "first_seen": "2026-08-31T12:56:56.316203+00:00",
-      "is_new": false
-    },
-    {
-      "id": "SAM.gov:a460d948625b465cbdb406e63b068747",
-      "source": "SAM.gov",
-      "category": "procurement",
-      "type": "Combined Synopsis",
-      "title": "DroneBuster 5 w/ PNT",
-      "url": "https://sam.gov/workspace/contract/opp/a460d948625b465cbdb406e63b068747/view",
-      "agency": "DEPT OF DEFENSE",
-      "identifier": "FA527026QA051",
-      "date": "2026-08-28",
-      "deadline": "2026-09-05",
-      "summary": "DroneBuster 5 w/ PNT",
-      "score": 35,
-      "domains": [],
-      "matched_terms": [],
-      "watchlist": null,
-      "extra": {
-        "naics": "334511",
-        "setaside": "NONE"
-      },
-      "first_seen": "2026-08-28T10:02:14.632922+00:00",
       "is_new": false
     },
     {
@@ -4793,33 +4793,6 @@
       "is_new": false
     },
     {
-      "id": "SAM.gov:1e06bdf13b764e77b1dceabece87ca57",
-      "source": "SAM.gov",
-      "category": "procurement",
-      "type": "RFI",
-      "title": "Request for Information - Counter Drone Detect and Defeat System",
-      "url": "https://sam.gov/workspace/contract/opp/1e06bdf13b764e77b1dceabece87ca57/view",
-      "agency": "DEPT OF DEFENSE",
-      "identifier": "FA446026Q0042",
-      "date": "2026-08-04",
-      "deadline": "2026-08-18",
-      "summary": "Request for Information - Counter Drone Detect and Defeat System",
-      "score": 35,
-      "domains": [
-        "air"
-      ],
-      "matched_terms": [
-        "drone"
-      ],
-      "watchlist": null,
-      "extra": {
-        "naics": "334511",
-        "setaside": null
-      },
-      "first_seen": "2026-08-04T19:39:24.965524+00:00",
-      "is_new": false
-    },
-    {
       "id": "SAM.gov:70591dad2ee84d60b66a879d3194ae9c",
       "source": "SAM.gov",
       "category": "procurement",
@@ -4844,34 +4817,6 @@
         "setaside": null
       },
       "first_seen": "2026-08-04T19:39:24.965524+00:00",
-      "is_new": false
-    },
-    {
-      "id": "SAM.gov:a92306f6d3aa4ab8abfa3152c12eb566",
-      "source": "SAM.gov",
-      "category": "procurement",
-      "type": "Combined Synopsis",
-      "title": "Notice of Intent to Sole Source and Sources Sought: Counter-small Unmanned Aerial Systems (C-sUAS) for the Amphibious Combat Vehicle (ACV)",
-      "url": "https://sam.gov/workspace/contract/opp/a92306f6d3aa4ab8abfa3152c12eb566/view",
-      "agency": "DEPT OF DEFENSE",
-      "identifier": "M67854-26-I-0225",
-      "date": "2026-08-03",
-      "deadline": "2026-08-18",
-      "summary": "Notice of Intent to Sole Source and Sources Sought: Counter-small Unmanned Aerial Systems (C-sUAS) for the Amphibious Combat Vehicle (ACV)",
-      "score": 35,
-      "domains": [
-        "air"
-      ],
-      "matched_terms": [
-        "suas",
-        "small unmanned"
-      ],
-      "watchlist": null,
-      "extra": {
-        "naics": "334511",
-        "setaside": "NONE"
-      },
-      "first_seen": "2026-08-03T19:39:36.720104+00:00",
       "is_new": false
     },
     {
@@ -5152,7 +5097,7 @@
         "award_type": "DEFINITIVE CONTRACT"
       },
       "first_seen": "2026-09-02T03:19:08.772510+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:W31P4Q24FE001",
@@ -5467,7 +5412,7 @@
         "award_type": "DEFINITIVE CONTRACT"
       },
       "first_seen": "2026-09-02T03:19:08.772510+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:19AQMM26C0257",
@@ -6220,7 +6165,7 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-09-02T03:19:08.772510+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:NNG17FD73C",
@@ -6316,7 +6261,7 @@
         "award_type": "DEFINITIVE CONTRACT"
       },
       "first_seen": "2026-09-02T03:19:08.772510+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "Regulations.gov:FBI-2026-0001-0002",
@@ -6905,17 +6850,17 @@
       "is_new": false
     },
     {
-      "id": "Regulations.gov:FAA-2026-10069-0001",
+      "id": "Regulations.gov:FAA-2023-0465-0003",
       "source": "Regulations.gov",
       "category": "regulatory",
       "type": "Document",
-      "title": "Kansas Agricultural Drone Services, LLC - Exemption/Rulemaking",
-      "url": "https://www.regulations.gov/document/FAA-2026-10069-0001",
+      "title": "CAL Drone Applications LLC - Petition",
+      "url": "https://www.regulations.gov/document/FAA-2023-0465-0003",
       "agency": "FAA",
-      "identifier": "FAA-2026-10069",
+      "identifier": "FAA-2023-0465",
       "date": "2026-08-17",
       "deadline": null,
-      "summary": "Kansas Agricultural Drone Services, LLC - Exemption/Rulemaking",
+      "summary": "CAL Drone Applications LLC - Petition",
       "score": 20,
       "domains": [
         "air"
@@ -6929,17 +6874,17 @@
       "is_new": false
     },
     {
-      "id": "Regulations.gov:FAA-2023-0465-0003",
+      "id": "Regulations.gov:FAA-2026-10069-0001",
       "source": "Regulations.gov",
       "category": "regulatory",
       "type": "Document",
-      "title": "CAL Drone Applications LLC - Petition",
-      "url": "https://www.regulations.gov/document/FAA-2023-0465-0003",
+      "title": "Kansas Agricultural Drone Services, LLC - Exemption/Rulemaking",
+      "url": "https://www.regulations.gov/document/FAA-2026-10069-0001",
       "agency": "FAA",
-      "identifier": "FAA-2023-0465",
+      "identifier": "FAA-2026-10069",
       "date": "2026-08-17",
       "deadline": null,
-      "summary": "CAL Drone Applications LLC - Petition",
+      "summary": "Kansas Agricultural Drone Services, LLC - Exemption/Rulemaking",
       "score": 20,
       "domains": [
         "air"
@@ -7488,6 +7433,33 @@
       },
       "first_seen": "2026-08-25T01:18:16.855101+00:00",
       "is_new": false
+    },
+    {
+      "id": "SAM.gov:1dd228678c8e4520881937e1a251887a",
+      "source": "SAM.gov",
+      "category": "procurement",
+      "type": "Solicitation (RFP)",
+      "title": "Battalion Reconnaissance UAS",
+      "url": "https://sam.gov/workspace/contract/opp/1dd228678c8e4520881937e1a251887a/view",
+      "agency": "DEPT OF DEFENSE",
+      "identifier": "W58RGZ-26-S-C001-006",
+      "date": "2026-08-03",
+      "deadline": "2026-08-28",
+      "summary": "Battalion Reconnaissance UAS",
+      "score": 18,
+      "domains": [
+        "air"
+      ],
+      "matched_terms": [
+        "uas"
+      ],
+      "watchlist": null,
+      "extra": {
+        "naics": "336411",
+        "setaside": null
+      },
+      "first_seen": "2026-09-02T10:48:30.323735+00:00",
+      "is_new": true
     }
   ],
   "sources": [
@@ -7518,8 +7490,8 @@
     {
       "name": "SAM.gov",
       "status": "ok",
-      "detail": "56 kept",
-      "count": 56
+      "detail": "55 kept",
+      "count": 55
     },
     {
       "name": "CourtListener",
@@ -7535,16 +7507,16 @@
     }
   ],
   "stats": {
-    "total": 270,
-    "new": 7,
+    "total": 269,
+    "new": 3,
     "by_category": {
       "regulatory": 145,
-      "procurement": 112,
+      "procurement": 111,
       "litigation": 9,
       "legislative": 4
     },
     "by_domain": {
-      "air": 214,
+      "air": 213,
       "supply-chain": 111,
       "spectrum": 46,
       "defense": 12,
@@ -7553,8 +7525,8 @@
     },
     "by_source": {
       "FCC ECFS": 92,
-      "SAM.gov": 56,
       "USAspending": 56,
+      "SAM.gov": 55,
       "Regulations.gov": 31,
       "Federal Register": 22,
       "CourtListener": 9,
@@ -7689,7 +7661,7 @@
       ],
       "deadline": null,
       "count": 1,
-      "latest": "2026-06-03"
+      "latest": "2026-09-01"
     },
     {
       "key": "connected-vehicle",
@@ -7809,15 +7781,6 @@
     {
       "deadline": "2026-09-05",
       "days": 3,
-      "title": "DroneBuster 5 w/ PNT",
-      "identifier": "FA527026QA051",
-      "category": "procurement",
-      "source": "SAM.gov",
-      "url": "https://sam.gov/workspace/contract/opp/a460d948625b465cbdb406e63b068747/view"
-    },
-    {
-      "deadline": "2026-09-05",
-      "days": 3,
       "title": "Counter-UAS Authority for State, Local, Tribal, and Territorial Law Enforcement and Correctional Agencies",
       "identifier": "FBI-2026-0001",
       "category": "regulatory",
@@ -7841,6 +7804,15 @@
       "category": "procurement",
       "source": "SAM.gov",
       "url": "https://sam.gov/workspace/contract/opp/dd08e7dfee96418399594eaadd644e9f/view"
+    },
+    {
+      "deadline": "2026-09-08",
+      "days": 6,
+      "title": "DroneBuster 5 w/ PNT",
+      "identifier": "FA527026QA051",
+      "category": "procurement",
+      "source": "SAM.gov",
+      "url": "https://sam.gov/workspace/contract/opp/c3dbef2ff40c4899b290e436cd73a3c8/view"
     },
     {
       "deadline": "2026-09-08",
