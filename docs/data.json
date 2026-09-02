@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-02T16:07:22.572980+00:00",
-  "generated_human": "2026-09-02 16:07 UTC",
+  "generated_at": "2026-09-02T20:38:42.923710+00:00",
+  "generated_human": "2026-09-02 20:38 UTC",
   "demo": false,
   "items": [
     {
@@ -78,6 +78,35 @@
       "is_new": false
     },
     {
+      "id": "FCC ECFS:26110075039",
+      "source": "FCC ECFS",
+      "category": "regulatory",
+      "type": "Comment",
+      "title": "Greg: COMMENT (FCC 26-74)",
+      "url": "https://www.fcc.gov/ecfs/search/search-filings/filing/26110075039",
+      "agency": "FCC",
+      "identifier": "FCC 26-74",
+      "date": "2026-09-02",
+      "deadline": null,
+      "summary": "This is ridiculous. I want the most technically advanced drones for my business, not American made expensive crap",
+      "score": 80,
+      "domains": [
+        "air",
+        "spectrum",
+        "supply-chain"
+      ],
+      "matched_terms": [],
+      "watchlist": {
+        "key": "gn-26-74",
+        "label": "GN 26-74 (Unleashing American Drone Dominance)"
+      },
+      "extra": {
+        "proceeding": "26-74"
+      },
+      "first_seen": "2026-09-02T20:38:42.923710+00:00",
+      "is_new": true
+    },
+    {
       "id": "FCC ECFS:26110074508",
       "source": "FCC ECFS",
       "category": "regulatory",
@@ -110,7 +139,7 @@
         "proceeding": "26-74"
       },
       "first_seen": "2026-09-02T16:07:22.572980+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:26110074488",
@@ -139,7 +168,7 @@
         "proceeding": "26-74"
       },
       "first_seen": "2026-09-02T16:07:22.572980+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:26110074468",
@@ -170,7 +199,7 @@
         "proceeding": "26-22"
       },
       "first_seen": "2026-09-02T16:07:22.572980+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:26110074708",
@@ -198,7 +227,7 @@
         "proceeding": "26-22"
       },
       "first_seen": "2026-09-02T16:07:22.572980+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:26110074905",
@@ -230,7 +259,7 @@
         "proceeding": "26-22"
       },
       "first_seen": "2026-09-02T16:07:22.572980+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:26110074846",
@@ -258,7 +287,7 @@
         "proceeding": "26-22"
       },
       "first_seen": "2026-09-02T16:07:22.572980+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:26110074476",
@@ -290,7 +319,7 @@
         "proceeding": "26-22"
       },
       "first_seen": "2026-09-02T16:07:22.572980+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:26110074835",
@@ -323,7 +352,7 @@
         "proceeding": "26-22"
       },
       "first_seen": "2026-09-02T16:07:22.572980+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:26110074376",
@@ -1968,6 +1997,35 @@
       "is_new": false
     },
     {
+      "id": "FCC ECFS:26110071197",
+      "source": "FCC ECFS",
+      "category": "regulatory",
+      "type": "OPPOSITION TO PETITION FOR RECONSIDERATION",
+      "title": "D-Fend Solutions: OPPOSITION TO PETITION FOR RECONSIDERATION (FCC 26-74)",
+      "url": "https://www.fcc.gov/ecfs/document/26110071197/1",
+      "agency": "FCC",
+      "identifier": "FCC 26-74",
+      "date": "2026-08-14",
+      "deadline": null,
+      "summary": "",
+      "score": 80,
+      "domains": [
+        "air",
+        "spectrum",
+        "supply-chain"
+      ],
+      "matched_terms": [],
+      "watchlist": {
+        "key": "gn-26-74",
+        "label": "GN 26-74 (Unleashing American Drone Dominance)"
+      },
+      "extra": {
+        "proceeding": "26-74"
+      },
+      "first_seen": "2026-08-14T18:55:22.284701+00:00",
+      "is_new": false
+    },
+    {
       "id": "FCC ECFS:26110071217",
       "source": "FCC ECFS",
       "category": "regulatory",
@@ -2003,35 +2061,6 @@
       "type": "OPPOSITION TO PETITION FOR RECONSIDERATION",
       "title": "DRONERESPONDERS: OPPOSITION TO PETITION FOR RECONSIDERATION (FCC 26-74)",
       "url": "https://www.fcc.gov/ecfs/document/26110071178/1",
-      "agency": "FCC",
-      "identifier": "FCC 26-74",
-      "date": "2026-08-14",
-      "deadline": null,
-      "summary": "",
-      "score": 80,
-      "domains": [
-        "air",
-        "spectrum",
-        "supply-chain"
-      ],
-      "matched_terms": [],
-      "watchlist": {
-        "key": "gn-26-74",
-        "label": "GN 26-74 (Unleashing American Drone Dominance)"
-      },
-      "extra": {
-        "proceeding": "26-74"
-      },
-      "first_seen": "2026-08-14T18:55:22.284701+00:00",
-      "is_new": false
-    },
-    {
-      "id": "FCC ECFS:26110071197",
-      "source": "FCC ECFS",
-      "category": "regulatory",
-      "type": "OPPOSITION TO PETITION FOR RECONSIDERATION",
-      "title": "D-Fend Solutions: OPPOSITION TO PETITION FOR RECONSIDERATION (FCC 26-74)",
-      "url": "https://www.fcc.gov/ecfs/document/26110071197/1",
       "agency": "FCC",
       "identifier": "FCC 26-74",
       "date": "2026-08-14",
@@ -2153,17 +2182,17 @@
       "is_new": false
     },
     {
-      "id": "Regulations.gov:FAA-2026-4558-1630",
+      "id": "Regulations.gov:FAA-2026-4558-1629",
       "source": "Regulations.gov",
       "category": "regulatory",
       "type": "Comment",
-      "title": "Comment on Designation – Restrict the Operation of Unmanned Aircraft in Close Proximity  to a Fixed Site Facility: Comment from American Chemistry Council",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1630",
+      "title": "Comment on Designation – Restrict the Operation of Unmanned Aircraft in Close Proximity  to a Fixed Site Facility: Comment from Karin L",
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1629",
       "agency": "FAA",
       "identifier": "FAA-2026-4558",
       "date": "2026-08-06",
       "deadline": null,
-      "summary": "Comment from American Chemistry Council",
+      "summary": "Comment from Karin L",
       "score": 80,
       "domains": [
         "air"
@@ -2179,37 +2208,8 @@
       "extra": {
         "docket_total_comments": 1669
       },
-      "first_seen": "2026-09-02T16:07:22.572980+00:00",
+      "first_seen": "2026-09-02T20:38:42.923710+00:00",
       "is_new": true
-    },
-    {
-      "id": "FCC ECFS:26110069384",
-      "source": "FCC ECFS",
-      "category": "regulatory",
-      "type": "PETITION FOR RECONSIDERATION",
-      "title": "CTIA: PETITION FOR RECONSIDERATION (FCC 26-74)",
-      "url": "https://www.fcc.gov/ecfs/document/26110069384/1",
-      "agency": "FCC",
-      "identifier": "FCC 26-74",
-      "date": "2026-08-04",
-      "deadline": null,
-      "summary": "",
-      "score": 80,
-      "domains": [
-        "air",
-        "spectrum",
-        "supply-chain"
-      ],
-      "matched_terms": [],
-      "watchlist": {
-        "key": "gn-26-74",
-        "label": "GN 26-74 (Unleashing American Drone Dominance)"
-      },
-      "extra": {
-        "proceeding": "26-74"
-      },
-      "first_seen": "2026-08-07T18:58:44.285172+00:00",
-      "is_new": false
     },
     {
       "id": "FCC ECFS:26110069389",
@@ -2238,6 +2238,35 @@
         "proceeding": "26-74"
       },
       "first_seen": "2026-09-01T11:15:06.324377+00:00",
+      "is_new": false
+    },
+    {
+      "id": "FCC ECFS:26110069384",
+      "source": "FCC ECFS",
+      "category": "regulatory",
+      "type": "PETITION FOR RECONSIDERATION",
+      "title": "CTIA: PETITION FOR RECONSIDERATION (FCC 26-74)",
+      "url": "https://www.fcc.gov/ecfs/document/26110069384/1",
+      "agency": "FCC",
+      "identifier": "FCC 26-74",
+      "date": "2026-08-04",
+      "deadline": null,
+      "summary": "",
+      "score": 80,
+      "domains": [
+        "air",
+        "spectrum",
+        "supply-chain"
+      ],
+      "matched_terms": [],
+      "watchlist": {
+        "key": "gn-26-74",
+        "label": "GN 26-74 (Unleashing American Drone Dominance)"
+      },
+      "extra": {
+        "proceeding": "26-74"
+      },
+      "first_seen": "2026-08-07T18:58:44.285172+00:00",
       "is_new": false
     },
     {
@@ -3047,35 +3076,6 @@
       "type": "Reply Comment",
       "title": "Association for Uncrewed Vehicle Systems International (AUVSI): REPLY TO COMMENTS (FCC 26-74)",
       "url": "https://www.fcc.gov/ecfs/document/105191161729005/1",
-      "agency": "FCC",
-      "identifier": "FCC 26-74",
-      "date": "2026-05-19",
-      "deadline": null,
-      "summary": "",
-      "score": 80,
-      "domains": [
-        "air",
-        "spectrum",
-        "supply-chain"
-      ],
-      "matched_terms": [],
-      "watchlist": {
-        "key": "gn-26-74",
-        "label": "GN 26-74 (Unleashing American Drone Dominance)"
-      },
-      "extra": {
-        "proceeding": "26-74"
-      },
-      "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": false
-    },
-    {
-      "id": "FCC ECFS:1051819049614",
-      "source": "FCC ECFS",
-      "category": "regulatory",
-      "type": "Reply Comment",
-      "title": "Alliance for Telecommunications Industry Solutions: REPLY TO COMMENTS (FCC 26-74)",
-      "url": "https://www.fcc.gov/ecfs/document/1051819049614/1",
       "agency": "FCC",
       "identifier": "FCC 26-74",
       "date": "2026-05-19",
@@ -4024,6 +4024,34 @@
       "is_new": false
     },
     {
+      "id": "SAM.gov:ab80e1bb451c429bb291347ada117652",
+      "source": "SAM.gov",
+      "category": "procurement",
+      "type": "Sources Sought",
+      "title": "UNMANNED AIRCRAFT SYSTEMS (UAS) FOR USACE",
+      "url": "https://sam.gov/workspace/contract/opp/ab80e1bb451c429bb291347ada117652/view",
+      "agency": "DEPT OF DEFENSE",
+      "identifier": "W912HQ26S0071",
+      "date": "2026-09-02",
+      "deadline": "2026-09-09",
+      "summary": "UNMANNED AIRCRAFT SYSTEMS (UAS) FOR USACE",
+      "score": 35,
+      "domains": [
+        "air"
+      ],
+      "matched_terms": [
+        "unmanned aircraft",
+        "uas"
+      ],
+      "watchlist": null,
+      "extra": {
+        "naics": "334511",
+        "setaside": null
+      },
+      "first_seen": "2026-09-02T20:38:42.923710+00:00",
+      "is_new": true
+    },
+    {
       "id": "SAM.gov:84a93ec285a5491cba3bb22d7906cb09",
       "source": "SAM.gov",
       "category": "procurement",
@@ -4044,7 +4072,7 @@
         "setaside": "SBA"
       },
       "first_seen": "2026-09-02T16:07:22.572980+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "SAM.gov:c3dbef2ff40c4899b290e436cd73a3c8",
@@ -6452,7 +6480,7 @@
       "watchlist": null,
       "extra": {},
       "first_seen": "2026-09-02T16:07:22.572980+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "Regulations.gov:FAA-2026-9242-0004",
@@ -6476,7 +6504,7 @@
       "watchlist": null,
       "extra": {},
       "first_seen": "2026-09-02T16:07:22.572980+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "Federal Register:2026-17776",
@@ -6553,7 +6581,7 @@
       "watchlist": null,
       "extra": {},
       "first_seen": "2026-09-02T16:07:22.572980+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "Regulations.gov:FAA-2026-10892-0001",
@@ -7352,6 +7380,33 @@
       "is_new": false
     },
     {
+      "id": "SAM.gov:2fd18e073b814e52be948c64491f13f1",
+      "source": "SAM.gov",
+      "category": "procurement",
+      "type": "Combined Synopsis",
+      "title": "Sole Source to Wood Hole Oceanographic Institution (WHOI) for MK 18 SOF-P UUV Engineering and Test Support",
+      "url": "https://sam.gov/workspace/contract/opp/2fd18e073b814e52be948c64491f13f1/view",
+      "agency": "DEPT OF DEFENSE",
+      "identifier": "N61331-26-Q-JK47",
+      "date": "2026-09-02",
+      "deadline": "2026-09-08",
+      "summary": "Sole Source to Wood Hole Oceanographic Institution (WHOI) for MK 18 SOF-P UUV Engineering and Test Support",
+      "score": 18,
+      "domains": [
+        "maritime"
+      ],
+      "matched_terms": [
+        "uuv"
+      ],
+      "watchlist": null,
+      "extra": {
+        "naics": "541330",
+        "setaside": null
+      },
+      "first_seen": "2026-09-02T20:38:42.923710+00:00",
+      "is_new": true
+    },
+    {
       "id": "SAM.gov:4ef85c8c57de4e0e83f4f9dfefc59249",
       "source": "SAM.gov",
       "category": "procurement",
@@ -7539,8 +7594,8 @@
     {
       "name": "SAM.gov",
       "status": "ok",
-      "detail": "55 kept",
-      "count": 55
+      "detail": "57 kept",
+      "count": 57
     },
     {
       "name": "CourtListener",
@@ -7556,26 +7611,26 @@
     }
   ],
   "stats": {
-    "total": 271,
-    "new": 13,
+    "total": 273,
+    "new": 4,
     "by_category": {
       "regulatory": 147,
-      "procurement": 111,
+      "procurement": 113,
       "litigation": 9,
       "legislative": 4
     },
     "by_domain": {
-      "air": 214,
+      "air": 215,
       "supply-chain": 111,
       "spectrum": 46,
       "defense": 12,
       "ground": 12,
-      "maritime": 3
+      "maritime": 4
     },
     "by_source": {
       "FCC ECFS": 92,
+      "SAM.gov": 57,
       "USAspending": 56,
-      "SAM.gov": 55,
       "Regulations.gov": 33,
       "Federal Register": 22,
       "CourtListener": 9,
@@ -7871,6 +7926,24 @@
       "category": "procurement",
       "source": "SAM.gov",
       "url": "https://sam.gov/workspace/contract/opp/bc6282d783a44e0e9e24cee6d553011b/view"
+    },
+    {
+      "deadline": "2026-09-08",
+      "days": 6,
+      "title": "Sole Source to Wood Hole Oceanographic Institution (WHOI) for MK 18 SOF-P UUV Engineering and Test Support",
+      "identifier": "N61331-26-Q-JK47",
+      "category": "procurement",
+      "source": "SAM.gov",
+      "url": "https://sam.gov/workspace/contract/opp/2fd18e073b814e52be948c64491f13f1/view"
+    },
+    {
+      "deadline": "2026-09-09",
+      "days": 7,
+      "title": "UNMANNED AIRCRAFT SYSTEMS (UAS) FOR USACE",
+      "identifier": "W912HQ26S0071",
+      "category": "procurement",
+      "source": "SAM.gov",
+      "url": "https://sam.gov/workspace/contract/opp/ab80e1bb451c429bb291347ada117652/view"
     },
     {
       "deadline": "2026-09-09",
