@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-03T03:21:41.893456+00:00",
-  "generated_human": "2026-09-03 03:21 UTC",
+  "generated_at": "2026-09-03T10:48:36.776899+00:00",
+  "generated_human": "2026-09-03 10:48 UTC",
   "demo": false,
   "items": [
     {
@@ -2182,17 +2182,17 @@
       "is_new": false
     },
     {
-      "id": "Regulations.gov:FAA-2026-4558-1629",
+      "id": "Regulations.gov:FAA-2026-4558-1630",
       "source": "Regulations.gov",
       "category": "regulatory",
       "type": "Comment",
-      "title": "Comment on Designation – Restrict the Operation of Unmanned Aircraft in Close Proximity  to a Fixed Site Facility: Comment from Karin L",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1629",
+      "title": "Comment on Designation – Restrict the Operation of Unmanned Aircraft in Close Proximity  to a Fixed Site Facility: Comment from American Chemistry Council",
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1630",
       "agency": "FAA",
       "identifier": "FAA-2026-4558",
       "date": "2026-08-06",
       "deadline": null,
-      "summary": "Comment from Karin L",
+      "summary": "Comment from American Chemistry Council",
       "score": 80,
       "domains": [
         "air"
@@ -2208,8 +2208,8 @@
       "extra": {
         "docket_total_comments": 1669
       },
-      "first_seen": "2026-09-02T20:38:42.923710+00:00",
-      "is_new": false
+      "first_seen": "2026-09-03T10:48:36.776899+00:00",
+      "is_new": true
     },
     {
       "id": "FCC ECFS:26110069388",
@@ -2238,7 +2238,7 @@
         "proceeding": "26-74"
       },
       "first_seen": "2026-09-03T03:21:41.893456+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:26110069384",
@@ -2547,6 +2547,39 @@
       },
       "first_seen": "2026-06-24T10:37:40.965591+00:00",
       "is_new": false
+    },
+    {
+      "id": "USAspending:W58RGZ26F0332",
+      "source": "USAspending",
+      "category": "procurement",
+      "type": "Award",
+      "title": "GRIFFON AEROSPACE, INC.: IN ACCORDANCE WITH THE DIRECTIVES ESTABLISHED IN THE DEPARTMENT OF WAR MEMORANDUM DATED 10 JULY 2025, IN SUPPORT OF EXEC",
+      "url": "https://www.usaspending.gov/award/CONT_AWD_W58RGZ26F0332_9700_W58RGZ26G0061_9700",
+      "agency": "Department of Defense",
+      "identifier": "W58RGZ26F0332",
+      "date": "2026-06-03",
+      "deadline": null,
+      "summary": "IN ACCORDANCE WITH THE DIRECTIVES ESTABLISHED IN THE DEPARTMENT OF WAR MEMORANDUM DATED 10 JULY 2025, IN SUPPORT OF EXECUTIVE ORDER 14307-UNLEASHING U.S. MILITARY DRONE DOMINANCE",
+      "score": 80,
+      "domains": [
+        "air",
+        "spectrum",
+        "supply-chain"
+      ],
+      "matched_terms": [
+        "drone",
+        "drone dominance"
+      ],
+      "watchlist": {
+        "key": "gn-26-74",
+        "label": "GN 26-74 (Unleashing American Drone Dominance)"
+      },
+      "extra": {
+        "amount": 67940895.16,
+        "award_type": "DELIVERY ORDER"
+      },
+      "first_seen": "2026-09-03T10:48:36.776899+00:00",
+      "is_new": true
     },
     {
       "id": "FCC ECFS:10528281610686",
@@ -3276,7 +3309,7 @@
         "label": "GN 26-74 (Unleashing American Drone Dominance)"
       },
       "extra": {
-        "amount": 8619014.35,
+        "amount": 9219014.35,
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-07-22T02:43:42.567904+00:00",
@@ -3707,35 +3740,6 @@
       "is_new": false
     },
     {
-      "id": "SAM.gov:970bb5e6f21e434693375a6c131763ff",
-      "source": "SAM.gov",
-      "category": "procurement",
-      "type": "RFI",
-      "title": "RFI for Counter Small Unmanned Aircraft Systems (C-sUAS) Mobile Solutions",
-      "url": "https://sam.gov/workspace/contract/opp/970bb5e6f21e434693375a6c131763ff/view",
-      "agency": "DEPT OF DEFENSE",
-      "identifier": "W912CH26QCsUAS",
-      "date": "2026-08-06",
-      "deadline": "2026-08-19",
-      "summary": "RFI for Counter Small Unmanned Aircraft Systems (C-sUAS) Mobile Solutions",
-      "score": 50,
-      "domains": [
-        "air"
-      ],
-      "matched_terms": [
-        "unmanned aircraft",
-        "suas",
-        "small unmanned"
-      ],
-      "watchlist": null,
-      "extra": {
-        "naics": null,
-        "setaside": null
-      },
-      "first_seen": "2026-08-07T00:02:59.527823+00:00",
-      "is_new": false
-    },
-    {
       "id": "SAM.gov:8268da7209564560804b3e65345d2a98",
       "source": "SAM.gov",
       "category": "procurement",
@@ -3883,16 +3887,16 @@
       "is_new": false
     },
     {
-      "id": "SAM.gov:f4ebb5016b4a44f08be54fe21f0f42fe",
+      "id": "SAM.gov:fdab122ba69e42a09c2a91b3b2f4a97d",
       "source": "SAM.gov",
       "category": "procurement",
       "type": "Combined Synopsis",
       "title": "Acquisition of Unmanned Aircraft System (UAS) for U.S. Embassy Quito, Ecuador",
-      "url": "https://sam.gov/workspace/contract/opp/f4ebb5016b4a44f08be54fe21f0f42fe/view",
+      "url": "https://sam.gov/workspace/contract/opp/fdab122ba69e42a09c2a91b3b2f4a97d/view",
       "agency": "STATE, DEPARTMENT OF",
       "identifier": "19GE5026Q0131",
-      "date": "2026-08-18",
-      "deadline": "2026-09-07",
+      "date": "2026-09-03",
+      "deadline": "2026-09-16",
       "summary": "Acquisition of Unmanned Aircraft System (UAS) for U.S. Embassy Quito, Ecuador",
       "score": 44,
       "domains": [
@@ -3908,8 +3912,8 @@
         "naics": "336411",
         "setaside": null
       },
-      "first_seen": "2026-08-18T12:47:50.728437+00:00",
-      "is_new": false
+      "first_seen": "2026-09-03T10:48:36.776899+00:00",
+      "is_new": true
     },
     {
       "id": "USAspending:692M1523F00178",
@@ -4095,7 +4099,7 @@
         "setaside": "NONE"
       },
       "first_seen": "2026-09-03T03:21:41.893456+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "SAM.gov:59e71ba50eac45639503842c073985cc",
@@ -4123,7 +4127,7 @@
         "setaside": "SBA"
       },
       "first_seen": "2026-09-03T03:21:41.893456+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "SAM.gov:dd08e7dfee96418399594eaadd644e9f",
@@ -4823,33 +4827,6 @@
       "is_new": false
     },
     {
-      "id": "SAM.gov:04c2eaecea8044548b243d0346f88f98",
-      "source": "SAM.gov",
-      "category": "procurement",
-      "type": "Solicitation (RFP)",
-      "title": "CsUAS DRONE DETECTION",
-      "url": "https://sam.gov/workspace/contract/opp/04c2eaecea8044548b243d0346f88f98/view",
-      "agency": "DEPT OF DEFENSE",
-      "identifier": "FA303026Q0036",
-      "date": "2026-08-05",
-      "deadline": "2026-08-19",
-      "summary": "CsUAS DRONE DETECTION",
-      "score": 35,
-      "domains": [
-        "air"
-      ],
-      "matched_terms": [
-        "drone"
-      ],
-      "watchlist": null,
-      "extra": {
-        "naics": "334511",
-        "setaside": "SBA"
-      },
-      "first_seen": "2026-08-06T02:38:32.929266+00:00",
-      "is_new": false
-    },
-    {
       "id": "SAM.gov:4c51062315db462aa23cc30599f914ba",
       "source": "SAM.gov",
       "category": "procurement",
@@ -5155,35 +5132,6 @@
       "is_new": false
     },
     {
-      "id": "USAspending:W56KGU25C0009",
-      "source": "USAspending",
-      "category": "procurement",
-      "type": "Award",
-      "title": "VIRGINIA POLYTECHNIC INSTITUTE & STATE UNIVERSITY: BROAD AGENCY ANNOUNCEMENT FOR VIRGINIA TECH WITHIN AN EXISTING COUNTER UAS (CUAS) SOFTWARE",
-      "url": "https://www.usaspending.gov/award/CONT_AWD_W56KGU25C0009_9700_-NONE-_-NONE-",
-      "agency": "Department of Defense",
-      "identifier": "W56KGU25C0009",
-      "date": "2025-03-18",
-      "deadline": null,
-      "summary": "BROAD AGENCY ANNOUNCEMENT FOR VIRGINIA TECH WITHIN AN EXISTING COUNTER UAS (CUAS) SOFTWARE",
-      "score": 34,
-      "domains": [
-        "air",
-        "defense"
-      ],
-      "matched_terms": [
-        "uas",
-        "counter uas"
-      ],
-      "watchlist": null,
-      "extra": {
-        "amount": 4566000.0,
-        "award_type": "DEFINITIVE CONTRACT"
-      },
-      "first_seen": "2026-09-03T03:21:41.893456+00:00",
-      "is_new": true
-    },
-    {
       "id": "USAspending:W56KGU25C0003",
       "source": "USAspending",
       "category": "procurement",
@@ -5234,7 +5182,7 @@
       ],
       "watchlist": null,
       "extra": {
-        "amount": 41009202.26,
+        "amount": 41399511.38,
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-08-22T06:41:52.722649+00:00",
@@ -5296,6 +5244,56 @@
       },
       "first_seen": "2026-07-31T02:54:03.245875+00:00",
       "is_new": false
+    },
+    {
+      "id": "USAspending:W58RGZ26F0334",
+      "source": "USAspending",
+      "category": "procurement",
+      "type": "Award",
+      "title": "AEROVIRONMENT, INC: AWARD IN SUPPORT OF TUAS BATTALION RECONNAISSANCE UAV REQUIREMENT.",
+      "url": "https://www.usaspending.gov/award/CONT_AWD_W58RGZ26F0334_9700_W58RGZ26G0005_9700",
+      "agency": "Department of Defense",
+      "identifier": "W58RGZ26F0334",
+      "date": "2026-06-03",
+      "deadline": null,
+      "summary": "AWARD IN SUPPORT OF TUAS BATTALION RECONNAISSANCE UAV REQUIREMENT.",
+      "score": 30,
+      "domains": [
+        "air"
+      ],
+      "matched_terms": [
+        "uav"
+      ],
+      "watchlist": null,
+      "extra": {
+        "amount": 117306231.51,
+        "award_type": "DELIVERY ORDER"
+      },
+      "first_seen": "2026-09-03T10:48:36.776899+00:00",
+      "is_new": true
+    },
+    {
+      "id": "USAspending:W58RGZ26F0333",
+      "source": "USAspending",
+      "category": "procurement",
+      "type": "Award",
+      "title": "REDWIRE DEFENSE TECH OPERATIONS, LLC: TACTICAL UNCREWED AIRCRAFT SYSTEMS (TUAS) LONG RANGE RECONNAISSANCE (LRR) PROGRAM",
+      "url": "https://www.usaspending.gov/award/CONT_AWD_W58RGZ26F0333_9700_W58RGZ26G0006_9700",
+      "agency": "Department of Defense",
+      "identifier": "W58RGZ26F0333",
+      "date": "2026-06-03",
+      "deadline": null,
+      "summary": "TACTICAL UNCREWED AIRCRAFT SYSTEMS (TUAS) LONG RANGE RECONNAISSANCE (LRR) PROGRAM",
+      "score": 30,
+      "domains": [],
+      "matched_terms": [],
+      "watchlist": null,
+      "extra": {
+        "amount": 15857020.0,
+        "award_type": "DELIVERY ORDER"
+      },
+      "first_seen": "2026-09-03T10:48:36.776899+00:00",
+      "is_new": true
     },
     {
       "id": "USAspending:FA868926FB001",
@@ -5756,33 +5754,6 @@
       },
       "first_seen": "2026-08-11T13:08:11.012880+00:00",
       "is_new": false
-    },
-    {
-      "id": "USAspending:FA462523C0025",
-      "source": "USAspending",
-      "category": "procurement",
-      "type": "Award",
-      "title": "ASYLON INC: SMALL BUSINESS INNOVATION AND RESEARCH ADVANCING DRONE TECHNOLOGY FOR STRATFI SBIR PHASE II",
-      "url": "https://www.usaspending.gov/award/CONT_AWD_FA462523C0025_9700_-NONE-_-NONE-",
-      "agency": "Department of Defense",
-      "identifier": "FA462523C0025",
-      "date": "2023-09-01",
-      "deadline": null,
-      "summary": "SMALL BUSINESS INNOVATION AND RESEARCH ADVANCING DRONE TECHNOLOGY FOR STRATFI SBIR PHASE II",
-      "score": 30,
-      "domains": [
-        "air"
-      ],
-      "matched_terms": [
-        "drone"
-      ],
-      "watchlist": null,
-      "extra": {
-        "amount": 4599818.86,
-        "award_type": "DEFINITIVE CONTRACT"
-      },
-      "first_seen": "2026-09-03T03:21:41.893456+00:00",
-      "is_new": true
     },
     {
       "id": "USAspending:693KA823F00244",
@@ -7601,8 +7572,8 @@
     {
       "name": "SAM.gov",
       "status": "ok",
-      "detail": "58 kept",
-      "count": 58
+      "detail": "56 kept",
+      "count": 56
     },
     {
       "name": "CourtListener",
@@ -7618,26 +7589,26 @@
     }
   ],
   "stats": {
-    "total": 273,
+    "total": 272,
     "new": 5,
     "by_category": {
       "regulatory": 147,
-      "procurement": 113,
+      "procurement": 112,
       "litigation": 9,
       "legislative": 4
     },
     "by_domain": {
-      "air": 216,
-      "supply-chain": 111,
-      "spectrum": 46,
-      "defense": 13,
+      "air": 214,
+      "supply-chain": 112,
+      "spectrum": 47,
+      "defense": 12,
       "ground": 12,
       "maritime": 4
     },
     "by_source": {
       "FCC ECFS": 92,
-      "SAM.gov": 58,
-      "USAspending": 55,
+      "SAM.gov": 56,
+      "USAspending": 56,
       "Regulations.gov": 33,
       "Federal Register": 22,
       "CourtListener": 9,
@@ -7681,7 +7652,7 @@
         "supply-chain"
       ],
       "deadline": null,
-      "count": 45,
+      "count": 46,
       "latest": "2026-09-02"
     },
     {
@@ -7874,15 +7845,6 @@
     {
       "deadline": "2026-09-07",
       "days": 4,
-      "title": "Acquisition of Unmanned Aircraft System (UAS) for U.S. Embassy Quito, Ecuador",
-      "identifier": "19GE5026Q0131",
-      "category": "procurement",
-      "source": "SAM.gov",
-      "url": "https://sam.gov/workspace/contract/opp/f4ebb5016b4a44f08be54fe21f0f42fe/view"
-    },
-    {
-      "deadline": "2026-09-07",
-      "days": 4,
       "title": "Notice of Intent to Sole Source- NEROS Drone Parts and Training",
       "identifier": "FA558726SSNEROSDrones",
       "category": "procurement",
@@ -7960,6 +7922,15 @@
       "category": "procurement",
       "source": "SAM.gov",
       "url": "https://sam.gov/workspace/contract/opp/da82da9604cb462cb1f612cbaa42366c/view"
+    },
+    {
+      "deadline": "2026-09-16",
+      "days": 13,
+      "title": "Acquisition of Unmanned Aircraft System (UAS) for U.S. Embassy Quito, Ecuador",
+      "identifier": "19GE5026Q0131",
+      "category": "procurement",
+      "source": "SAM.gov",
+      "url": "https://sam.gov/workspace/contract/opp/fdab122ba69e42a09c2a91b3b2f4a97d/view"
     },
     {
       "deadline": "2026-09-16",
