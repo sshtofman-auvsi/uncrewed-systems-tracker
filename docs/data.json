@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-04T15:54:32.831169+00:00",
-  "generated_human": "2026-09-04 15:54 UTC",
+  "generated_at": "2026-09-04T20:24:04.081841+00:00",
+  "generated_human": "2026-09-04 20:24 UTC",
   "demo": false,
   "items": [
     {
@@ -2243,6 +2243,35 @@
       "is_new": false
     },
     {
+      "id": "FCC ECFS:26110069389",
+      "source": "FCC ECFS",
+      "category": "regulatory",
+      "type": "PETITION",
+      "title": "CTIA: PETITION (FCC 26-74)",
+      "url": "https://www.fcc.gov/ecfs/document/26110069389/1",
+      "agency": "FCC",
+      "identifier": "FCC 26-74",
+      "date": "2026-08-04",
+      "deadline": null,
+      "summary": "",
+      "score": 80,
+      "domains": [
+        "air",
+        "spectrum",
+        "supply-chain"
+      ],
+      "matched_terms": [],
+      "watchlist": {
+        "key": "gn-26-74",
+        "label": "GN 26-74 (Unleashing American Drone Dominance)"
+      },
+      "extra": {
+        "proceeding": "26-74"
+      },
+      "first_seen": "2026-09-04T20:24:04.081841+00:00",
+      "is_new": true
+    },
+    {
       "id": "FCC ECFS:26110069384",
       "source": "FCC ECFS",
       "category": "regulatory",
@@ -2269,35 +2298,6 @@
         "proceeding": "26-74"
       },
       "first_seen": "2026-08-07T18:58:44.285172+00:00",
-      "is_new": false
-    },
-    {
-      "id": "FCC ECFS:26110069388",
-      "source": "FCC ECFS",
-      "category": "regulatory",
-      "type": "PETITION",
-      "title": "CTIA: PETITION (FCC 26-74)",
-      "url": "https://www.fcc.gov/ecfs/document/26110069388/1",
-      "agency": "FCC",
-      "identifier": "FCC 26-74",
-      "date": "2026-08-04",
-      "deadline": null,
-      "summary": "",
-      "score": 80,
-      "domains": [
-        "air",
-        "spectrum",
-        "supply-chain"
-      ],
-      "matched_terms": [],
-      "watchlist": {
-        "key": "gn-26-74",
-        "label": "GN 26-74 (Unleashing American Drone Dominance)"
-      },
-      "extra": {
-        "proceeding": "26-74"
-      },
-      "first_seen": "2026-09-03T20:38:02.804215+00:00",
       "is_new": false
     },
     {
@@ -6481,6 +6481,30 @@
       "is_new": false
     },
     {
+      "id": "Regulations.gov:FAA-2026-11322-0001",
+      "source": "Regulations.gov",
+      "category": "regulatory",
+      "type": "Document",
+      "title": "J3 Precision Drone Servievs LLC - Petition",
+      "url": "https://www.regulations.gov/document/FAA-2026-11322-0001",
+      "agency": "FAA",
+      "identifier": "FAA-2026-11322",
+      "date": "2026-09-04",
+      "deadline": null,
+      "summary": "J3 Precision Drone Servievs LLC - Petition",
+      "score": 20,
+      "domains": [
+        "air"
+      ],
+      "matched_terms": [
+        "drone"
+      ],
+      "watchlist": null,
+      "extra": {},
+      "first_seen": "2026-09-04T20:24:04.081841+00:00",
+      "is_new": true
+    },
+    {
       "id": "Regulations.gov:FAA-2024-2204-0003",
       "source": "Regulations.gov",
       "category": "regulatory",
@@ -7048,17 +7072,17 @@
       "is_new": false
     },
     {
-      "id": "Regulations.gov:FAA-2023-0465-0003",
+      "id": "Regulations.gov:FAA-2026-10069-0001",
       "source": "Regulations.gov",
       "category": "regulatory",
       "type": "Document",
-      "title": "CAL Drone Applications LLC - Petition",
-      "url": "https://www.regulations.gov/document/FAA-2023-0465-0003",
+      "title": "Kansas Agricultural Drone Services, LLC - Exemption/Rulemaking",
+      "url": "https://www.regulations.gov/document/FAA-2026-10069-0001",
       "agency": "FAA",
-      "identifier": "FAA-2023-0465",
+      "identifier": "FAA-2026-10069",
       "date": "2026-08-17",
       "deadline": null,
-      "summary": "CAL Drone Applications LLC - Petition",
+      "summary": "Kansas Agricultural Drone Services, LLC - Exemption/Rulemaking",
       "score": 20,
       "domains": [
         "air"
@@ -7072,17 +7096,17 @@
       "is_new": false
     },
     {
-      "id": "Regulations.gov:FAA-2026-10069-0001",
+      "id": "Regulations.gov:FAA-2023-0465-0003",
       "source": "Regulations.gov",
       "category": "regulatory",
       "type": "Document",
-      "title": "Kansas Agricultural Drone Services, LLC - Exemption/Rulemaking",
-      "url": "https://www.regulations.gov/document/FAA-2026-10069-0001",
+      "title": "CAL Drone Applications LLC - Petition",
+      "url": "https://www.regulations.gov/document/FAA-2023-0465-0003",
       "agency": "FAA",
-      "identifier": "FAA-2026-10069",
+      "identifier": "FAA-2023-0465",
       "date": "2026-08-17",
       "deadline": null,
-      "summary": "Kansas Agricultural Drone Services, LLC - Exemption/Rulemaking",
+      "summary": "CAL Drone Applications LLC - Petition",
       "score": 20,
       "domains": [
         "air"
@@ -7474,7 +7498,7 @@
         "setaside": "SBA"
       },
       "first_seen": "2026-09-04T15:54:32.831169+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "SAM.gov:2fd18e073b814e52be948c64491f13f1",
@@ -7646,8 +7670,8 @@
     {
       "name": "Regulations.gov",
       "status": "ok",
-      "detail": "46 kept",
-      "count": 46
+      "detail": "47 kept",
+      "count": 47
     },
     {
       "name": "FCC ECFS",
@@ -7681,16 +7705,16 @@
     }
   ],
   "stats": {
-    "total": 276,
-    "new": 1,
+    "total": 277,
+    "new": 2,
     "by_category": {
-      "regulatory": 149,
+      "regulatory": 150,
       "procurement": 114,
       "litigation": 9,
       "legislative": 4
     },
     "by_domain": {
-      "air": 216,
+      "air": 217,
       "supply-chain": 111,
       "spectrum": 46,
       "defense": 12,
@@ -7701,7 +7725,7 @@
       "FCC ECFS": 92,
       "SAM.gov": 59,
       "USAspending": 55,
-      "Regulations.gov": 34,
+      "Regulations.gov": 35,
       "Federal Register": 23,
       "CourtListener": 9,
       "Congress.gov": 4
