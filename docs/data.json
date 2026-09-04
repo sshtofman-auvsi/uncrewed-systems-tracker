@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-04T10:47:37.190074+00:00",
-  "generated_human": "2026-09-04 10:47 UTC",
+  "generated_at": "2026-09-04T15:54:32.831169+00:00",
+  "generated_human": "2026-09-04 15:54 UTC",
   "demo": false,
   "items": [
     {
@@ -108,7 +108,7 @@
         "dockets": []
       },
       "first_seen": "2026-09-04T10:47:37.190074+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:26110075287",
@@ -2240,7 +2240,7 @@
         "docket_total_comments": 1669
       },
       "first_seen": "2026-09-04T10:47:37.190074+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:26110069384",
@@ -5636,7 +5636,7 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-09-04T10:47:37.190074+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:W15P7T26F0012",
@@ -7048,17 +7048,17 @@
       "is_new": false
     },
     {
-      "id": "Regulations.gov:FAA-2026-10069-0001",
+      "id": "Regulations.gov:FAA-2023-0465-0003",
       "source": "Regulations.gov",
       "category": "regulatory",
       "type": "Document",
-      "title": "Kansas Agricultural Drone Services, LLC - Exemption/Rulemaking",
-      "url": "https://www.regulations.gov/document/FAA-2026-10069-0001",
+      "title": "CAL Drone Applications LLC - Petition",
+      "url": "https://www.regulations.gov/document/FAA-2023-0465-0003",
       "agency": "FAA",
-      "identifier": "FAA-2026-10069",
+      "identifier": "FAA-2023-0465",
       "date": "2026-08-17",
       "deadline": null,
-      "summary": "Kansas Agricultural Drone Services, LLC - Exemption/Rulemaking",
+      "summary": "CAL Drone Applications LLC - Petition",
       "score": 20,
       "domains": [
         "air"
@@ -7072,17 +7072,17 @@
       "is_new": false
     },
     {
-      "id": "Regulations.gov:FAA-2023-0465-0003",
+      "id": "Regulations.gov:FAA-2026-10069-0001",
       "source": "Regulations.gov",
       "category": "regulatory",
       "type": "Document",
-      "title": "CAL Drone Applications LLC - Petition",
-      "url": "https://www.regulations.gov/document/FAA-2023-0465-0003",
+      "title": "Kansas Agricultural Drone Services, LLC - Exemption/Rulemaking",
+      "url": "https://www.regulations.gov/document/FAA-2026-10069-0001",
       "agency": "FAA",
-      "identifier": "FAA-2023-0465",
+      "identifier": "FAA-2026-10069",
       "date": "2026-08-17",
       "deadline": null,
-      "summary": "CAL Drone Applications LLC - Petition",
+      "summary": "Kansas Agricultural Drone Services, LLC - Exemption/Rulemaking",
       "score": 20,
       "domains": [
         "air"
@@ -7450,16 +7450,16 @@
       "is_new": false
     },
     {
-      "id": "SAM.gov:deae2c21c6a447f9afd51628e763e775",
+      "id": "SAM.gov:65230e253fcc43a1a5ba9253b9467fbc",
       "source": "SAM.gov",
       "category": "procurement",
       "type": "Solicitation (RFP)",
       "title": "A--Uncrewed Aircraft Systems (UAS) Services",
-      "url": "https://sam.gov/workspace/contract/opp/deae2c21c6a447f9afd51628e763e775/view",
+      "url": "https://sam.gov/workspace/contract/opp/65230e253fcc43a1a5ba9253b9467fbc/view",
       "agency": "COMMERCE, DEPARTMENT OF",
       "identifier": "1305M226Q0069",
-      "date": "2026-09-03",
-      "deadline": "2026-09-11",
+      "date": "2026-09-04",
+      "deadline": "2026-09-25",
       "summary": "A--Uncrewed Aircraft Systems (UAS) Services",
       "score": 18,
       "domains": [
@@ -7473,8 +7473,8 @@
         "naics": "541715",
         "setaside": "SBA"
       },
-      "first_seen": "2026-09-03T15:57:14.350942+00:00",
-      "is_new": false
+      "first_seen": "2026-09-04T15:54:32.831169+00:00",
+      "is_new": true
     },
     {
       "id": "SAM.gov:2fd18e073b814e52be948c64491f13f1",
@@ -7682,7 +7682,7 @@
   ],
   "stats": {
     "total": 276,
-    "new": 3,
+    "new": 1,
     "by_category": {
       "regulatory": 149,
       "procurement": 114,
@@ -8016,15 +8016,6 @@
       "url": "https://sam.gov/workspace/contract/opp/3c478f081eba406396c10be7d04f03bb/view"
     },
     {
-      "deadline": "2026-09-11",
-      "days": 7,
-      "title": "A--Uncrewed Aircraft Systems (UAS) Services",
-      "identifier": "1305M226Q0069",
-      "category": "procurement",
-      "source": "SAM.gov",
-      "url": "https://sam.gov/workspace/contract/opp/deae2c21c6a447f9afd51628e763e775/view"
-    },
-    {
       "deadline": "2026-09-16",
       "days": 12,
       "title": "Acquisition of Unmanned Aircraft System (UAS) for U.S. Embassy Quito, Ecuador",
@@ -8050,6 +8041,15 @@
       "category": "procurement",
       "source": "SAM.gov",
       "url": "https://sam.gov/workspace/contract/opp/b66f59f582a34113a9a668c49070477f/view"
+    },
+    {
+      "deadline": "2026-09-25",
+      "days": 21,
+      "title": "A--Uncrewed Aircraft Systems (UAS) Services",
+      "identifier": "1305M226Q0069",
+      "category": "procurement",
+      "source": "SAM.gov",
+      "url": "https://sam.gov/workspace/contract/opp/65230e253fcc43a1a5ba9253b9467fbc/view"
     },
     {
       "deadline": "2026-10-05",
