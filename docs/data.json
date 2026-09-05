@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-05T10:06:55.771659+00:00",
-  "generated_human": "2026-09-05 10:06 UTC",
+  "generated_at": "2026-09-05T14:44:26.928812+00:00",
+  "generated_human": "2026-09-05 14:44 UTC",
   "demo": false,
   "items": [
     {
@@ -2028,35 +2028,6 @@
       "is_new": false
     },
     {
-      "id": "FCC ECFS:26110071178",
-      "source": "FCC ECFS",
-      "category": "regulatory",
-      "type": "OPPOSITION TO PETITION FOR RECONSIDERATION",
-      "title": "DRONERESPONDERS: OPPOSITION TO PETITION FOR RECONSIDERATION (FCC 26-74)",
-      "url": "https://www.fcc.gov/ecfs/document/26110071178/1",
-      "agency": "FCC",
-      "identifier": "FCC 26-74",
-      "date": "2026-08-14",
-      "deadline": null,
-      "summary": "",
-      "score": 80,
-      "domains": [
-        "air",
-        "spectrum",
-        "supply-chain"
-      ],
-      "matched_terms": [],
-      "watchlist": {
-        "key": "gn-26-74",
-        "label": "GN 26-74 (Unleashing American Drone Dominance)"
-      },
-      "extra": {
-        "proceeding": "26-74"
-      },
-      "first_seen": "2026-08-14T18:55:22.284701+00:00",
-      "is_new": false
-    },
-    {
       "id": "FCC ECFS:26110071217",
       "source": "FCC ECFS",
       "category": "regulatory",
@@ -2092,6 +2063,35 @@
       "type": "OPPOSITION TO PETITION FOR RECONSIDERATION",
       "title": "D-Fend Solutions: OPPOSITION TO PETITION FOR RECONSIDERATION (FCC 26-74)",
       "url": "https://www.fcc.gov/ecfs/document/26110071197/1",
+      "agency": "FCC",
+      "identifier": "FCC 26-74",
+      "date": "2026-08-14",
+      "deadline": null,
+      "summary": "",
+      "score": 80,
+      "domains": [
+        "air",
+        "spectrum",
+        "supply-chain"
+      ],
+      "matched_terms": [],
+      "watchlist": {
+        "key": "gn-26-74",
+        "label": "GN 26-74 (Unleashing American Drone Dominance)"
+      },
+      "extra": {
+        "proceeding": "26-74"
+      },
+      "first_seen": "2026-08-14T18:55:22.284701+00:00",
+      "is_new": false
+    },
+    {
+      "id": "FCC ECFS:26110071178",
+      "source": "FCC ECFS",
+      "category": "regulatory",
+      "type": "OPPOSITION TO PETITION FOR RECONSIDERATION",
+      "title": "DRONERESPONDERS: OPPOSITION TO PETITION FOR RECONSIDERATION (FCC 26-74)",
+      "url": "https://www.fcc.gov/ecfs/document/26110071178/1",
       "agency": "FCC",
       "identifier": "FCC 26-74",
       "date": "2026-08-14",
@@ -2240,7 +2240,7 @@
         "docket_total_comments": 1669
       },
       "first_seen": "2026-09-05T10:06:55.771659+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:26110069389",
@@ -5287,7 +5287,7 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-09-05T10:06:55.771659+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:W58RGZ26F0334",
@@ -5774,7 +5774,7 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-09-05T10:06:55.771659+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:FA868923CB002",
@@ -7687,7 +7687,7 @@
   ],
   "stats": {
     "total": 276,
-    "new": 3,
+    "new": 0,
     "by_category": {
       "regulatory": 150,
       "procurement": 113,
