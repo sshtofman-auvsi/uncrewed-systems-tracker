@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-06T03:22:30.232483+00:00",
-  "generated_human": "2026-09-06 03:22 UTC",
+  "generated_at": "2026-09-06T10:26:28.877654+00:00",
+  "generated_human": "2026-09-06 10:26 UTC",
   "demo": false,
   "items": [
     {
@@ -4026,29 +4026,6 @@
       "is_new": false
     },
     {
-      "id": "SAM.gov:618d1adf94a045f39e9c31c75e090c9f",
-      "source": "SAM.gov",
-      "category": "procurement",
-      "type": "Combined Synopsis",
-      "title": "DroneBuster 5 w/ PNT",
-      "url": "https://sam.gov/workspace/contract/opp/618d1adf94a045f39e9c31c75e090c9f/view",
-      "agency": "DEPT OF DEFENSE",
-      "identifier": "FA527026QA051",
-      "date": "2026-09-03",
-      "deadline": "2026-09-08",
-      "summary": "DroneBuster 5 w/ PNT",
-      "score": 35,
-      "domains": [],
-      "matched_terms": [],
-      "watchlist": null,
-      "extra": {
-        "naics": "334511",
-        "setaside": "NONE"
-      },
-      "first_seen": "2026-09-03T03:21:41.893456+00:00",
-      "is_new": false
-    },
-    {
       "id": "SAM.gov:5650197cae0c4d8c806c3ce9851564ef",
       "source": "SAM.gov",
       "category": "procurement",
@@ -4170,6 +4147,29 @@
         "setaside": "SBA"
       },
       "first_seen": "2026-09-02T16:07:22.572980+00:00",
+      "is_new": false
+    },
+    {
+      "id": "SAM.gov:618d1adf94a045f39e9c31c75e090c9f",
+      "source": "SAM.gov",
+      "category": "procurement",
+      "type": "Combined Synopsis",
+      "title": "DroneBuster 5 w/ PNT",
+      "url": "https://sam.gov/workspace/contract/opp/618d1adf94a045f39e9c31c75e090c9f/view",
+      "agency": "DEPT OF DEFENSE",
+      "identifier": "FA527026QA051",
+      "date": "2026-09-02",
+      "deadline": "2026-09-08",
+      "summary": "DroneBuster 5 w/ PNT",
+      "score": 35,
+      "domains": [],
+      "matched_terms": [],
+      "watchlist": null,
+      "extra": {
+        "naics": "334511",
+        "setaside": "NONE"
+      },
+      "first_seen": "2026-09-03T03:21:41.893456+00:00",
       "is_new": false
     },
     {
