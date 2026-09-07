@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-07T03:21:07.849755+00:00",
-  "generated_human": "2026-09-07 03:21 UTC",
+  "generated_at": "2026-09-07T11:47:33.297084+00:00",
+  "generated_human": "2026-09-07 11:47 UTC",
   "demo": false,
   "items": [
     {
@@ -2240,7 +2240,7 @@
         "docket_total_comments": 1669
       },
       "first_seen": "2026-09-07T03:21:07.849755+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:26110069389",
@@ -4576,29 +4576,6 @@
         "setaside": "SBA"
       },
       "first_seen": "2026-08-20T18:41:24.685899+00:00",
-      "is_new": false
-    },
-    {
-      "id": "SAM.gov:013351806cba4c89bcccc17b948ed429",
-      "source": "SAM.gov",
-      "category": "procurement",
-      "type": "Sources Sought",
-      "title": "DroneBuster 5 w/ PNT",
-      "url": "https://sam.gov/workspace/contract/opp/013351806cba4c89bcccc17b948ed429/view",
-      "agency": "DEPT OF DEFENSE",
-      "identifier": "FA527026RFIdronebuster2026",
-      "date": "2026-08-19",
-      "deadline": "2026-08-23",
-      "summary": "DroneBuster 5 w/ PNT",
-      "score": 35,
-      "domains": [],
-      "matched_terms": [],
-      "watchlist": null,
-      "extra": {
-        "naics": "334511",
-        "setaside": "NONE"
-      },
-      "first_seen": "2026-08-19T06:43:51.710138+00:00",
       "is_new": false
     },
     {
@@ -7642,8 +7619,8 @@
     {
       "name": "SAM.gov",
       "status": "ok",
-      "detail": "57 kept",
-      "count": 57
+      "detail": "56 kept",
+      "count": 56
     },
     {
       "name": "CourtListener",
@@ -7659,11 +7636,11 @@
     }
   ],
   "stats": {
-    "total": 275,
-    "new": 1,
+    "total": 274,
+    "new": 0,
     "by_category": {
       "regulatory": 150,
-      "procurement": 112,
+      "procurement": 111,
       "litigation": 9,
       "legislative": 4
     },
@@ -7677,7 +7654,7 @@
     },
     "by_source": {
       "FCC ECFS": 92,
-      "SAM.gov": 57,
+      "SAM.gov": 56,
       "USAspending": 55,
       "Regulations.gov": 35,
       "Federal Register": 23,
