@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-07T17:25:43.970170+00:00",
-  "generated_human": "2026-09-07 17:25 UTC",
+  "generated_at": "2026-09-07T21:14:05.548591+00:00",
+  "generated_human": "2026-09-07 21:14 UTC",
   "demo": false,
   "items": [
     {
@@ -2240,7 +2240,7 @@
         "docket_total_comments": 1669
       },
       "first_seen": "2026-09-07T17:25:43.970170+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:26110069388",
@@ -2269,7 +2269,7 @@
         "proceeding": "26-74"
       },
       "first_seen": "2026-09-07T17:25:43.970170+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:26110069384",
@@ -7637,7 +7637,7 @@
   ],
   "stats": {
     "total": 274,
-    "new": 2,
+    "new": 0,
     "by_category": {
       "regulatory": 150,
       "procurement": 111,
