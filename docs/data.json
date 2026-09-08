@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-08T10:46:22.771497+00:00",
-  "generated_human": "2026-09-08 10:46 UTC",
+  "generated_at": "2026-09-08T16:10:06.071280+00:00",
+  "generated_human": "2026-09-08 16:10 UTC",
   "demo": false,
   "items": [
     {
@@ -76,6 +76,69 @@
       },
       "first_seen": "2026-08-28T21:47:14.838038+00:00",
       "is_new": false
+    },
+    {
+      "id": "FCC ECFS:26110075714",
+      "source": "FCC ECFS",
+      "category": "regulatory",
+      "type": "Comment",
+      "title": "Rylan Wexler Adams: COMMENT (FCC 26-22)",
+      "url": "https://www.fcc.gov/ecfs/search/search-filings/filing/26110075714",
+      "agency": "FCC",
+      "identifier": "FCC 26-22",
+      "date": "2026-09-08",
+      "deadline": null,
+      "summary": "I respectfully ask the Federal Communications Commission to reconsider its restrictions on SZ DJI Technology Co., Ltd. and to allow DJI products to continue receiving FCC authorization where they meet applicable technical and security requirements.\n\nDJI products are widely used by consumers, photographers, videographers, farmers, businesses, public-safety organizations, and other American users. R",
+      "score": 80,
+      "domains": [
+        "air",
+        "supply-chain"
+      ],
+      "matched_terms": [
+        "dji",
+        "26-22"
+      ],
+      "watchlist": {
+        "key": "et-26-22",
+        "label": "ET 26-22 / DA-26-592 (DJI Security Assessment — comment by Aug 28, 2026)"
+      },
+      "extra": {
+        "proceeding": "26-22"
+      },
+      "first_seen": "2026-09-08T16:10:06.071280+00:00",
+      "is_new": true
+    },
+    {
+      "id": "FCC ECFS:26110075702",
+      "source": "FCC ECFS",
+      "category": "regulatory",
+      "type": "Comment",
+      "title": "Nicholas Enghardt: COMMENT (FCC 26-22)",
+      "url": "https://www.fcc.gov/ecfs/search/search-filings/filing/26110075702",
+      "agency": "FCC",
+      "identifier": "FCC 26-22",
+      "date": "2026-09-08",
+      "deadline": null,
+      "summary": "I work for a municipal all-hazards fire department that utilizes DJI drones in several operational capacities, including, but not limited to, search and rescue, fire mitigation, and mapping. We opted to use DJI drones because they have an ecosystem that makes it easier to monitor our drone fleet using 3rd party software at a more cost-effective point than any other drone manufacturer. A ban on usi",
+      "score": 80,
+      "domains": [
+        "air",
+        "supply-chain"
+      ],
+      "matched_terms": [
+        "drone",
+        "dji",
+        "26-22"
+      ],
+      "watchlist": {
+        "key": "et-26-22",
+        "label": "ET 26-22 / DA-26-592 (DJI Security Assessment — comment by Aug 28, 2026)"
+      },
+      "extra": {
+        "proceeding": "26-22"
+      },
+      "first_seen": "2026-09-08T16:10:06.071280+00:00",
+      "is_new": true
     },
     {
       "id": "Federal Register:2026-18124",
@@ -1754,62 +1817,6 @@
       "is_new": false
     },
     {
-      "id": "FCC ECFS:26110073010",
-      "source": "FCC ECFS",
-      "category": "regulatory",
-      "type": "Comment",
-      "title": "Bill Shadden: COMMENT (FCC 26-22)",
-      "url": "https://www.fcc.gov/ecfs/document/26110073010/1",
-      "agency": "FCC",
-      "identifier": "FCC 26-22",
-      "date": "2026-08-25",
-      "deadline": null,
-      "summary": "",
-      "score": 80,
-      "domains": [
-        "supply-chain",
-        "air"
-      ],
-      "matched_terms": [],
-      "watchlist": {
-        "key": "et-26-22",
-        "label": "ET 26-22 / DA-26-592 (DJI Security Assessment — comment by Aug 28, 2026)"
-      },
-      "extra": {
-        "proceeding": "26-22"
-      },
-      "first_seen": "2026-08-25T18:40:52.275279+00:00",
-      "is_new": false
-    },
-    {
-      "id": "FCC ECFS:26110073000",
-      "source": "FCC ECFS",
-      "category": "regulatory",
-      "type": "Comment",
-      "title": "Norcalskymedia: COMMENT (FCC 26-22)",
-      "url": "https://www.fcc.gov/ecfs/document/26110073000/1",
-      "agency": "FCC",
-      "identifier": "FCC 26-22",
-      "date": "2026-08-25",
-      "deadline": null,
-      "summary": "",
-      "score": 80,
-      "domains": [
-        "supply-chain",
-        "air"
-      ],
-      "matched_terms": [],
-      "watchlist": {
-        "key": "et-26-22",
-        "label": "ET 26-22 / DA-26-592 (DJI Security Assessment — comment by Aug 28, 2026)"
-      },
-      "extra": {
-        "proceeding": "26-22"
-      },
-      "first_seen": "2026-08-25T18:40:52.275279+00:00",
-      "is_new": false
-    },
-    {
       "id": "SAM.gov:da198837b0e24005bf0470ad8283f3c2",
       "source": "SAM.gov",
       "category": "procurement",
@@ -2057,12 +2064,12 @@
       "is_new": false
     },
     {
-      "id": "FCC ECFS:26110071178",
+      "id": "FCC ECFS:26110071217",
       "source": "FCC ECFS",
       "category": "regulatory",
       "type": "OPPOSITION TO PETITION FOR RECONSIDERATION",
-      "title": "DRONERESPONDERS: OPPOSITION TO PETITION FOR RECONSIDERATION (FCC 26-74)",
-      "url": "https://www.fcc.gov/ecfs/document/26110071178/1",
+      "title": "Security Industry Association: OPPOSITION TO PETITION FOR RECONSIDERATION (FCC 26-74)",
+      "url": "https://www.fcc.gov/ecfs/document/26110071217/1",
       "agency": "FCC",
       "identifier": "FCC 26-74",
       "date": "2026-08-14",
@@ -2086,12 +2093,12 @@
       "is_new": false
     },
     {
-      "id": "FCC ECFS:26110071217",
+      "id": "FCC ECFS:26110071178",
       "source": "FCC ECFS",
       "category": "regulatory",
       "type": "OPPOSITION TO PETITION FOR RECONSIDERATION",
-      "title": "Security Industry Association: OPPOSITION TO PETITION FOR RECONSIDERATION (FCC 26-74)",
-      "url": "https://www.fcc.gov/ecfs/document/26110071217/1",
+      "title": "DRONERESPONDERS: OPPOSITION TO PETITION FOR RECONSIDERATION (FCC 26-74)",
+      "url": "https://www.fcc.gov/ecfs/document/26110071178/1",
       "agency": "FCC",
       "identifier": "FCC 26-74",
       "date": "2026-08-14",
@@ -2240,15 +2247,15 @@
         "docket_total_comments": 1669
       },
       "first_seen": "2026-09-08T10:46:22.771497+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
-      "id": "FCC ECFS:26110069389",
+      "id": "FCC ECFS:26110069388",
       "source": "FCC ECFS",
       "category": "regulatory",
       "type": "PETITION",
       "title": "CTIA: PETITION (FCC 26-74)",
-      "url": "https://www.fcc.gov/ecfs/document/26110069389/1",
+      "url": "https://www.fcc.gov/ecfs/document/26110069388/1",
       "agency": "FCC",
       "identifier": "FCC 26-74",
       "date": "2026-08-04",
@@ -2268,7 +2275,7 @@
       "extra": {
         "proceeding": "26-74"
       },
-      "first_seen": "2026-09-08T10:46:22.771497+00:00",
+      "first_seen": "2026-09-08T16:10:06.071280+00:00",
       "is_new": true
     },
     {
@@ -4072,6 +4079,33 @@
         "setaside": "NONE"
       },
       "first_seen": "2026-09-08T10:46:22.771497+00:00",
+      "is_new": false
+    },
+    {
+      "id": "SAM.gov:ee5be2c1b9454e27bb257b30088381b3",
+      "source": "SAM.gov",
+      "category": "procurement",
+      "type": "CSO",
+      "title": "FA8629-26-S-C001(Call-001)_Air Force - Small UAS & Asymmetric Capabilities - Commercial Solutions Opening",
+      "url": "https://sam.gov/workspace/contract/opp/ee5be2c1b9454e27bb257b30088381b3/view",
+      "agency": "DEPT OF DEFENSE",
+      "identifier": "FA8629-26-S-C001(Call-001)",
+      "date": "2026-09-08",
+      "deadline": "2026-09-30",
+      "summary": "FA8629-26-S-C001(Call-001)_Air Force - Small UAS & Asymmetric Capabilities - Commercial Solutions Opening",
+      "score": 35,
+      "domains": [
+        "air"
+      ],
+      "matched_terms": [
+        "uas"
+      ],
+      "watchlist": null,
+      "extra": {
+        "naics": "336411",
+        "setaside": "NONE"
+      },
+      "first_seen": "2026-09-08T16:10:06.071280+00:00",
       "is_new": true
     },
     {
@@ -6411,6 +6445,102 @@
       "is_new": false
     },
     {
+      "id": "Regulations.gov:FAA-2026-11386-0001",
+      "source": "Regulations.gov",
+      "category": "regulatory",
+      "type": "Document",
+      "title": "Hoffmann Drone Service LLC - Petition",
+      "url": "https://www.regulations.gov/document/FAA-2026-11386-0001",
+      "agency": "FAA",
+      "identifier": "FAA-2026-11386",
+      "date": "2026-09-08",
+      "deadline": null,
+      "summary": "Hoffmann Drone Service LLC - Petition",
+      "score": 20,
+      "domains": [
+        "air"
+      ],
+      "matched_terms": [
+        "drone"
+      ],
+      "watchlist": null,
+      "extra": {},
+      "first_seen": "2026-09-08T16:10:06.071280+00:00",
+      "is_new": true
+    },
+    {
+      "id": "Regulations.gov:FAA-2026-11357-0001",
+      "source": "Regulations.gov",
+      "category": "regulatory",
+      "type": "Document",
+      "title": "HAYMAN DRONE SERVICES LLC - Petition",
+      "url": "https://www.regulations.gov/document/FAA-2026-11357-0001",
+      "agency": "FAA",
+      "identifier": "FAA-2026-11357",
+      "date": "2026-09-08",
+      "deadline": null,
+      "summary": "HAYMAN DRONE SERVICES LLC - Petition",
+      "score": 20,
+      "domains": [
+        "air"
+      ],
+      "matched_terms": [
+        "drone"
+      ],
+      "watchlist": null,
+      "extra": {},
+      "first_seen": "2026-09-08T16:10:06.071280+00:00",
+      "is_new": true
+    },
+    {
+      "id": "Regulations.gov:FAA-2026-11354-0001",
+      "source": "Regulations.gov",
+      "category": "regulatory",
+      "type": "Document",
+      "title": "Agri Spray Drone Solutions LLC - Petition",
+      "url": "https://www.regulations.gov/document/FAA-2026-11354-0001",
+      "agency": "FAA",
+      "identifier": "FAA-2026-11354",
+      "date": "2026-09-08",
+      "deadline": null,
+      "summary": "Agri Spray Drone Solutions LLC - Petition",
+      "score": 20,
+      "domains": [
+        "air"
+      ],
+      "matched_terms": [
+        "drone"
+      ],
+      "watchlist": null,
+      "extra": {},
+      "first_seen": "2026-09-08T16:10:06.071280+00:00",
+      "is_new": true
+    },
+    {
+      "id": "Regulations.gov:FAA-2024-1706-0004",
+      "source": "Regulations.gov",
+      "category": "regulatory",
+      "type": "Document",
+      "title": "Hill’s Drone Service, LLC - Request for Extension",
+      "url": "https://www.regulations.gov/document/FAA-2024-1706-0004",
+      "agency": "FAA",
+      "identifier": "FAA-2024-1706",
+      "date": "2026-09-08",
+      "deadline": null,
+      "summary": "Hill’s Drone Service, LLC - Request for Extension",
+      "score": 20,
+      "domains": [
+        "air"
+      ],
+      "matched_terms": [
+        "drone"
+      ],
+      "watchlist": null,
+      "extra": {},
+      "first_seen": "2026-09-08T16:10:06.071280+00:00",
+      "is_new": true
+    },
+    {
       "id": "Regulations.gov:FAA-2026-11322-0001",
       "source": "Regulations.gov",
       "category": "regulatory",
@@ -7002,17 +7132,17 @@
       "is_new": false
     },
     {
-      "id": "Regulations.gov:FAA-2026-10069-0001",
+      "id": "Regulations.gov:FAA-2023-0465-0003",
       "source": "Regulations.gov",
       "category": "regulatory",
       "type": "Document",
-      "title": "Kansas Agricultural Drone Services, LLC - Exemption/Rulemaking",
-      "url": "https://www.regulations.gov/document/FAA-2026-10069-0001",
+      "title": "CAL Drone Applications LLC - Petition",
+      "url": "https://www.regulations.gov/document/FAA-2023-0465-0003",
       "agency": "FAA",
-      "identifier": "FAA-2026-10069",
+      "identifier": "FAA-2023-0465",
       "date": "2026-08-17",
       "deadline": null,
-      "summary": "Kansas Agricultural Drone Services, LLC - Exemption/Rulemaking",
+      "summary": "CAL Drone Applications LLC - Petition",
       "score": 20,
       "domains": [
         "air"
@@ -7026,17 +7156,17 @@
       "is_new": false
     },
     {
-      "id": "Regulations.gov:FAA-2023-0465-0003",
+      "id": "Regulations.gov:FAA-2026-10069-0001",
       "source": "Regulations.gov",
       "category": "regulatory",
       "type": "Document",
-      "title": "CAL Drone Applications LLC - Petition",
-      "url": "https://www.regulations.gov/document/FAA-2023-0465-0003",
+      "title": "Kansas Agricultural Drone Services, LLC - Exemption/Rulemaking",
+      "url": "https://www.regulations.gov/document/FAA-2026-10069-0001",
       "agency": "FAA",
-      "identifier": "FAA-2023-0465",
+      "identifier": "FAA-2026-10069",
       "date": "2026-08-17",
       "deadline": null,
-      "summary": "CAL Drone Applications LLC - Petition",
+      "summary": "Kansas Agricultural Drone Services, LLC - Exemption/Rulemaking",
       "score": 20,
       "domains": [
         "air"
@@ -7085,54 +7215,6 @@
       "date": "2026-08-14",
       "deadline": null,
       "summary": "Southern Drone OPS LLC - Petition",
-      "score": 20,
-      "domains": [
-        "air"
-      ],
-      "matched_terms": [
-        "drone"
-      ],
-      "watchlist": null,
-      "extra": {},
-      "first_seen": "2026-08-14T13:07:51.036627+00:00",
-      "is_new": false
-    },
-    {
-      "id": "Regulations.gov:FAA-2026-9971-0001",
-      "source": "Regulations.gov",
-      "category": "regulatory",
-      "type": "Document",
-      "title": "Drone and Robotic Solutions, LLC - Petition",
-      "url": "https://www.regulations.gov/document/FAA-2026-9971-0001",
-      "agency": "FAA",
-      "identifier": "FAA-2026-9971",
-      "date": "2026-08-14",
-      "deadline": null,
-      "summary": "Drone and Robotic Solutions, LLC - Petition",
-      "score": 20,
-      "domains": [
-        "air"
-      ],
-      "matched_terms": [
-        "drone"
-      ],
-      "watchlist": null,
-      "extra": {},
-      "first_seen": "2026-08-14T13:07:51.036627+00:00",
-      "is_new": false
-    },
-    {
-      "id": "Regulations.gov:FAA-2026-9970-0001",
-      "source": "Regulations.gov",
-      "category": "regulatory",
-      "type": "Document",
-      "title": "Drone and Robotic Solutions, LLC - Petition",
-      "url": "https://www.regulations.gov/document/FAA-2026-9970-0001",
-      "agency": "FAA",
-      "identifier": "FAA-2026-9970",
-      "date": "2026-08-14",
-      "deadline": null,
-      "summary": "Drone and Robotic Solutions, LLC - Petition",
       "score": 20,
       "domains": [
         "air"
@@ -7539,30 +7621,6 @@
       "is_new": false
     },
     {
-      "id": "Regulations.gov:FAA-2026-10540-0001",
-      "source": "Regulations.gov",
-      "category": "regulatory",
-      "type": "Document",
-      "title": "Aerial Worx UAV LLC - Petition",
-      "url": "https://www.regulations.gov/document/FAA-2026-10540-0001",
-      "agency": "FAA",
-      "identifier": "FAA-2026-10540",
-      "date": "2026-08-24",
-      "deadline": null,
-      "summary": "Aerial Worx UAV LLC - Petition",
-      "score": 18,
-      "domains": [
-        "air"
-      ],
-      "matched_terms": [
-        "uav"
-      ],
-      "watchlist": null,
-      "extra": {},
-      "first_seen": "2026-08-24T18:41:45.581629+00:00",
-      "is_new": false
-    },
-    {
       "id": "SAM.gov:0f3c9636a86749b3942f1697a32e99d4",
       "source": "SAM.gov",
       "category": "procurement",
@@ -7600,8 +7658,8 @@
     {
       "name": "Regulations.gov",
       "status": "ok",
-      "detail": "47 kept",
-      "count": 47
+      "detail": "48 kept",
+      "count": 48
     },
     {
       "name": "FCC ECFS",
@@ -7618,8 +7676,8 @@
     {
       "name": "SAM.gov",
       "status": "ok",
-      "detail": "55 kept",
-      "count": 55
+      "detail": "56 kept",
+      "count": 56
     },
     {
       "name": "CourtListener",
@@ -7635,16 +7693,16 @@
     }
   ],
   "stats": {
-    "total": 274,
-    "new": 3,
+    "total": 276,
+    "new": 8,
     "by_category": {
-      "regulatory": 150,
-      "procurement": 110,
+      "regulatory": 151,
+      "procurement": 111,
       "litigation": 10,
       "legislative": 4
     },
     "by_domain": {
-      "air": 218,
+      "air": 220,
       "supply-chain": 111,
       "spectrum": 46,
       "defense": 12,
@@ -7653,9 +7711,9 @@
     },
     "by_source": {
       "FCC ECFS": 92,
-      "SAM.gov": 55,
+      "SAM.gov": 56,
       "USAspending": 55,
-      "Regulations.gov": 35,
+      "Regulations.gov": 36,
       "Federal Register": 23,
       "CourtListener": 10,
       "Congress.gov": 4
@@ -7685,7 +7743,7 @@
       ],
       "deadline": "2026-08-28",
       "count": 51,
-      "latest": "2026-09-03"
+      "latest": "2026-09-08"
     },
     {
       "key": "gn-26-74",
@@ -7959,6 +8017,15 @@
       "category": "procurement",
       "source": "SAM.gov",
       "url": "https://sam.gov/workspace/contract/opp/65230e253fcc43a1a5ba9253b9467fbc/view"
+    },
+    {
+      "deadline": "2026-09-30",
+      "days": 22,
+      "title": "FA8629-26-S-C001(Call-001)_Air Force - Small UAS & Asymmetric Capabilities - Commercial Solutions Opening",
+      "identifier": "FA8629-26-S-C001(Call-001)",
+      "category": "procurement",
+      "source": "SAM.gov",
+      "url": "https://sam.gov/workspace/contract/opp/ee5be2c1b9454e27bb257b30088381b3/view"
     },
     {
       "deadline": "2026-10-05",
