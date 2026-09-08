@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-08T03:28:20.017926+00:00",
-  "generated_human": "2026-09-08 03:28 UTC",
+  "generated_at": "2026-09-08T10:46:22.771497+00:00",
+  "generated_human": "2026-09-08 10:46 UTC",
   "demo": false,
   "items": [
     {
@@ -2057,12 +2057,12 @@
       "is_new": false
     },
     {
-      "id": "FCC ECFS:26110071217",
+      "id": "FCC ECFS:26110071178",
       "source": "FCC ECFS",
       "category": "regulatory",
       "type": "OPPOSITION TO PETITION FOR RECONSIDERATION",
-      "title": "Security Industry Association: OPPOSITION TO PETITION FOR RECONSIDERATION (FCC 26-74)",
-      "url": "https://www.fcc.gov/ecfs/document/26110071217/1",
+      "title": "DRONERESPONDERS: OPPOSITION TO PETITION FOR RECONSIDERATION (FCC 26-74)",
+      "url": "https://www.fcc.gov/ecfs/document/26110071178/1",
       "agency": "FCC",
       "identifier": "FCC 26-74",
       "date": "2026-08-14",
@@ -2086,12 +2086,12 @@
       "is_new": false
     },
     {
-      "id": "FCC ECFS:26110071178",
+      "id": "FCC ECFS:26110071217",
       "source": "FCC ECFS",
       "category": "regulatory",
       "type": "OPPOSITION TO PETITION FOR RECONSIDERATION",
-      "title": "DRONERESPONDERS: OPPOSITION TO PETITION FOR RECONSIDERATION (FCC 26-74)",
-      "url": "https://www.fcc.gov/ecfs/document/26110071178/1",
+      "title": "Security Industry Association: OPPOSITION TO PETITION FOR RECONSIDERATION (FCC 26-74)",
+      "url": "https://www.fcc.gov/ecfs/document/26110071217/1",
       "agency": "FCC",
       "identifier": "FCC 26-74",
       "date": "2026-08-14",
@@ -2213,17 +2213,17 @@
       "is_new": false
     },
     {
-      "id": "Regulations.gov:FAA-2026-4558-1629",
+      "id": "Regulations.gov:FAA-2026-4558-1630",
       "source": "Regulations.gov",
       "category": "regulatory",
       "type": "Comment",
-      "title": "Comment on Designation – Restrict the Operation of Unmanned Aircraft in Close Proximity  to a Fixed Site Facility: Comment from Karin L",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1629",
+      "title": "Comment on Designation – Restrict the Operation of Unmanned Aircraft in Close Proximity  to a Fixed Site Facility: Comment from American Chemistry Council",
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1630",
       "agency": "FAA",
       "identifier": "FAA-2026-4558",
       "date": "2026-08-06",
       "deadline": null,
-      "summary": "Comment from Karin L",
+      "summary": "Comment from American Chemistry Council",
       "score": 80,
       "domains": [
         "air"
@@ -2239,16 +2239,16 @@
       "extra": {
         "docket_total_comments": 1669
       },
-      "first_seen": "2026-09-08T03:28:20.017926+00:00",
+      "first_seen": "2026-09-08T10:46:22.771497+00:00",
       "is_new": true
     },
     {
-      "id": "FCC ECFS:26110069388",
+      "id": "FCC ECFS:26110069389",
       "source": "FCC ECFS",
       "category": "regulatory",
       "type": "PETITION",
       "title": "CTIA: PETITION (FCC 26-74)",
-      "url": "https://www.fcc.gov/ecfs/document/26110069388/1",
+      "url": "https://www.fcc.gov/ecfs/document/26110069389/1",
       "agency": "FCC",
       "identifier": "FCC 26-74",
       "date": "2026-08-04",
@@ -2268,8 +2268,8 @@
       "extra": {
         "proceeding": "26-74"
       },
-      "first_seen": "2026-09-07T17:25:43.970170+00:00",
-      "is_new": false
+      "first_seen": "2026-09-08T10:46:22.771497+00:00",
+      "is_new": true
     },
     {
       "id": "FCC ECFS:26110069384",
@@ -3368,7 +3368,7 @@
       },
       "extra": {},
       "first_seen": "2026-09-08T03:28:20.017926+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "CourtListener:71665018",
@@ -4052,6 +4052,29 @@
       "is_new": false
     },
     {
+      "id": "SAM.gov:11473cdcbf4a4706b10baff086d703b3",
+      "source": "SAM.gov",
+      "category": "procurement",
+      "type": "Combined Synopsis",
+      "title": "DroneBuster 5 w/ PNT",
+      "url": "https://sam.gov/workspace/contract/opp/11473cdcbf4a4706b10baff086d703b3/view",
+      "agency": "DEPT OF DEFENSE",
+      "identifier": "FA527026QA051",
+      "date": "2026-09-08",
+      "deadline": "2026-09-11",
+      "summary": "DroneBuster 5 w/ PNT",
+      "score": 35,
+      "domains": [],
+      "matched_terms": [],
+      "watchlist": null,
+      "extra": {
+        "naics": "334511",
+        "setaside": "NONE"
+      },
+      "first_seen": "2026-09-08T10:46:22.771497+00:00",
+      "is_new": true
+    },
+    {
       "id": "SAM.gov:5650197cae0c4d8c806c3ce9851564ef",
       "source": "SAM.gov",
       "category": "procurement",
@@ -4173,29 +4196,6 @@
         "setaside": "SBA"
       },
       "first_seen": "2026-09-02T16:07:22.572980+00:00",
-      "is_new": false
-    },
-    {
-      "id": "SAM.gov:618d1adf94a045f39e9c31c75e090c9f",
-      "source": "SAM.gov",
-      "category": "procurement",
-      "type": "Combined Synopsis",
-      "title": "DroneBuster 5 w/ PNT",
-      "url": "https://sam.gov/workspace/contract/opp/618d1adf94a045f39e9c31c75e090c9f/view",
-      "agency": "DEPT OF DEFENSE",
-      "identifier": "FA527026QA051",
-      "date": "2026-09-02",
-      "deadline": "2026-09-08",
-      "summary": "DroneBuster 5 w/ PNT",
-      "score": 35,
-      "domains": [],
-      "matched_terms": [],
-      "watchlist": null,
-      "extra": {
-        "naics": "334511",
-        "setaside": "NONE"
-      },
-      "first_seen": "2026-09-03T03:21:41.893456+00:00",
       "is_new": false
     },
     {
@@ -4575,33 +4575,6 @@
         "setaside": "SBA"
       },
       "first_seen": "2026-08-22T01:15:54.861588+00:00",
-      "is_new": false
-    },
-    {
-      "id": "SAM.gov:fc67295450474cd186d61dbeb2e0e4a2",
-      "source": "SAM.gov",
-      "category": "procurement",
-      "type": "Solicitation (RFP)",
-      "title": "PKB DJI \"Red Fleet\" Drones",
-      "url": "https://sam.gov/workspace/contract/opp/fc67295450474cd186d61dbeb2e0e4a2/view",
-      "agency": "DEPT OF DEFENSE",
-      "identifier": "FA461326Q1042",
-      "date": "2026-08-20",
-      "deadline": "2026-08-24",
-      "summary": "PKB DJI \"Red Fleet\" Drones",
-      "score": 35,
-      "domains": [
-        "supply-chain"
-      ],
-      "matched_terms": [
-        "dji"
-      ],
-      "watchlist": null,
-      "extra": {
-        "naics": "336411",
-        "setaside": "SBA"
-      },
-      "first_seen": "2026-08-20T18:41:24.685899+00:00",
       "is_new": false
     },
     {
@@ -7029,17 +7002,17 @@
       "is_new": false
     },
     {
-      "id": "Regulations.gov:FAA-2023-0465-0003",
+      "id": "Regulations.gov:FAA-2026-10069-0001",
       "source": "Regulations.gov",
       "category": "regulatory",
       "type": "Document",
-      "title": "CAL Drone Applications LLC - Petition",
-      "url": "https://www.regulations.gov/document/FAA-2023-0465-0003",
+      "title": "Kansas Agricultural Drone Services, LLC - Exemption/Rulemaking",
+      "url": "https://www.regulations.gov/document/FAA-2026-10069-0001",
       "agency": "FAA",
-      "identifier": "FAA-2023-0465",
+      "identifier": "FAA-2026-10069",
       "date": "2026-08-17",
       "deadline": null,
-      "summary": "CAL Drone Applications LLC - Petition",
+      "summary": "Kansas Agricultural Drone Services, LLC - Exemption/Rulemaking",
       "score": 20,
       "domains": [
         "air"
@@ -7053,17 +7026,17 @@
       "is_new": false
     },
     {
-      "id": "Regulations.gov:FAA-2026-10069-0001",
+      "id": "Regulations.gov:FAA-2023-0465-0003",
       "source": "Regulations.gov",
       "category": "regulatory",
       "type": "Document",
-      "title": "Kansas Agricultural Drone Services, LLC - Exemption/Rulemaking",
-      "url": "https://www.regulations.gov/document/FAA-2026-10069-0001",
+      "title": "CAL Drone Applications LLC - Petition",
+      "url": "https://www.regulations.gov/document/FAA-2023-0465-0003",
       "agency": "FAA",
-      "identifier": "FAA-2026-10069",
+      "identifier": "FAA-2023-0465",
       "date": "2026-08-17",
       "deadline": null,
-      "summary": "Kansas Agricultural Drone Services, LLC - Exemption/Rulemaking",
+      "summary": "CAL Drone Applications LLC - Petition",
       "score": 20,
       "domains": [
         "air"
@@ -7645,8 +7618,8 @@
     {
       "name": "SAM.gov",
       "status": "ok",
-      "detail": "56 kept",
-      "count": 56
+      "detail": "55 kept",
+      "count": 55
     },
     {
       "name": "CourtListener",
@@ -7662,17 +7635,17 @@
     }
   ],
   "stats": {
-    "total": 275,
-    "new": 2,
+    "total": 274,
+    "new": 3,
     "by_category": {
       "regulatory": 150,
-      "procurement": 111,
+      "procurement": 110,
       "litigation": 10,
       "legislative": 4
     },
     "by_domain": {
       "air": 218,
-      "supply-chain": 112,
+      "supply-chain": 111,
       "spectrum": 46,
       "defense": 12,
       "ground": 12,
@@ -7680,7 +7653,7 @@
     },
     "by_source": {
       "FCC ECFS": 92,
-      "SAM.gov": 56,
+      "SAM.gov": 55,
       "USAspending": 55,
       "Regulations.gov": 35,
       "Federal Register": 23,
@@ -7873,15 +7846,6 @@
     {
       "deadline": "2026-09-08",
       "days": 0,
-      "title": "DroneBuster 5 w/ PNT",
-      "identifier": "FA527026QA051",
-      "category": "procurement",
-      "source": "SAM.gov",
-      "url": "https://sam.gov/workspace/contract/opp/618d1adf94a045f39e9c31c75e090c9f/view"
-    },
-    {
-      "deadline": "2026-09-08",
-      "days": 0,
       "title": "Radio Altimeter Test Set, Part Number: ALT-8000 in support of the MQ-4C Triton Unmanned Aircraft Systems (UAS) program.",
       "identifier": "N6833526Q1196",
       "category": "procurement",
@@ -7932,6 +7896,15 @@
       "category": "procurement",
       "source": "SAM.gov",
       "url": "https://sam.gov/workspace/contract/opp/da82da9604cb462cb1f612cbaa42366c/view"
+    },
+    {
+      "deadline": "2026-09-11",
+      "days": 3,
+      "title": "DroneBuster 5 w/ PNT",
+      "identifier": "FA527026QA051",
+      "category": "procurement",
+      "source": "SAM.gov",
+      "url": "https://sam.gov/workspace/contract/opp/11473cdcbf4a4706b10baff086d703b3/view"
     },
     {
       "deadline": "2026-09-11",
