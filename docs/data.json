@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-08T16:10:06.071280+00:00",
-  "generated_human": "2026-09-08 16:10 UTC",
+  "generated_at": "2026-09-08T20:50:28.071870+00:00",
+  "generated_human": "2026-09-08 20:50 UTC",
   "demo": false,
   "items": [
     {
@@ -106,7 +106,7 @@
         "proceeding": "26-22"
       },
       "first_seen": "2026-09-08T16:10:06.071280+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:26110075702",
@@ -138,7 +138,7 @@
         "proceeding": "26-22"
       },
       "first_seen": "2026-09-08T16:10:06.071280+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "Federal Register:2026-18124",
@@ -2064,12 +2064,12 @@
       "is_new": false
     },
     {
-      "id": "FCC ECFS:26110071217",
+      "id": "FCC ECFS:26110071178",
       "source": "FCC ECFS",
       "category": "regulatory",
       "type": "OPPOSITION TO PETITION FOR RECONSIDERATION",
-      "title": "Security Industry Association: OPPOSITION TO PETITION FOR RECONSIDERATION (FCC 26-74)",
-      "url": "https://www.fcc.gov/ecfs/document/26110071217/1",
+      "title": "DRONERESPONDERS: OPPOSITION TO PETITION FOR RECONSIDERATION (FCC 26-74)",
+      "url": "https://www.fcc.gov/ecfs/document/26110071178/1",
       "agency": "FCC",
       "identifier": "FCC 26-74",
       "date": "2026-08-14",
@@ -2093,12 +2093,12 @@
       "is_new": false
     },
     {
-      "id": "FCC ECFS:26110071178",
+      "id": "FCC ECFS:26110071217",
       "source": "FCC ECFS",
       "category": "regulatory",
       "type": "OPPOSITION TO PETITION FOR RECONSIDERATION",
-      "title": "DRONERESPONDERS: OPPOSITION TO PETITION FOR RECONSIDERATION (FCC 26-74)",
-      "url": "https://www.fcc.gov/ecfs/document/26110071178/1",
+      "title": "Security Industry Association: OPPOSITION TO PETITION FOR RECONSIDERATION (FCC 26-74)",
+      "url": "https://www.fcc.gov/ecfs/document/26110071217/1",
       "agency": "FCC",
       "identifier": "FCC 26-74",
       "date": "2026-08-14",
@@ -2220,17 +2220,17 @@
       "is_new": false
     },
     {
-      "id": "Regulations.gov:FAA-2026-4558-1630",
+      "id": "Regulations.gov:FAA-2026-4558-1629",
       "source": "Regulations.gov",
       "category": "regulatory",
       "type": "Comment",
-      "title": "Comment on Designation – Restrict the Operation of Unmanned Aircraft in Close Proximity  to a Fixed Site Facility: Comment from American Chemistry Council",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1630",
+      "title": "Comment on Designation – Restrict the Operation of Unmanned Aircraft in Close Proximity  to a Fixed Site Facility: Comment from Karin L",
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1629",
       "agency": "FAA",
       "identifier": "FAA-2026-4558",
       "date": "2026-08-06",
       "deadline": null,
-      "summary": "Comment from American Chemistry Council",
+      "summary": "Comment from Karin L",
       "score": 80,
       "domains": [
         "air"
@@ -2246,16 +2246,16 @@
       "extra": {
         "docket_total_comments": 1669
       },
-      "first_seen": "2026-09-08T10:46:22.771497+00:00",
-      "is_new": false
+      "first_seen": "2026-09-08T20:50:28.071870+00:00",
+      "is_new": true
     },
     {
-      "id": "FCC ECFS:26110069388",
+      "id": "FCC ECFS:26110069389",
       "source": "FCC ECFS",
       "category": "regulatory",
       "type": "PETITION",
       "title": "CTIA: PETITION (FCC 26-74)",
-      "url": "https://www.fcc.gov/ecfs/document/26110069388/1",
+      "url": "https://www.fcc.gov/ecfs/document/26110069389/1",
       "agency": "FCC",
       "identifier": "FCC 26-74",
       "date": "2026-08-04",
@@ -2275,7 +2275,7 @@
       "extra": {
         "proceeding": "26-74"
       },
-      "first_seen": "2026-09-08T16:10:06.071280+00:00",
+      "first_seen": "2026-09-08T20:50:28.071870+00:00",
       "is_new": true
     },
     {
@@ -4059,6 +4059,33 @@
       "is_new": false
     },
     {
+      "id": "SAM.gov:62697af1af6144d2beff760fbbbeee22",
+      "source": "SAM.gov",
+      "category": "procurement",
+      "type": "CSO",
+      "title": "Drone Marketplace Commercial Solutions Opening",
+      "url": "https://sam.gov/workspace/contract/opp/62697af1af6144d2beff760fbbbeee22/view",
+      "agency": "DEPT OF DEFENSE",
+      "identifier": "W58RGZ26SC001",
+      "date": "2026-09-08",
+      "deadline": "2031-03-11",
+      "summary": "Drone Marketplace Commercial Solutions Opening",
+      "score": 35,
+      "domains": [
+        "air"
+      ],
+      "matched_terms": [
+        "drone"
+      ],
+      "watchlist": null,
+      "extra": {
+        "naics": "336411",
+        "setaside": null
+      },
+      "first_seen": "2026-09-08T20:50:28.071870+00:00",
+      "is_new": true
+    },
+    {
       "id": "SAM.gov:11473cdcbf4a4706b10baff086d703b3",
       "source": "SAM.gov",
       "category": "procurement",
@@ -4106,7 +4133,7 @@
         "setaside": "NONE"
       },
       "first_seen": "2026-09-08T16:10:06.071280+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "SAM.gov:5650197cae0c4d8c806c3ce9851564ef",
@@ -6466,7 +6493,7 @@
       "watchlist": null,
       "extra": {},
       "first_seen": "2026-09-08T16:10:06.071280+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "Regulations.gov:FAA-2026-11357-0001",
@@ -6490,7 +6517,7 @@
       "watchlist": null,
       "extra": {},
       "first_seen": "2026-09-08T16:10:06.071280+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "Regulations.gov:FAA-2026-11354-0001",
@@ -6514,7 +6541,7 @@
       "watchlist": null,
       "extra": {},
       "first_seen": "2026-09-08T16:10:06.071280+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "Regulations.gov:FAA-2024-1706-0004",
@@ -6538,7 +6565,7 @@
       "watchlist": null,
       "extra": {},
       "first_seen": "2026-09-08T16:10:06.071280+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "Regulations.gov:FAA-2026-11322-0001",
@@ -7132,17 +7159,17 @@
       "is_new": false
     },
     {
-      "id": "Regulations.gov:FAA-2023-0465-0003",
+      "id": "Regulations.gov:FAA-2026-10069-0001",
       "source": "Regulations.gov",
       "category": "regulatory",
       "type": "Document",
-      "title": "CAL Drone Applications LLC - Petition",
-      "url": "https://www.regulations.gov/document/FAA-2023-0465-0003",
+      "title": "Kansas Agricultural Drone Services, LLC - Exemption/Rulemaking",
+      "url": "https://www.regulations.gov/document/FAA-2026-10069-0001",
       "agency": "FAA",
-      "identifier": "FAA-2023-0465",
+      "identifier": "FAA-2026-10069",
       "date": "2026-08-17",
       "deadline": null,
-      "summary": "CAL Drone Applications LLC - Petition",
+      "summary": "Kansas Agricultural Drone Services, LLC - Exemption/Rulemaking",
       "score": 20,
       "domains": [
         "air"
@@ -7156,17 +7183,17 @@
       "is_new": false
     },
     {
-      "id": "Regulations.gov:FAA-2026-10069-0001",
+      "id": "Regulations.gov:FAA-2023-0465-0003",
       "source": "Regulations.gov",
       "category": "regulatory",
       "type": "Document",
-      "title": "Kansas Agricultural Drone Services, LLC - Exemption/Rulemaking",
-      "url": "https://www.regulations.gov/document/FAA-2026-10069-0001",
+      "title": "CAL Drone Applications LLC - Petition",
+      "url": "https://www.regulations.gov/document/FAA-2023-0465-0003",
       "agency": "FAA",
-      "identifier": "FAA-2026-10069",
+      "identifier": "FAA-2023-0465",
       "date": "2026-08-17",
       "deadline": null,
-      "summary": "Kansas Agricultural Drone Services, LLC - Exemption/Rulemaking",
+      "summary": "CAL Drone Applications LLC - Petition",
       "score": 20,
       "domains": [
         "air"
@@ -7676,8 +7703,8 @@
     {
       "name": "SAM.gov",
       "status": "ok",
-      "detail": "56 kept",
-      "count": 56
+      "detail": "57 kept",
+      "count": 57
     },
     {
       "name": "CourtListener",
@@ -7693,16 +7720,16 @@
     }
   ],
   "stats": {
-    "total": 276,
-    "new": 8,
+    "total": 277,
+    "new": 3,
     "by_category": {
       "regulatory": 151,
-      "procurement": 111,
+      "procurement": 112,
       "litigation": 10,
       "legislative": 4
     },
     "by_domain": {
-      "air": 220,
+      "air": 221,
       "supply-chain": 111,
       "spectrum": 46,
       "defense": 12,
@@ -7711,7 +7738,7 @@
     },
     "by_source": {
       "FCC ECFS": 92,
-      "SAM.gov": 56,
+      "SAM.gov": 57,
       "USAspending": 55,
       "Regulations.gov": 36,
       "Federal Register": 23,
@@ -8080,6 +8107,15 @@
       "category": "procurement",
       "source": "SAM.gov",
       "url": "https://sam.gov/workspace/contract/opp/f2adca647af04d61b6ed30dc0d131fd4/view"
+    },
+    {
+      "deadline": "2031-03-11",
+      "days": 1645,
+      "title": "Drone Marketplace Commercial Solutions Opening",
+      "identifier": "W58RGZ26SC001",
+      "category": "procurement",
+      "source": "SAM.gov",
+      "url": "https://sam.gov/workspace/contract/opp/62697af1af6144d2beff760fbbbeee22/view"
     },
     {
       "deadline": "2031-05-28",
