@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-09T03:33:04.270117+00:00",
-  "generated_human": "2026-09-09 03:33 UTC",
+  "generated_at": "2026-09-09T10:54:09.753338+00:00",
+  "generated_human": "2026-09-09 10:54 UTC",
   "demo": false,
   "items": [
     {
@@ -2064,12 +2064,12 @@
       "is_new": false
     },
     {
-      "id": "FCC ECFS:26110071178",
+      "id": "FCC ECFS:26110071217",
       "source": "FCC ECFS",
       "category": "regulatory",
       "type": "OPPOSITION TO PETITION FOR RECONSIDERATION",
-      "title": "DRONERESPONDERS: OPPOSITION TO PETITION FOR RECONSIDERATION (FCC 26-74)",
-      "url": "https://www.fcc.gov/ecfs/document/26110071178/1",
+      "title": "Security Industry Association: OPPOSITION TO PETITION FOR RECONSIDERATION (FCC 26-74)",
+      "url": "https://www.fcc.gov/ecfs/document/26110071217/1",
       "agency": "FCC",
       "identifier": "FCC 26-74",
       "date": "2026-08-14",
@@ -2093,12 +2093,12 @@
       "is_new": false
     },
     {
-      "id": "FCC ECFS:26110071217",
+      "id": "FCC ECFS:26110071178",
       "source": "FCC ECFS",
       "category": "regulatory",
       "type": "OPPOSITION TO PETITION FOR RECONSIDERATION",
-      "title": "Security Industry Association: OPPOSITION TO PETITION FOR RECONSIDERATION (FCC 26-74)",
-      "url": "https://www.fcc.gov/ecfs/document/26110071217/1",
+      "title": "DRONERESPONDERS: OPPOSITION TO PETITION FOR RECONSIDERATION (FCC 26-74)",
+      "url": "https://www.fcc.gov/ecfs/document/26110071178/1",
       "agency": "FCC",
       "identifier": "FCC 26-74",
       "date": "2026-08-14",
@@ -2220,17 +2220,17 @@
       "is_new": false
     },
     {
-      "id": "Regulations.gov:FAA-2026-4558-1630",
+      "id": "Regulations.gov:FAA-2026-4558-1629",
       "source": "Regulations.gov",
       "category": "regulatory",
       "type": "Comment",
-      "title": "Comment on Designation – Restrict the Operation of Unmanned Aircraft in Close Proximity  to a Fixed Site Facility: Comment from American Chemistry Council",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1630",
+      "title": "Comment on Designation – Restrict the Operation of Unmanned Aircraft in Close Proximity  to a Fixed Site Facility: Comment from Karin L",
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1629",
       "agency": "FAA",
       "identifier": "FAA-2026-4558",
       "date": "2026-08-06",
       "deadline": null,
-      "summary": "Comment from American Chemistry Council",
+      "summary": "Comment from Karin L",
       "score": 80,
       "domains": [
         "air"
@@ -2246,37 +2246,8 @@
       "extra": {
         "docket_total_comments": 1669
       },
-      "first_seen": "2026-09-09T03:33:04.270117+00:00",
+      "first_seen": "2026-09-09T10:54:09.753338+00:00",
       "is_new": true
-    },
-    {
-      "id": "FCC ECFS:26110069384",
-      "source": "FCC ECFS",
-      "category": "regulatory",
-      "type": "PETITION FOR RECONSIDERATION",
-      "title": "CTIA: PETITION FOR RECONSIDERATION (FCC 26-74)",
-      "url": "https://www.fcc.gov/ecfs/document/26110069384/1",
-      "agency": "FCC",
-      "identifier": "FCC 26-74",
-      "date": "2026-08-04",
-      "deadline": null,
-      "summary": "",
-      "score": 80,
-      "domains": [
-        "air",
-        "spectrum",
-        "supply-chain"
-      ],
-      "matched_terms": [],
-      "watchlist": {
-        "key": "gn-26-74",
-        "label": "GN 26-74 (Unleashing American Drone Dominance)"
-      },
-      "extra": {
-        "proceeding": "26-74"
-      },
-      "first_seen": "2026-08-07T18:58:44.285172+00:00",
-      "is_new": false
     },
     {
       "id": "FCC ECFS:26110069389",
@@ -2305,6 +2276,35 @@
         "proceeding": "26-74"
       },
       "first_seen": "2026-09-08T20:50:28.071870+00:00",
+      "is_new": false
+    },
+    {
+      "id": "FCC ECFS:26110069384",
+      "source": "FCC ECFS",
+      "category": "regulatory",
+      "type": "PETITION FOR RECONSIDERATION",
+      "title": "CTIA: PETITION FOR RECONSIDERATION (FCC 26-74)",
+      "url": "https://www.fcc.gov/ecfs/document/26110069384/1",
+      "agency": "FCC",
+      "identifier": "FCC 26-74",
+      "date": "2026-08-04",
+      "deadline": null,
+      "summary": "",
+      "score": 80,
+      "domains": [
+        "air",
+        "spectrum",
+        "supply-chain"
+      ],
+      "matched_terms": [],
+      "watchlist": {
+        "key": "gn-26-74",
+        "label": "GN 26-74 (Unleashing American Drone Dominance)"
+      },
+      "extra": {
+        "proceeding": "26-74"
+      },
+      "first_seen": "2026-08-07T18:58:44.285172+00:00",
       "is_new": false
     },
     {
@@ -4081,7 +4081,7 @@
         "setaside": "NONE"
       },
       "first_seen": "2026-09-09T03:33:04.270117+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "SAM.gov:11473cdcbf4a4706b10baff086d703b3",
@@ -4134,33 +4134,6 @@
       "is_new": false
     },
     {
-      "id": "SAM.gov:e5253b3a27be44d8983ddc66d0e1a314",
-      "source": "SAM.gov",
-      "category": "procurement",
-      "type": "Presolicitation",
-      "title": "Medium Unmanned Surface Vessel (MUSV) High-Capacity",
-      "url": "https://sam.gov/workspace/contract/opp/e5253b3a27be44d8983ddc66d0e1a314/view",
-      "agency": "DEPT OF DEFENSE",
-      "identifier": "N0003926RR001",
-      "date": "2026-09-08",
-      "deadline": "2026-09-08",
-      "summary": "Medium Unmanned Surface Vessel (MUSV) High-Capacity",
-      "score": 35,
-      "domains": [
-        "maritime"
-      ],
-      "matched_terms": [
-        "unmanned surface vessel"
-      ],
-      "watchlist": null,
-      "extra": {
-        "naics": "336611",
-        "setaside": null
-      },
-      "first_seen": "2026-09-09T03:33:04.270117+00:00",
-      "is_new": true
-    },
-    {
       "id": "SAM.gov:8fc4045217f64e1c80bb9160b12a3716",
       "source": "SAM.gov",
       "category": "procurement",
@@ -4185,7 +4158,7 @@
         "setaside": null
       },
       "first_seen": "2026-09-09T03:33:04.270117+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "SAM.gov:5650197cae0c4d8c806c3ce9851564ef",
@@ -5098,6 +5071,35 @@
       "is_new": false
     },
     {
+      "id": "SAM.gov:57ca5864460144d8bf11b56ff9c82b76",
+      "source": "SAM.gov",
+      "category": "procurement",
+      "type": "Presolicitation",
+      "title": "374 SFS - Windtalker C-UAS",
+      "url": "https://sam.gov/workspace/contract/opp/57ca5864460144d8bf11b56ff9c82b76/view",
+      "agency": "DEPT OF DEFENSE",
+      "identifier": "FA520926Q0094",
+      "date": "2026-09-09",
+      "deadline": "2026-09-16",
+      "summary": "374 SFS - Windtalker C-UAS",
+      "score": 34,
+      "domains": [
+        "air",
+        "defense"
+      ],
+      "matched_terms": [
+        "uas",
+        "c-uas"
+      ],
+      "watchlist": null,
+      "extra": {
+        "naics": "334511",
+        "setaside": "NONE"
+      },
+      "first_seen": "2026-09-09T10:54:09.753338+00:00",
+      "is_new": true
+    },
+    {
       "id": "Federal Register:2026-17853",
       "source": "Federal Register",
       "category": "regulatory",
@@ -5464,7 +5466,7 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-09-09T03:33:04.270117+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:80NM0026F7025",
@@ -5878,7 +5880,7 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-09-09T03:33:04.270117+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:693KA823F00244",
@@ -5978,7 +5980,7 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-09-09T03:33:04.270117+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:FA862222F8449",
@@ -7769,7 +7771,7 @@
   ],
   "stats": {
     "total": 279,
-    "new": 7,
+    "new": 2,
     "by_category": {
       "regulatory": 151,
       "procurement": 114,
@@ -7777,12 +7779,12 @@
       "legislative": 4
     },
     "by_domain": {
-      "air": 220,
+      "air": 221,
       "supply-chain": 111,
       "spectrum": 46,
-      "defense": 12,
+      "defense": 13,
       "ground": 12,
-      "maritime": 6
+      "maritime": 5
     },
     "by_source": {
       "FCC ECFS": 92,
@@ -8056,6 +8058,15 @@
       "category": "procurement",
       "source": "SAM.gov",
       "url": "https://sam.gov/workspace/contract/opp/59e71ba50eac45639503842c073985cc/view"
+    },
+    {
+      "deadline": "2026-09-16",
+      "days": 7,
+      "title": "374 SFS - Windtalker C-UAS",
+      "identifier": "FA520926Q0094",
+      "category": "procurement",
+      "source": "SAM.gov",
+      "url": "https://sam.gov/workspace/contract/opp/57ca5864460144d8bf11b56ff9c82b76/view"
     },
     {
       "deadline": "2026-09-17",
