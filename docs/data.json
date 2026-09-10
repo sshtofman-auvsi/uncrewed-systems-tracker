@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-10T15:58:06.688399+00:00",
-  "generated_human": "2026-09-10 15:58 UTC",
+  "generated_at": "2026-09-10T20:31:41.638159+00:00",
+  "generated_human": "2026-09-10 20:31 UTC",
   "demo": false,
   "items": [
     {
@@ -76,6 +76,34 @@
       },
       "first_seen": "2026-08-28T21:47:14.838038+00:00",
       "is_new": false
+    },
+    {
+      "id": "FCC ECFS:26110076252",
+      "source": "FCC ECFS",
+      "category": "regulatory",
+      "type": "Comment",
+      "title": "Anthony Scazafavo: COMMENT (FCC 26-22)",
+      "url": "https://www.fcc.gov/ecfs/search/search-filings/filing/26110076252",
+      "agency": "FCC",
+      "identifier": "FCC 26-22",
+      "date": "2026-09-10",
+      "deadline": null,
+      "summary": "Drones are not posing any security threat to our country and if the FCC wants to protect the country then do the audit to prove one way or the other and act on those results. The uncertainty of whether we should buy lifesaving equipment that may be grounded down the line, the anxiety of not being able to get repairs or parts in the event of a crash, the not being able to keep up with the technolog",
+      "score": 80,
+      "domains": [
+        "supply-chain",
+        "air"
+      ],
+      "matched_terms": [],
+      "watchlist": {
+        "key": "et-26-22",
+        "label": "ET 26-22 / DA-26-592 (DJI Security Assessment — comment by Aug 28, 2026)"
+      },
+      "extra": {
+        "proceeding": "26-22"
+      },
+      "first_seen": "2026-09-10T20:31:41.638159+00:00",
+      "is_new": true
     },
     {
       "id": "FCC ECFS:26110075714",
@@ -1785,38 +1813,6 @@
       "is_new": false
     },
     {
-      "id": "FCC ECFS:26110072981",
-      "source": "FCC ECFS",
-      "category": "regulatory",
-      "type": "Comment",
-      "title": "Shane Frazier: COMMENT (FCC 26-22)",
-      "url": "https://www.fcc.gov/ecfs/search/search-filings/filing/26110072981",
-      "agency": "FCC",
-      "identifier": "FCC 26-22",
-      "date": "2026-08-25",
-      "deadline": null,
-      "summary": "I am requesting that the FCC remove the ban and clear DJI to sell and operate their drone company in the USA. This ban hurts our own citizens more than anything. It puts us at a great disadvantage in affordable technology and eliminates jobs as well as endangers civilians by removing much needed search and rescue drones. Make America Great, don't limit what we as Americans can buy. There is no oth",
-      "score": 80,
-      "domains": [
-        "air",
-        "supply-chain"
-      ],
-      "matched_terms": [
-        "drone",
-        "dji",
-        "26-22"
-      ],
-      "watchlist": {
-        "key": "et-26-22",
-        "label": "ET 26-22 / DA-26-592 (DJI Security Assessment — comment by Aug 28, 2026)"
-      },
-      "extra": {
-        "proceeding": "26-22"
-      },
-      "first_seen": "2026-08-25T18:40:52.275279+00:00",
-      "is_new": false
-    },
-    {
       "id": "SAM.gov:da198837b0e24005bf0470ad8283f3c2",
       "source": "SAM.gov",
       "category": "procurement",
@@ -2035,12 +2031,12 @@
       "is_new": false
     },
     {
-      "id": "FCC ECFS:26110071197",
+      "id": "FCC ECFS:26110071178",
       "source": "FCC ECFS",
       "category": "regulatory",
       "type": "OPPOSITION TO PETITION FOR RECONSIDERATION",
-      "title": "D-Fend Solutions: OPPOSITION TO PETITION FOR RECONSIDERATION (FCC 26-74)",
-      "url": "https://www.fcc.gov/ecfs/document/26110071197/1",
+      "title": "DRONERESPONDERS: OPPOSITION TO PETITION FOR RECONSIDERATION (FCC 26-74)",
+      "url": "https://www.fcc.gov/ecfs/document/26110071178/1",
       "agency": "FCC",
       "identifier": "FCC 26-74",
       "date": "2026-08-14",
@@ -2093,12 +2089,12 @@
       "is_new": false
     },
     {
-      "id": "FCC ECFS:26110071178",
+      "id": "FCC ECFS:26110071197",
       "source": "FCC ECFS",
       "category": "regulatory",
       "type": "OPPOSITION TO PETITION FOR RECONSIDERATION",
-      "title": "DRONERESPONDERS: OPPOSITION TO PETITION FOR RECONSIDERATION (FCC 26-74)",
-      "url": "https://www.fcc.gov/ecfs/document/26110071178/1",
+      "title": "D-Fend Solutions: OPPOSITION TO PETITION FOR RECONSIDERATION (FCC 26-74)",
+      "url": "https://www.fcc.gov/ecfs/document/26110071197/1",
       "agency": "FCC",
       "identifier": "FCC 26-74",
       "date": "2026-08-14",
@@ -2247,7 +2243,7 @@
         "docket_total_comments": 1669
       },
       "first_seen": "2026-09-10T15:58:06.688399+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:26110069388",
@@ -2276,7 +2272,7 @@
         "proceeding": "26-74"
       },
       "first_seen": "2026-09-10T15:58:06.688399+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:26110069384",
@@ -3975,6 +3971,29 @@
       },
       "first_seen": "2026-08-29T06:00:46.993514+00:00",
       "is_new": false
+    },
+    {
+      "id": "SAM.gov:de6574d9ee42474fbce72202cef61d77",
+      "source": "SAM.gov",
+      "category": "procurement",
+      "type": "Special Notice",
+      "title": "Notice of Intent to Sole Source -ADS Inc. Skydio Drones and Training",
+      "url": "https://sam.gov/workspace/contract/opp/de6574d9ee42474fbce72202cef61d77/view",
+      "agency": "DEPT OF DEFENSE",
+      "identifier": "FA558726SSSydioDrones",
+      "date": "2026-09-10",
+      "deadline": "2026-09-17",
+      "summary": "Notice of Intent to Sole Source -ADS Inc. Skydio Drones and Training",
+      "score": 35,
+      "domains": [],
+      "matched_terms": [],
+      "watchlist": null,
+      "extra": {
+        "naics": "334519",
+        "setaside": "NONE"
+      },
+      "first_seen": "2026-09-10T20:31:41.638159+00:00",
+      "is_new": true
     },
     {
       "id": "SAM.gov:62697af1af6144d2beff760fbbbeee22",
@@ -6452,30 +6471,6 @@
       "is_new": false
     },
     {
-      "id": "Regulations.gov:FAA-2024-2393-0010",
-      "source": "Regulations.gov",
-      "category": "regulatory",
-      "type": "Document",
-      "title": "Wisconsin Aerial Drone Services LLC - Additional Information",
-      "url": "https://www.regulations.gov/document/FAA-2024-2393-0010",
-      "agency": "FAA",
-      "identifier": "FAA-2024-2393",
-      "date": "2026-09-10",
-      "deadline": null,
-      "summary": "Wisconsin Aerial Drone Services LLC - Additional Information",
-      "score": 20,
-      "domains": [
-        "air"
-      ],
-      "matched_terms": [
-        "drone"
-      ],
-      "watchlist": null,
-      "extra": {},
-      "first_seen": "2026-09-10T15:58:06.688399+00:00",
-      "is_new": true
-    },
-    {
       "id": "Regulations.gov:FAA-2026-11520-0001",
       "source": "Regulations.gov",
       "category": "regulatory",
@@ -6497,6 +6492,54 @@
       "watchlist": null,
       "extra": {},
       "first_seen": "2026-09-10T15:58:06.688399+00:00",
+      "is_new": false
+    },
+    {
+      "id": "Regulations.gov:FAA-2024-2393-0010",
+      "source": "Regulations.gov",
+      "category": "regulatory",
+      "type": "Document",
+      "title": "Wisconsin Aerial Drone Services LLC - Additional Information",
+      "url": "https://www.regulations.gov/document/FAA-2024-2393-0010",
+      "agency": "FAA",
+      "identifier": "FAA-2024-2393",
+      "date": "2026-09-10",
+      "deadline": null,
+      "summary": "Wisconsin Aerial Drone Services LLC - Additional Information",
+      "score": 20,
+      "domains": [
+        "air"
+      ],
+      "matched_terms": [
+        "drone"
+      ],
+      "watchlist": null,
+      "extra": {},
+      "first_seen": "2026-09-10T15:58:06.688399+00:00",
+      "is_new": false
+    },
+    {
+      "id": "Regulations.gov:FAA-2023-2479-0013",
+      "source": "Regulations.gov",
+      "category": "regulatory",
+      "type": "Document",
+      "title": "Loutre Valley Drone Services LLC - Petition",
+      "url": "https://www.regulations.gov/document/FAA-2023-2479-0013",
+      "agency": "FAA",
+      "identifier": "FAA-2023-2479",
+      "date": "2026-09-10",
+      "deadline": null,
+      "summary": "Loutre Valley Drone Services LLC - Petition",
+      "score": 20,
+      "domains": [
+        "air"
+      ],
+      "matched_terms": [
+        "drone"
+      ],
+      "watchlist": null,
+      "extra": {},
+      "first_seen": "2026-09-10T20:31:41.638159+00:00",
       "is_new": true
     },
     {
@@ -7187,17 +7230,17 @@
       "is_new": false
     },
     {
-      "id": "Regulations.gov:FAA-2026-10069-0001",
+      "id": "Regulations.gov:FAA-2023-0465-0003",
       "source": "Regulations.gov",
       "category": "regulatory",
       "type": "Document",
-      "title": "Kansas Agricultural Drone Services, LLC - Exemption/Rulemaking",
-      "url": "https://www.regulations.gov/document/FAA-2026-10069-0001",
+      "title": "CAL Drone Applications LLC - Petition",
+      "url": "https://www.regulations.gov/document/FAA-2023-0465-0003",
       "agency": "FAA",
-      "identifier": "FAA-2026-10069",
+      "identifier": "FAA-2023-0465",
       "date": "2026-08-17",
       "deadline": null,
-      "summary": "Kansas Agricultural Drone Services, LLC - Exemption/Rulemaking",
+      "summary": "CAL Drone Applications LLC - Petition",
       "score": 20,
       "domains": [
         "air"
@@ -7207,8 +7250,8 @@
       ],
       "watchlist": null,
       "extra": {},
-      "first_seen": "2026-08-17T18:40:13.579342+00:00",
-      "is_new": false
+      "first_seen": "2026-09-10T20:31:41.638159+00:00",
+      "is_new": true
     },
     {
       "id": "Federal Register:2026-13966",
@@ -7493,7 +7536,7 @@
         "setaside": "SBA"
       },
       "first_seen": "2026-09-10T15:58:06.688399+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "SAM.gov:65230e253fcc43a1a5ba9253b9467fbc",
@@ -7641,8 +7684,8 @@
     {
       "name": "Regulations.gov",
       "status": "ok",
-      "detail": "47 kept",
-      "count": 47
+      "detail": "48 kept",
+      "count": 48
     },
     {
       "name": "FCC ECFS",
@@ -7659,8 +7702,8 @@
     {
       "name": "SAM.gov",
       "status": "ok",
-      "detail": "55 kept",
-      "count": 55
+      "detail": "56 kept",
+      "count": 56
     },
     {
       "name": "CourtListener",
@@ -7676,16 +7719,16 @@
     }
   ],
   "stats": {
-    "total": 275,
-    "new": 5,
+    "total": 277,
+    "new": 4,
     "by_category": {
-      "regulatory": 150,
-      "procurement": 111,
+      "regulatory": 151,
+      "procurement": 112,
       "litigation": 10,
       "legislative": 4
     },
     "by_domain": {
-      "air": 219,
+      "air": 220,
       "supply-chain": 112,
       "spectrum": 47,
       "defense": 14,
@@ -7694,9 +7737,9 @@
     },
     "by_source": {
       "FCC ECFS": 92,
+      "SAM.gov": 56,
       "USAspending": 56,
-      "SAM.gov": 55,
-      "Regulations.gov": 35,
+      "Regulations.gov": 36,
       "Federal Register": 23,
       "CourtListener": 10,
       "Congress.gov": 4
@@ -7726,7 +7769,7 @@
       ],
       "deadline": "2026-08-28",
       "count": 51,
-      "latest": "2026-09-08"
+      "latest": "2026-09-10"
     },
     {
       "key": "gn-26-74",
@@ -7946,6 +7989,15 @@
       "category": "procurement",
       "source": "SAM.gov",
       "url": "https://sam.gov/workspace/contract/opp/57ca5864460144d8bf11b56ff9c82b76/view"
+    },
+    {
+      "deadline": "2026-09-17",
+      "days": 7,
+      "title": "Notice of Intent to Sole Source -ADS Inc. Skydio Drones and Training",
+      "identifier": "FA558726SSSydioDrones",
+      "category": "procurement",
+      "source": "SAM.gov",
+      "url": "https://sam.gov/workspace/contract/opp/de6574d9ee42474fbce72202cef61d77/view"
     },
     {
       "deadline": "2026-09-17",
