@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-10T03:29:54.958940+00:00",
-  "generated_human": "2026-09-10 03:29 UTC",
+  "generated_at": "2026-09-10T10:49:05.762150+00:00",
+  "generated_human": "2026-09-10 10:49 UTC",
   "demo": false,
   "items": [
     {
@@ -2220,17 +2220,17 @@
       "is_new": false
     },
     {
-      "id": "Regulations.gov:FAA-2026-4558-1629",
+      "id": "Regulations.gov:FAA-2026-4558-1630",
       "source": "Regulations.gov",
       "category": "regulatory",
       "type": "Comment",
-      "title": "Comment on Designation – Restrict the Operation of Unmanned Aircraft in Close Proximity  to a Fixed Site Facility: Comment from Karin L",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1629",
+      "title": "Comment on Designation – Restrict the Operation of Unmanned Aircraft in Close Proximity  to a Fixed Site Facility: Comment from American Chemistry Council",
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1630",
       "agency": "FAA",
       "identifier": "FAA-2026-4558",
       "date": "2026-08-06",
       "deadline": null,
-      "summary": "Comment from Karin L",
+      "summary": "Comment from American Chemistry Council",
       "score": 80,
       "domains": [
         "air"
@@ -2246,7 +2246,7 @@
       "extra": {
         "docket_total_comments": 1669
       },
-      "first_seen": "2026-09-10T03:29:54.958940+00:00",
+      "first_seen": "2026-09-10T10:49:05.762150+00:00",
       "is_new": true
     },
     {
@@ -3233,7 +3233,7 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-09-10T03:29:54.958940+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "CourtListener:72313063",
@@ -3834,36 +3834,6 @@
       "is_new": false
     },
     {
-      "id": "SAM.gov:b44b9134f8d941689a341329a87ccf33",
-      "source": "SAM.gov",
-      "category": "procurement",
-      "type": "RFI",
-      "title": "Request for Information (RFI): Special Mission Vessel (SMV) – Helicopter, Unmanned Aerial System (UAS), Unmanned Surface Vehicle (USV) & Small Craft Support Vessel",
-      "url": "https://sam.gov/workspace/contract/opp/b44b9134f8d941689a341329a87ccf33/view",
-      "agency": "DEPT OF DEFENSE",
-      "identifier": "N0002426RXXXX",
-      "date": "2026-08-18",
-      "deadline": "2026-08-26",
-      "summary": "Request for Information (RFI): Special Mission Vessel (SMV) – Helicopter, Unmanned Aerial System (UAS), Unmanned Surface Vehicle (USV) & Small Craft Support Vessel",
-      "score": 45,
-      "domains": [
-        "air",
-        "maritime"
-      ],
-      "matched_terms": [
-        "uas",
-        "unmanned surface vehicle",
-        "usv"
-      ],
-      "watchlist": null,
-      "extra": {
-        "naics": "336612",
-        "setaside": "NONE"
-      },
-      "first_seen": "2026-08-18T12:47:50.728437+00:00",
-      "is_new": false
-    },
-    {
       "id": "SAM.gov:36d4d5bb3e4f48499d1aea7a22432e4c",
       "source": "SAM.gov",
       "category": "procurement",
@@ -4004,34 +3974,6 @@
         "setaside": "SBA"
       },
       "first_seen": "2026-08-29T06:00:46.993514+00:00",
-      "is_new": false
-    },
-    {
-      "id": "SAM.gov:dba6a3fb0ee34fd3860cb4bd708d1bf1",
-      "source": "SAM.gov",
-      "category": "procurement",
-      "type": "Sources Sought",
-      "title": "Counter-small Unmanned Aircraft Systems-Keesler AFB",
-      "url": "https://sam.gov/workspace/contract/opp/dba6a3fb0ee34fd3860cb4bd708d1bf1/view",
-      "agency": "DEPT OF DEFENSE",
-      "identifier": "FA3010Counter-smallUnmannedAircraftSystems",
-      "date": "2026-08-24",
-      "deadline": "2026-08-26",
-      "summary": "Counter-small Unmanned Aircraft Systems-Keesler AFB",
-      "score": 36,
-      "domains": [
-        "air"
-      ],
-      "matched_terms": [
-        "unmanned aircraft",
-        "small unmanned"
-      ],
-      "watchlist": null,
-      "extra": {
-        "naics": "334511",
-        "setaside": "SBA"
-      },
-      "first_seen": "2026-08-24T18:41:45.581629+00:00",
       "is_new": false
     },
     {
@@ -4454,29 +4396,6 @@
       "is_new": false
     },
     {
-      "id": "SAM.gov:cb6195e1206b4c2baf488b78144307a6",
-      "source": "SAM.gov",
-      "category": "procurement",
-      "type": "Solicitation (RFP)",
-      "title": "112th Signal Drones",
-      "url": "https://sam.gov/workspace/contract/opp/cb6195e1206b4c2baf488b78144307a6/view",
-      "agency": "DEPT OF DEFENSE",
-      "identifier": "H9242126QE042",
-      "date": "2026-08-27",
-      "deadline": "2026-08-26",
-      "summary": "112th Signal Drones",
-      "score": 35,
-      "domains": [],
-      "matched_terms": [],
-      "watchlist": null,
-      "extra": {
-        "naics": "336411",
-        "setaside": null
-      },
-      "first_seen": "2026-08-27T21:55:00.171100+00:00",
-      "is_new": false
-    },
-    {
       "id": "SAM.gov:bc6282d783a44e0e9e24cee6d553011b",
       "source": "SAM.gov",
       "category": "procurement",
@@ -4812,29 +4731,6 @@
         "setaside": "NONE"
       },
       "first_seen": "2026-08-11T19:03:38.629602+00:00",
-      "is_new": false
-    },
-    {
-      "id": "SAM.gov:6fbcadb8ec084a8fa3cbf4029a0b0b77",
-      "source": "SAM.gov",
-      "category": "procurement",
-      "type": "Presolicitation",
-      "title": "50 SFS DRONEBUSTERS",
-      "url": "https://sam.gov/workspace/contract/opp/6fbcadb8ec084a8fa3cbf4029a0b0b77/view",
-      "agency": "DEPT OF DEFENSE",
-      "identifier": "50SFSDBPSN",
-      "date": "2026-08-11",
-      "deadline": "2026-08-26",
-      "summary": "50 SFS DRONEBUSTERS",
-      "score": 35,
-      "domains": [],
-      "matched_terms": [],
-      "watchlist": null,
-      "extra": {
-        "naics": "334511",
-        "setaside": "SBA"
-      },
-      "first_seen": "2026-08-12T02:01:31.422885+00:00",
       "is_new": false
     },
     {
@@ -5217,7 +5113,7 @@
         "award_type": "DEFINITIVE CONTRACT"
       },
       "first_seen": "2026-09-10T03:29:54.958940+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:W56KGU25C0003",
@@ -5799,7 +5695,7 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-09-10T03:29:54.958940+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:W58RGZ24C0031",
@@ -5891,7 +5787,7 @@
         "award_type": "DEFINITIVE CONTRACT"
       },
       "first_seen": "2026-09-10T03:29:54.958940+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:FA868923CB002",
@@ -7243,17 +7139,17 @@
       "is_new": false
     },
     {
-      "id": "Regulations.gov:FAA-2026-10069-0001",
+      "id": "Regulations.gov:FAA-2023-0465-0003",
       "source": "Regulations.gov",
       "category": "regulatory",
       "type": "Document",
-      "title": "Kansas Agricultural Drone Services, LLC - Exemption/Rulemaking",
-      "url": "https://www.regulations.gov/document/FAA-2026-10069-0001",
+      "title": "CAL Drone Applications LLC - Petition",
+      "url": "https://www.regulations.gov/document/FAA-2023-0465-0003",
       "agency": "FAA",
-      "identifier": "FAA-2026-10069",
+      "identifier": "FAA-2023-0465",
       "date": "2026-08-17",
       "deadline": null,
-      "summary": "Kansas Agricultural Drone Services, LLC - Exemption/Rulemaking",
+      "summary": "CAL Drone Applications LLC - Petition",
       "score": 20,
       "domains": [
         "air"
@@ -7267,17 +7163,17 @@
       "is_new": false
     },
     {
-      "id": "Regulations.gov:FAA-2023-0465-0003",
+      "id": "Regulations.gov:FAA-2026-10069-0001",
       "source": "Regulations.gov",
       "category": "regulatory",
       "type": "Document",
-      "title": "CAL Drone Applications LLC - Petition",
-      "url": "https://www.regulations.gov/document/FAA-2023-0465-0003",
+      "title": "Kansas Agricultural Drone Services, LLC - Exemption/Rulemaking",
+      "url": "https://www.regulations.gov/document/FAA-2026-10069-0001",
       "agency": "FAA",
-      "identifier": "FAA-2023-0465",
+      "identifier": "FAA-2026-10069",
       "date": "2026-08-17",
       "deadline": null,
-      "summary": "CAL Drone Applications LLC - Petition",
+      "summary": "Kansas Agricultural Drone Services, LLC - Exemption/Rulemaking",
       "score": 20,
       "domains": [
         "air"
@@ -7763,8 +7659,8 @@
     {
       "name": "SAM.gov",
       "status": "ok",
-      "detail": "59 kept",
-      "count": 59
+      "detail": "55 kept",
+      "count": 55
     },
     {
       "name": "CourtListener",
@@ -7780,26 +7676,26 @@
     }
   ],
   "stats": {
-    "total": 279,
-    "new": 5,
+    "total": 275,
+    "new": 1,
     "by_category": {
       "regulatory": 150,
-      "procurement": 115,
+      "procurement": 111,
       "litigation": 10,
       "legislative": 4
     },
     "by_domain": {
-      "air": 221,
+      "air": 219,
       "supply-chain": 112,
       "spectrum": 47,
       "defense": 14,
       "ground": 12,
-      "maritime": 5
+      "maritime": 4
     },
     "by_source": {
       "FCC ECFS": 92,
-      "SAM.gov": 59,
       "USAspending": 56,
+      "SAM.gov": 55,
       "Regulations.gov": 35,
       "Federal Register": 23,
       "CourtListener": 10,
