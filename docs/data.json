@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-11T10:46:04.082198+00:00",
-  "generated_human": "2026-09-11 10:46 UTC",
+  "generated_at": "2026-09-11T16:01:40.852303+00:00",
+  "generated_human": "2026-09-11 16:01 UTC",
   "demo": false,
   "items": [
     {
@@ -1995,35 +1995,6 @@
       "is_new": false
     },
     {
-      "id": "FCC ECFS:26110071197",
-      "source": "FCC ECFS",
-      "category": "regulatory",
-      "type": "OPPOSITION TO PETITION FOR RECONSIDERATION",
-      "title": "D-Fend Solutions: OPPOSITION TO PETITION FOR RECONSIDERATION (FCC 26-74)",
-      "url": "https://www.fcc.gov/ecfs/document/26110071197/1",
-      "agency": "FCC",
-      "identifier": "FCC 26-74",
-      "date": "2026-08-14",
-      "deadline": null,
-      "summary": "",
-      "score": 80,
-      "domains": [
-        "air",
-        "spectrum",
-        "supply-chain"
-      ],
-      "matched_terms": [],
-      "watchlist": {
-        "key": "gn-26-74",
-        "label": "GN 26-74 (Unleashing American Drone Dominance)"
-      },
-      "extra": {
-        "proceeding": "26-74"
-      },
-      "first_seen": "2026-08-14T18:55:22.284701+00:00",
-      "is_new": false
-    },
-    {
       "id": "FCC ECFS:26110071178",
       "source": "FCC ECFS",
       "category": "regulatory",
@@ -2059,6 +2030,35 @@
       "type": "OPPOSITION TO PETITION FOR RECONSIDERATION",
       "title": "Security Industry Association: OPPOSITION TO PETITION FOR RECONSIDERATION (FCC 26-74)",
       "url": "https://www.fcc.gov/ecfs/document/26110071217/1",
+      "agency": "FCC",
+      "identifier": "FCC 26-74",
+      "date": "2026-08-14",
+      "deadline": null,
+      "summary": "",
+      "score": 80,
+      "domains": [
+        "air",
+        "spectrum",
+        "supply-chain"
+      ],
+      "matched_terms": [],
+      "watchlist": {
+        "key": "gn-26-74",
+        "label": "GN 26-74 (Unleashing American Drone Dominance)"
+      },
+      "extra": {
+        "proceeding": "26-74"
+      },
+      "first_seen": "2026-08-14T18:55:22.284701+00:00",
+      "is_new": false
+    },
+    {
+      "id": "FCC ECFS:26110071197",
+      "source": "FCC ECFS",
+      "category": "regulatory",
+      "type": "OPPOSITION TO PETITION FOR RECONSIDERATION",
+      "title": "D-Fend Solutions: OPPOSITION TO PETITION FOR RECONSIDERATION (FCC 26-74)",
+      "url": "https://www.fcc.gov/ecfs/document/26110071197/1",
       "agency": "FCC",
       "identifier": "FCC 26-74",
       "date": "2026-08-14",
@@ -2180,17 +2180,17 @@
       "is_new": false
     },
     {
-      "id": "Regulations.gov:FAA-2026-4558-1629",
+      "id": "Regulations.gov:FAA-2026-4558-1630",
       "source": "Regulations.gov",
       "category": "regulatory",
       "type": "Comment",
-      "title": "Comment on Designation – Restrict the Operation of Unmanned Aircraft in Close Proximity  to a Fixed Site Facility: Comment from Karin L",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1629",
+      "title": "Comment on Designation – Restrict the Operation of Unmanned Aircraft in Close Proximity  to a Fixed Site Facility: Comment from American Chemistry Council",
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1630",
       "agency": "FAA",
       "identifier": "FAA-2026-4558",
       "date": "2026-08-06",
       "deadline": null,
-      "summary": "Comment from Karin L",
+      "summary": "Comment from American Chemistry Council",
       "score": 80,
       "domains": [
         "air"
@@ -2206,7 +2206,36 @@
       "extra": {
         "docket_total_comments": 1669
       },
-      "first_seen": "2026-09-10T15:58:06.688399+00:00",
+      "first_seen": "2026-09-11T16:01:40.852303+00:00",
+      "is_new": true
+    },
+    {
+      "id": "FCC ECFS:26110069384",
+      "source": "FCC ECFS",
+      "category": "regulatory",
+      "type": "PETITION FOR RECONSIDERATION",
+      "title": "CTIA: PETITION FOR RECONSIDERATION (FCC 26-74)",
+      "url": "https://www.fcc.gov/ecfs/document/26110069384/1",
+      "agency": "FCC",
+      "identifier": "FCC 26-74",
+      "date": "2026-08-04",
+      "deadline": null,
+      "summary": "",
+      "score": 80,
+      "domains": [
+        "air",
+        "spectrum",
+        "supply-chain"
+      ],
+      "matched_terms": [],
+      "watchlist": {
+        "key": "gn-26-74",
+        "label": "GN 26-74 (Unleashing American Drone Dominance)"
+      },
+      "extra": {
+        "proceeding": "26-74"
+      },
+      "first_seen": "2026-08-07T18:58:44.285172+00:00",
       "is_new": false
     },
     {
@@ -2236,35 +2265,6 @@
         "proceeding": "26-74"
       },
       "first_seen": "2026-09-10T15:58:06.688399+00:00",
-      "is_new": false
-    },
-    {
-      "id": "FCC ECFS:26110069384",
-      "source": "FCC ECFS",
-      "category": "regulatory",
-      "type": "PETITION FOR RECONSIDERATION",
-      "title": "CTIA: PETITION FOR RECONSIDERATION (FCC 26-74)",
-      "url": "https://www.fcc.gov/ecfs/document/26110069384/1",
-      "agency": "FCC",
-      "identifier": "FCC 26-74",
-      "date": "2026-08-04",
-      "deadline": null,
-      "summary": "",
-      "score": 80,
-      "domains": [
-        "air",
-        "spectrum",
-        "supply-chain"
-      ],
-      "matched_terms": [],
-      "watchlist": {
-        "key": "gn-26-74",
-        "label": "GN 26-74 (Unleashing American Drone Dominance)"
-      },
-      "extra": {
-        "proceeding": "26-74"
-      },
-      "first_seen": "2026-08-07T18:58:44.285172+00:00",
       "is_new": false
     },
     {
@@ -3717,7 +3717,7 @@
       "url": "https://sam.gov/workspace/contract/opp/0df57bbda1e6497ead1c3b09a75b9de5/view",
       "agency": "DEPT OF DEFENSE",
       "identifier": "FA521526N0002",
-      "date": "2026-09-11",
+      "date": "2026-09-10",
       "deadline": "2026-09-15",
       "summary": "PACAF - Small Unmanned Aircraft System",
       "score": 52,
@@ -3995,6 +3995,29 @@
       },
       "first_seen": "2026-08-29T06:00:46.993514+00:00",
       "is_new": false
+    },
+    {
+      "id": "SAM.gov:6506dea84c8045a89a32e814fbacbeb0",
+      "source": "SAM.gov",
+      "category": "procurement",
+      "type": "Combined Synopsis",
+      "title": "Freefly Astro Max (NDAA/Blue) Drones for ARS",
+      "url": "https://sam.gov/workspace/contract/opp/6506dea84c8045a89a32e814fbacbeb0/view",
+      "agency": "AGRICULTURE, DEPARTMENT OF",
+      "identifier": "123A9426Q0048",
+      "date": "2026-09-11",
+      "deadline": "2026-09-17",
+      "summary": "Freefly Astro Max (NDAA/Blue) Drones for ARS",
+      "score": 35,
+      "domains": [],
+      "matched_terms": [],
+      "watchlist": null,
+      "extra": {
+        "naics": "336411",
+        "setaside": "SBA"
+      },
+      "first_seen": "2026-09-11T16:01:40.852303+00:00",
+      "is_new": true
     },
     {
       "id": "SAM.gov:de6574d9ee42474fbce72202cef61d77",
@@ -6519,6 +6542,30 @@
         ]
       },
       "first_seen": "2026-09-11T10:46:04.082198+00:00",
+      "is_new": false
+    },
+    {
+      "id": "Regulations.gov:FAA-2026-11650-0001",
+      "source": "Regulations.gov",
+      "category": "regulatory",
+      "type": "Document",
+      "title": "Over the Top Drone Services, LLC - Petition",
+      "url": "https://www.regulations.gov/document/FAA-2026-11650-0001",
+      "agency": "FAA",
+      "identifier": "FAA-2026-11650",
+      "date": "2026-09-11",
+      "deadline": null,
+      "summary": "Over the Top Drone Services, LLC - Petition",
+      "score": 20,
+      "domains": [
+        "air"
+      ],
+      "matched_terms": [
+        "drone"
+      ],
+      "watchlist": null,
+      "extra": {},
+      "first_seen": "2026-09-11T16:01:40.852303+00:00",
       "is_new": true
     },
     {
@@ -7209,102 +7256,6 @@
       "is_new": false
     },
     {
-      "id": "Regulations.gov:FAA-2024-1924-0004",
-      "source": "Regulations.gov",
-      "category": "regulatory",
-      "type": "Document",
-      "title": "Agri-Air Drone Services LLC - Petition",
-      "url": "https://www.regulations.gov/document/FAA-2024-1924-0004",
-      "agency": "FAA",
-      "identifier": "FAA-2024-1924",
-      "date": "2026-08-18",
-      "deadline": null,
-      "summary": "Agri-Air Drone Services LLC - Petition",
-      "score": 20,
-      "domains": [
-        "air"
-      ],
-      "matched_terms": [
-        "drone"
-      ],
-      "watchlist": null,
-      "extra": {},
-      "first_seen": "2026-08-19T01:19:31.769318+00:00",
-      "is_new": false
-    },
-    {
-      "id": "Regulations.gov:FAA-2026-10234-0001",
-      "source": "Regulations.gov",
-      "category": "regulatory",
-      "type": "Document",
-      "title": "A&W Spray Drone, LLC - Petition",
-      "url": "https://www.regulations.gov/document/FAA-2026-10234-0001",
-      "agency": "FAA",
-      "identifier": "FAA-2026-10234",
-      "date": "2026-08-18",
-      "deadline": null,
-      "summary": "A&W Spray Drone, LLC - Petition",
-      "score": 20,
-      "domains": [
-        "air"
-      ],
-      "matched_terms": [
-        "drone"
-      ],
-      "watchlist": null,
-      "extra": {},
-      "first_seen": "2026-08-19T01:19:31.769318+00:00",
-      "is_new": false
-    },
-    {
-      "id": "Regulations.gov:FAA-2026-9573-0007",
-      "source": "Regulations.gov",
-      "category": "regulatory",
-      "type": "Document",
-      "title": "Mission Drone Services LLC - Petition (Corrected)",
-      "url": "https://www.regulations.gov/document/FAA-2026-9573-0007",
-      "agency": "FAA",
-      "identifier": "FAA-2026-9573",
-      "date": "2026-08-17",
-      "deadline": null,
-      "summary": "Mission Drone Services LLC - Petition (Corrected)",
-      "score": 20,
-      "domains": [
-        "air"
-      ],
-      "matched_terms": [
-        "drone"
-      ],
-      "watchlist": null,
-      "extra": {},
-      "first_seen": "2026-08-17T18:40:13.579342+00:00",
-      "is_new": false
-    },
-    {
-      "id": "Regulations.gov:FAA-2026-10069-0001",
-      "source": "Regulations.gov",
-      "category": "regulatory",
-      "type": "Document",
-      "title": "Kansas Agricultural Drone Services, LLC - Exemption/Rulemaking",
-      "url": "https://www.regulations.gov/document/FAA-2026-10069-0001",
-      "agency": "FAA",
-      "identifier": "FAA-2026-10069",
-      "date": "2026-08-17",
-      "deadline": null,
-      "summary": "Kansas Agricultural Drone Services, LLC - Exemption/Rulemaking",
-      "score": 20,
-      "domains": [
-        "air"
-      ],
-      "matched_terms": [
-        "drone"
-      ],
-      "watchlist": null,
-      "extra": {},
-      "first_seen": "2026-09-11T03:27:14.524299+00:00",
-      "is_new": false
-    },
-    {
       "id": "Federal Register:2026-13966",
       "source": "Federal Register",
       "category": "regulatory",
@@ -7563,6 +7514,33 @@
       "is_new": false
     },
     {
+      "id": "SAM.gov:52de24d6b97b47669815a46d3ee9e547",
+      "source": "SAM.gov",
+      "category": "procurement",
+      "type": "Presolicitation",
+      "title": "UAS Material CYs 2027-2032",
+      "url": "https://sam.gov/workspace/contract/opp/52de24d6b97b47669815a46d3ee9e547/view",
+      "agency": "DEPT OF DEFENSE",
+      "identifier": "N00019-26-RFPREQ-WPM263-0320",
+      "date": "2026-09-11",
+      "deadline": "2026-09-26",
+      "summary": "UAS Material CYs 2027-2032",
+      "score": 18,
+      "domains": [
+        "air"
+      ],
+      "matched_terms": [
+        "uas"
+      ],
+      "watchlist": null,
+      "extra": {
+        "naics": "336411",
+        "setaside": null
+      },
+      "first_seen": "2026-09-11T16:01:40.852303+00:00",
+      "is_new": true
+    },
+    {
       "id": "SAM.gov:0ccb43861a8d4b56b10e013f262f35fb",
       "source": "SAM.gov",
       "category": "procurement",
@@ -7708,8 +7686,8 @@
     {
       "name": "Regulations.gov",
       "status": "ok",
-      "detail": "48 kept",
-      "count": 48
+      "detail": "45 kept",
+      "count": 45
     },
     {
       "name": "FCC ECFS",
@@ -7726,8 +7704,8 @@
     {
       "name": "SAM.gov",
       "status": "ok",
-      "detail": "56 kept",
-      "count": 56
+      "detail": "58 kept",
+      "count": 58
     },
     {
       "name": "CourtListener",
@@ -7743,16 +7721,16 @@
     }
   ],
   "stats": {
-    "total": 278,
-    "new": 1,
+    "total": 277,
+    "new": 4,
     "by_category": {
-      "regulatory": 152,
-      "procurement": 112,
+      "regulatory": 149,
+      "procurement": 114,
       "litigation": 10,
       "legislative": 4
     },
     "by_domain": {
-      "air": 221,
+      "air": 219,
       "supply-chain": 111,
       "spectrum": 47,
       "defense": 14,
@@ -7761,9 +7739,9 @@
     },
     "by_source": {
       "FCC ECFS": 92,
-      "SAM.gov": 56,
+      "SAM.gov": 58,
       "USAspending": 56,
-      "Regulations.gov": 36,
+      "Regulations.gov": 33,
       "Federal Register": 24,
       "CourtListener": 10,
       "Congress.gov": 4
@@ -8035,6 +8013,15 @@
     {
       "deadline": "2026-09-17",
       "days": 6,
+      "title": "Freefly Astro Max (NDAA/Blue) Drones for ARS",
+      "identifier": "123A9426Q0048",
+      "category": "procurement",
+      "source": "SAM.gov",
+      "url": "https://sam.gov/workspace/contract/opp/6506dea84c8045a89a32e814fbacbeb0/view"
+    },
+    {
+      "deadline": "2026-09-17",
+      "days": 6,
       "title": "Notice of Intent to Sole Source -ADS Inc. Skydio Drones and Training",
       "identifier": "FA558726SSSydioDrones",
       "category": "procurement",
@@ -8076,6 +8063,15 @@
       "category": "procurement",
       "source": "SAM.gov",
       "url": "https://sam.gov/workspace/contract/opp/65230e253fcc43a1a5ba9253b9467fbc/view"
+    },
+    {
+      "deadline": "2026-09-26",
+      "days": 15,
+      "title": "UAS Material CYs 2027-2032",
+      "identifier": "N00019-26-RFPREQ-WPM263-0320",
+      "category": "procurement",
+      "source": "SAM.gov",
+      "url": "https://sam.gov/workspace/contract/opp/52de24d6b97b47669815a46d3ee9e547/view"
     },
     {
       "deadline": "2026-09-30",
