@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-11T03:27:14.524299+00:00",
-  "generated_human": "2026-09-11 03:27 UTC",
+  "generated_at": "2026-09-11T10:46:04.082198+00:00",
+  "generated_human": "2026-09-11 10:46 UTC",
   "demo": false,
   "items": [
     {
@@ -1810,42 +1810,6 @@
         "proceeding": "26-22"
       },
       "first_seen": "2026-08-25T18:40:52.275279+00:00",
-      "is_new": false
-    },
-    {
-      "id": "SAM.gov:da198837b0e24005bf0470ad8283f3c2",
-      "source": "SAM.gov",
-      "category": "procurement",
-      "type": "Combined Synopsis",
-      "title": "EchoOne small Unmanned Aircraft System (sUAS) Light Detection and Ranging (LiDAR) System “or equal”",
-      "url": "https://sam.gov/workspace/contract/opp/da198837b0e24005bf0470ad8283f3c2/view",
-      "agency": "DEPT OF DEFENSE",
-      "identifier": "FA805126Q4006",
-      "date": "2026-08-24",
-      "deadline": "2026-08-27",
-      "summary": "EchoOne small Unmanned Aircraft System (sUAS) Light Detection and Ranging (LiDAR) System “or equal”",
-      "score": 80,
-      "domains": [
-        "air",
-        "ground",
-        "supply-chain"
-      ],
-      "matched_terms": [
-        "unmanned aircraft",
-        "unmanned aircraft system",
-        "suas",
-        "small unmanned",
-        "lidar"
-      ],
-      "watchlist": {
-        "key": "build-america-250",
-        "label": "BUILD America 250 Act (Sec. 6009 LiDAR)"
-      },
-      "extra": {
-        "naics": "334511",
-        "setaside": "SBA"
-      },
-      "first_seen": "2026-08-24T18:41:45.581629+00:00",
       "is_new": false
     },
     {
@@ -3709,7 +3673,7 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-09-11T03:27:14.524299+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "Federal Register:2026-13211",
@@ -3771,7 +3735,7 @@
         "setaside": "SBA"
       },
       "first_seen": "2026-09-11T03:27:14.524299+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "SAM.gov:febe805b07cc4b1e909240edfd1bee75",
@@ -4076,7 +4040,7 @@
         "setaside": "SBA"
       },
       "first_seen": "2026-09-11T03:27:14.524299+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "SAM.gov:62697af1af6144d2beff760fbbbeee22",
@@ -5446,7 +5410,7 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-09-11T03:27:14.524299+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:FA480326F0022",
@@ -5933,7 +5897,7 @@
         "award_type": "DEFINITIVE CONTRACT"
       },
       "first_seen": "2026-09-11T03:27:14.524299+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:N0001923F0041",
@@ -6364,7 +6328,7 @@
         "award_type": "DEFINITIVE CONTRACT"
       },
       "first_seen": "2026-09-11T03:27:14.524299+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:FA867810C0100",
@@ -6527,6 +6491,35 @@
       },
       "first_seen": "2026-06-26T11:19:55.120727+00:00",
       "is_new": false
+    },
+    {
+      "id": "Federal Register:2026-18557",
+      "source": "Federal Register",
+      "category": "regulatory",
+      "type": "Final Rule",
+      "title": "Safety Zone; York River, Yorktown, VA",
+      "url": "https://www.federalregister.gov/documents/2026/09/11/2026-18557/safety-zone-york-river-yorktown-va",
+      "agency": "Homeland Security Department, Coast Guard",
+      "identifier": "Docket Number USCG-2026-1125",
+      "date": "2026-09-11",
+      "deadline": null,
+      "summary": "The Coast Guard is establishing a temporary safety zone for navigable waters on the York River. The safety zone is needed to protect personnel, vessels, and the marine environment from potential hazards associated with an over water drone show. Entry of vessels or persons into this zone is prohibited unless specifically authorized by the Captain of the Port, Sector Virginia, or their designated representative.",
+      "score": 20,
+      "domains": [
+        "air"
+      ],
+      "matched_terms": [
+        "drone"
+      ],
+      "watchlist": null,
+      "extra": {
+        "comment_url": null,
+        "dockets": [
+          "Docket Number USCG-2026-1125"
+        ]
+      },
+      "first_seen": "2026-09-11T10:46:04.082198+00:00",
+      "is_new": true
     },
     {
       "id": "Regulations.gov:FAA-2026-11520-0001",
@@ -7309,7 +7302,7 @@
       "watchlist": null,
       "extra": {},
       "first_seen": "2026-09-11T03:27:14.524299+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "Federal Register:2026-13966",
@@ -7703,41 +7696,14 @@
       },
       "first_seen": "2026-08-26T19:50:21.800032+00:00",
       "is_new": false
-    },
-    {
-      "id": "SAM.gov:0f3c9636a86749b3942f1697a32e99d4",
-      "source": "SAM.gov",
-      "category": "procurement",
-      "type": "Combined Synopsis",
-      "title": "Freefly UAV",
-      "url": "https://sam.gov/workspace/contract/opp/0f3c9636a86749b3942f1697a32e99d4/view",
-      "agency": "DEPT OF DEFENSE",
-      "identifier": "N6426726Q4256",
-      "date": "2026-08-24",
-      "deadline": "2026-08-27",
-      "summary": "Freefly UAV",
-      "score": 18,
-      "domains": [
-        "air"
-      ],
-      "matched_terms": [
-        "uav"
-      ],
-      "watchlist": null,
-      "extra": {
-        "naics": "336411",
-        "setaside": "SBA"
-      },
-      "first_seen": "2026-08-25T01:18:16.855101+00:00",
-      "is_new": false
     }
   ],
   "sources": [
     {
       "name": "Federal Register",
       "status": "ok",
-      "detail": "24 kept",
-      "count": 24
+      "detail": "25 kept",
+      "count": 25
     },
     {
       "name": "Regulations.gov",
@@ -7760,8 +7726,8 @@
     {
       "name": "SAM.gov",
       "status": "ok",
-      "detail": "58 kept",
-      "count": 58
+      "detail": "56 kept",
+      "count": 56
     },
     {
       "name": "CourtListener",
@@ -7777,28 +7743,28 @@
     }
   ],
   "stats": {
-    "total": 279,
-    "new": 7,
+    "total": 278,
+    "new": 1,
     "by_category": {
-      "regulatory": 151,
-      "procurement": 114,
+      "regulatory": 152,
+      "procurement": 112,
       "litigation": 10,
       "legislative": 4
     },
     "by_domain": {
-      "air": 222,
-      "supply-chain": 112,
+      "air": 221,
+      "supply-chain": 111,
       "spectrum": 47,
       "defense": 14,
-      "ground": 12,
+      "ground": 11,
       "maritime": 4
     },
     "by_source": {
       "FCC ECFS": 92,
-      "SAM.gov": 58,
+      "SAM.gov": 56,
       "USAspending": 56,
       "Regulations.gov": 36,
-      "Federal Register": 23,
+      "Federal Register": 24,
       "CourtListener": 10,
       "Congress.gov": 4
     }
@@ -7882,19 +7848,6 @@
       "latest": "2026-09-04"
     },
     {
-      "key": "build-america-250",
-      "label": "BUILD America 250 Act (Sec. 6009 LiDAR)",
-      "category": "legislative",
-      "agency": "",
-      "domain": [
-        "ground",
-        "supply-chain"
-      ],
-      "deadline": null,
-      "count": 2,
-      "latest": "2026-08-24"
-    },
-    {
       "key": "safer-skies",
       "label": "Safer Skies Act (C-UAS)",
       "category": "legislative",
@@ -7932,6 +7885,19 @@
       "deadline": null,
       "count": 1,
       "latest": "2026-09-01"
+    },
+    {
+      "key": "build-america-250",
+      "label": "BUILD America 250 Act (Sec. 6009 LiDAR)",
+      "category": "legislative",
+      "agency": "",
+      "domain": [
+        "ground",
+        "supply-chain"
+      ],
+      "deadline": null,
+      "count": 1,
+      "latest": "2026-05-22"
     },
     {
       "key": "connected-vehicle",
