@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-12T03:32:55.496723+00:00",
-  "generated_human": "2026-09-12 03:32 UTC",
+  "generated_at": "2026-09-12T10:15:54.684561+00:00",
+  "generated_human": "2026-09-12 10:15 UTC",
   "demo": false,
   "items": [
     {
@@ -2236,7 +2236,7 @@
         "docket_total_comments": 1669
       },
       "first_seen": "2026-09-12T03:32:55.496723+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:26110069384",
@@ -3164,7 +3164,7 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-09-12T03:32:55.496723+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:W58RGZ26F0206",
@@ -3914,7 +3914,7 @@
         "setaside": null
       },
       "first_seen": "2026-09-12T03:32:55.496723+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "SAM.gov:6d75c5e6767c4433acf37c69acee2dec",
@@ -4900,29 +4900,6 @@
       "watchlist": null,
       "extra": {
         "naics": "541715",
-        "setaside": null
-      },
-      "first_seen": "2026-08-07T18:58:44.285172+00:00",
-      "is_new": false
-    },
-    {
-      "id": "SAM.gov:b4584aa7c98e41f69431761f0bd1b8f7",
-      "source": "SAM.gov",
-      "category": "procurement",
-      "type": "RFI",
-      "title": "Expeditionary Unmanned Aerial System (eUAS) Manufacturing and Employment Capability Request for Information",
-      "url": "https://sam.gov/workspace/contract/opp/b4584aa7c98e41f69431761f0bd1b8f7/view",
-      "agency": "DEPT OF DEFENSE",
-      "identifier": "RSO-AMPOECT-04",
-      "date": "2026-08-07",
-      "deadline": "2026-08-28",
-      "summary": "Expeditionary Unmanned Aerial System (eUAS) Manufacturing and Employment Capability Request for Information",
-      "score": 35,
-      "domains": [],
-      "matched_terms": [],
-      "watchlist": null,
-      "extra": {
-        "naics": "334511",
         "setaside": null
       },
       "first_seen": "2026-08-07T18:58:44.285172+00:00",
@@ -6026,7 +6003,7 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-09-12T03:32:55.496723+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:FA875022F1008",
@@ -6211,7 +6188,7 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-09-12T03:32:55.496723+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:W900KK21F0033",
@@ -6549,6 +6526,35 @@
       "is_new": false
     },
     {
+      "id": "Federal Register:2026-18734",
+      "source": "Federal Register",
+      "category": "regulatory",
+      "type": "Final Rule",
+      "title": "Safety Zone; Lake Erie, Oregon, OH",
+      "url": "https://www.federalregister.gov/documents/2026/09/14/2026-18734/safety-zone-lake-erie-oregon-oh",
+      "agency": "Homeland Security Department, Coast Guard",
+      "identifier": "Docket Number USCG-2026-1160",
+      "date": "2026-09-14",
+      "deadline": null,
+      "summary": "The Coast Guard is establishing a temporary safety zone for navigable waters of Lake Erie within a 300-yard radius of an overwater drone display at 41[deg]41'15.9\" N, 83[deg]22'14.7\" W. The safety zone is needed to protect personnel, vessels, and the marine environment from potential hazards associated with an overwater drone display. Entry of vessels or persons into this zone is prohibited unless specifically authorized by the Captain of the Port, Sector Detroit, or their designated representative.",
+      "score": 20,
+      "domains": [
+        "air"
+      ],
+      "matched_terms": [
+        "drone"
+      ],
+      "watchlist": null,
+      "extra": {
+        "comment_url": null,
+        "dockets": [
+          "Docket Number USCG-2026-1160"
+        ]
+      },
+      "first_seen": "2026-09-12T10:15:54.684561+00:00",
+      "is_new": true
+    },
+    {
       "id": "Federal Register:2026-18557",
       "source": "Federal Register",
       "category": "regulatory",
@@ -6602,17 +6608,17 @@
       "is_new": false
     },
     {
-      "id": "Regulations.gov:FAA-2026-11520-0001",
+      "id": "Regulations.gov:FAA-2024-2393-0010",
       "source": "Regulations.gov",
       "category": "regulatory",
       "type": "Document",
-      "title": "American Drone LLC - Petition",
-      "url": "https://www.regulations.gov/document/FAA-2026-11520-0001",
+      "title": "Wisconsin Aerial Drone Services LLC - Additional Information",
+      "url": "https://www.regulations.gov/document/FAA-2024-2393-0010",
       "agency": "FAA",
-      "identifier": "FAA-2026-11520",
+      "identifier": "FAA-2024-2393",
       "date": "2026-09-10",
       "deadline": null,
-      "summary": "American Drone LLC - Petition",
+      "summary": "Wisconsin Aerial Drone Services LLC - Additional Information",
       "score": 20,
       "domains": [
         "air"
@@ -6626,17 +6632,17 @@
       "is_new": false
     },
     {
-      "id": "Regulations.gov:FAA-2024-2393-0010",
+      "id": "Regulations.gov:FAA-2026-11520-0001",
       "source": "Regulations.gov",
       "category": "regulatory",
       "type": "Document",
-      "title": "Wisconsin Aerial Drone Services LLC - Additional Information",
-      "url": "https://www.regulations.gov/document/FAA-2024-2393-0010",
+      "title": "American Drone LLC - Petition",
+      "url": "https://www.regulations.gov/document/FAA-2026-11520-0001",
       "agency": "FAA",
-      "identifier": "FAA-2024-2393",
+      "identifier": "FAA-2026-11520",
       "date": "2026-09-10",
       "deadline": null,
-      "summary": "Wisconsin Aerial Drone Services LLC - Additional Information",
+      "summary": "American Drone LLC - Petition",
       "score": 20,
       "domains": [
         "air"
@@ -7289,6 +7295,30 @@
       "is_new": false
     },
     {
+      "id": "Regulations.gov:FAA-2024-1924-0004",
+      "source": "Regulations.gov",
+      "category": "regulatory",
+      "type": "Document",
+      "title": "Agri-Air Drone Services LLC - Petition",
+      "url": "https://www.regulations.gov/document/FAA-2024-1924-0004",
+      "agency": "FAA",
+      "identifier": "FAA-2024-1924",
+      "date": "2026-08-18",
+      "deadline": null,
+      "summary": "Agri-Air Drone Services LLC - Petition",
+      "score": 20,
+      "domains": [
+        "air"
+      ],
+      "matched_terms": [
+        "drone"
+      ],
+      "watchlist": null,
+      "extra": {},
+      "first_seen": "2026-09-12T10:15:54.684561+00:00",
+      "is_new": true
+    },
+    {
       "id": "Federal Register:2026-13966",
       "source": "Federal Register",
       "category": "regulatory",
@@ -7571,7 +7601,7 @@
         "setaside": "NONE"
       },
       "first_seen": "2026-09-12T03:32:55.496723+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "SAM.gov:52de24d6b97b47669815a46d3ee9e547",
@@ -7740,14 +7770,14 @@
     {
       "name": "Federal Register",
       "status": "ok",
-      "detail": "25 kept",
-      "count": 25
+      "detail": "26 kept",
+      "count": 26
     },
     {
       "name": "Regulations.gov",
       "status": "ok",
-      "detail": "45 kept",
-      "count": 45
+      "detail": "46 kept",
+      "count": 46
     },
     {
       "name": "FCC ECFS",
@@ -7764,8 +7794,8 @@
     {
       "name": "SAM.gov",
       "status": "ok",
-      "detail": "60 kept",
-      "count": 60
+      "detail": "59 kept",
+      "count": 59
     },
     {
       "name": "CourtListener",
@@ -7781,16 +7811,16 @@
     }
   ],
   "stats": {
-    "total": 279,
-    "new": 6,
+    "total": 280,
+    "new": 2,
     "by_category": {
-      "regulatory": 148,
-      "procurement": 117,
+      "regulatory": 150,
+      "procurement": 116,
       "litigation": 10,
       "legislative": 4
     },
     "by_domain": {
-      "air": 220,
+      "air": 222,
       "supply-chain": 111,
       "spectrum": 47,
       "defense": 14,
@@ -7799,10 +7829,10 @@
     },
     "by_source": {
       "FCC ECFS": 91,
-      "SAM.gov": 60,
+      "SAM.gov": 59,
       "USAspending": 57,
-      "Regulations.gov": 33,
-      "Federal Register": 24,
+      "Regulations.gov": 34,
+      "Federal Register": 25,
       "CourtListener": 10,
       "Congress.gov": 4
     }
