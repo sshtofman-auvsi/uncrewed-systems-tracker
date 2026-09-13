@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-12T20:17:23.236848+00:00",
-  "generated_human": "2026-09-12 20:17 UTC",
+  "generated_at": "2026-09-13T03:39:33.618590+00:00",
+  "generated_human": "2026-09-13 03:39 UTC",
   "demo": false,
   "items": [
     {
@@ -2209,17 +2209,17 @@
       "is_new": false
     },
     {
-      "id": "Regulations.gov:FAA-2026-4558-1629",
+      "id": "Regulations.gov:FAA-2026-4558-1630",
       "source": "Regulations.gov",
       "category": "regulatory",
       "type": "Comment",
-      "title": "Comment on Designation – Restrict the Operation of Unmanned Aircraft in Close Proximity  to a Fixed Site Facility: Comment from Karin L",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1629",
+      "title": "Comment on Designation – Restrict the Operation of Unmanned Aircraft in Close Proximity  to a Fixed Site Facility: Comment from American Chemistry Council",
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1630",
       "agency": "FAA",
       "identifier": "FAA-2026-4558",
       "date": "2026-08-06",
       "deadline": null,
-      "summary": "Comment from Karin L",
+      "summary": "Comment from American Chemistry Council",
       "score": 80,
       "domains": [
         "air"
@@ -2235,7 +2235,7 @@
       "extra": {
         "docket_total_comments": 1669
       },
-      "first_seen": "2026-09-12T20:17:23.236848+00:00",
+      "first_seen": "2026-09-13T03:39:33.618590+00:00",
       "is_new": true
     },
     {
@@ -5300,6 +5300,33 @@
       "is_new": false
     },
     {
+      "id": "USAspending:H9240226FE029",
+      "source": "USAspending",
+      "category": "procurement",
+      "type": "Award",
+      "title": "THE JOHNS HOPKINS UNIVERSITY APPLIED PHYSICS LABORATORY LLC: DRONE RANGER LITE (DRL) ENGINEERING DEVELOPMENT",
+      "url": "https://www.usaspending.gov/award/CONT_AWD_H9240226FE029_9700_H9240025DE001_9700",
+      "agency": "Department of Defense",
+      "identifier": "H9240226FE029",
+      "date": "2026-06-10",
+      "deadline": null,
+      "summary": "DRONE RANGER LITE (DRL) ENGINEERING DEVELOPMENT",
+      "score": 30,
+      "domains": [
+        "air"
+      ],
+      "matched_terms": [
+        "drone"
+      ],
+      "watchlist": null,
+      "extra": {
+        "amount": 3000000.0,
+        "award_type": "DELIVERY ORDER"
+      },
+      "first_seen": "2026-09-13T03:39:33.618590+00:00",
+      "is_new": true
+    },
+    {
       "id": "USAspending:SPE8EL26FJ4K6",
       "source": "USAspending",
       "category": "procurement",
@@ -5443,29 +5470,6 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-09-11T03:27:14.524299+00:00",
-      "is_new": false
-    },
-    {
-      "id": "USAspending:FA480326F0022",
-      "source": "USAspending",
-      "category": "procurement",
-      "type": "Award",
-      "title": "KRAUS HAMDANI AEROSPACE, INC.: DELIVERY ORDER 03",
-      "url": "https://www.usaspending.gov/award/CONT_AWD_FA480326F0022_9700_FA480326D0001_9700",
-      "agency": "Department of Defense",
-      "identifier": "FA480326F0022",
-      "date": "2026-05-18",
-      "deadline": null,
-      "summary": "DELIVERY ORDER 03",
-      "score": 30,
-      "domains": [],
-      "matched_terms": [],
-      "watchlist": null,
-      "extra": {
-        "amount": 9989612.53,
-        "award_type": "DELIVERY ORDER"
-      },
-      "first_seen": "2026-08-15T06:40:20.759098+00:00",
       "is_new": false
     },
     {
@@ -5653,29 +5657,6 @@
       "is_new": false
     },
     {
-      "id": "USAspending:W15P7T26F0012",
-      "source": "USAspending",
-      "category": "procurement",
-      "type": "Award",
-      "title": "LEIDOS, INC.: PROCURE RADIO AND LICENSE BUNDLE",
-      "url": "https://www.usaspending.gov/award/CONT_AWD_W15P7T26F0012_9700_W15P7T23D0003_9700",
-      "agency": "Department of Defense",
-      "identifier": "W15P7T26F0012",
-      "date": "2025-12-18",
-      "deadline": null,
-      "summary": "PROCURE RADIO AND LICENSE BUNDLE",
-      "score": 30,
-      "domains": [],
-      "matched_terms": [],
-      "watchlist": null,
-      "extra": {
-        "amount": 6038494.0,
-        "award_type": "DELIVERY ORDER"
-      },
-      "first_seen": "2026-08-15T06:40:20.759098+00:00",
-      "is_new": false
-    },
-    {
       "id": "USAspending:89233126FNA400748",
       "source": "USAspending",
       "category": "procurement",
@@ -5697,6 +5678,29 @@
       },
       "first_seen": "2026-08-20T06:48:21.807830+00:00",
       "is_new": false
+    },
+    {
+      "id": "USAspending:W900KK25FA087",
+      "source": "USAspending",
+      "category": "procurement",
+      "type": "Award",
+      "title": "GRIFFON AEROSPACE, INC.: DELIVERY ORDER 58 UNDER THE AIR DEFENSE ARTILLERY TARGETS II (ADA-T II) INDEFINITE DELIVERY/INDEFINITE QUANTITY (IDIQ) C",
+      "url": "https://www.usaspending.gov/award/CONT_AWD_W900KK25FA087_9700_W900KK22D0010_9700",
+      "agency": "Department of Defense",
+      "identifier": "W900KK25FA087",
+      "date": "2025-06-03",
+      "deadline": null,
+      "summary": "DELIVERY ORDER 58 UNDER THE AIR DEFENSE ARTILLERY TARGETS II (ADA-T II) INDEFINITE DELIVERY/INDEFINITE QUANTITY (IDIQ) CONTRACT W900KK-22-D-0010 FOR ENGINEERING SERVICES, SUB-ESM 03-10 AND 03-13.",
+      "score": 30,
+      "domains": [],
+      "matched_terms": [],
+      "watchlist": null,
+      "extra": {
+        "amount": 3064152.72,
+        "award_type": "DELIVERY ORDER"
+      },
+      "first_seen": "2026-09-13T03:39:33.618590+00:00",
+      "is_new": true
     },
     {
       "id": "USAspending:19AQMM25F0189",
@@ -5743,6 +5747,29 @@
       },
       "first_seen": "2026-08-28T10:02:14.632922+00:00",
       "is_new": false
+    },
+    {
+      "id": "USAspending:19AQMM26F0930",
+      "source": "USAspending",
+      "category": "procurement",
+      "type": "Award",
+      "title": "BERRY AVIATION, INC.: INL BOGOTA COUNTERUAS - DETECT AND DEFEAT PROJECT",
+      "url": "https://www.usaspending.gov/award/CONT_AWD_19AQMM26F0930_1900_19AQMM22D0045_1900",
+      "agency": "Department of State",
+      "identifier": "19AQMM26F0930",
+      "date": "2024-09-16",
+      "deadline": null,
+      "summary": "INL BOGOTA COUNTERUAS - DETECT AND DEFEAT PROJECT",
+      "score": 30,
+      "domains": [],
+      "matched_terms": [],
+      "watchlist": null,
+      "extra": {
+        "amount": 2999721.92,
+        "award_type": "DELIVERY ORDER"
+      },
+      "first_seen": "2026-09-13T03:39:33.618590+00:00",
+      "is_new": true
     },
     {
       "id": "USAspending:FA701424F0347",
@@ -6311,7 +6338,7 @@
       "matched_terms": [],
       "watchlist": null,
       "extra": {
-        "amount": 350834981.32,
+        "amount": 352334981.32,
         "award_type": "DEFINITIVE CONTRACT"
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
@@ -6608,17 +6635,17 @@
       "is_new": false
     },
     {
-      "id": "Regulations.gov:FAA-2024-2393-0010",
+      "id": "Regulations.gov:FAA-2026-11520-0001",
       "source": "Regulations.gov",
       "category": "regulatory",
       "type": "Document",
-      "title": "Wisconsin Aerial Drone Services LLC - Additional Information",
-      "url": "https://www.regulations.gov/document/FAA-2024-2393-0010",
+      "title": "American Drone LLC - Petition",
+      "url": "https://www.regulations.gov/document/FAA-2026-11520-0001",
       "agency": "FAA",
-      "identifier": "FAA-2024-2393",
+      "identifier": "FAA-2026-11520",
       "date": "2026-09-10",
       "deadline": null,
-      "summary": "Wisconsin Aerial Drone Services LLC - Additional Information",
+      "summary": "American Drone LLC - Petition",
       "score": 20,
       "domains": [
         "air"
@@ -6632,17 +6659,17 @@
       "is_new": false
     },
     {
-      "id": "Regulations.gov:FAA-2026-11520-0001",
+      "id": "Regulations.gov:FAA-2024-2393-0010",
       "source": "Regulations.gov",
       "category": "regulatory",
       "type": "Document",
-      "title": "American Drone LLC - Petition",
-      "url": "https://www.regulations.gov/document/FAA-2026-11520-0001",
+      "title": "Wisconsin Aerial Drone Services LLC - Additional Information",
+      "url": "https://www.regulations.gov/document/FAA-2024-2393-0010",
       "agency": "FAA",
-      "identifier": "FAA-2026-11520",
+      "identifier": "FAA-2024-2393",
       "date": "2026-09-10",
       "deadline": null,
-      "summary": "American Drone LLC - Petition",
+      "summary": "Wisconsin Aerial Drone Services LLC - Additional Information",
       "score": 20,
       "domains": [
         "air"
@@ -7295,6 +7322,30 @@
       "is_new": false
     },
     {
+      "id": "Regulations.gov:FAA-2024-1924-0004",
+      "source": "Regulations.gov",
+      "category": "regulatory",
+      "type": "Document",
+      "title": "Agri-Air Drone Services LLC - Petition",
+      "url": "https://www.regulations.gov/document/FAA-2024-1924-0004",
+      "agency": "FAA",
+      "identifier": "FAA-2024-1924",
+      "date": "2026-08-18",
+      "deadline": null,
+      "summary": "Agri-Air Drone Services LLC - Petition",
+      "score": 20,
+      "domains": [
+        "air"
+      ],
+      "matched_terms": [
+        "drone"
+      ],
+      "watchlist": null,
+      "extra": {},
+      "first_seen": "2026-09-13T03:39:33.618590+00:00",
+      "is_new": true
+    },
+    {
       "id": "Federal Register:2026-13966",
       "source": "Federal Register",
       "category": "regulatory",
@@ -7752,8 +7803,8 @@
     {
       "name": "Regulations.gov",
       "status": "ok",
-      "detail": "45 kept",
-      "count": 45
+      "detail": "46 kept",
+      "count": 46
     },
     {
       "name": "FCC ECFS",
@@ -7787,16 +7838,16 @@
     }
   ],
   "stats": {
-    "total": 279,
-    "new": 1,
+    "total": 281,
+    "new": 5,
     "by_category": {
-      "regulatory": 149,
-      "procurement": 116,
+      "regulatory": 150,
+      "procurement": 117,
       "litigation": 10,
       "legislative": 4
     },
     "by_domain": {
-      "air": 221,
+      "air": 223,
       "supply-chain": 111,
       "spectrum": 47,
       "defense": 14,
@@ -7806,8 +7857,8 @@
     "by_source": {
       "FCC ECFS": 91,
       "SAM.gov": 59,
-      "USAspending": 57,
-      "Regulations.gov": 33,
+      "USAspending": 58,
+      "Regulations.gov": 34,
       "Federal Register": 25,
       "CourtListener": 10,
       "Congress.gov": 4
@@ -7997,7 +8048,7 @@
   "deadlines": [
     {
       "deadline": "2026-09-15",
-      "days": 3,
+      "days": 2,
       "title": "PACAF - Small Unmanned Aircraft System",
       "identifier": "FA521526N0002",
       "category": "procurement",
@@ -8006,7 +8057,7 @@
     },
     {
       "deadline": "2026-09-16",
-      "days": 4,
+      "days": 3,
       "title": "CoDrone EDU (JROTC ed.) - Classroom 12 Pack",
       "identifier": "W911S226U4470",
       "category": "procurement",
@@ -8015,7 +8066,7 @@
     },
     {
       "deadline": "2026-09-16",
-      "days": 4,
+      "days": 3,
       "title": "SOLICITATION for BRAND-NAME ONLY of Vector sUAS Dagger and Hammer drone bundles",
       "identifier": "W911YP26QA013",
       "category": "procurement",
@@ -8024,7 +8075,7 @@
     },
     {
       "deadline": "2026-09-16",
-      "days": 4,
+      "days": 3,
       "title": "374 SFS - Windtalker C-UAS",
       "identifier": "FA520926Q0094",
       "category": "procurement",
@@ -8033,7 +8084,7 @@
     },
     {
       "deadline": "2026-09-17",
-      "days": 5,
+      "days": 4,
       "title": "Freefly Astro Max (NDAA/Blue) Drones for ARS",
       "identifier": "123A9426Q0048",
       "category": "procurement",
@@ -8042,7 +8093,7 @@
     },
     {
       "deadline": "2026-09-17",
-      "days": 5,
+      "days": 4,
       "title": "Notice of Intent to Sole Source -ADS Inc. Skydio Drones and Training",
       "identifier": "FA558726SSSydioDrones",
       "category": "procurement",
@@ -8051,7 +8102,7 @@
     },
     {
       "deadline": "2026-09-17",
-      "days": 5,
+      "days": 4,
       "title": "APC-FY26-000226 FY26 JSD Axon Dedrone",
       "identifier": "15M10226QA4700237",
       "category": "procurement",
@@ -8060,7 +8111,7 @@
     },
     {
       "deadline": "2026-09-20",
-      "days": 8,
+      "days": 7,
       "title": "Acquisition of Unmanned Aircraft System (UAS) for U.S. Embassy Quito, Ecuador",
       "identifier": "19GE5026Q0131",
       "category": "procurement",
@@ -8069,7 +8120,7 @@
     },
     {
       "deadline": "2026-09-21",
-      "days": 9,
+      "days": 8,
       "title": "UAS (Unmanned Aircraft System) with multi spectral camera",
       "identifier": "1232SA26Q1491",
       "category": "procurement",
@@ -8078,7 +8129,7 @@
     },
     {
       "deadline": "2026-09-22",
-      "days": 10,
+      "days": 9,
       "title": "Guatemala - Washing Drone for Cleaning Façade",
       "identifier": "19GT5026Q0064",
       "category": "procurement",
@@ -8087,7 +8138,7 @@
     },
     {
       "deadline": "2026-09-25",
-      "days": 13,
+      "days": 12,
       "title": "A--Uncrewed Aircraft Systems (UAS) Services",
       "identifier": "1305M226Q0069",
       "category": "procurement",
@@ -8096,7 +8147,7 @@
     },
     {
       "deadline": "2026-09-26",
-      "days": 14,
+      "days": 13,
       "title": "Connected Vehicle Data Subscription",
       "identifier": "693JJ326Q000030",
       "category": "procurement",
@@ -8105,7 +8156,7 @@
     },
     {
       "deadline": "2026-09-26",
-      "days": 14,
+      "days": 13,
       "title": "UAS Material CYs 2027-2032",
       "identifier": "N00019-26-RFPREQ-WPM263-0320",
       "category": "procurement",
@@ -8114,7 +8165,7 @@
     },
     {
       "deadline": "2026-09-30",
-      "days": 18,
+      "days": 17,
       "title": "FA8629-26-S-C001(Call-001)_Air Force - Small UAS & Asymmetric Capabilities - Commercial Solutions Opening",
       "identifier": "FA8629-26-S-C001(Call-001)",
       "category": "procurement",
@@ -8123,7 +8174,7 @@
     },
     {
       "deadline": "2026-10-05",
-      "days": 23,
+      "days": 22,
       "title": "Recoverable Small Unmanned Aircraft Systems for Frontline Operational Awareness and Surveillance Missions",
       "identifier": "70RSAT26RFI000030",
       "category": "procurement",
@@ -8132,7 +8183,7 @@
     },
     {
       "deadline": "2026-10-12",
-      "days": 30,
+      "days": 29,
       "title": "RFI - Explosive Testing Capability with Unmanned Aerial System (UAS)",
       "identifier": "19AQMM-26-RFI-1003",
       "category": "procurement",
@@ -8141,7 +8192,7 @@
     },
     {
       "deadline": "2026-10-27",
-      "days": 45,
+      "days": 44,
       "title": "60-Day Notice of Proposed Information Collection: Information Collection Request (ICR) for the Drone Infrastructure Inspection Grant (DIIG) Program",
       "identifier": "Docket No. DOT-OST-2026-3367",
       "category": "regulatory",
@@ -8150,7 +8201,7 @@
     },
     {
       "deadline": "2026-10-28",
-      "days": 46,
+      "days": 45,
       "title": "Agency Information Collection Activities; Proposals, Submissions, and Approvals: Information Collection Request for the Drone Infrastructure Inspection Grant Program",
       "identifier": "DOT-OST-2026-3367",
       "category": "regulatory",
@@ -8159,7 +8210,7 @@
     },
     {
       "deadline": "2026-10-30",
-      "days": 48,
+      "days": 47,
       "title": "Medium Unmanned Surface Vessel (MUSV) Phase II Integration and Testing",
       "identifier": "N0003926RR002",
       "category": "procurement",
@@ -8168,7 +8219,7 @@
     },
     {
       "deadline": "2026-11-02",
-      "days": 51,
+      "days": 50,
       "title": "Agency Information Collection Activities; Proposed eCollection eComments Requested; Revision of a Previously Approved Collection; Title-SAFER SKIES State, Local, Tribal, and Territorial Counter-UAS Information Collection",
       "identifier": "OMB Number 1110-0090",
       "category": "regulatory",
@@ -8177,7 +8228,7 @@
     },
     {
       "deadline": "2027-09-03",
-      "days": 356,
+      "days": 355,
       "title": "Air Force - Small UAS & Asymmetric Capabilities - Commercial Solutions Opening",
       "identifier": "FA8629-26-S-C001",
       "category": "procurement",
@@ -8186,7 +8237,7 @@
     },
     {
       "deadline": "2031-03-11",
-      "days": 1641,
+      "days": 1640,
       "title": "Drone Marketplace Commercial Solutions Opening",
       "identifier": "W58RGZ26SC001",
       "category": "procurement",
@@ -8195,7 +8246,7 @@
     },
     {
       "deadline": "2031-05-28",
-      "days": 1719,
+      "days": 1718,
       "title": "INVITATION TO PARTICIPATE IN THE DEPARTMENT OF WAR DRONE OTA CONSORTIUM - AMENDMENT 0001",
       "identifier": "W58RGZ-26-2-SN01-0001",
       "category": "procurement",
@@ -8204,7 +8255,7 @@
     },
     {
       "deadline": "2031-08-03",
-      "days": 1786,
+      "days": 1785,
       "title": "Drone Marketplace Onboarding of Group 3 UAS",
       "identifier": "W58RGZ-26-S-C001-0008",
       "category": "procurement",
@@ -8213,7 +8264,7 @@
     },
     {
       "deadline": "2031-08-03",
-      "days": 1786,
+      "days": 1785,
       "title": "Call for Solutions (CFS): Drone Marketplace Onboarding of US Payloads, Software, Components, and Enablers/Accessories",
       "identifier": "W58RGZ-26-S-C001-0007",
       "category": "procurement",
