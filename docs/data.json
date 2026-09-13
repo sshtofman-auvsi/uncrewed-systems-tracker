@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-13T15:45:36.167837+00:00",
-  "generated_human": "2026-09-13 15:45 UTC",
+  "generated_at": "2026-09-13T20:27:10.168453+00:00",
+  "generated_human": "2026-09-13 20:27 UTC",
   "demo": false,
   "items": [
     {
@@ -3721,7 +3721,7 @@
       "url": "https://sam.gov/workspace/contract/opp/0df57bbda1e6497ead1c3b09a75b9de5/view",
       "agency": "DEPT OF DEFENSE",
       "identifier": "FA521526N0002",
-      "date": "2026-09-10",
+      "date": "2026-09-11",
       "deadline": "2026-09-15",
       "summary": "PACAF - Small Unmanned Aircraft System",
       "score": 52,
@@ -7322,6 +7322,30 @@
       "is_new": false
     },
     {
+      "id": "Regulations.gov:FAA-2024-1924-0004",
+      "source": "Regulations.gov",
+      "category": "regulatory",
+      "type": "Document",
+      "title": "Agri-Air Drone Services LLC - Petition",
+      "url": "https://www.regulations.gov/document/FAA-2024-1924-0004",
+      "agency": "FAA",
+      "identifier": "FAA-2024-1924",
+      "date": "2026-08-18",
+      "deadline": null,
+      "summary": "Agri-Air Drone Services LLC - Petition",
+      "score": 20,
+      "domains": [
+        "air"
+      ],
+      "matched_terms": [
+        "drone"
+      ],
+      "watchlist": null,
+      "extra": {},
+      "first_seen": "2026-09-13T20:27:10.168453+00:00",
+      "is_new": true
+    },
+    {
       "id": "Federal Register:2026-13966",
       "source": "Federal Register",
       "category": "regulatory",
@@ -7779,8 +7803,8 @@
     {
       "name": "Regulations.gov",
       "status": "ok",
-      "detail": "45 kept",
-      "count": 45
+      "detail": "46 kept",
+      "count": 46
     },
     {
       "name": "FCC ECFS",
@@ -7814,16 +7838,16 @@
     }
   ],
   "stats": {
-    "total": 280,
-    "new": 0,
+    "total": 281,
+    "new": 1,
     "by_category": {
-      "regulatory": 149,
+      "regulatory": 150,
       "procurement": 117,
       "litigation": 10,
       "legislative": 4
     },
     "by_domain": {
-      "air": 222,
+      "air": 223,
       "supply-chain": 111,
       "spectrum": 47,
       "defense": 14,
@@ -7834,7 +7858,7 @@
       "FCC ECFS": 91,
       "SAM.gov": 59,
       "USAspending": 58,
-      "Regulations.gov": 33,
+      "Regulations.gov": 34,
       "Federal Register": 25,
       "CourtListener": 10,
       "Congress.gov": 4
