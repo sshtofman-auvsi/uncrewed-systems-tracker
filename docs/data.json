@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-13T03:39:33.618590+00:00",
-  "generated_human": "2026-09-13 03:39 UTC",
+  "generated_at": "2026-09-13T11:15:31.710341+00:00",
+  "generated_human": "2026-09-13 11:15 UTC",
   "demo": false,
   "items": [
     {
@@ -2209,17 +2209,17 @@
       "is_new": false
     },
     {
-      "id": "Regulations.gov:FAA-2026-4558-1630",
+      "id": "Regulations.gov:FAA-2026-4558-1629",
       "source": "Regulations.gov",
       "category": "regulatory",
       "type": "Comment",
-      "title": "Comment on Designation – Restrict the Operation of Unmanned Aircraft in Close Proximity  to a Fixed Site Facility: Comment from American Chemistry Council",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1630",
+      "title": "Comment on Designation – Restrict the Operation of Unmanned Aircraft in Close Proximity  to a Fixed Site Facility: Comment from Karin L",
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1629",
       "agency": "FAA",
       "identifier": "FAA-2026-4558",
       "date": "2026-08-06",
       "deadline": null,
-      "summary": "Comment from American Chemistry Council",
+      "summary": "Comment from Karin L",
       "score": 80,
       "domains": [
         "air"
@@ -2235,7 +2235,7 @@
       "extra": {
         "docket_total_comments": 1669
       },
-      "first_seen": "2026-09-13T03:39:33.618590+00:00",
+      "first_seen": "2026-09-13T11:15:31.710341+00:00",
       "is_new": true
     },
     {
@@ -3721,7 +3721,7 @@
       "url": "https://sam.gov/workspace/contract/opp/0df57bbda1e6497ead1c3b09a75b9de5/view",
       "agency": "DEPT OF DEFENSE",
       "identifier": "FA521526N0002",
-      "date": "2026-09-11",
+      "date": "2026-09-10",
       "deadline": "2026-09-15",
       "summary": "PACAF - Small Unmanned Aircraft System",
       "score": 52,
@@ -5324,7 +5324,7 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-09-13T03:39:33.618590+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:SPE8EL26FJ4K6",
@@ -5700,7 +5700,7 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-09-13T03:39:33.618590+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:19AQMM25F0189",
@@ -5769,7 +5769,7 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-09-13T03:39:33.618590+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:FA701424F0347",
@@ -6635,17 +6635,17 @@
       "is_new": false
     },
     {
-      "id": "Regulations.gov:FAA-2026-11520-0001",
+      "id": "Regulations.gov:FAA-2024-2393-0010",
       "source": "Regulations.gov",
       "category": "regulatory",
       "type": "Document",
-      "title": "American Drone LLC - Petition",
-      "url": "https://www.regulations.gov/document/FAA-2026-11520-0001",
+      "title": "Wisconsin Aerial Drone Services LLC - Additional Information",
+      "url": "https://www.regulations.gov/document/FAA-2024-2393-0010",
       "agency": "FAA",
-      "identifier": "FAA-2026-11520",
+      "identifier": "FAA-2024-2393",
       "date": "2026-09-10",
       "deadline": null,
-      "summary": "American Drone LLC - Petition",
+      "summary": "Wisconsin Aerial Drone Services LLC - Additional Information",
       "score": 20,
       "domains": [
         "air"
@@ -6659,17 +6659,17 @@
       "is_new": false
     },
     {
-      "id": "Regulations.gov:FAA-2024-2393-0010",
+      "id": "Regulations.gov:FAA-2026-11520-0001",
       "source": "Regulations.gov",
       "category": "regulatory",
       "type": "Document",
-      "title": "Wisconsin Aerial Drone Services LLC - Additional Information",
-      "url": "https://www.regulations.gov/document/FAA-2024-2393-0010",
+      "title": "American Drone LLC - Petition",
+      "url": "https://www.regulations.gov/document/FAA-2026-11520-0001",
       "agency": "FAA",
-      "identifier": "FAA-2024-2393",
+      "identifier": "FAA-2026-11520",
       "date": "2026-09-10",
       "deadline": null,
-      "summary": "Wisconsin Aerial Drone Services LLC - Additional Information",
+      "summary": "American Drone LLC - Petition",
       "score": 20,
       "domains": [
         "air"
@@ -7322,30 +7322,6 @@
       "is_new": false
     },
     {
-      "id": "Regulations.gov:FAA-2024-1924-0004",
-      "source": "Regulations.gov",
-      "category": "regulatory",
-      "type": "Document",
-      "title": "Agri-Air Drone Services LLC - Petition",
-      "url": "https://www.regulations.gov/document/FAA-2024-1924-0004",
-      "agency": "FAA",
-      "identifier": "FAA-2024-1924",
-      "date": "2026-08-18",
-      "deadline": null,
-      "summary": "Agri-Air Drone Services LLC - Petition",
-      "score": 20,
-      "domains": [
-        "air"
-      ],
-      "matched_terms": [
-        "drone"
-      ],
-      "watchlist": null,
-      "extra": {},
-      "first_seen": "2026-09-13T03:39:33.618590+00:00",
-      "is_new": true
-    },
-    {
       "id": "Federal Register:2026-13966",
       "source": "Federal Register",
       "category": "regulatory",
@@ -7803,8 +7779,8 @@
     {
       "name": "Regulations.gov",
       "status": "ok",
-      "detail": "46 kept",
-      "count": 46
+      "detail": "45 kept",
+      "count": 45
     },
     {
       "name": "FCC ECFS",
@@ -7838,16 +7814,16 @@
     }
   ],
   "stats": {
-    "total": 281,
-    "new": 5,
+    "total": 280,
+    "new": 1,
     "by_category": {
-      "regulatory": 150,
+      "regulatory": 149,
       "procurement": 117,
       "litigation": 10,
       "legislative": 4
     },
     "by_domain": {
-      "air": 223,
+      "air": 222,
       "supply-chain": 111,
       "spectrum": 47,
       "defense": 14,
@@ -7858,7 +7834,7 @@
       "FCC ECFS": 91,
       "SAM.gov": 59,
       "USAspending": 58,
-      "Regulations.gov": 34,
+      "Regulations.gov": 33,
       "Federal Register": 25,
       "CourtListener": 10,
       "Congress.gov": 4
