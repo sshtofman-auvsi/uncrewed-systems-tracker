@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-15T03:48:12.693883+00:00",
-  "generated_human": "2026-09-15 03:48 UTC",
+  "generated_at": "2026-09-15T11:16:31.688896+00:00",
+  "generated_human": "2026-09-15 11:16 UTC",
   "demo": false,
   "items": [
     {
@@ -2208,7 +2208,7 @@
         "docket_total_comments": 1669
       },
       "first_seen": "2026-09-15T03:48:12.693883+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:26110069384",
@@ -2342,7 +2342,7 @@
       "source": "Congress.gov",
       "category": "legislative",
       "type": "Bill",
-      "title": "S. 4429: Connected Vehicle Security Act of 2026",
+      "title": "S. 4429: A bill to prohibit the importation, manufacture, sale, resale, or introduction into interstate commerce in the United States of connected vehicles and related software and hardware associated with foreign adversaries.",
       "url": "https://www.congress.gov/bill/119th-congress/senate-bill/4429",
       "agency": "Congress",
       "identifier": "S. 4429",
@@ -2355,8 +2355,7 @@
         "supply-chain"
       ],
       "matched_terms": [
-        "connected vehicle",
-        "connected vehicle security act"
+        "s. 4429"
       ],
       "watchlist": {
         "key": "connected-vehicle",
@@ -4287,7 +4286,7 @@
         "award_type": "DEFINITIVE CONTRACT"
       },
       "first_seen": "2026-09-15T03:48:12.693883+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:W900KK25FA087",
@@ -6213,7 +6212,7 @@
   ],
   "stats": {
     "total": 220,
-    "new": 2,
+    "new": 0,
     "by_category": {
       "regulatory": 148,
       "procurement": 58,
