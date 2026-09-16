@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-15T20:57:22.604825+00:00",
-  "generated_human": "2026-09-15 20:57 UTC",
+  "generated_at": "2026-09-16T03:45:31.309663+00:00",
+  "generated_human": "2026-09-16 03:45 UTC",
   "demo": false,
   "items": [
     {
@@ -2025,6 +2025,35 @@
       "is_new": false
     },
     {
+      "id": "FCC ECFS:26110071217",
+      "source": "FCC ECFS",
+      "category": "regulatory",
+      "type": "OPPOSITION TO PETITION FOR RECONSIDERATION",
+      "title": "Security Industry Association: OPPOSITION TO PETITION FOR RECONSIDERATION (FCC 26-74)",
+      "url": "https://www.fcc.gov/ecfs/document/26110071217/1",
+      "agency": "FCC",
+      "identifier": "FCC 26-74",
+      "date": "2026-08-14",
+      "deadline": null,
+      "summary": "",
+      "score": 80,
+      "domains": [
+        "air",
+        "spectrum",
+        "supply-chain"
+      ],
+      "matched_terms": [],
+      "watchlist": {
+        "key": "gn-26-74",
+        "label": "GN 26-74 (Unleashing American Drone Dominance)"
+      },
+      "extra": {
+        "proceeding": "26-74"
+      },
+      "first_seen": "2026-08-14T18:55:22.284701+00:00",
+      "is_new": false
+    },
+    {
       "id": "FCC ECFS:26110071178",
       "source": "FCC ECFS",
       "category": "regulatory",
@@ -2060,35 +2089,6 @@
       "type": "OPPOSITION TO PETITION FOR RECONSIDERATION",
       "title": "D-Fend Solutions: OPPOSITION TO PETITION FOR RECONSIDERATION (FCC 26-74)",
       "url": "https://www.fcc.gov/ecfs/document/26110071197/1",
-      "agency": "FCC",
-      "identifier": "FCC 26-74",
-      "date": "2026-08-14",
-      "deadline": null,
-      "summary": "",
-      "score": 80,
-      "domains": [
-        "air",
-        "spectrum",
-        "supply-chain"
-      ],
-      "matched_terms": [],
-      "watchlist": {
-        "key": "gn-26-74",
-        "label": "GN 26-74 (Unleashing American Drone Dominance)"
-      },
-      "extra": {
-        "proceeding": "26-74"
-      },
-      "first_seen": "2026-08-14T18:55:22.284701+00:00",
-      "is_new": false
-    },
-    {
-      "id": "FCC ECFS:26110071217",
-      "source": "FCC ECFS",
-      "category": "regulatory",
-      "type": "OPPOSITION TO PETITION FOR RECONSIDERATION",
-      "title": "Security Industry Association: OPPOSITION TO PETITION FOR RECONSIDERATION (FCC 26-74)",
-      "url": "https://www.fcc.gov/ecfs/document/26110071217/1",
       "agency": "FCC",
       "identifier": "FCC 26-74",
       "date": "2026-08-14",
@@ -2210,17 +2210,17 @@
       "is_new": false
     },
     {
-      "id": "Regulations.gov:FAA-2026-4558-1630",
+      "id": "Regulations.gov:FAA-2026-4558-1629",
       "source": "Regulations.gov",
       "category": "regulatory",
       "type": "Comment",
-      "title": "Comment on Designation – Restrict the Operation of Unmanned Aircraft in Close Proximity  to a Fixed Site Facility: Comment from American Chemistry Council",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1630",
+      "title": "Comment on Designation – Restrict the Operation of Unmanned Aircraft in Close Proximity  to a Fixed Site Facility: Comment from Karin L",
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1629",
       "agency": "FAA",
       "identifier": "FAA-2026-4558",
       "date": "2026-08-06",
       "deadline": null,
-      "summary": "Comment from American Chemistry Council",
+      "summary": "Comment from Karin L",
       "score": 80,
       "domains": [
         "air"
@@ -2236,8 +2236,37 @@
       "extra": {
         "docket_total_comments": 1669
       },
-      "first_seen": "2026-09-15T20:57:22.604825+00:00",
+      "first_seen": "2026-09-16T03:45:31.309663+00:00",
       "is_new": true
+    },
+    {
+      "id": "FCC ECFS:26110069388",
+      "source": "FCC ECFS",
+      "category": "regulatory",
+      "type": "PETITION",
+      "title": "CTIA: PETITION (FCC 26-74)",
+      "url": "https://www.fcc.gov/ecfs/document/26110069388/1",
+      "agency": "FCC",
+      "identifier": "FCC 26-74",
+      "date": "2026-08-04",
+      "deadline": null,
+      "summary": "",
+      "score": 80,
+      "domains": [
+        "air",
+        "spectrum",
+        "supply-chain"
+      ],
+      "matched_terms": [],
+      "watchlist": {
+        "key": "gn-26-74",
+        "label": "GN 26-74 (Unleashing American Drone Dominance)"
+      },
+      "extra": {
+        "proceeding": "26-74"
+      },
+      "first_seen": "2026-09-15T20:57:22.604825+00:00",
+      "is_new": false
     },
     {
       "id": "FCC ECFS:26110069384",
@@ -2267,35 +2296,6 @@
       },
       "first_seen": "2026-08-07T18:58:44.285172+00:00",
       "is_new": false
-    },
-    {
-      "id": "FCC ECFS:26110069388",
-      "source": "FCC ECFS",
-      "category": "regulatory",
-      "type": "PETITION",
-      "title": "CTIA: PETITION (FCC 26-74)",
-      "url": "https://www.fcc.gov/ecfs/document/26110069388/1",
-      "agency": "FCC",
-      "identifier": "FCC 26-74",
-      "date": "2026-08-04",
-      "deadline": null,
-      "summary": "",
-      "score": 80,
-      "domains": [
-        "air",
-        "spectrum",
-        "supply-chain"
-      ],
-      "matched_terms": [],
-      "watchlist": {
-        "key": "gn-26-74",
-        "label": "GN 26-74 (Unleashing American Drone Dominance)"
-      },
-      "extra": {
-        "proceeding": "26-74"
-      },
-      "first_seen": "2026-09-15T20:57:22.604825+00:00",
-      "is_new": true
     },
     {
       "id": "Federal Register:2026-15659",
@@ -3798,6 +3798,34 @@
       "is_new": false
     },
     {
+      "id": "USAspending:693KA824F00073",
+      "source": "USAspending",
+      "category": "procurement",
+      "type": "Award",
+      "title": "LS TECHNOLOGIES LLC: TORFP 2354 - UNMANNED AIRCRAFT SYSTEMS (UAS) TRAFFIC MANAGEMENT (UTM) SYSTEMS ENGINEERING",
+      "url": "https://www.usaspending.gov/award/CONT_AWD_693KA824F00073_6920_693KA822D00027_6920",
+      "agency": "Department of Transportation",
+      "identifier": "693KA824F00073",
+      "date": "2024-01-22",
+      "deadline": null,
+      "summary": "TORFP 2354 - UNMANNED AIRCRAFT SYSTEMS (UAS) TRAFFIC MANAGEMENT (UTM) SYSTEMS ENGINEERING",
+      "score": 34,
+      "domains": [
+        "air"
+      ],
+      "matched_terms": [
+        "unmanned aircraft",
+        "uas"
+      ],
+      "watchlist": null,
+      "extra": {
+        "amount": 2804623.45,
+        "award_type": "DELIVERY ORDER"
+      },
+      "first_seen": "2026-09-16T03:45:31.309663+00:00",
+      "is_new": true
+    },
+    {
       "id": "USAspending:W31P4Q24FE001",
       "source": "USAspending",
       "category": "procurement",
@@ -4359,6 +4387,29 @@
       "is_new": false
     },
     {
+      "id": "USAspending:19AQMM26F0930",
+      "source": "USAspending",
+      "category": "procurement",
+      "type": "Award",
+      "title": "BERRY AVIATION, INC.: INL BOGOTA COUNTERUAS - DETECT AND DEFEAT PROJECT",
+      "url": "https://www.usaspending.gov/award/CONT_AWD_19AQMM26F0930_1900_19AQMM22D0045_1900",
+      "agency": "Department of State",
+      "identifier": "19AQMM26F0930",
+      "date": "2024-09-16",
+      "deadline": null,
+      "summary": "INL BOGOTA COUNTERUAS - DETECT AND DEFEAT PROJECT",
+      "score": 30,
+      "domains": [],
+      "matched_terms": [],
+      "watchlist": null,
+      "extra": {
+        "amount": 2999721.92,
+        "award_type": "DELIVERY ORDER"
+      },
+      "first_seen": "2026-09-16T03:45:31.309663+00:00",
+      "is_new": true
+    },
+    {
       "id": "USAspending:FA701424F0347",
       "source": "USAspending",
       "category": "procurement",
@@ -4471,29 +4522,6 @@
         "award_type": "DEFINITIVE CONTRACT"
       },
       "first_seen": "2026-09-10T03:29:54.958940+00:00",
-      "is_new": false
-    },
-    {
-      "id": "USAspending:FA868923CB002",
-      "source": "USAspending",
-      "category": "procurement",
-      "type": "Award",
-      "title": "RAYTHEON COMPANY: MQ-9 REAPER MALET MTS-B III SOFTWARE",
-      "url": "https://www.usaspending.gov/award/CONT_AWD_FA868923CB002_9700_-NONE-_-NONE-",
-      "agency": "Department of Defense",
-      "identifier": "FA868923CB002",
-      "date": "2023-09-30",
-      "deadline": null,
-      "summary": "MQ-9 REAPER MALET MTS-B III SOFTWARE",
-      "score": 30,
-      "domains": [],
-      "matched_terms": [],
-      "watchlist": null,
-      "extra": {
-        "amount": 17174570.6,
-        "award_type": "DEFINITIVE CONTRACT"
-      },
-      "first_seen": "2026-08-11T13:08:11.012880+00:00",
       "is_new": false
     },
     {
@@ -4856,29 +4884,6 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-08-28T10:02:14.632922+00:00",
-      "is_new": false
-    },
-    {
-      "id": "USAspending:FA862018F2361",
-      "source": "USAspending",
-      "category": "procurement",
-      "type": "Award",
-      "title": "GENERAL ATOMICS AERONAUTICAL SYSTEMS, INC.: FY18 BLK 30 GCS RETROFIT",
-      "url": "https://www.usaspending.gov/award/CONT_AWD_FA862018F2361_9700_FA862015G4040_9700",
-      "agency": "Department of Defense",
-      "identifier": "FA862018F2361",
-      "date": "2018-09-21",
-      "deadline": null,
-      "summary": "FY18 BLK 30 GCS RETROFIT",
-      "score": 30,
-      "domains": [],
-      "matched_terms": [],
-      "watchlist": null,
-      "extra": {
-        "amount": 70732867.63,
-        "award_type": "DELIVERY ORDER"
-      },
-      "first_seen": "2026-08-18T06:43:25.448189+00:00",
       "is_new": false
     },
     {
@@ -5755,17 +5760,17 @@
       "is_new": false
     },
     {
-      "id": "Regulations.gov:FAA-2026-10858-0001",
+      "id": "Regulations.gov:BIS_FRDOC_0001-0722",
       "source": "Regulations.gov",
       "category": "regulatory",
-      "type": "Document",
-      "title": "Lang's Drone Spray and Seed LLC - Petition",
-      "url": "https://www.regulations.gov/document/FAA-2026-10858-0001",
-      "agency": "FAA",
-      "identifier": "FAA-2026-10858",
+      "type": "Final Rule",
+      "title": "Streamlining Export Controls for Drone Exports",
+      "url": "https://www.regulations.gov/document/BIS_FRDOC_0001-0722",
+      "agency": "BIS",
+      "identifier": "BIS_FRDOC_0001",
       "date": "2026-08-28",
       "deadline": null,
-      "summary": "Lang's Drone Spray and Seed LLC - Petition",
+      "summary": "Streamlining Export Controls for Drone Exports",
       "score": 20,
       "domains": [
         "air"
@@ -5779,17 +5784,17 @@
       "is_new": false
     },
     {
-      "id": "Regulations.gov:BIS_FRDOC_0001-0722",
+      "id": "Regulations.gov:FAA-2026-10858-0001",
       "source": "Regulations.gov",
       "category": "regulatory",
-      "type": "Final Rule",
-      "title": "Streamlining Export Controls for Drone Exports",
-      "url": "https://www.regulations.gov/document/BIS_FRDOC_0001-0722",
-      "agency": "BIS",
-      "identifier": "BIS_FRDOC_0001",
+      "type": "Document",
+      "title": "Lang's Drone Spray and Seed LLC - Petition",
+      "url": "https://www.regulations.gov/document/FAA-2026-10858-0001",
+      "agency": "FAA",
+      "identifier": "FAA-2026-10858",
       "date": "2026-08-28",
       "deadline": null,
-      "summary": "Streamlining Export Controls for Drone Exports",
+      "summary": "Lang's Drone Spray and Seed LLC - Petition",
       "score": 20,
       "domains": [
         "air"
@@ -6213,7 +6218,7 @@
   ],
   "stats": {
     "total": 220,
-    "new": 2,
+    "new": 3,
     "by_category": {
       "regulatory": 148,
       "procurement": 58,
@@ -6221,7 +6226,7 @@
       "legislative": 4
     },
     "by_domain": {
-      "air": 180,
+      "air": 181,
       "supply-chain": 110,
       "spectrum": 46,
       "ground": 11,
@@ -6421,7 +6426,7 @@
   "deadlines": [
     {
       "deadline": "2026-10-27",
-      "days": 42,
+      "days": 41,
       "title": "60-Day Notice of Proposed Information Collection: Information Collection Request (ICR) for the Drone Infrastructure Inspection Grant (DIIG) Program",
       "identifier": "Docket No. DOT-OST-2026-3367",
       "category": "regulatory",
@@ -6430,7 +6435,7 @@
     },
     {
       "deadline": "2026-10-28",
-      "days": 43,
+      "days": 42,
       "title": "Agency Information Collection Activities; Proposals, Submissions, and Approvals: Information Collection Request for the Drone Infrastructure Inspection Grant Program",
       "identifier": "DOT-OST-2026-3367",
       "category": "regulatory",
@@ -6439,7 +6444,7 @@
     },
     {
       "deadline": "2026-11-02",
-      "days": 48,
+      "days": 47,
       "title": "Agency Information Collection Activities; Proposed eCollection eComments Requested; Revision of a Previously Approved Collection; Title-SAFER SKIES State, Local, Tribal, and Territorial Counter-UAS Information Collection",
       "identifier": "OMB Number 1110-0090",
       "category": "regulatory",
