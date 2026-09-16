@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-16T10:59:01.682675+00:00",
-  "generated_human": "2026-09-16 10:59 UTC",
+  "generated_at": "2026-09-16T16:18:27.478802+00:00",
+  "generated_human": "2026-09-16 16:18 UTC",
   "demo": false,
   "items": [
     {
@@ -2210,17 +2210,17 @@
       "is_new": false
     },
     {
-      "id": "Regulations.gov:FAA-2026-4558-1629",
+      "id": "Regulations.gov:FAA-2026-4558-1630",
       "source": "Regulations.gov",
       "category": "regulatory",
       "type": "Comment",
-      "title": "Comment on Designation – Restrict the Operation of Unmanned Aircraft in Close Proximity  to a Fixed Site Facility: Comment from Karin L",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1629",
+      "title": "Comment on Designation – Restrict the Operation of Unmanned Aircraft in Close Proximity  to a Fixed Site Facility: Comment from American Chemistry Council",
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1630",
       "agency": "FAA",
       "identifier": "FAA-2026-4558",
       "date": "2026-08-06",
       "deadline": null,
-      "summary": "Comment from Karin L",
+      "summary": "Comment from American Chemistry Council",
       "score": 80,
       "domains": [
         "air"
@@ -2236,7 +2236,36 @@
       "extra": {
         "docket_total_comments": 1669
       },
-      "first_seen": "2026-09-16T03:45:31.309663+00:00",
+      "first_seen": "2026-09-16T16:18:27.478802+00:00",
+      "is_new": true
+    },
+    {
+      "id": "FCC ECFS:26110069389",
+      "source": "FCC ECFS",
+      "category": "regulatory",
+      "type": "PETITION",
+      "title": "CTIA: PETITION (FCC 26-74)",
+      "url": "https://www.fcc.gov/ecfs/document/26110069389/1",
+      "agency": "FCC",
+      "identifier": "FCC 26-74",
+      "date": "2026-08-04",
+      "deadline": null,
+      "summary": "",
+      "score": 80,
+      "domains": [
+        "air",
+        "spectrum",
+        "supply-chain"
+      ],
+      "matched_terms": [],
+      "watchlist": {
+        "key": "gn-26-74",
+        "label": "GN 26-74 (Unleashing American Drone Dominance)"
+      },
+      "extra": {
+        "proceeding": "26-74"
+      },
+      "first_seen": "2026-09-16T10:59:01.682675+00:00",
       "is_new": false
     },
     {
@@ -2267,35 +2296,6 @@
       },
       "first_seen": "2026-08-07T18:58:44.285172+00:00",
       "is_new": false
-    },
-    {
-      "id": "FCC ECFS:26110069389",
-      "source": "FCC ECFS",
-      "category": "regulatory",
-      "type": "PETITION",
-      "title": "CTIA: PETITION (FCC 26-74)",
-      "url": "https://www.fcc.gov/ecfs/document/26110069389/1",
-      "agency": "FCC",
-      "identifier": "FCC 26-74",
-      "date": "2026-08-04",
-      "deadline": null,
-      "summary": "",
-      "score": 80,
-      "domains": [
-        "air",
-        "spectrum",
-        "supply-chain"
-      ],
-      "matched_terms": [],
-      "watchlist": {
-        "key": "gn-26-74",
-        "label": "GN 26-74 (Unleashing American Drone Dominance)"
-      },
-      "extra": {
-        "proceeding": "26-74"
-      },
-      "first_seen": "2026-09-16T10:59:01.682675+00:00",
-      "is_new": true
     },
     {
       "id": "Federal Register:2026-15659",
@@ -3651,7 +3651,7 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-09-16T10:59:01.682675+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:692M1523F00178",
@@ -4078,7 +4078,7 @@
         "award_type": "DEFINITIVE CONTRACT"
       },
       "first_seen": "2026-09-16T10:59:01.682675+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:FA868923F2650",
@@ -4596,7 +4596,7 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-09-16T10:59:01.682675+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:N0001923C0033",
@@ -5168,7 +5168,7 @@
         ]
       },
       "first_seen": "2026-09-16T10:59:01.682675+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "Federal Register:2026-18734",
@@ -5666,30 +5666,6 @@
       "is_new": false
     },
     {
-      "id": "Regulations.gov:FAA-2026-10892-0001",
-      "source": "Regulations.gov",
-      "category": "regulatory",
-      "type": "Document",
-      "title": "California Drone Cleaning LLC - Petition",
-      "url": "https://www.regulations.gov/document/FAA-2026-10892-0001",
-      "agency": "FAA",
-      "identifier": "FAA-2026-10892",
-      "date": "2026-08-31",
-      "deadline": null,
-      "summary": "California Drone Cleaning LLC - Petition",
-      "score": 20,
-      "domains": [
-        "air"
-      ],
-      "matched_terms": [
-        "drone"
-      ],
-      "watchlist": null,
-      "extra": {},
-      "first_seen": "2026-08-31T12:56:56.316203+00:00",
-      "is_new": false
-    },
-    {
       "id": "Regulations.gov:FAA-2026-10895-0001",
       "source": "Regulations.gov",
       "category": "regulatory",
@@ -5725,6 +5701,30 @@
       "date": "2026-08-31",
       "deadline": null,
       "summary": "Drone Dudes - Petition",
+      "score": 20,
+      "domains": [
+        "air"
+      ],
+      "matched_terms": [
+        "drone"
+      ],
+      "watchlist": null,
+      "extra": {},
+      "first_seen": "2026-08-31T12:56:56.316203+00:00",
+      "is_new": false
+    },
+    {
+      "id": "Regulations.gov:FAA-2026-10892-0001",
+      "source": "Regulations.gov",
+      "category": "regulatory",
+      "type": "Document",
+      "title": "California Drone Cleaning LLC - Petition",
+      "url": "https://www.regulations.gov/document/FAA-2026-10892-0001",
+      "agency": "FAA",
+      "identifier": "FAA-2026-10892",
+      "date": "2026-08-31",
+      "deadline": null,
+      "summary": "California Drone Cleaning LLC - Petition",
       "score": 20,
       "domains": [
         "air"
@@ -5884,30 +5884,6 @@
       "watchlist": null,
       "extra": {},
       "first_seen": "2026-08-26T19:50:21.800032+00:00",
-      "is_new": false
-    },
-    {
-      "id": "Regulations.gov:FAA-2026-10533-0001",
-      "source": "Regulations.gov",
-      "category": "regulatory",
-      "type": "Document",
-      "title": "BC DRONE COMPANY LLC - Petition",
-      "url": "https://www.regulations.gov/document/FAA-2026-10533-0001",
-      "agency": "FAA",
-      "identifier": "FAA-2026-10533",
-      "date": "2026-08-24",
-      "deadline": null,
-      "summary": "BC DRONE COMPANY LLC - Petition",
-      "score": 20,
-      "domains": [
-        "air"
-      ],
-      "matched_terms": [
-        "drone"
-      ],
-      "watchlist": null,
-      "extra": {},
-      "first_seen": "2026-08-24T18:41:45.581629+00:00",
       "is_new": false
     },
     {
@@ -6208,8 +6184,8 @@
     {
       "name": "Regulations.gov",
       "status": "ok",
-      "detail": "45 kept",
-      "count": 45
+      "detail": "44 kept",
+      "count": 44
     },
     {
       "name": "FCC ECFS",
@@ -6243,16 +6219,16 @@
     }
   ],
   "stats": {
-    "total": 221,
-    "new": 5,
+    "total": 220,
+    "new": 1,
     "by_category": {
-      "regulatory": 149,
+      "regulatory": 148,
       "procurement": 58,
       "litigation": 10,
       "legislative": 4
     },
     "by_domain": {
-      "air": 181,
+      "air": 180,
       "supply-chain": 110,
       "spectrum": 46,
       "ground": 11,
@@ -6262,7 +6238,7 @@
     "by_source": {
       "FCC ECFS": 90,
       "USAspending": 58,
-      "Regulations.gov": 33,
+      "Regulations.gov": 32,
       "Federal Register": 26,
       "CourtListener": 10,
       "Congress.gov": 4
