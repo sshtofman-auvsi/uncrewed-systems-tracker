@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-16T03:45:31.309663+00:00",
-  "generated_human": "2026-09-16 03:45 UTC",
+  "generated_at": "2026-09-16T10:59:01.682675+00:00",
+  "generated_human": "2026-09-16 10:59 UTC",
   "demo": false,
   "items": [
     {
@@ -2025,12 +2025,12 @@
       "is_new": false
     },
     {
-      "id": "FCC ECFS:26110071217",
+      "id": "FCC ECFS:26110071197",
       "source": "FCC ECFS",
       "category": "regulatory",
       "type": "OPPOSITION TO PETITION FOR RECONSIDERATION",
-      "title": "Security Industry Association: OPPOSITION TO PETITION FOR RECONSIDERATION (FCC 26-74)",
-      "url": "https://www.fcc.gov/ecfs/document/26110071217/1",
+      "title": "D-Fend Solutions: OPPOSITION TO PETITION FOR RECONSIDERATION (FCC 26-74)",
+      "url": "https://www.fcc.gov/ecfs/document/26110071197/1",
       "agency": "FCC",
       "identifier": "FCC 26-74",
       "date": "2026-08-14",
@@ -2083,12 +2083,12 @@
       "is_new": false
     },
     {
-      "id": "FCC ECFS:26110071197",
+      "id": "FCC ECFS:26110071217",
       "source": "FCC ECFS",
       "category": "regulatory",
       "type": "OPPOSITION TO PETITION FOR RECONSIDERATION",
-      "title": "D-Fend Solutions: OPPOSITION TO PETITION FOR RECONSIDERATION (FCC 26-74)",
-      "url": "https://www.fcc.gov/ecfs/document/26110071197/1",
+      "title": "Security Industry Association: OPPOSITION TO PETITION FOR RECONSIDERATION (FCC 26-74)",
+      "url": "https://www.fcc.gov/ecfs/document/26110071217/1",
       "agency": "FCC",
       "identifier": "FCC 26-74",
       "date": "2026-08-14",
@@ -2237,35 +2237,6 @@
         "docket_total_comments": 1669
       },
       "first_seen": "2026-09-16T03:45:31.309663+00:00",
-      "is_new": true
-    },
-    {
-      "id": "FCC ECFS:26110069388",
-      "source": "FCC ECFS",
-      "category": "regulatory",
-      "type": "PETITION",
-      "title": "CTIA: PETITION (FCC 26-74)",
-      "url": "https://www.fcc.gov/ecfs/document/26110069388/1",
-      "agency": "FCC",
-      "identifier": "FCC 26-74",
-      "date": "2026-08-04",
-      "deadline": null,
-      "summary": "",
-      "score": 80,
-      "domains": [
-        "air",
-        "spectrum",
-        "supply-chain"
-      ],
-      "matched_terms": [],
-      "watchlist": {
-        "key": "gn-26-74",
-        "label": "GN 26-74 (Unleashing American Drone Dominance)"
-      },
-      "extra": {
-        "proceeding": "26-74"
-      },
-      "first_seen": "2026-09-15T20:57:22.604825+00:00",
       "is_new": false
     },
     {
@@ -2296,6 +2267,35 @@
       },
       "first_seen": "2026-08-07T18:58:44.285172+00:00",
       "is_new": false
+    },
+    {
+      "id": "FCC ECFS:26110069389",
+      "source": "FCC ECFS",
+      "category": "regulatory",
+      "type": "PETITION",
+      "title": "CTIA: PETITION (FCC 26-74)",
+      "url": "https://www.fcc.gov/ecfs/document/26110069389/1",
+      "agency": "FCC",
+      "identifier": "FCC 26-74",
+      "date": "2026-08-04",
+      "deadline": null,
+      "summary": "",
+      "score": 80,
+      "domains": [
+        "air",
+        "spectrum",
+        "supply-chain"
+      ],
+      "matched_terms": [],
+      "watchlist": {
+        "key": "gn-26-74",
+        "label": "GN 26-74 (Unleashing American Drone Dominance)"
+      },
+      "extra": {
+        "proceeding": "26-74"
+      },
+      "first_seen": "2026-09-16T10:59:01.682675+00:00",
+      "is_new": true
     },
     {
       "id": "Federal Register:2026-15659",
@@ -3625,6 +3625,35 @@
       "is_new": false
     },
     {
+      "id": "USAspending:W58RGZ26F0244",
+      "source": "USAspending",
+      "category": "procurement",
+      "type": "Award",
+      "title": "PERFORMANCE DRONE WORKS LLC: THE SMALL UNCREWED AIRCRAFT SYSTEMS (SUAS) PRODUCT OFFICE HAS AN URGENT REQUIREMENT TO PROCURE C100X UAS SYSTEMS AND ASS",
+      "url": "https://www.usaspending.gov/award/CONT_AWD_W58RGZ26F0244_9700_W58RGZ26G0060_9700",
+      "agency": "Department of Defense",
+      "identifier": "W58RGZ26F0244",
+      "date": "2026-03-27",
+      "deadline": null,
+      "summary": "THE SMALL UNCREWED AIRCRAFT SYSTEMS (SUAS) PRODUCT OFFICE HAS AN URGENT REQUIREMENT TO PROCURE C100X UAS SYSTEMS AND ASSOCIATED COMPONENTS.",
+      "score": 46,
+      "domains": [
+        "air"
+      ],
+      "matched_terms": [
+        "uas",
+        "drone",
+        "suas"
+      ],
+      "watchlist": null,
+      "extra": {
+        "amount": 15259840.0,
+        "award_type": "DELIVERY ORDER"
+      },
+      "first_seen": "2026-09-16T10:59:01.682675+00:00",
+      "is_new": true
+    },
+    {
       "id": "USAspending:692M1523F00178",
       "source": "USAspending",
       "category": "procurement",
@@ -3798,34 +3827,6 @@
       "is_new": false
     },
     {
-      "id": "USAspending:693KA824F00073",
-      "source": "USAspending",
-      "category": "procurement",
-      "type": "Award",
-      "title": "LS TECHNOLOGIES LLC: TORFP 2354 - UNMANNED AIRCRAFT SYSTEMS (UAS) TRAFFIC MANAGEMENT (UTM) SYSTEMS ENGINEERING",
-      "url": "https://www.usaspending.gov/award/CONT_AWD_693KA824F00073_6920_693KA822D00027_6920",
-      "agency": "Department of Transportation",
-      "identifier": "693KA824F00073",
-      "date": "2024-01-22",
-      "deadline": null,
-      "summary": "TORFP 2354 - UNMANNED AIRCRAFT SYSTEMS (UAS) TRAFFIC MANAGEMENT (UTM) SYSTEMS ENGINEERING",
-      "score": 34,
-      "domains": [
-        "air"
-      ],
-      "matched_terms": [
-        "unmanned aircraft",
-        "uas"
-      ],
-      "watchlist": null,
-      "extra": {
-        "amount": 2804623.45,
-        "award_type": "DELIVERY ORDER"
-      },
-      "first_seen": "2026-09-16T03:45:31.309663+00:00",
-      "is_new": true
-    },
-    {
       "id": "USAspending:W31P4Q24FE001",
       "source": "USAspending",
       "category": "procurement",
@@ -3908,33 +3909,6 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-07-31T02:54:03.245875+00:00",
-      "is_new": false
-    },
-    {
-      "id": "USAspending:H9240226FE029",
-      "source": "USAspending",
-      "category": "procurement",
-      "type": "Award",
-      "title": "THE JOHNS HOPKINS UNIVERSITY APPLIED PHYSICS LABORATORY LLC: DRONE RANGER LITE (DRL) ENGINEERING DEVELOPMENT",
-      "url": "https://www.usaspending.gov/award/CONT_AWD_H9240226FE029_9700_H9240025DE001_9700",
-      "agency": "Department of Defense",
-      "identifier": "H9240226FE029",
-      "date": "2026-06-10",
-      "deadline": null,
-      "summary": "DRONE RANGER LITE (DRL) ENGINEERING DEVELOPMENT",
-      "score": 30,
-      "domains": [
-        "air"
-      ],
-      "matched_terms": [
-        "drone"
-      ],
-      "watchlist": null,
-      "extra": {
-        "amount": 3000000.0,
-        "award_type": "DELIVERY ORDER"
-      },
-      "first_seen": "2026-09-13T03:39:33.618590+00:00",
       "is_new": false
     },
     {
@@ -4082,6 +4056,29 @@
       },
       "first_seen": "2026-09-11T03:27:14.524299+00:00",
       "is_new": false
+    },
+    {
+      "id": "USAspending:FA868926CB005",
+      "source": "USAspending",
+      "category": "procurement",
+      "type": "Award",
+      "title": "GENERAL ATOMICS AERONAUTICAL SYSTEMS, INC.: HARDENED SERVER AND ANCILLARY EQUIPMENT TO PROTECT EXPORTABLE MQ-9A AVSIM AND T-OFP SOFTWARE AND ENABLES AIRCREW TRAININ",
+      "url": "https://www.usaspending.gov/award/CONT_AWD_FA868926CB005_9700_-NONE-_-NONE-",
+      "agency": "Department of Defense",
+      "identifier": "FA868926CB005",
+      "date": "2026-05-08",
+      "deadline": null,
+      "summary": "HARDENED SERVER AND ANCILLARY EQUIPMENT TO PROTECT EXPORTABLE MQ-9A AVSIM AND T-OFP SOFTWARE AND ENABLES AIRCREW TRAINING WITH A MEDIUM ALTITUDE LONG ENDURANCE TACTICAL (MALET) JOINT SYSTEM INTEGRATION LABORATORY [JSIL] AIRCREW TRAINER (MJAT).",
+      "score": 30,
+      "domains": [],
+      "matched_terms": [],
+      "watchlist": null,
+      "extra": {
+        "amount": 7660262.96,
+        "award_type": "DEFINITIVE CONTRACT"
+      },
+      "first_seen": "2026-09-16T10:59:01.682675+00:00",
+      "is_new": true
     },
     {
       "id": "USAspending:FA868923F2650",
@@ -4387,29 +4384,6 @@
       "is_new": false
     },
     {
-      "id": "USAspending:19AQMM26F0930",
-      "source": "USAspending",
-      "category": "procurement",
-      "type": "Award",
-      "title": "BERRY AVIATION, INC.: INL BOGOTA COUNTERUAS - DETECT AND DEFEAT PROJECT",
-      "url": "https://www.usaspending.gov/award/CONT_AWD_19AQMM26F0930_1900_19AQMM22D0045_1900",
-      "agency": "Department of State",
-      "identifier": "19AQMM26F0930",
-      "date": "2024-09-16",
-      "deadline": null,
-      "summary": "INL BOGOTA COUNTERUAS - DETECT AND DEFEAT PROJECT",
-      "score": 30,
-      "domains": [],
-      "matched_terms": [],
-      "watchlist": null,
-      "extra": {
-        "amount": 2999721.92,
-        "award_type": "DELIVERY ORDER"
-      },
-      "first_seen": "2026-09-16T03:45:31.309663+00:00",
-      "is_new": true
-    },
-    {
       "id": "USAspending:FA701424F0347",
       "source": "USAspending",
       "category": "procurement",
@@ -4602,6 +4576,29 @@
       "is_new": false
     },
     {
+      "id": "USAspending:N0001923F2503",
+      "source": "USAspending",
+      "category": "procurement",
+      "type": "Award",
+      "title": "GENERAL ATOMICS AERONAUTICAL SYSTEMS, INC.: MQ9A -25 CONVERSION",
+      "url": "https://www.usaspending.gov/award/CONT_AWD_N0001923F2503_9700_N0001922G0006_9700",
+      "agency": "Department of Defense",
+      "identifier": "N0001923F2503",
+      "date": "2023-08-02",
+      "deadline": null,
+      "summary": "MQ9A -25 CONVERSION",
+      "score": 30,
+      "domains": [],
+      "matched_terms": [],
+      "watchlist": null,
+      "extra": {
+        "amount": 16909654.0,
+        "award_type": "DELIVERY ORDER"
+      },
+      "first_seen": "2026-09-16T10:59:01.682675+00:00",
+      "is_new": true
+    },
+    {
       "id": "USAspending:N0001923C0033",
       "source": "USAspending",
       "category": "procurement",
@@ -4749,7 +4746,7 @@
       ],
       "watchlist": null,
       "extra": {
-        "amount": 100695038.62,
+        "amount": 100045502.44,
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
@@ -5143,6 +5140,35 @@
       },
       "first_seen": "2026-06-26T11:19:55.120727+00:00",
       "is_new": false
+    },
+    {
+      "id": "Federal Register:2026-18996",
+      "source": "Federal Register",
+      "category": "regulatory",
+      "type": "Final Rule",
+      "title": "Annual Fireworks Displays and Other Events in the USCG Heartland District Requiring Safety Zones",
+      "url": "https://www.federalregister.gov/documents/2026/09/16/2026-18996/annual-fireworks-displays-and-other-events-in-the-uscg-heartland-district-requiring-safety-zones",
+      "agency": "Homeland Security Department, Coast Guard",
+      "identifier": "Docket No. USCG-2026-1138",
+      "date": "2026-09-16",
+      "deadline": null,
+      "summary": "The Coast Guard will enforce a safety zone for the University of Pittsburgh Drone Show on September 17, 2026, to provide for the safety of life on navigable waterways during this event. Our regulation for annual fireworks displays and other events within the Heartland Coast Guard District identifies the regulated area for this event in Pittsburgh, PA. During the enforcement period, the operator of any vessel in the regulated area must comply with directions from Marine Safety Unit Pittsburgh.",
+      "score": 20,
+      "domains": [
+        "air"
+      ],
+      "matched_terms": [
+        "drone"
+      ],
+      "watchlist": null,
+      "extra": {
+        "comment_url": null,
+        "dockets": [
+          "Docket No. USCG-2026-1138"
+        ]
+      },
+      "first_seen": "2026-09-16T10:59:01.682675+00:00",
+      "is_new": true
     },
     {
       "id": "Federal Register:2026-18734",
@@ -5760,17 +5786,17 @@
       "is_new": false
     },
     {
-      "id": "Regulations.gov:BIS_FRDOC_0001-0722",
+      "id": "Regulations.gov:FAA-2026-10858-0001",
       "source": "Regulations.gov",
       "category": "regulatory",
-      "type": "Final Rule",
-      "title": "Streamlining Export Controls for Drone Exports",
-      "url": "https://www.regulations.gov/document/BIS_FRDOC_0001-0722",
-      "agency": "BIS",
-      "identifier": "BIS_FRDOC_0001",
+      "type": "Document",
+      "title": "Lang's Drone Spray and Seed LLC - Petition",
+      "url": "https://www.regulations.gov/document/FAA-2026-10858-0001",
+      "agency": "FAA",
+      "identifier": "FAA-2026-10858",
       "date": "2026-08-28",
       "deadline": null,
-      "summary": "Streamlining Export Controls for Drone Exports",
+      "summary": "Lang's Drone Spray and Seed LLC - Petition",
       "score": 20,
       "domains": [
         "air"
@@ -5784,17 +5810,17 @@
       "is_new": false
     },
     {
-      "id": "Regulations.gov:FAA-2026-10858-0001",
+      "id": "Regulations.gov:BIS_FRDOC_0001-0722",
       "source": "Regulations.gov",
       "category": "regulatory",
-      "type": "Document",
-      "title": "Lang's Drone Spray and Seed LLC - Petition",
-      "url": "https://www.regulations.gov/document/FAA-2026-10858-0001",
-      "agency": "FAA",
-      "identifier": "FAA-2026-10858",
+      "type": "Final Rule",
+      "title": "Streamlining Export Controls for Drone Exports",
+      "url": "https://www.regulations.gov/document/BIS_FRDOC_0001-0722",
+      "agency": "BIS",
+      "identifier": "BIS_FRDOC_0001",
       "date": "2026-08-28",
       "deadline": null,
-      "summary": "Lang's Drone Spray and Seed LLC - Petition",
+      "summary": "Streamlining Export Controls for Drone Exports",
       "score": 20,
       "domains": [
         "air"
@@ -6176,8 +6202,8 @@
     {
       "name": "Federal Register",
       "status": "ok",
-      "detail": "26 kept",
-      "count": 26
+      "detail": "27 kept",
+      "count": 27
     },
     {
       "name": "Regulations.gov",
@@ -6217,10 +6243,10 @@
     }
   ],
   "stats": {
-    "total": 220,
-    "new": 3,
+    "total": 221,
+    "new": 5,
     "by_category": {
-      "regulatory": 148,
+      "regulatory": 149,
       "procurement": 58,
       "litigation": 10,
       "legislative": 4
@@ -6237,7 +6263,7 @@
       "FCC ECFS": 90,
       "USAspending": 58,
       "Regulations.gov": 33,
-      "Federal Register": 25,
+      "Federal Register": 26,
       "CourtListener": 10,
       "Congress.gov": 4
     }
