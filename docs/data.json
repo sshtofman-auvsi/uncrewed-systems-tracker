@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-18T20:32:52.072081+00:00",
-  "generated_human": "2026-09-18 20:32 UTC",
+  "generated_at": "2026-09-19T03:37:15.310162+00:00",
+  "generated_human": "2026-09-19 03:37 UTC",
   "demo": false,
   "items": [
     {
@@ -2083,12 +2083,12 @@
       "is_new": false
     },
     {
-      "id": "FCC ECFS:26110071197",
+      "id": "FCC ECFS:26110071178",
       "source": "FCC ECFS",
       "category": "regulatory",
       "type": "OPPOSITION TO PETITION FOR RECONSIDERATION",
-      "title": "D-Fend Solutions: OPPOSITION TO PETITION FOR RECONSIDERATION (FCC 26-74)",
-      "url": "https://www.fcc.gov/ecfs/document/26110071197/1",
+      "title": "DRONERESPONDERS: OPPOSITION TO PETITION FOR RECONSIDERATION (FCC 26-74)",
+      "url": "https://www.fcc.gov/ecfs/document/26110071178/1",
       "agency": "FCC",
       "identifier": "FCC 26-74",
       "date": "2026-08-14",
@@ -2112,12 +2112,12 @@
       "is_new": false
     },
     {
-      "id": "FCC ECFS:26110071178",
+      "id": "FCC ECFS:26110071197",
       "source": "FCC ECFS",
       "category": "regulatory",
       "type": "OPPOSITION TO PETITION FOR RECONSIDERATION",
-      "title": "DRONERESPONDERS: OPPOSITION TO PETITION FOR RECONSIDERATION (FCC 26-74)",
-      "url": "https://www.fcc.gov/ecfs/document/26110071178/1",
+      "title": "D-Fend Solutions: OPPOSITION TO PETITION FOR RECONSIDERATION (FCC 26-74)",
+      "url": "https://www.fcc.gov/ecfs/document/26110071197/1",
       "agency": "FCC",
       "identifier": "FCC 26-74",
       "date": "2026-08-14",
@@ -2268,17 +2268,17 @@
       "is_new": false
     },
     {
-      "id": "Regulations.gov:FAA-2026-4558-1629",
+      "id": "Regulations.gov:FAA-2026-4558-1630",
       "source": "Regulations.gov",
       "category": "regulatory",
       "type": "Comment",
-      "title": "Comment on Designation – Restrict the Operation of Unmanned Aircraft in Close Proximity  to a Fixed Site Facility: Comment from Karin L",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1629",
+      "title": "Comment on Designation – Restrict the Operation of Unmanned Aircraft in Close Proximity  to a Fixed Site Facility: Comment from American Chemistry Council",
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1630",
       "agency": "FAA",
       "identifier": "FAA-2026-4558",
       "date": "2026-08-06",
       "deadline": null,
-      "summary": "Comment from Karin L",
+      "summary": "Comment from American Chemistry Council",
       "score": 80,
       "domains": [
         "air"
@@ -2294,7 +2294,7 @@
       "extra": {
         "docket_total_comments": 1669
       },
-      "first_seen": "2026-09-18T20:32:52.072081+00:00",
+      "first_seen": "2026-09-19T03:37:15.310162+00:00",
       "is_new": true
     },
     {
@@ -3881,6 +3881,34 @@
       },
       "first_seen": "2026-08-22T06:41:52.722649+00:00",
       "is_new": false
+    },
+    {
+      "id": "USAspending:693KA823F00183",
+      "source": "USAspending",
+      "category": "procurement",
+      "type": "Award",
+      "title": "CROWN INNOVATIONS, INC.: TORFP 2222 ATO MISSION SUPPORT SERVICES UAS & ADVANCED AIR MOBILITY",
+      "url": "https://www.usaspending.gov/award/CONT_AWD_693KA823F00183_6920_693KA822D00021_6920",
+      "agency": "Department of Transportation",
+      "identifier": "693KA823F00183",
+      "date": "2023-06-14",
+      "deadline": null,
+      "summary": "TORFP 2222 ATO MISSION SUPPORT SERVICES UAS & ADVANCED AIR MOBILITY",
+      "score": 34,
+      "domains": [
+        "air"
+      ],
+      "matched_terms": [
+        "uas",
+        "advanced air mobility"
+      ],
+      "watchlist": null,
+      "extra": {
+        "amount": 2639952.54,
+        "award_type": "DELIVERY ORDER"
+      },
+      "first_seen": "2026-09-19T03:37:15.310162+00:00",
+      "is_new": true
     },
     {
       "id": "Federal Register:2026-16628",
@@ -5814,17 +5842,17 @@
       "is_new": false
     },
     {
-      "id": "Regulations.gov:FAA-2026-10858-0001",
+      "id": "Regulations.gov:BIS_FRDOC_0001-0722",
       "source": "Regulations.gov",
       "category": "regulatory",
-      "type": "Document",
-      "title": "Lang's Drone Spray and Seed LLC - Petition",
-      "url": "https://www.regulations.gov/document/FAA-2026-10858-0001",
-      "agency": "FAA",
-      "identifier": "FAA-2026-10858",
+      "type": "Final Rule",
+      "title": "Streamlining Export Controls for Drone Exports",
+      "url": "https://www.regulations.gov/document/BIS_FRDOC_0001-0722",
+      "agency": "BIS",
+      "identifier": "BIS_FRDOC_0001",
       "date": "2026-08-28",
       "deadline": null,
-      "summary": "Lang's Drone Spray and Seed LLC - Petition",
+      "summary": "Streamlining Export Controls for Drone Exports",
       "score": 20,
       "domains": [
         "air"
@@ -5838,17 +5866,17 @@
       "is_new": false
     },
     {
-      "id": "Regulations.gov:BIS_FRDOC_0001-0722",
+      "id": "Regulations.gov:FAA-2026-10858-0001",
       "source": "Regulations.gov",
       "category": "regulatory",
-      "type": "Final Rule",
-      "title": "Streamlining Export Controls for Drone Exports",
-      "url": "https://www.regulations.gov/document/BIS_FRDOC_0001-0722",
-      "agency": "BIS",
-      "identifier": "BIS_FRDOC_0001",
+      "type": "Document",
+      "title": "Lang's Drone Spray and Seed LLC - Petition",
+      "url": "https://www.regulations.gov/document/FAA-2026-10858-0001",
+      "agency": "FAA",
+      "identifier": "FAA-2026-10858",
       "date": "2026-08-28",
       "deadline": null,
-      "summary": "Streamlining Export Controls for Drone Exports",
+      "summary": "Lang's Drone Spray and Seed LLC - Petition",
       "score": 20,
       "domains": [
         "air"
@@ -6247,16 +6275,16 @@
     }
   ],
   "stats": {
-    "total": 221,
-    "new": 1,
+    "total": 222,
+    "new": 2,
     "by_category": {
       "regulatory": 148,
-      "procurement": 59,
+      "procurement": 60,
       "litigation": 10,
       "legislative": 4
     },
     "by_domain": {
-      "air": 180,
+      "air": 181,
       "supply-chain": 110,
       "spectrum": 46,
       "ground": 11,
@@ -6265,7 +6293,7 @@
     },
     "by_source": {
       "FCC ECFS": 90,
-      "USAspending": 59,
+      "USAspending": 60,
       "Regulations.gov": 32,
       "Federal Register": 26,
       "CourtListener": 10,
@@ -6456,7 +6484,7 @@
   "deadlines": [
     {
       "deadline": "2026-10-27",
-      "days": 39,
+      "days": 38,
       "title": "60-Day Notice of Proposed Information Collection: Information Collection Request (ICR) for the Drone Infrastructure Inspection Grant (DIIG) Program",
       "identifier": "Docket No. DOT-OST-2026-3367",
       "category": "regulatory",
@@ -6465,7 +6493,7 @@
     },
     {
       "deadline": "2026-10-28",
-      "days": 40,
+      "days": 39,
       "title": "Agency Information Collection Activities; Proposals, Submissions, and Approvals: Information Collection Request for the Drone Infrastructure Inspection Grant Program",
       "identifier": "DOT-OST-2026-3367",
       "category": "regulatory",
@@ -6474,7 +6502,7 @@
     },
     {
       "deadline": "2026-11-02",
-      "days": 45,
+      "days": 44,
       "title": "Agency Information Collection Activities; Proposed eCollection eComments Requested; Revision of a Previously Approved Collection; Title-SAFER SKIES State, Local, Tribal, and Territorial Counter-UAS Information Collection",
       "identifier": "OMB Number 1110-0090",
       "category": "regulatory",
