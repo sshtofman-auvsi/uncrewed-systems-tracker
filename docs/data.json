@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-21T12:12:52.757742+00:00",
-  "generated_human": "2026-09-21 12:12 UTC",
+  "generated_at": "2026-09-21T21:46:45.831085+00:00",
+  "generated_human": "2026-09-21 21:46 UTC",
   "demo": false,
   "items": [
     {
@@ -2083,6 +2083,35 @@
       "is_new": false
     },
     {
+      "id": "FCC ECFS:26110071217",
+      "source": "FCC ECFS",
+      "category": "regulatory",
+      "type": "OPPOSITION TO PETITION FOR RECONSIDERATION",
+      "title": "Security Industry Association: OPPOSITION TO PETITION FOR RECONSIDERATION (FCC 26-74)",
+      "url": "https://www.fcc.gov/ecfs/document/26110071217/1",
+      "agency": "FCC",
+      "identifier": "FCC 26-74",
+      "date": "2026-08-14",
+      "deadline": null,
+      "summary": "",
+      "score": 80,
+      "domains": [
+        "air",
+        "spectrum",
+        "supply-chain"
+      ],
+      "matched_terms": [],
+      "watchlist": {
+        "key": "gn-26-74",
+        "label": "GN 26-74 (Unleashing American Drone Dominance)"
+      },
+      "extra": {
+        "proceeding": "26-74"
+      },
+      "first_seen": "2026-08-14T18:55:22.284701+00:00",
+      "is_new": false
+    },
+    {
       "id": "FCC ECFS:26110071178",
       "source": "FCC ECFS",
       "category": "regulatory",
@@ -2118,35 +2147,6 @@
       "type": "OPPOSITION TO PETITION FOR RECONSIDERATION",
       "title": "D-Fend Solutions: OPPOSITION TO PETITION FOR RECONSIDERATION (FCC 26-74)",
       "url": "https://www.fcc.gov/ecfs/document/26110071197/1",
-      "agency": "FCC",
-      "identifier": "FCC 26-74",
-      "date": "2026-08-14",
-      "deadline": null,
-      "summary": "",
-      "score": 80,
-      "domains": [
-        "air",
-        "spectrum",
-        "supply-chain"
-      ],
-      "matched_terms": [],
-      "watchlist": {
-        "key": "gn-26-74",
-        "label": "GN 26-74 (Unleashing American Drone Dominance)"
-      },
-      "extra": {
-        "proceeding": "26-74"
-      },
-      "first_seen": "2026-08-14T18:55:22.284701+00:00",
-      "is_new": false
-    },
-    {
-      "id": "FCC ECFS:26110071217",
-      "source": "FCC ECFS",
-      "category": "regulatory",
-      "type": "OPPOSITION TO PETITION FOR RECONSIDERATION",
-      "title": "Security Industry Association: OPPOSITION TO PETITION FOR RECONSIDERATION (FCC 26-74)",
-      "url": "https://www.fcc.gov/ecfs/document/26110071217/1",
       "agency": "FCC",
       "identifier": "FCC 26-74",
       "date": "2026-08-14",
@@ -2268,17 +2268,17 @@
       "is_new": false
     },
     {
-      "id": "Regulations.gov:FAA-2026-4558-1630",
+      "id": "Regulations.gov:FAA-2026-4558-1629",
       "source": "Regulations.gov",
       "category": "regulatory",
       "type": "Comment",
-      "title": "Comment on Designation – Restrict the Operation of Unmanned Aircraft in Close Proximity  to a Fixed Site Facility: Comment from American Chemistry Council",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1630",
+      "title": "Comment on Designation – Restrict the Operation of Unmanned Aircraft in Close Proximity  to a Fixed Site Facility: Comment from Karin L",
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1629",
       "agency": "FAA",
       "identifier": "FAA-2026-4558",
       "date": "2026-08-06",
       "deadline": null,
-      "summary": "Comment from American Chemistry Council",
+      "summary": "Comment from Karin L",
       "score": 80,
       "domains": [
         "air"
@@ -2294,7 +2294,7 @@
       "extra": {
         "docket_total_comments": 1669
       },
-      "first_seen": "2026-09-21T12:12:52.757742+00:00",
+      "first_seen": "2026-09-21T21:46:45.831085+00:00",
       "is_new": true
     },
     {
@@ -2324,7 +2324,7 @@
         "proceeding": "26-74"
       },
       "first_seen": "2026-09-21T12:12:52.757742+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:26110069384",
@@ -5198,6 +5198,54 @@
       "is_new": false
     },
     {
+      "id": "Regulations.gov:FAA-2024-1075-0004",
+      "source": "Regulations.gov",
+      "category": "regulatory",
+      "type": "Document",
+      "title": "TexAg Drone Solutions - Request for Extension",
+      "url": "https://www.regulations.gov/document/FAA-2024-1075-0004",
+      "agency": "FAA",
+      "identifier": "FAA-2024-1075",
+      "date": "2026-09-21",
+      "deadline": null,
+      "summary": "TexAg Drone Solutions - Request for Extension",
+      "score": 20,
+      "domains": [
+        "air"
+      ],
+      "matched_terms": [
+        "drone"
+      ],
+      "watchlist": null,
+      "extra": {},
+      "first_seen": "2026-09-21T21:46:45.831085+00:00",
+      "is_new": true
+    },
+    {
+      "id": "Regulations.gov:FAA-2026-4798-0003",
+      "source": "Regulations.gov",
+      "category": "regulatory",
+      "type": "Document",
+      "title": "County Line AG Drone Services LLC - Petition",
+      "url": "https://www.regulations.gov/document/FAA-2026-4798-0003",
+      "agency": "FAA",
+      "identifier": "FAA-2026-4798",
+      "date": "2026-09-21",
+      "deadline": null,
+      "summary": "County Line AG Drone Services LLC - Petition",
+      "score": 20,
+      "domains": [
+        "air"
+      ],
+      "matched_terms": [
+        "drone"
+      ],
+      "watchlist": null,
+      "extra": {},
+      "first_seen": "2026-09-21T21:46:45.831085+00:00",
+      "is_new": true
+    },
+    {
       "id": "Federal Register:2026-18996",
       "source": "Federal Register",
       "category": "regulatory",
@@ -5842,17 +5890,17 @@
       "is_new": false
     },
     {
-      "id": "Regulations.gov:FAA-2026-10858-0001",
+      "id": "Regulations.gov:BIS_FRDOC_0001-0722",
       "source": "Regulations.gov",
       "category": "regulatory",
-      "type": "Document",
-      "title": "Lang's Drone Spray and Seed LLC - Petition",
-      "url": "https://www.regulations.gov/document/FAA-2026-10858-0001",
-      "agency": "FAA",
-      "identifier": "FAA-2026-10858",
+      "type": "Final Rule",
+      "title": "Streamlining Export Controls for Drone Exports",
+      "url": "https://www.regulations.gov/document/BIS_FRDOC_0001-0722",
+      "agency": "BIS",
+      "identifier": "BIS_FRDOC_0001",
       "date": "2026-08-28",
       "deadline": null,
-      "summary": "Lang's Drone Spray and Seed LLC - Petition",
+      "summary": "Streamlining Export Controls for Drone Exports",
       "score": 20,
       "domains": [
         "air"
@@ -5866,17 +5914,17 @@
       "is_new": false
     },
     {
-      "id": "Regulations.gov:BIS_FRDOC_0001-0722",
+      "id": "Regulations.gov:FAA-2026-10858-0001",
       "source": "Regulations.gov",
       "category": "regulatory",
-      "type": "Final Rule",
-      "title": "Streamlining Export Controls for Drone Exports",
-      "url": "https://www.regulations.gov/document/BIS_FRDOC_0001-0722",
-      "agency": "BIS",
-      "identifier": "BIS_FRDOC_0001",
+      "type": "Document",
+      "title": "Lang's Drone Spray and Seed LLC - Petition",
+      "url": "https://www.regulations.gov/document/FAA-2026-10858-0001",
+      "agency": "FAA",
+      "identifier": "FAA-2026-10858",
       "date": "2026-08-28",
       "deadline": null,
-      "summary": "Streamlining Export Controls for Drone Exports",
+      "summary": "Lang's Drone Spray and Seed LLC - Petition",
       "score": 20,
       "domains": [
         "air"
@@ -5916,30 +5964,6 @@
         ]
       },
       "first_seen": "2026-08-26T12:54:03.583267+00:00",
-      "is_new": false
-    },
-    {
-      "id": "Regulations.gov:FAA-2025-2628-0007",
-      "source": "Regulations.gov",
-      "category": "regulatory",
-      "type": "Document",
-      "title": "Illinois Drone Solutions LLC - Amendment",
-      "url": "https://www.regulations.gov/document/FAA-2025-2628-0007",
-      "agency": "FAA",
-      "identifier": "FAA-2025-2628",
-      "date": "2026-08-26",
-      "deadline": null,
-      "summary": "Illinois Drone Solutions LLC - Amendment",
-      "score": 20,
-      "domains": [
-        "air"
-      ],
-      "matched_terms": [
-        "drone"
-      ],
-      "watchlist": null,
-      "extra": {},
-      "first_seen": "2026-08-26T19:50:21.800032+00:00",
       "is_new": false
     },
     {
@@ -6240,8 +6264,8 @@
     {
       "name": "Regulations.gov",
       "status": "ok",
-      "detail": "44 kept",
-      "count": 44
+      "detail": "45 kept",
+      "count": 45
     },
     {
       "name": "FCC ECFS",
@@ -6275,16 +6299,16 @@
     }
   ],
   "stats": {
-    "total": 222,
-    "new": 2,
+    "total": 223,
+    "new": 3,
     "by_category": {
-      "regulatory": 148,
+      "regulatory": 149,
       "procurement": 60,
       "litigation": 10,
       "legislative": 4
     },
     "by_domain": {
-      "air": 181,
+      "air": 182,
       "supply-chain": 110,
       "spectrum": 46,
       "ground": 11,
@@ -6294,7 +6318,7 @@
     "by_source": {
       "FCC ECFS": 90,
       "USAspending": 60,
-      "Regulations.gov": 32,
+      "Regulations.gov": 33,
       "Federal Register": 26,
       "CourtListener": 10,
       "Congress.gov": 4
