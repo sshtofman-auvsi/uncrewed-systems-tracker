@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-22T16:27:18.348508+00:00",
-  "generated_human": "2026-09-22 16:27 UTC",
+  "generated_at": "2026-09-22T20:58:34.975305+00:00",
+  "generated_human": "2026-09-22 20:58 UTC",
   "demo": false,
   "items": [
     {
@@ -2112,12 +2112,12 @@
       "is_new": false
     },
     {
-      "id": "FCC ECFS:26110071197",
+      "id": "FCC ECFS:26110071178",
       "source": "FCC ECFS",
       "category": "regulatory",
       "type": "OPPOSITION TO PETITION FOR RECONSIDERATION",
-      "title": "D-Fend Solutions: OPPOSITION TO PETITION FOR RECONSIDERATION (FCC 26-74)",
-      "url": "https://www.fcc.gov/ecfs/document/26110071197/1",
+      "title": "DRONERESPONDERS: OPPOSITION TO PETITION FOR RECONSIDERATION (FCC 26-74)",
+      "url": "https://www.fcc.gov/ecfs/document/26110071178/1",
       "agency": "FCC",
       "identifier": "FCC 26-74",
       "date": "2026-08-14",
@@ -2141,12 +2141,12 @@
       "is_new": false
     },
     {
-      "id": "FCC ECFS:26110071178",
+      "id": "FCC ECFS:26110071197",
       "source": "FCC ECFS",
       "category": "regulatory",
       "type": "OPPOSITION TO PETITION FOR RECONSIDERATION",
-      "title": "DRONERESPONDERS: OPPOSITION TO PETITION FOR RECONSIDERATION (FCC 26-74)",
-      "url": "https://www.fcc.gov/ecfs/document/26110071178/1",
+      "title": "D-Fend Solutions: OPPOSITION TO PETITION FOR RECONSIDERATION (FCC 26-74)",
+      "url": "https://www.fcc.gov/ecfs/document/26110071197/1",
       "agency": "FCC",
       "identifier": "FCC 26-74",
       "date": "2026-08-14",
@@ -2295,15 +2295,15 @@
         "docket_total_comments": 1669
       },
       "first_seen": "2026-09-22T16:27:18.348508+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
-      "id": "FCC ECFS:26110069389",
+      "id": "FCC ECFS:26110069388",
       "source": "FCC ECFS",
       "category": "regulatory",
       "type": "PETITION",
       "title": "CTIA: PETITION (FCC 26-74)",
-      "url": "https://www.fcc.gov/ecfs/document/26110069389/1",
+      "url": "https://www.fcc.gov/ecfs/document/26110069388/1",
       "agency": "FCC",
       "identifier": "FCC 26-74",
       "date": "2026-08-04",
@@ -2323,8 +2323,8 @@
       "extra": {
         "proceeding": "26-74"
       },
-      "first_seen": "2026-09-22T03:43:52.430962+00:00",
-      "is_new": false
+      "first_seen": "2026-09-22T20:58:34.975305+00:00",
+      "is_new": true
     },
     {
       "id": "FCC ECFS:26110069384",
