@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-21T21:46:45.831085+00:00",
-  "generated_human": "2026-09-21 21:46 UTC",
+  "generated_at": "2026-09-22T03:43:52.430962+00:00",
+  "generated_human": "2026-09-22 03:43 UTC",
   "demo": false,
   "items": [
     {
@@ -2083,12 +2083,12 @@
       "is_new": false
     },
     {
-      "id": "FCC ECFS:26110071217",
+      "id": "FCC ECFS:26110071178",
       "source": "FCC ECFS",
       "category": "regulatory",
       "type": "OPPOSITION TO PETITION FOR RECONSIDERATION",
-      "title": "Security Industry Association: OPPOSITION TO PETITION FOR RECONSIDERATION (FCC 26-74)",
-      "url": "https://www.fcc.gov/ecfs/document/26110071217/1",
+      "title": "DRONERESPONDERS: OPPOSITION TO PETITION FOR RECONSIDERATION (FCC 26-74)",
+      "url": "https://www.fcc.gov/ecfs/document/26110071178/1",
       "agency": "FCC",
       "identifier": "FCC 26-74",
       "date": "2026-08-14",
@@ -2112,12 +2112,12 @@
       "is_new": false
     },
     {
-      "id": "FCC ECFS:26110071178",
+      "id": "FCC ECFS:26110071217",
       "source": "FCC ECFS",
       "category": "regulatory",
       "type": "OPPOSITION TO PETITION FOR RECONSIDERATION",
-      "title": "DRONERESPONDERS: OPPOSITION TO PETITION FOR RECONSIDERATION (FCC 26-74)",
-      "url": "https://www.fcc.gov/ecfs/document/26110071178/1",
+      "title": "Security Industry Association: OPPOSITION TO PETITION FOR RECONSIDERATION (FCC 26-74)",
+      "url": "https://www.fcc.gov/ecfs/document/26110071217/1",
       "agency": "FCC",
       "identifier": "FCC 26-74",
       "date": "2026-08-14",
@@ -2268,17 +2268,17 @@
       "is_new": false
     },
     {
-      "id": "Regulations.gov:FAA-2026-4558-1629",
+      "id": "Regulations.gov:FAA-2026-4558-1630",
       "source": "Regulations.gov",
       "category": "regulatory",
       "type": "Comment",
-      "title": "Comment on Designation – Restrict the Operation of Unmanned Aircraft in Close Proximity  to a Fixed Site Facility: Comment from Karin L",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1629",
+      "title": "Comment on Designation – Restrict the Operation of Unmanned Aircraft in Close Proximity  to a Fixed Site Facility: Comment from American Chemistry Council",
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1630",
       "agency": "FAA",
       "identifier": "FAA-2026-4558",
       "date": "2026-08-06",
       "deadline": null,
-      "summary": "Comment from Karin L",
+      "summary": "Comment from American Chemistry Council",
       "score": 80,
       "domains": [
         "air"
@@ -2294,16 +2294,16 @@
       "extra": {
         "docket_total_comments": 1669
       },
-      "first_seen": "2026-09-21T21:46:45.831085+00:00",
+      "first_seen": "2026-09-22T03:43:52.430962+00:00",
       "is_new": true
     },
     {
-      "id": "FCC ECFS:26110069388",
+      "id": "FCC ECFS:26110069389",
       "source": "FCC ECFS",
       "category": "regulatory",
       "type": "PETITION",
       "title": "CTIA: PETITION (FCC 26-74)",
-      "url": "https://www.fcc.gov/ecfs/document/26110069388/1",
+      "url": "https://www.fcc.gov/ecfs/document/26110069389/1",
       "agency": "FCC",
       "identifier": "FCC 26-74",
       "date": "2026-08-04",
@@ -2323,8 +2323,8 @@
       "extra": {
         "proceeding": "26-74"
       },
-      "first_seen": "2026-09-21T12:12:52.757742+00:00",
-      "is_new": false
+      "first_seen": "2026-09-22T03:43:52.430962+00:00",
+      "is_new": true
     },
     {
       "id": "FCC ECFS:26110069384",
@@ -3883,34 +3883,6 @@
       "is_new": false
     },
     {
-      "id": "USAspending:693KA823F00183",
-      "source": "USAspending",
-      "category": "procurement",
-      "type": "Award",
-      "title": "CROWN INNOVATIONS, INC.: TORFP 2222 ATO MISSION SUPPORT SERVICES UAS & ADVANCED AIR MOBILITY",
-      "url": "https://www.usaspending.gov/award/CONT_AWD_693KA823F00183_6920_693KA822D00021_6920",
-      "agency": "Department of Transportation",
-      "identifier": "693KA823F00183",
-      "date": "2023-06-14",
-      "deadline": null,
-      "summary": "TORFP 2222 ATO MISSION SUPPORT SERVICES UAS & ADVANCED AIR MOBILITY",
-      "score": 34,
-      "domains": [
-        "air"
-      ],
-      "matched_terms": [
-        "uas",
-        "advanced air mobility"
-      ],
-      "watchlist": null,
-      "extra": {
-        "amount": 2639952.54,
-        "award_type": "DELIVERY ORDER"
-      },
-      "first_seen": "2026-09-19T03:37:15.310162+00:00",
-      "is_new": false
-    },
-    {
       "id": "Federal Register:2026-16628",
       "source": "Federal Register",
       "category": "regulatory",
@@ -3941,33 +3913,6 @@
       "is_new": false
     },
     {
-      "id": "USAspending:19AQMM26C0675",
-      "source": "USAspending",
-      "category": "procurement",
-      "type": "Award",
-      "title": "HYLIO INC: UAS SYSTEMS, SPARE PARTS, AND SUPPORT.",
-      "url": "https://www.usaspending.gov/award/CONT_AWD_19AQMM26C0675_1900_-NONE-_-NONE-",
-      "agency": "Department of State",
-      "identifier": "19AQMM26C0675",
-      "date": "2026-08-07",
-      "deadline": null,
-      "summary": "UAS SYSTEMS, SPARE PARTS, AND SUPPORT.",
-      "score": 30,
-      "domains": [
-        "air"
-      ],
-      "matched_terms": [
-        "uas"
-      ],
-      "watchlist": null,
-      "extra": {
-        "amount": 2800995.8,
-        "award_type": "DEFINITIVE CONTRACT"
-      },
-      "first_seen": "2026-09-18T03:37:58.828853+00:00",
-      "is_new": false
-    },
-    {
       "id": "USAspending:89233126FNA400803",
       "source": "USAspending",
       "category": "procurement",
@@ -3993,6 +3938,29 @@
       },
       "first_seen": "2026-07-31T02:54:03.245875+00:00",
       "is_new": false
+    },
+    {
+      "id": "USAspending:W900KK26FA112",
+      "source": "USAspending",
+      "category": "procurement",
+      "type": "Award",
+      "title": "KRATOS UNMANNED AERIAL SYSTEMS, INC: TO PROVIDE ACCREDITED, THREAT REPRESENTATIVE UNMANNED AERIAL TARGET SYSTEMS FOR USE IN SENSOR PRESENTATIONS OR LIVE FIRE",
+      "url": "https://www.usaspending.gov/award/CONT_AWD_W900KK26FA112_9700_W900KK23D0015_9700",
+      "agency": "Department of Defense",
+      "identifier": "W900KK26FA112",
+      "date": "2026-06-24",
+      "deadline": null,
+      "summary": "TO PROVIDE ACCREDITED, THREAT REPRESENTATIVE UNMANNED AERIAL TARGET SYSTEMS FOR USE IN SENSOR PRESENTATIONS OR LIVE FIRE TRACKING AND ENGAGEMENT FOR WEAPONS SYSTEMS TESTING.",
+      "score": 30,
+      "domains": [],
+      "matched_terms": [],
+      "watchlist": null,
+      "extra": {
+        "amount": 8310622.6,
+        "award_type": "DELIVERY ORDER"
+      },
+      "first_seen": "2026-09-22T03:43:52.430962+00:00",
+      "is_new": true
     },
     {
       "id": "USAspending:H9240226FE029",
@@ -4396,6 +4364,29 @@
       },
       "first_seen": "2026-09-17T03:49:52.858693+00:00",
       "is_new": false
+    },
+    {
+      "id": "USAspending:FA868925FB009",
+      "source": "USAspending",
+      "category": "procurement",
+      "type": "Award",
+      "title": "GENERAL ATOMICS AERONAUTICAL SYSTEMS, INC.: PLEO RETROFIT PH IV FOLLOW-ON",
+      "url": "https://www.usaspending.gov/award/CONT_AWD_FA868925FB009_9700_FA868920D2020_9700",
+      "agency": "Department of Defense",
+      "identifier": "FA868925FB009",
+      "date": "2025-09-09",
+      "deadline": null,
+      "summary": "PLEO RETROFIT PH IV FOLLOW-ON",
+      "score": 30,
+      "domains": [],
+      "matched_terms": [],
+      "watchlist": null,
+      "extra": {
+        "amount": 9989587.0,
+        "award_type": "DELIVERY ORDER"
+      },
+      "first_seen": "2026-09-22T03:43:52.430962+00:00",
+      "is_new": true
     },
     {
       "id": "USAspending:FA852725CB001",
@@ -5219,7 +5210,7 @@
       "watchlist": null,
       "extra": {},
       "first_seen": "2026-09-21T21:46:45.831085+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "Regulations.gov:FAA-2026-4798-0003",
@@ -5243,7 +5234,7 @@
       "watchlist": null,
       "extra": {},
       "first_seen": "2026-09-21T21:46:45.831085+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "Federal Register:2026-18996",
@@ -6300,7 +6291,7 @@
   ],
   "stats": {
     "total": 223,
-    "new": 3,
+    "new": 4,
     "by_category": {
       "regulatory": 149,
       "procurement": 60,
@@ -6308,7 +6299,7 @@
       "legislative": 4
     },
     "by_domain": {
-      "air": 182,
+      "air": 180,
       "supply-chain": 110,
       "spectrum": 46,
       "ground": 11,
@@ -6508,7 +6499,7 @@
   "deadlines": [
     {
       "deadline": "2026-10-27",
-      "days": 36,
+      "days": 35,
       "title": "60-Day Notice of Proposed Information Collection: Information Collection Request (ICR) for the Drone Infrastructure Inspection Grant (DIIG) Program",
       "identifier": "Docket No. DOT-OST-2026-3367",
       "category": "regulatory",
@@ -6517,7 +6508,7 @@
     },
     {
       "deadline": "2026-10-28",
-      "days": 37,
+      "days": 36,
       "title": "Agency Information Collection Activities; Proposals, Submissions, and Approvals: Information Collection Request for the Drone Infrastructure Inspection Grant Program",
       "identifier": "DOT-OST-2026-3367",
       "category": "regulatory",
@@ -6526,7 +6517,7 @@
     },
     {
       "deadline": "2026-11-02",
-      "days": 42,
+      "days": 41,
       "title": "Agency Information Collection Activities; Proposed eCollection eComments Requested; Revision of a Previously Approved Collection; Title-SAFER SKIES State, Local, Tribal, and Territorial Counter-UAS Information Collection",
       "identifier": "OMB Number 1110-0090",
       "category": "regulatory",
