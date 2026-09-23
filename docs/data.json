@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-22T20:58:34.975305+00:00",
-  "generated_human": "2026-09-22 20:58 UTC",
+  "generated_at": "2026-09-23T03:43:59.432845+00:00",
+  "generated_human": "2026-09-23 03:43 UTC",
   "demo": false,
   "items": [
     {
@@ -2083,12 +2083,12 @@
       "is_new": false
     },
     {
-      "id": "FCC ECFS:26110071217",
+      "id": "FCC ECFS:26110071178",
       "source": "FCC ECFS",
       "category": "regulatory",
       "type": "OPPOSITION TO PETITION FOR RECONSIDERATION",
-      "title": "Security Industry Association: OPPOSITION TO PETITION FOR RECONSIDERATION (FCC 26-74)",
-      "url": "https://www.fcc.gov/ecfs/document/26110071217/1",
+      "title": "DRONERESPONDERS: OPPOSITION TO PETITION FOR RECONSIDERATION (FCC 26-74)",
+      "url": "https://www.fcc.gov/ecfs/document/26110071178/1",
       "agency": "FCC",
       "identifier": "FCC 26-74",
       "date": "2026-08-14",
@@ -2112,12 +2112,12 @@
       "is_new": false
     },
     {
-      "id": "FCC ECFS:26110071178",
+      "id": "FCC ECFS:26110071217",
       "source": "FCC ECFS",
       "category": "regulatory",
       "type": "OPPOSITION TO PETITION FOR RECONSIDERATION",
-      "title": "DRONERESPONDERS: OPPOSITION TO PETITION FOR RECONSIDERATION (FCC 26-74)",
-      "url": "https://www.fcc.gov/ecfs/document/26110071178/1",
+      "title": "Security Industry Association: OPPOSITION TO PETITION FOR RECONSIDERATION (FCC 26-74)",
+      "url": "https://www.fcc.gov/ecfs/document/26110071217/1",
       "agency": "FCC",
       "identifier": "FCC 26-74",
       "date": "2026-08-14",
@@ -2268,17 +2268,17 @@
       "is_new": false
     },
     {
-      "id": "Regulations.gov:FAA-2026-4558-1630",
+      "id": "Regulations.gov:FAA-2026-4558-1629",
       "source": "Regulations.gov",
       "category": "regulatory",
       "type": "Comment",
-      "title": "Comment on Designation – Restrict the Operation of Unmanned Aircraft in Close Proximity  to a Fixed Site Facility: Comment from American Chemistry Council",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1630",
+      "title": "Comment on Designation – Restrict the Operation of Unmanned Aircraft in Close Proximity  to a Fixed Site Facility: Comment from Karin L",
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1629",
       "agency": "FAA",
       "identifier": "FAA-2026-4558",
       "date": "2026-08-06",
       "deadline": null,
-      "summary": "Comment from American Chemistry Council",
+      "summary": "Comment from Karin L",
       "score": 80,
       "domains": [
         "air"
@@ -2294,16 +2294,16 @@
       "extra": {
         "docket_total_comments": 1669
       },
-      "first_seen": "2026-09-22T16:27:18.348508+00:00",
-      "is_new": false
+      "first_seen": "2026-09-23T03:43:59.432845+00:00",
+      "is_new": true
     },
     {
-      "id": "FCC ECFS:26110069388",
+      "id": "FCC ECFS:26110069389",
       "source": "FCC ECFS",
       "category": "regulatory",
       "type": "PETITION",
       "title": "CTIA: PETITION (FCC 26-74)",
-      "url": "https://www.fcc.gov/ecfs/document/26110069388/1",
+      "url": "https://www.fcc.gov/ecfs/document/26110069389/1",
       "agency": "FCC",
       "identifier": "FCC 26-74",
       "date": "2026-08-04",
@@ -2323,7 +2323,7 @@
       "extra": {
         "proceeding": "26-74"
       },
-      "first_seen": "2026-09-22T20:58:34.975305+00:00",
+      "first_seen": "2026-09-23T03:43:59.432845+00:00",
       "is_new": true
     },
     {
@@ -3226,7 +3226,7 @@
         "label": "GN 26-74 (Unleashing American Drone Dominance)"
       },
       "extra": {
-        "amount": 9819014.35,
+        "amount": 13664726.35,
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-07-22T02:43:42.567904+00:00",
@@ -3654,6 +3654,36 @@
       "is_new": false
     },
     {
+      "id": "USAspending:70Z02325F71100013",
+      "source": "USAspending",
+      "category": "procurement",
+      "type": "Award",
+      "title": "ARETE CONSULTING LLC: SUBJECT MATTER EXPERTISE SERVICES TO ESTABLISH NEW ROBOTICS AND AUTONOMOUS SYSTEMS DOMAIN FOR \"DRONE\" AND COUNTER-UNMANN",
+      "url": "https://www.usaspending.gov/award/CONT_AWD_70Z02325F71100013_7008_47QRCA25DA145_4732",
+      "agency": "Department of Homeland Security",
+      "identifier": "70Z02325F71100013",
+      "date": "2025-09-22",
+      "deadline": null,
+      "summary": "SUBJECT MATTER EXPERTISE SERVICES TO ESTABLISH NEW ROBOTICS AND AUTONOMOUS SYSTEMS DOMAIN FOR \"DRONE\" AND COUNTER-UNMANNED AUTONOMOUS SYSTEMS.",
+      "score": 46,
+      "domains": [
+        "air",
+        "defense"
+      ],
+      "matched_terms": [
+        "drone",
+        "counter-unmanned",
+        "autonomous systems"
+      ],
+      "watchlist": null,
+      "extra": {
+        "amount": 4432225.82,
+        "award_type": "DELIVERY ORDER"
+      },
+      "first_seen": "2026-09-23T03:43:59.432845+00:00",
+      "is_new": true
+    },
+    {
       "id": "USAspending:692M1523F00178",
       "source": "USAspending",
       "category": "procurement",
@@ -3675,7 +3705,7 @@
       ],
       "watchlist": null,
       "extra": {
-        "amount": 14625206.29,
+        "amount": 17167346.83,
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
@@ -3827,34 +3857,6 @@
       "is_new": false
     },
     {
-      "id": "USAspending:693KA824F00073",
-      "source": "USAspending",
-      "category": "procurement",
-      "type": "Award",
-      "title": "LS TECHNOLOGIES LLC: TORFP 2354 - UNMANNED AIRCRAFT SYSTEMS (UAS) TRAFFIC MANAGEMENT (UTM) SYSTEMS ENGINEERING",
-      "url": "https://www.usaspending.gov/award/CONT_AWD_693KA824F00073_6920_693KA822D00027_6920",
-      "agency": "Department of Transportation",
-      "identifier": "693KA824F00073",
-      "date": "2024-01-22",
-      "deadline": null,
-      "summary": "TORFP 2354 - UNMANNED AIRCRAFT SYSTEMS (UAS) TRAFFIC MANAGEMENT (UTM) SYSTEMS ENGINEERING",
-      "score": 34,
-      "domains": [
-        "air"
-      ],
-      "matched_terms": [
-        "unmanned aircraft",
-        "uas"
-      ],
-      "watchlist": null,
-      "extra": {
-        "amount": 2804623.45,
-        "award_type": "DELIVERY ORDER"
-      },
-      "first_seen": "2026-09-18T03:37:58.828853+00:00",
-      "is_new": false
-    },
-    {
       "id": "USAspending:W31P4Q24FE001",
       "source": "USAspending",
       "category": "procurement",
@@ -3963,31 +3965,27 @@
       "is_new": false
     },
     {
-      "id": "USAspending:H9240226FE029",
+      "id": "USAspending:N0001926F1093",
       "source": "USAspending",
       "category": "procurement",
       "type": "Award",
-      "title": "THE JOHNS HOPKINS UNIVERSITY APPLIED PHYSICS LABORATORY LLC: DRONE RANGER LITE (DRL) ENGINEERING DEVELOPMENT",
-      "url": "https://www.usaspending.gov/award/CONT_AWD_H9240226FE029_9700_H9240025DE001_9700",
+      "title": "NORTHROP GRUMMAN SYSTEMS CORPORATION: MB2 AND B7 RETROFIT MATERIAL KITS AND INSTALLATIONS.",
+      "url": "https://www.usaspending.gov/award/CONT_AWD_N0001926F1093_9700_N0001925G0003_9700",
       "agency": "Department of Defense",
-      "identifier": "H9240226FE029",
-      "date": "2026-06-10",
+      "identifier": "N0001926F1093",
+      "date": "2026-06-23",
       "deadline": null,
-      "summary": "DRONE RANGER LITE (DRL) ENGINEERING DEVELOPMENT",
+      "summary": "MB2 AND B7 RETROFIT MATERIAL KITS AND INSTALLATIONS.",
       "score": 30,
-      "domains": [
-        "air"
-      ],
-      "matched_terms": [
-        "drone"
-      ],
+      "domains": [],
+      "matched_terms": [],
       "watchlist": null,
       "extra": {
-        "amount": 3000000.0,
+        "amount": 23399824.0,
         "award_type": "DELIVERY ORDER"
       },
-      "first_seen": "2026-09-18T03:37:58.828853+00:00",
-      "is_new": false
+      "first_seen": "2026-09-23T03:43:59.432845+00:00",
+      "is_new": true
     },
     {
       "id": "USAspending:SPE8EL26FJ4K6",
@@ -4439,6 +4437,33 @@
       "is_new": false
     },
     {
+      "id": "USAspending:N0016425FJ051",
+      "source": "USAspending",
+      "category": "procurement",
+      "type": "Award",
+      "title": "PLATFORM SYSTEMS, INCORPORATED: VANILLA LE-UAS",
+      "url": "https://www.usaspending.gov/award/CONT_AWD_N0016425FJ051_9700_N0016425GJR96_9700",
+      "agency": "Department of Defense",
+      "identifier": "N0016425FJ051",
+      "date": "2025-04-02",
+      "deadline": null,
+      "summary": "VANILLA LE-UAS",
+      "score": 30,
+      "domains": [
+        "air"
+      ],
+      "matched_terms": [
+        "uas"
+      ],
+      "watchlist": null,
+      "extra": {
+        "amount": 3088674.0,
+        "award_type": "DELIVERY ORDER"
+      },
+      "first_seen": "2026-09-23T03:43:59.432845+00:00",
+      "is_new": true
+    },
+    {
       "id": "USAspending:19AQMM25F0189",
       "source": "USAspending",
       "category": "procurement",
@@ -4482,29 +4507,6 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-08-28T10:02:14.632922+00:00",
-      "is_new": false
-    },
-    {
-      "id": "USAspending:19AQMM26F0930",
-      "source": "USAspending",
-      "category": "procurement",
-      "type": "Award",
-      "title": "BERRY AVIATION, INC.: INL BOGOTA COUNTERUAS - DETECT AND DEFEAT PROJECT",
-      "url": "https://www.usaspending.gov/award/CONT_AWD_19AQMM26F0930_1900_19AQMM22D0045_1900",
-      "agency": "Department of State",
-      "identifier": "19AQMM26F0930",
-      "date": "2024-09-16",
-      "deadline": null,
-      "summary": "INL BOGOTA COUNTERUAS - DETECT AND DEFEAT PROJECT",
-      "score": 30,
-      "domains": [],
-      "matched_terms": [],
-      "watchlist": null,
-      "extra": {
-        "amount": 2999721.92,
-        "award_type": "DELIVERY ORDER"
-      },
-      "first_seen": "2026-09-18T03:37:58.828853+00:00",
       "is_new": false
     },
     {
@@ -6291,7 +6293,7 @@
   ],
   "stats": {
     "total": 223,
-    "new": 1,
+    "new": 5,
     "by_category": {
       "regulatory": 149,
       "procurement": 60,
@@ -6302,8 +6304,8 @@
       "air": 180,
       "supply-chain": 110,
       "spectrum": 46,
+      "defense": 11,
       "ground": 11,
-      "defense": 10,
       "maritime": 2
     },
     "by_source": {
@@ -6499,7 +6501,7 @@
   "deadlines": [
     {
       "deadline": "2026-10-27",
-      "days": 35,
+      "days": 34,
       "title": "60-Day Notice of Proposed Information Collection: Information Collection Request (ICR) for the Drone Infrastructure Inspection Grant (DIIG) Program",
       "identifier": "Docket No. DOT-OST-2026-3367",
       "category": "regulatory",
@@ -6508,7 +6510,7 @@
     },
     {
       "deadline": "2026-10-28",
-      "days": 36,
+      "days": 35,
       "title": "Agency Information Collection Activities; Proposals, Submissions, and Approvals: Information Collection Request for the Drone Infrastructure Inspection Grant Program",
       "identifier": "DOT-OST-2026-3367",
       "category": "regulatory",
@@ -6517,7 +6519,7 @@
     },
     {
       "deadline": "2026-11-02",
-      "days": 41,
+      "days": 40,
       "title": "Agency Information Collection Activities; Proposed eCollection eComments Requested; Revision of a Previously Approved Collection; Title-SAFER SKIES State, Local, Tribal, and Territorial Counter-UAS Information Collection",
       "identifier": "OMB Number 1110-0090",
       "category": "regulatory",
