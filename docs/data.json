@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-23T10:56:33.603299+00:00",
-  "generated_human": "2026-09-23 10:56 UTC",
+  "generated_at": "2026-09-23T16:18:58.171084+00:00",
+  "generated_human": "2026-09-23 16:18 UTC",
   "demo": false,
   "items": [
     {
@@ -43,6 +43,35 @@
         ]
       },
       "first_seen": "2026-07-03T10:17:16.264437+00:00",
+      "is_new": false
+    },
+    {
+      "id": "Congress.gov:119-s-4429",
+      "source": "Congress.gov",
+      "category": "legislative",
+      "type": "Bill",
+      "title": "S. 4429: Connected Vehicle Security Act of 2026",
+      "url": "https://www.congress.gov/bill/119th-congress/senate-bill/4429",
+      "agency": "Congress",
+      "identifier": "S. 4429",
+      "date": "2026-09-22",
+      "deadline": null,
+      "summary": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 671.",
+      "score": 80,
+      "domains": [
+        "ground",
+        "supply-chain"
+      ],
+      "matched_terms": [
+        "connected vehicle",
+        "connected vehicle security act"
+      ],
+      "watchlist": {
+        "key": "connected-vehicle",
+        "label": "S. 4429 Connected Vehicle Security Act"
+      },
+      "extra": {},
+      "first_seen": "2026-08-08T06:54:40.460991+00:00",
       "is_new": false
     },
     {
@@ -2295,7 +2324,7 @@
         "docket_total_comments": 1669
       },
       "first_seen": "2026-09-23T10:56:33.603299+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:26110069388",
@@ -2324,7 +2353,7 @@
         "proceeding": "26-74"
       },
       "first_seen": "2026-09-23T10:56:33.603299+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:26110069384",
@@ -2422,35 +2451,6 @@
         "proceeding": "26-74"
       },
       "first_seen": "2026-07-28T19:25:57.892287+00:00",
-      "is_new": false
-    },
-    {
-      "id": "Congress.gov:119-s-4429",
-      "source": "Congress.gov",
-      "category": "legislative",
-      "type": "Bill",
-      "title": "S. 4429: Connected Vehicle Security Act of 2026",
-      "url": "https://www.congress.gov/bill/119th-congress/senate-bill/4429",
-      "agency": "Congress",
-      "identifier": "S. 4429",
-      "date": "2026-07-22",
-      "deadline": null,
-      "summary": "Committee on Commerce, Science, and Transportation. Ordered to be reported with an amendment in the nature of a substitute favorably.",
-      "score": 80,
-      "domains": [
-        "ground",
-        "supply-chain"
-      ],
-      "matched_terms": [
-        "connected vehicle",
-        "connected vehicle security act"
-      ],
-      "watchlist": {
-        "key": "connected-vehicle",
-        "label": "S. 4429 Connected Vehicle Security Act"
-      },
-      "extra": {},
-      "first_seen": "2026-08-08T06:54:40.460991+00:00",
       "is_new": false
     },
     {
@@ -5191,6 +5191,54 @@
       "is_new": false
     },
     {
+      "id": "Regulations.gov:FAA-2026-12314-0001",
+      "source": "Regulations.gov",
+      "category": "regulatory",
+      "type": "Document",
+      "title": "Ohio Drone Aerial Application LLC - Petition",
+      "url": "https://www.regulations.gov/document/FAA-2026-12314-0001",
+      "agency": "FAA",
+      "identifier": "FAA-2026-12314",
+      "date": "2026-09-23",
+      "deadline": null,
+      "summary": "Ohio Drone Aerial Application LLC - Petition",
+      "score": 20,
+      "domains": [
+        "air"
+      ],
+      "matched_terms": [
+        "drone"
+      ],
+      "watchlist": null,
+      "extra": {},
+      "first_seen": "2026-09-23T16:18:58.171084+00:00",
+      "is_new": true
+    },
+    {
+      "id": "Regulations.gov:FAA-2024-1961-0003",
+      "source": "Regulations.gov",
+      "category": "regulatory",
+      "type": "Document",
+      "title": "OHIO DRONE AERIAL APPLICATION LLC - Amendment",
+      "url": "https://www.regulations.gov/document/FAA-2024-1961-0003",
+      "agency": "FAA",
+      "identifier": "FAA-2024-1961",
+      "date": "2026-09-23",
+      "deadline": null,
+      "summary": "OHIO DRONE AERIAL APPLICATION LLC - Amendment",
+      "score": 20,
+      "domains": [
+        "air"
+      ],
+      "matched_terms": [
+        "drone"
+      ],
+      "watchlist": null,
+      "extra": {},
+      "first_seen": "2026-09-23T16:18:58.171084+00:00",
+      "is_new": true
+    },
+    {
       "id": "Regulations.gov:FAA-2024-1075-0004",
       "source": "Regulations.gov",
       "category": "regulatory",
@@ -5883,54 +5931,6 @@
       "is_new": false
     },
     {
-      "id": "Regulations.gov:FAA-2026-10858-0001",
-      "source": "Regulations.gov",
-      "category": "regulatory",
-      "type": "Document",
-      "title": "Lang's Drone Spray and Seed LLC - Petition",
-      "url": "https://www.regulations.gov/document/FAA-2026-10858-0001",
-      "agency": "FAA",
-      "identifier": "FAA-2026-10858",
-      "date": "2026-08-28",
-      "deadline": null,
-      "summary": "Lang's Drone Spray and Seed LLC - Petition",
-      "score": 20,
-      "domains": [
-        "air"
-      ],
-      "matched_terms": [
-        "drone"
-      ],
-      "watchlist": null,
-      "extra": {},
-      "first_seen": "2026-08-28T21:47:14.838038+00:00",
-      "is_new": false
-    },
-    {
-      "id": "Regulations.gov:BIS_FRDOC_0001-0722",
-      "source": "Regulations.gov",
-      "category": "regulatory",
-      "type": "Final Rule",
-      "title": "Streamlining Export Controls for Drone Exports",
-      "url": "https://www.regulations.gov/document/BIS_FRDOC_0001-0722",
-      "agency": "BIS",
-      "identifier": "BIS_FRDOC_0001",
-      "date": "2026-08-28",
-      "deadline": null,
-      "summary": "Streamlining Export Controls for Drone Exports",
-      "score": 20,
-      "domains": [
-        "air"
-      ],
-      "matched_terms": [
-        "drone"
-      ],
-      "watchlist": null,
-      "extra": {},
-      "first_seen": "2026-08-28T21:47:14.838038+00:00",
-      "is_new": false
-    },
-    {
       "id": "Federal Register:2026-17375",
       "source": "Federal Register",
       "category": "regulatory",
@@ -6458,7 +6458,7 @@
       ],
       "deadline": null,
       "count": 1,
-      "latest": "2026-07-22"
+      "latest": "2026-09-22"
     },
     {
       "key": "ustr-301",
