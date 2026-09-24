@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-23T21:13:53.119821+00:00",
-  "generated_human": "2026-09-23 21:13 UTC",
+  "generated_at": "2026-09-24T03:33:52.286865+00:00",
+  "generated_human": "2026-09-24 03:33 UTC",
   "demo": false,
   "items": [
     {
@@ -2327,12 +2327,12 @@
       "is_new": false
     },
     {
-      "id": "FCC ECFS:26110069388",
+      "id": "FCC ECFS:26110069389",
       "source": "FCC ECFS",
       "category": "regulatory",
       "type": "PETITION",
       "title": "CTIA: PETITION (FCC 26-74)",
-      "url": "https://www.fcc.gov/ecfs/document/26110069388/1",
+      "url": "https://www.fcc.gov/ecfs/document/26110069389/1",
       "agency": "FCC",
       "identifier": "FCC 26-74",
       "date": "2026-08-04",
@@ -2352,8 +2352,8 @@
       "extra": {
         "proceeding": "26-74"
       },
-      "first_seen": "2026-09-23T10:56:33.603299+00:00",
-      "is_new": false
+      "first_seen": "2026-09-24T03:33:52.286865+00:00",
+      "is_new": true
     },
     {
       "id": "FCC ECFS:26110069384",
@@ -3878,7 +3878,7 @@
       ],
       "watchlist": null,
       "extra": {
-        "amount": 41399511.38,
+        "amount": 41814503.09,
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-08-22T06:41:52.722649+00:00",
@@ -3988,6 +3988,33 @@
       "is_new": false
     },
     {
+      "id": "USAspending:H9240226FE029",
+      "source": "USAspending",
+      "category": "procurement",
+      "type": "Award",
+      "title": "THE JOHNS HOPKINS UNIVERSITY APPLIED PHYSICS LABORATORY LLC: DRONE RANGER LITE (DRL) ENGINEERING DEVELOPMENT",
+      "url": "https://www.usaspending.gov/award/CONT_AWD_H9240226FE029_9700_H9240025DE001_9700",
+      "agency": "Department of Defense",
+      "identifier": "H9240226FE029",
+      "date": "2026-06-10",
+      "deadline": null,
+      "summary": "DRONE RANGER LITE (DRL) ENGINEERING DEVELOPMENT",
+      "score": 30,
+      "domains": [
+        "air"
+      ],
+      "matched_terms": [
+        "drone"
+      ],
+      "watchlist": null,
+      "extra": {
+        "amount": 3000000.0,
+        "award_type": "DELIVERY ORDER"
+      },
+      "first_seen": "2026-09-24T03:33:52.286865+00:00",
+      "is_new": true
+    },
+    {
       "id": "USAspending:SPE8EL26FJ4K6",
       "source": "USAspending",
       "category": "procurement",
@@ -4065,29 +4092,6 @@
       "is_new": false
     },
     {
-      "id": "USAspending:FA868926FB001",
-      "source": "USAspending",
-      "category": "procurement",
-      "type": "Award",
-      "title": "GENERAL ATOMICS AERONAUTICAL SYSTEMS, INC.: QATAR MQ-9B GREEN AC PURCHASE",
-      "url": "https://www.usaspending.gov/award/CONT_AWD_FA868926FB001_9700_FA868925DB001_9700",
-      "agency": "Department of Defense",
-      "identifier": "FA868926FB001",
-      "date": "2026-05-26",
-      "deadline": null,
-      "summary": "QATAR MQ-9B GREEN AC PURCHASE",
-      "score": 30,
-      "domains": [],
-      "matched_terms": [],
-      "watchlist": null,
-      "extra": {
-        "amount": 81930834.59,
-        "award_type": "DELIVERY ORDER"
-      },
-      "first_seen": "2026-08-26T06:51:19.107277+00:00",
-      "is_new": false
-    },
-    {
       "id": "USAspending:W15P7T26F0130",
       "source": "USAspending",
       "category": "procurement",
@@ -4150,7 +4154,7 @@
       "matched_terms": [],
       "watchlist": null,
       "extra": {
-        "amount": 126270632.93,
+        "amount": 126415689.93,
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-09-09T03:33:04.270117+00:00",
@@ -6187,72 +6191,14 @@
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
       "is_new": false
-    },
-    {
-      "id": "Federal Register:2026-10394",
-      "source": "Federal Register",
-      "category": "regulatory",
-      "type": "Final Rule",
-      "title": "Safety Zone; Lake Michigan, Milwaukee, WI",
-      "url": "https://www.federalregister.gov/documents/2026/05/26/2026-10394/safety-zone-lake-michigan-milwaukee-wi",
-      "agency": "Homeland Security Department, Coast Guard",
-      "identifier": "Docket Number USCG-2026-0604",
-      "date": "2026-05-26",
-      "deadline": null,
-      "summary": "The Coast Guard is establishing a temporary safety zone for certain waters of the Lake Michigan near Milwaukee, WI. This action is intended to protect personnel, vessels, and the marine environment from potential hazards created by a drone display. Entry of vessels or persons into this zone is prohibited unless specifically authorized by the Captain of the Port, Sector Lake Michigan, or their designated representative.",
-      "score": 20,
-      "domains": [
-        "air"
-      ],
-      "matched_terms": [
-        "drone"
-      ],
-      "watchlist": null,
-      "extra": {
-        "comment_url": null,
-        "dockets": [
-          "Docket Number USCG-2026-0604"
-        ]
-      },
-      "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": false
-    },
-    {
-      "id": "Federal Register:2026-10393",
-      "source": "Federal Register",
-      "category": "regulatory",
-      "type": "Final Rule",
-      "title": "Safety Zones; Annual Events Requiring Safety Zones in the Captain of the Port Lake Michigan Zone",
-      "url": "https://www.federalregister.gov/documents/2026/05/26/2026-10393/safety-zones-annual-events-requiring-safety-zones-in-the-captain-of-the-port-lake-michigan-zone",
-      "agency": "Homeland Security Department, Coast Guard",
-      "identifier": "Docket No. USCG-2026-0599",
-      "date": "2026-05-26",
-      "deadline": null,
-      "summary": "The Coast Guard will enforce the safety zone for Events at Lakeshore State Park, Milwaukee, WI, on a portion of Lake Michigan in Milwaukee, WI, for a series of dates in June, July, and August 2026. This action is intended to protect personnel, vessels, and the marine environment from potential hazards created by multiple fireworks and drone shows. During the enforcement period listed below, entry into, transiting, or anchoring within the safety zone is prohibited unless authorized by the Captain of the Port Lake Michigan or a designated representative.",
-      "score": 20,
-      "domains": [
-        "air"
-      ],
-      "matched_terms": [
-        "drone"
-      ],
-      "watchlist": null,
-      "extra": {
-        "comment_url": null,
-        "dockets": [
-          "Docket No. USCG-2026-0599"
-        ]
-      },
-      "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": false
     }
   ],
   "sources": [
     {
       "name": "Federal Register",
       "status": "ok",
-      "detail": "27 kept",
-      "count": 27
+      "detail": "25 kept",
+      "count": 25
     },
     {
       "name": "Regulations.gov",
@@ -6292,16 +6238,16 @@
     }
   ],
   "stats": {
-    "total": 223,
-    "new": 0,
+    "total": 221,
+    "new": 2,
     "by_category": {
-      "regulatory": 149,
+      "regulatory": 147,
       "procurement": 60,
       "litigation": 10,
       "legislative": 4
     },
     "by_domain": {
-      "air": 180,
+      "air": 179,
       "supply-chain": 110,
       "spectrum": 46,
       "defense": 11,
@@ -6312,7 +6258,7 @@
       "FCC ECFS": 90,
       "USAspending": 60,
       "Regulations.gov": 33,
-      "Federal Register": 26,
+      "Federal Register": 24,
       "CourtListener": 10,
       "Congress.gov": 4
     }
@@ -6501,7 +6447,7 @@
   "deadlines": [
     {
       "deadline": "2026-10-27",
-      "days": 34,
+      "days": 33,
       "title": "60-Day Notice of Proposed Information Collection: Information Collection Request (ICR) for the Drone Infrastructure Inspection Grant (DIIG) Program",
       "identifier": "Docket No. DOT-OST-2026-3367",
       "category": "regulatory",
@@ -6510,7 +6456,7 @@
     },
     {
       "deadline": "2026-10-28",
-      "days": 35,
+      "days": 34,
       "title": "Agency Information Collection Activities; Proposals, Submissions, and Approvals: Information Collection Request for the Drone Infrastructure Inspection Grant Program",
       "identifier": "DOT-OST-2026-3367",
       "category": "regulatory",
@@ -6519,7 +6465,7 @@
     },
     {
       "deadline": "2026-11-02",
-      "days": 40,
+      "days": 39,
       "title": "Agency Information Collection Activities; Proposed eCollection eComments Requested; Revision of a Previously Approved Collection; Title-SAFER SKIES State, Local, Tribal, and Territorial Counter-UAS Information Collection",
       "identifier": "OMB Number 1110-0090",
       "category": "regulatory",
