@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-24T03:33:52.286865+00:00",
-  "generated_human": "2026-09-24 03:33 UTC",
+  "generated_at": "2026-09-24T11:16:10.574534+00:00",
+  "generated_human": "2026-09-24 11:16 UTC",
   "demo": false,
   "items": [
     {
@@ -2297,17 +2297,17 @@
       "is_new": false
     },
     {
-      "id": "Regulations.gov:FAA-2026-4558-1630",
+      "id": "Regulations.gov:FAA-2026-4558-1629",
       "source": "Regulations.gov",
       "category": "regulatory",
       "type": "Comment",
-      "title": "Comment on Designation – Restrict the Operation of Unmanned Aircraft in Close Proximity  to a Fixed Site Facility: Comment from American Chemistry Council",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1630",
+      "title": "Comment on Designation – Restrict the Operation of Unmanned Aircraft in Close Proximity  to a Fixed Site Facility: Comment from Karin L",
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1629",
       "agency": "FAA",
       "identifier": "FAA-2026-4558",
       "date": "2026-08-06",
       "deadline": null,
-      "summary": "Comment from American Chemistry Council",
+      "summary": "Comment from Karin L",
       "score": 80,
       "domains": [
         "air"
@@ -2323,8 +2323,8 @@
       "extra": {
         "docket_total_comments": 1669
       },
-      "first_seen": "2026-09-23T10:56:33.603299+00:00",
-      "is_new": false
+      "first_seen": "2026-09-24T11:16:10.574534+00:00",
+      "is_new": true
     },
     {
       "id": "FCC ECFS:26110069389",
@@ -2353,7 +2353,7 @@
         "proceeding": "26-74"
       },
       "first_seen": "2026-09-24T03:33:52.286865+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:26110069384",
@@ -4012,7 +4012,7 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-09-24T03:33:52.286865+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:SPE8EL26FJ4K6",
@@ -6239,7 +6239,7 @@
   ],
   "stats": {
     "total": 221,
-    "new": 2,
+    "new": 1,
     "by_category": {
       "regulatory": 147,
       "procurement": 60,
