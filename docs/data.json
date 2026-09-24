@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-24T11:16:10.574534+00:00",
-  "generated_human": "2026-09-24 11:16 UTC",
+  "generated_at": "2026-09-24T16:40:00.791852+00:00",
+  "generated_human": "2026-09-24 16:40 UTC",
   "demo": false,
   "items": [
     {
@@ -2112,35 +2112,6 @@
       "is_new": false
     },
     {
-      "id": "FCC ECFS:26110071178",
-      "source": "FCC ECFS",
-      "category": "regulatory",
-      "type": "OPPOSITION TO PETITION FOR RECONSIDERATION",
-      "title": "DRONERESPONDERS: OPPOSITION TO PETITION FOR RECONSIDERATION (FCC 26-74)",
-      "url": "https://www.fcc.gov/ecfs/document/26110071178/1",
-      "agency": "FCC",
-      "identifier": "FCC 26-74",
-      "date": "2026-08-14",
-      "deadline": null,
-      "summary": "",
-      "score": 80,
-      "domains": [
-        "air",
-        "spectrum",
-        "supply-chain"
-      ],
-      "matched_terms": [],
-      "watchlist": {
-        "key": "gn-26-74",
-        "label": "GN 26-74 (Unleashing American Drone Dominance)"
-      },
-      "extra": {
-        "proceeding": "26-74"
-      },
-      "first_seen": "2026-08-14T18:55:22.284701+00:00",
-      "is_new": false
-    },
-    {
       "id": "FCC ECFS:26110071217",
       "source": "FCC ECFS",
       "category": "regulatory",
@@ -2176,6 +2147,35 @@
       "type": "OPPOSITION TO PETITION FOR RECONSIDERATION",
       "title": "D-Fend Solutions: OPPOSITION TO PETITION FOR RECONSIDERATION (FCC 26-74)",
       "url": "https://www.fcc.gov/ecfs/document/26110071197/1",
+      "agency": "FCC",
+      "identifier": "FCC 26-74",
+      "date": "2026-08-14",
+      "deadline": null,
+      "summary": "",
+      "score": 80,
+      "domains": [
+        "air",
+        "spectrum",
+        "supply-chain"
+      ],
+      "matched_terms": [],
+      "watchlist": {
+        "key": "gn-26-74",
+        "label": "GN 26-74 (Unleashing American Drone Dominance)"
+      },
+      "extra": {
+        "proceeding": "26-74"
+      },
+      "first_seen": "2026-08-14T18:55:22.284701+00:00",
+      "is_new": false
+    },
+    {
+      "id": "FCC ECFS:26110071178",
+      "source": "FCC ECFS",
+      "category": "regulatory",
+      "type": "OPPOSITION TO PETITION FOR RECONSIDERATION",
+      "title": "DRONERESPONDERS: OPPOSITION TO PETITION FOR RECONSIDERATION (FCC 26-74)",
+      "url": "https://www.fcc.gov/ecfs/document/26110071178/1",
       "agency": "FCC",
       "identifier": "FCC 26-74",
       "date": "2026-08-14",
@@ -2324,7 +2324,7 @@
         "docket_total_comments": 1669
       },
       "first_seen": "2026-09-24T11:16:10.574534+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:26110069389",
@@ -2485,35 +2485,6 @@
       "is_new": false
     },
     {
-      "id": "FCC ECFS:107022321324871",
-      "source": "FCC ECFS",
-      "category": "regulatory",
-      "type": "OTHER",
-      "title": "Wireless Telecommunications Bureau: OTHER (FCC 26-74)",
-      "url": "https://docs.fcc.gov/public/attachments/DA-26-654A1.pdf",
-      "agency": "FCC",
-      "identifier": "FCC 26-74",
-      "date": "2026-07-02",
-      "deadline": null,
-      "summary": "",
-      "score": 80,
-      "domains": [
-        "air",
-        "spectrum",
-        "supply-chain"
-      ],
-      "matched_terms": [],
-      "watchlist": {
-        "key": "gn-26-74",
-        "label": "GN 26-74 (Unleashing American Drone Dominance)"
-      },
-      "extra": {
-        "proceeding": "26-74"
-      },
-      "first_seen": "2026-08-18T06:43:25.448189+00:00",
-      "is_new": false
-    },
-    {
       "id": "FCC ECFS:10702055201256",
       "source": "FCC ECFS",
       "category": "regulatory",
@@ -2540,6 +2511,35 @@
         "proceeding": "26-74"
       },
       "first_seen": "2026-07-02T18:19:03.065344+00:00",
+      "is_new": false
+    },
+    {
+      "id": "FCC ECFS:107022321324871",
+      "source": "FCC ECFS",
+      "category": "regulatory",
+      "type": "OTHER",
+      "title": "Wireless Telecommunications Bureau: OTHER (FCC 26-74)",
+      "url": "https://docs.fcc.gov/public/attachments/DA-26-654A1.pdf",
+      "agency": "FCC",
+      "identifier": "FCC 26-74",
+      "date": "2026-07-02",
+      "deadline": null,
+      "summary": "",
+      "score": 80,
+      "domains": [
+        "air",
+        "spectrum",
+        "supply-chain"
+      ],
+      "matched_terms": [],
+      "watchlist": {
+        "key": "gn-26-74",
+        "label": "GN 26-74 (Unleashing American Drone Dominance)"
+      },
+      "extra": {
+        "proceeding": "26-74"
+      },
+      "first_seen": "2026-08-18T06:43:25.448189+00:00",
       "is_new": false
     },
     {
@@ -5195,17 +5195,17 @@
       "is_new": false
     },
     {
-      "id": "Regulations.gov:FAA-2026-12314-0001",
+      "id": "Regulations.gov:FAA-2024-1961-0004",
       "source": "Regulations.gov",
       "category": "regulatory",
       "type": "Document",
-      "title": "Ohio Drone Aerial Application LLC - Petition",
-      "url": "https://www.regulations.gov/document/FAA-2026-12314-0001",
+      "title": "Ohio Drone Aerial Application LLC - Request for Extension",
+      "url": "https://www.regulations.gov/document/FAA-2024-1961-0004",
       "agency": "FAA",
-      "identifier": "FAA-2026-12314",
-      "date": "2026-09-23",
+      "identifier": "FAA-2024-1961",
+      "date": "2026-09-24",
       "deadline": null,
-      "summary": "Ohio Drone Aerial Application LLC - Petition",
+      "summary": "Ohio Drone Aerial Application LLC - Request for Extension",
       "score": 20,
       "domains": [
         "air"
@@ -5215,8 +5215,8 @@
       ],
       "watchlist": null,
       "extra": {},
-      "first_seen": "2026-09-23T16:18:58.171084+00:00",
-      "is_new": false
+      "first_seen": "2026-09-24T16:40:00.791852+00:00",
+      "is_new": true
     },
     {
       "id": "Regulations.gov:FAA-2024-1961-0003",
@@ -5230,6 +5230,30 @@
       "date": "2026-09-23",
       "deadline": null,
       "summary": "OHIO DRONE AERIAL APPLICATION LLC - Amendment",
+      "score": 20,
+      "domains": [
+        "air"
+      ],
+      "matched_terms": [
+        "drone"
+      ],
+      "watchlist": null,
+      "extra": {},
+      "first_seen": "2026-09-23T16:18:58.171084+00:00",
+      "is_new": false
+    },
+    {
+      "id": "Regulations.gov:FAA-2026-12314-0001",
+      "source": "Regulations.gov",
+      "category": "regulatory",
+      "type": "Document",
+      "title": "Ohio Drone Aerial Application LLC - Petition",
+      "url": "https://www.regulations.gov/document/FAA-2026-12314-0001",
+      "agency": "FAA",
+      "identifier": "FAA-2026-12314",
+      "date": "2026-09-23",
+      "deadline": null,
+      "summary": "Ohio Drone Aerial Application LLC - Petition",
       "score": 20,
       "domains": [
         "air"
@@ -5887,54 +5911,6 @@
       "is_new": false
     },
     {
-      "id": "Regulations.gov:FAA-2026-4726-0003",
-      "source": "Regulations.gov",
-      "category": "regulatory",
-      "type": "Document",
-      "title": "Archon Drone Services LLC - Response",
-      "url": "https://www.regulations.gov/document/FAA-2026-4726-0003",
-      "agency": "FAA",
-      "identifier": "FAA-2026-4726",
-      "date": "2026-08-28",
-      "deadline": null,
-      "summary": "Archon Drone Services LLC - Response",
-      "score": 20,
-      "domains": [
-        "air"
-      ],
-      "matched_terms": [
-        "drone"
-      ],
-      "watchlist": null,
-      "extra": {},
-      "first_seen": "2026-08-28T21:47:14.838038+00:00",
-      "is_new": false
-    },
-    {
-      "id": "Regulations.gov:FAA-2023-0727-0008",
-      "source": "Regulations.gov",
-      "category": "regulatory",
-      "type": "Document",
-      "title": "Southern Drone OPS - Amendment",
-      "url": "https://www.regulations.gov/document/FAA-2023-0727-0008",
-      "agency": "FAA",
-      "identifier": "FAA-2023-0727",
-      "date": "2026-08-28",
-      "deadline": null,
-      "summary": "Southern Drone OPS - Amendment",
-      "score": 20,
-      "domains": [
-        "air"
-      ],
-      "matched_terms": [
-        "drone"
-      ],
-      "watchlist": null,
-      "extra": {},
-      "first_seen": "2026-08-28T21:47:14.838038+00:00",
-      "is_new": false
-    },
-    {
       "id": "Federal Register:2026-17375",
       "source": "Federal Register",
       "category": "regulatory",
@@ -6203,8 +6179,8 @@
     {
       "name": "Regulations.gov",
       "status": "ok",
-      "detail": "45 kept",
-      "count": 45
+      "detail": "44 kept",
+      "count": 44
     },
     {
       "name": "FCC ECFS",
@@ -6238,16 +6214,16 @@
     }
   ],
   "stats": {
-    "total": 221,
+    "total": 220,
     "new": 1,
     "by_category": {
-      "regulatory": 147,
+      "regulatory": 146,
       "procurement": 60,
       "litigation": 10,
       "legislative": 4
     },
     "by_domain": {
-      "air": 179,
+      "air": 178,
       "supply-chain": 110,
       "spectrum": 46,
       "defense": 11,
@@ -6257,7 +6233,7 @@
     "by_source": {
       "FCC ECFS": 90,
       "USAspending": 60,
-      "Regulations.gov": 33,
+      "Regulations.gov": 32,
       "Federal Register": 24,
       "CourtListener": 10,
       "Congress.gov": 4
