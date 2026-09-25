@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-24T21:14:37.697618+00:00",
-  "generated_human": "2026-09-24 21:14 UTC",
+  "generated_at": "2026-09-25T03:51:34.085772+00:00",
+  "generated_human": "2026-09-25 03:51 UTC",
   "demo": false,
   "items": [
     {
@@ -2324,7 +2324,7 @@
         "docket_total_comments": 1669
       },
       "first_seen": "2026-09-24T21:14:37.697618+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:26110069389",
@@ -6215,7 +6215,7 @@
   ],
   "stats": {
     "total": 220,
-    "new": 1,
+    "new": 0,
     "by_category": {
       "regulatory": 146,
       "procurement": 60,
@@ -6423,7 +6423,7 @@
   "deadlines": [
     {
       "deadline": "2026-10-27",
-      "days": 33,
+      "days": 32,
       "title": "60-Day Notice of Proposed Information Collection: Information Collection Request (ICR) for the Drone Infrastructure Inspection Grant (DIIG) Program",
       "identifier": "Docket No. DOT-OST-2026-3367",
       "category": "regulatory",
@@ -6432,7 +6432,7 @@
     },
     {
       "deadline": "2026-10-28",
-      "days": 34,
+      "days": 33,
       "title": "Agency Information Collection Activities; Proposals, Submissions, and Approvals: Information Collection Request for the Drone Infrastructure Inspection Grant Program",
       "identifier": "DOT-OST-2026-3367",
       "category": "regulatory",
@@ -6441,7 +6441,7 @@
     },
     {
       "deadline": "2026-11-02",
-      "days": 39,
+      "days": 38,
       "title": "Agency Information Collection Activities; Proposed eCollection eComments Requested; Revision of a Previously Approved Collection; Title-SAFER SKIES State, Local, Tribal, and Territorial Counter-UAS Information Collection",
       "identifier": "OMB Number 1110-0090",
       "category": "regulatory",
