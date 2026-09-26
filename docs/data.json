@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-25T21:12:26.016236+00:00",
-  "generated_human": "2026-09-25 21:12 UTC",
+  "generated_at": "2026-09-26T03:56:32.861219+00:00",
+  "generated_human": "2026-09-26 03:56 UTC",
   "demo": false,
   "items": [
     {
@@ -2324,7 +2324,7 @@
         "docket_total_comments": 1669
       },
       "first_seen": "2026-09-25T21:12:26.016236+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:26110069389",
@@ -2353,7 +2353,7 @@
         "proceeding": "26-74"
       },
       "first_seen": "2026-09-25T21:12:26.016236+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:26110069384",
@@ -3988,33 +3988,6 @@
       "is_new": false
     },
     {
-      "id": "USAspending:H9240226FE029",
-      "source": "USAspending",
-      "category": "procurement",
-      "type": "Award",
-      "title": "THE JOHNS HOPKINS UNIVERSITY APPLIED PHYSICS LABORATORY LLC: DRONE RANGER LITE (DRL) ENGINEERING DEVELOPMENT",
-      "url": "https://www.usaspending.gov/award/CONT_AWD_H9240226FE029_9700_H9240025DE001_9700",
-      "agency": "Department of Defense",
-      "identifier": "H9240226FE029",
-      "date": "2026-06-10",
-      "deadline": null,
-      "summary": "DRONE RANGER LITE (DRL) ENGINEERING DEVELOPMENT",
-      "score": 30,
-      "domains": [
-        "air"
-      ],
-      "matched_terms": [
-        "drone"
-      ],
-      "watchlist": null,
-      "extra": {
-        "amount": 3000000.0,
-        "award_type": "DELIVERY ORDER"
-      },
-      "first_seen": "2026-09-24T03:33:52.286865+00:00",
-      "is_new": false
-    },
-    {
       "id": "USAspending:SPE8EL26FJ4K6",
       "source": "USAspending",
       "category": "procurement",
@@ -4322,6 +4295,29 @@
       "is_new": false
     },
     {
+      "id": "USAspending:N0001925F2571",
+      "source": "USAspending",
+      "category": "procurement",
+      "type": "Award",
+      "title": "INSITU, INC.: THE PURPOSE OF THIS TASK ORDER IS TO PROCURE EQUIPMENT AND SERVICES FOR FMS CASE PB-P-LFI TO SUPPORT THE ESTABLISHMENT O",
+      "url": "https://www.usaspending.gov/award/CONT_AWD_N0001925F2571_9700_N0001922D0038_9700",
+      "agency": "Department of Defense",
+      "identifier": "N0001925F2571",
+      "date": "2026-01-01",
+      "deadline": null,
+      "summary": "THE PURPOSE OF THIS TASK ORDER IS TO PROCURE EQUIPMENT AND SERVICES FOR FMS CASE PB-P-LFI TO SUPPORT THE ESTABLISHMENT OF A SECOND LAND SITE.",
+      "score": 30,
+      "domains": [],
+      "matched_terms": [],
+      "watchlist": null,
+      "extra": {
+        "amount": 5793516.07,
+        "award_type": "DELIVERY ORDER"
+      },
+      "first_seen": "2026-09-26T03:56:32.861219+00:00",
+      "is_new": true
+    },
+    {
       "id": "USAspending:89233126FNA400748",
       "source": "USAspending",
       "category": "procurement",
@@ -4418,56 +4414,6 @@
       "is_new": false
     },
     {
-      "id": "USAspending:W900KK25FA087",
-      "source": "USAspending",
-      "category": "procurement",
-      "type": "Award",
-      "title": "GRIFFON AEROSPACE, INC.: DELIVERY ORDER 58 UNDER THE AIR DEFENSE ARTILLERY TARGETS II (ADA-T II) INDEFINITE DELIVERY/INDEFINITE QUANTITY (IDIQ) C",
-      "url": "https://www.usaspending.gov/award/CONT_AWD_W900KK25FA087_9700_W900KK22D0010_9700",
-      "agency": "Department of Defense",
-      "identifier": "W900KK25FA087",
-      "date": "2025-06-03",
-      "deadline": null,
-      "summary": "DELIVERY ORDER 58 UNDER THE AIR DEFENSE ARTILLERY TARGETS II (ADA-T II) INDEFINITE DELIVERY/INDEFINITE QUANTITY (IDIQ) CONTRACT W900KK-22-D-0010 FOR ENGINEERING SERVICES, SUB-ESM 03-10 AND 03-13.",
-      "score": 30,
-      "domains": [],
-      "matched_terms": [],
-      "watchlist": null,
-      "extra": {
-        "amount": 3064152.72,
-        "award_type": "DELIVERY ORDER"
-      },
-      "first_seen": "2026-09-13T03:39:33.618590+00:00",
-      "is_new": false
-    },
-    {
-      "id": "USAspending:N0016425FJ051",
-      "source": "USAspending",
-      "category": "procurement",
-      "type": "Award",
-      "title": "PLATFORM SYSTEMS, INCORPORATED: VANILLA LE-UAS",
-      "url": "https://www.usaspending.gov/award/CONT_AWD_N0016425FJ051_9700_N0016425GJR96_9700",
-      "agency": "Department of Defense",
-      "identifier": "N0016425FJ051",
-      "date": "2025-04-02",
-      "deadline": null,
-      "summary": "VANILLA LE-UAS",
-      "score": 30,
-      "domains": [
-        "air"
-      ],
-      "matched_terms": [
-        "uas"
-      ],
-      "watchlist": null,
-      "extra": {
-        "amount": 3088674.0,
-        "award_type": "DELIVERY ORDER"
-      },
-      "first_seen": "2026-09-23T03:43:59.432845+00:00",
-      "is_new": false
-    },
-    {
       "id": "USAspending:19AQMM25F0189",
       "source": "USAspending",
       "category": "procurement",
@@ -4491,27 +4437,27 @@
       "is_new": false
     },
     {
-      "id": "USAspending:FA862024F4040",
+      "id": "USAspending:N0001924F0328",
       "source": "USAspending",
       "category": "procurement",
       "type": "Award",
-      "title": "AEVEX AEROSPACE, LLC: BIG SAFARI",
-      "url": "https://www.usaspending.gov/award/CONT_AWD_FA862024F4040_9700_FA862019G4023_9700",
+      "title": "INSITU, INC.: THE PURPOSE OF THIS DELIVERY ORDER IS TO PROCURE INITIAL SCANEAGLE HARDWARE AND SERVICES IN SUPPORT OF A FUTURE SITE FOR",
+      "url": "https://www.usaspending.gov/award/CONT_AWD_N0001924F0328_9700_N0001922D0038_9700",
       "agency": "Department of Defense",
-      "identifier": "FA862024F4040",
+      "identifier": "N0001924F0328",
       "date": "2024-09-30",
       "deadline": null,
-      "summary": "BIG SAFARI",
+      "summary": "THE PURPOSE OF THIS DELIVERY ORDER IS TO PROCURE INITIAL SCANEAGLE HARDWARE AND SERVICES IN SUPPORT OF A FUTURE SITE FOR FMS BULGARIA, BU-P-LBJ.",
       "score": 30,
       "domains": [],
       "matched_terms": [],
       "watchlist": null,
       "extra": {
-        "amount": 11882004.0,
+        "amount": 8884356.65,
         "award_type": "DELIVERY ORDER"
       },
-      "first_seen": "2026-08-28T10:02:14.632922+00:00",
-      "is_new": false
+      "first_seen": "2026-09-26T03:56:32.861219+00:00",
+      "is_new": true
     },
     {
       "id": "USAspending:FA701424F0347",
@@ -4733,6 +4679,29 @@
       "is_new": false
     },
     {
+      "id": "USAspending:N0001923F2501",
+      "source": "USAspending",
+      "category": "procurement",
+      "type": "Award",
+      "title": "NORTHROP GRUMMAN SYSTEMS CORPORATION: SAA SRR PHASE 0C",
+      "url": "https://www.usaspending.gov/award/CONT_AWD_N0001923F2501_9700_N0001920G0005_9700",
+      "agency": "Department of Defense",
+      "identifier": "N0001923F2501",
+      "date": "2023-05-02",
+      "deadline": null,
+      "summary": "SAA SRR PHASE 0C",
+      "score": 30,
+      "domains": [],
+      "matched_terms": [],
+      "watchlist": null,
+      "extra": {
+        "amount": 30422301.37,
+        "award_type": "DELIVERY ORDER"
+      },
+      "first_seen": "2026-09-26T03:56:32.861219+00:00",
+      "is_new": true
+    },
+    {
       "id": "USAspending:N0001923C0033",
       "source": "USAspending",
       "category": "procurement",
@@ -4935,6 +4904,29 @@
       },
       "first_seen": "2026-08-28T10:02:14.632922+00:00",
       "is_new": false
+    },
+    {
+      "id": "USAspending:N0001919C0008",
+      "source": "USAspending",
+      "category": "procurement",
+      "type": "Award",
+      "title": "NORTHROP GRUMMAN SYSTEMS CORPORATION: MQ-4C TRITON LRIP LOT 5 LONG LEAD ITEMS TO SUPPORT U.S. NAVY AND COOPERATIVE PARTNER AUSTRALIA.",
+      "url": "https://www.usaspending.gov/award/CONT_AWD_N0001919C0008_9700_-NONE-_-NONE-",
+      "agency": "Department of Defense",
+      "identifier": "N0001919C0008",
+      "date": "2019-05-29",
+      "deadline": null,
+      "summary": "MQ-4C TRITON LRIP LOT 5 LONG LEAD ITEMS TO SUPPORT U.S. NAVY AND COOPERATIVE PARTNER AUSTRALIA.",
+      "score": 30,
+      "domains": [],
+      "matched_terms": [],
+      "watchlist": null,
+      "extra": {
+        "amount": 1811548807.37,
+        "award_type": "DEFINITIVE CONTRACT"
+      },
+      "first_seen": "2026-09-26T03:56:32.861219+00:00",
+      "is_new": true
     },
     {
       "id": "USAspending:0025",
@@ -6239,7 +6231,7 @@
   ],
   "stats": {
     "total": 221,
-    "new": 2,
+    "new": 4,
     "by_category": {
       "regulatory": 147,
       "procurement": 60,
@@ -6247,7 +6239,7 @@
       "legislative": 4
     },
     "by_domain": {
-      "air": 179,
+      "air": 177,
       "supply-chain": 110,
       "spectrum": 46,
       "defense": 11,
@@ -6447,7 +6439,7 @@
   "deadlines": [
     {
       "deadline": "2026-10-27",
-      "days": 32,
+      "days": 31,
       "title": "60-Day Notice of Proposed Information Collection: Information Collection Request (ICR) for the Drone Infrastructure Inspection Grant (DIIG) Program",
       "identifier": "Docket No. DOT-OST-2026-3367",
       "category": "regulatory",
@@ -6456,7 +6448,7 @@
     },
     {
       "deadline": "2026-10-28",
-      "days": 33,
+      "days": 32,
       "title": "Agency Information Collection Activities; Proposals, Submissions, and Approvals: Information Collection Request for the Drone Infrastructure Inspection Grant Program",
       "identifier": "DOT-OST-2026-3367",
       "category": "regulatory",
@@ -6465,7 +6457,7 @@
     },
     {
       "deadline": "2026-11-02",
-      "days": 38,
+      "days": 37,
       "title": "Agency Information Collection Activities; Proposed eCollection eComments Requested; Revision of a Previously Approved Collection; Title-SAFER SKIES State, Local, Tribal, and Territorial Counter-UAS Information Collection",
       "identifier": "OMB Number 1110-0090",
       "category": "regulatory",
