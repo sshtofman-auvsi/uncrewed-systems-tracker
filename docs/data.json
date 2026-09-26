@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-26T03:56:32.861219+00:00",
-  "generated_human": "2026-09-26 03:56 UTC",
+  "generated_at": "2026-09-26T10:57:28.211381+00:00",
+  "generated_human": "2026-09-26 10:57 UTC",
   "demo": false,
   "items": [
     {
@@ -2297,17 +2297,17 @@
       "is_new": false
     },
     {
-      "id": "Regulations.gov:FAA-2026-4558-1629",
+      "id": "Regulations.gov:FAA-2026-4558-1630",
       "source": "Regulations.gov",
       "category": "regulatory",
       "type": "Comment",
-      "title": "Comment on Designation – Restrict the Operation of Unmanned Aircraft in Close Proximity  to a Fixed Site Facility: Comment from Karin L",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1629",
+      "title": "Comment on Designation – Restrict the Operation of Unmanned Aircraft in Close Proximity  to a Fixed Site Facility: Comment from American Chemistry Council",
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1630",
       "agency": "FAA",
       "identifier": "FAA-2026-4558",
       "date": "2026-08-06",
       "deadline": null,
-      "summary": "Comment from Karin L",
+      "summary": "Comment from American Chemistry Council",
       "score": 80,
       "domains": [
         "air"
@@ -2323,16 +2323,16 @@
       "extra": {
         "docket_total_comments": 1669
       },
-      "first_seen": "2026-09-25T21:12:26.016236+00:00",
-      "is_new": false
+      "first_seen": "2026-09-26T10:57:28.211381+00:00",
+      "is_new": true
     },
     {
-      "id": "FCC ECFS:26110069389",
+      "id": "FCC ECFS:26110069388",
       "source": "FCC ECFS",
       "category": "regulatory",
       "type": "PETITION",
       "title": "CTIA: PETITION (FCC 26-74)",
-      "url": "https://www.fcc.gov/ecfs/document/26110069389/1",
+      "url": "https://www.fcc.gov/ecfs/document/26110069388/1",
       "agency": "FCC",
       "identifier": "FCC 26-74",
       "date": "2026-08-04",
@@ -2352,8 +2352,8 @@
       "extra": {
         "proceeding": "26-74"
       },
-      "first_seen": "2026-09-25T21:12:26.016236+00:00",
-      "is_new": false
+      "first_seen": "2026-09-26T10:57:28.211381+00:00",
+      "is_new": true
     },
     {
       "id": "FCC ECFS:26110069384",
@@ -4315,7 +4315,7 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-09-26T03:56:32.861219+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:89233126FNA400748",
@@ -4457,7 +4457,7 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-09-26T03:56:32.861219+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:FA701424F0347",
@@ -4699,7 +4699,7 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-09-26T03:56:32.861219+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:N0001923C0033",
@@ -4926,7 +4926,7 @@
         "award_type": "DEFINITIVE CONTRACT"
       },
       "first_seen": "2026-09-26T03:56:32.861219+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:0025",
@@ -6231,7 +6231,7 @@
   ],
   "stats": {
     "total": 221,
-    "new": 4,
+    "new": 2,
     "by_category": {
       "regulatory": 147,
       "procurement": 60,
