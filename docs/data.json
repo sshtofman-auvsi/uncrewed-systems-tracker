@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-26T20:44:39.232613+00:00",
-  "generated_human": "2026-09-26 20:44 UTC",
+  "generated_at": "2026-09-27T04:07:11.193056+00:00",
+  "generated_human": "2026-09-27 04:07 UTC",
   "demo": false,
   "items": [
     {
@@ -2353,7 +2353,7 @@
         "proceeding": "26-74"
       },
       "first_seen": "2026-09-26T20:44:39.232613+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:26110069384",
@@ -3828,35 +3828,6 @@
       "is_new": false
     },
     {
-      "id": "USAspending:W56KGU25C0009",
-      "source": "USAspending",
-      "category": "procurement",
-      "type": "Award",
-      "title": "VIRGINIA POLYTECHNIC INSTITUTE & STATE UNIVERSITY: BROAD AGENCY ANNOUNCEMENT FOR VIRGINIA TECH WITHIN AN EXISTING COUNTER UAS (CUAS) SOFTWARE",
-      "url": "https://www.usaspending.gov/award/CONT_AWD_W56KGU25C0009_9700_-NONE-_-NONE-",
-      "agency": "Department of Defense",
-      "identifier": "W56KGU25C0009",
-      "date": "2025-03-18",
-      "deadline": null,
-      "summary": "BROAD AGENCY ANNOUNCEMENT FOR VIRGINIA TECH WITHIN AN EXISTING COUNTER UAS (CUAS) SOFTWARE",
-      "score": 34,
-      "domains": [
-        "air",
-        "defense"
-      ],
-      "matched_terms": [
-        "uas",
-        "counter uas"
-      ],
-      "watchlist": null,
-      "extra": {
-        "amount": 4566000.0,
-        "award_type": "DEFINITIVE CONTRACT"
-      },
-      "first_seen": "2026-09-10T03:29:54.958940+00:00",
-      "is_new": false
-    },
-    {
       "id": "USAspending:W31P4Q24FE001",
       "source": "USAspending",
       "category": "procurement",
@@ -4063,6 +4034,29 @@
       },
       "first_seen": "2026-09-03T10:48:36.776899+00:00",
       "is_new": false
+    },
+    {
+      "id": "USAspending:W58RGZ26F0292",
+      "source": "USAspending",
+      "category": "procurement",
+      "type": "Award",
+      "title": "INTEGRATE DG LLC: THE PURPOSE TO PROCURE ITEMS FOR THE LAUNCHED EFFECTS (LE) PRODUCT OFFICE (PDO) IN SUPPORT OF OPERATION EPIC FURY.",
+      "url": "https://www.usaspending.gov/award/CONT_AWD_W58RGZ26F0292_9700_W58RGZ26G0068_9700",
+      "agency": "Department of Defense",
+      "identifier": "W58RGZ26F0292",
+      "date": "2026-05-26",
+      "deadline": null,
+      "summary": "THE PURPOSE TO PROCURE ITEMS FOR THE LAUNCHED EFFECTS (LE) PRODUCT OFFICE (PDO) IN SUPPORT OF OPERATION EPIC FURY.",
+      "score": 30,
+      "domains": [],
+      "matched_terms": [],
+      "watchlist": null,
+      "extra": {
+        "amount": 4006000.0,
+        "award_type": "DELIVERY ORDER"
+      },
+      "first_seen": "2026-09-27T04:07:11.193056+00:00",
+      "is_new": true
     },
     {
       "id": "USAspending:W15P7T26F0130",
@@ -4341,6 +4335,29 @@
       "is_new": false
     },
     {
+      "id": "USAspending:19AQMM25F1638",
+      "source": "USAspending",
+      "category": "procurement",
+      "type": "Award",
+      "title": "QUANTUM-SYSTEMS INC: PURCHASE OF VECTOR DRONES SYSTEMS AND UPGRADES.",
+      "url": "https://www.usaspending.gov/award/CONT_AWD_19AQMM25F1638_1900_19AQMM25D0182_1900",
+      "agency": "Department of State",
+      "identifier": "19AQMM25F1638",
+      "date": "2025-09-22",
+      "deadline": null,
+      "summary": "PURCHASE OF VECTOR DRONES SYSTEMS AND UPGRADES.",
+      "score": 30,
+      "domains": [],
+      "matched_terms": [],
+      "watchlist": null,
+      "extra": {
+        "amount": 27527527.27,
+        "award_type": "DELIVERY ORDER"
+      },
+      "first_seen": "2026-09-27T04:07:11.193056+00:00",
+      "is_new": true
+    },
+    {
       "id": "USAspending:FA868925FB010",
       "source": "USAspending",
       "category": "procurement",
@@ -4412,6 +4429,33 @@
       },
       "first_seen": "2026-09-15T03:48:12.693883+00:00",
       "is_new": false
+    },
+    {
+      "id": "USAspending:N0016425FJ051",
+      "source": "USAspending",
+      "category": "procurement",
+      "type": "Award",
+      "title": "PLATFORM SYSTEMS, INCORPORATED: VANILLA LE-UAS",
+      "url": "https://www.usaspending.gov/award/CONT_AWD_N0016425FJ051_9700_N0016425GJR96_9700",
+      "agency": "Department of Defense",
+      "identifier": "N0016425FJ051",
+      "date": "2025-04-02",
+      "deadline": null,
+      "summary": "VANILLA LE-UAS",
+      "score": 30,
+      "domains": [
+        "air"
+      ],
+      "matched_terms": [
+        "uas"
+      ],
+      "watchlist": null,
+      "extra": {
+        "amount": 3088674.0,
+        "award_type": "DELIVERY ORDER"
+      },
+      "first_seen": "2026-09-27T04:07:11.193056+00:00",
+      "is_new": true
     },
     {
       "id": "USAspending:19AQMM25F0189",
@@ -4976,52 +5020,6 @@
         "award_type": "DEFINITIVE CONTRACT"
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": false
-    },
-    {
-      "id": "USAspending:FA862015C3001",
-      "source": "USAspending",
-      "category": "procurement",
-      "type": "Award",
-      "title": "NORTHROP GRUMMAN SYSTEMS CORPORATION: GLOBAL HAWK, ACAT 1, FMS ROK",
-      "url": "https://www.usaspending.gov/award/CONT_AWD_FA862015C3001_9700_-NONE-_-NONE-",
-      "agency": "Department of Defense",
-      "identifier": "FA862015C3001",
-      "date": "2014-12-16",
-      "deadline": null,
-      "summary": "GLOBAL HAWK, ACAT 1, FMS ROK",
-      "score": 30,
-      "domains": [],
-      "matched_terms": [],
-      "watchlist": null,
-      "extra": {
-        "amount": 634956236.78,
-        "award_type": "DEFINITIVE CONTRACT"
-      },
-      "first_seen": "2026-08-29T06:00:46.993514+00:00",
-      "is_new": false
-    },
-    {
-      "id": "USAspending:W31P4Q14C0158",
-      "source": "USAspending",
-      "category": "procurement",
-      "type": "Award",
-      "title": "GRIFFON AEROSPACE, INC.: BASIC CONTRACT AWARD FOR ENGINEERING SERVICES WITH VARIOUS OPTION SLINS FOR HARDWARE AND SERVICES OVER A 5-YEAR PERIOD.",
-      "url": "https://www.usaspending.gov/award/CONT_AWD_W31P4Q14C0158_9700_-NONE-_-NONE-",
-      "agency": "Department of Defense",
-      "identifier": "W31P4Q14C0158",
-      "date": "2014-08-18",
-      "deadline": null,
-      "summary": "BASIC CONTRACT AWARD FOR ENGINEERING SERVICES WITH VARIOUS OPTION SLINS FOR HARDWARE AND SERVICES OVER A 5-YEAR PERIOD.",
-      "score": 30,
-      "domains": [],
-      "matched_terms": [],
-      "watchlist": null,
-      "extra": {
-        "amount": 4024879.4,
-        "award_type": "DEFINITIVE CONTRACT"
-      },
-      "first_seen": "2026-09-11T03:27:14.524299+00:00",
       "is_new": false
     },
     {
@@ -6231,7 +6229,7 @@
   ],
   "stats": {
     "total": 221,
-    "new": 1,
+    "new": 3,
     "by_category": {
       "regulatory": 147,
       "procurement": 60,
@@ -6242,8 +6240,8 @@
       "air": 177,
       "supply-chain": 110,
       "spectrum": 46,
-      "defense": 11,
       "ground": 11,
+      "defense": 10,
       "maritime": 2
     },
     "by_source": {
@@ -6439,7 +6437,7 @@
   "deadlines": [
     {
       "deadline": "2026-10-27",
-      "days": 31,
+      "days": 30,
       "title": "60-Day Notice of Proposed Information Collection: Information Collection Request (ICR) for the Drone Infrastructure Inspection Grant (DIIG) Program",
       "identifier": "Docket No. DOT-OST-2026-3367",
       "category": "regulatory",
@@ -6448,7 +6446,7 @@
     },
     {
       "deadline": "2026-10-28",
-      "days": 32,
+      "days": 31,
       "title": "Agency Information Collection Activities; Proposals, Submissions, and Approvals: Information Collection Request for the Drone Infrastructure Inspection Grant Program",
       "identifier": "DOT-OST-2026-3367",
       "category": "regulatory",
@@ -6457,7 +6455,7 @@
     },
     {
       "deadline": "2026-11-02",
-      "days": 37,
+      "days": 36,
       "title": "Agency Information Collection Activities; Proposed eCollection eComments Requested; Revision of a Previously Approved Collection; Title-SAFER SKIES State, Local, Tribal, and Territorial Counter-UAS Information Collection",
       "identifier": "OMB Number 1110-0090",
       "category": "regulatory",
