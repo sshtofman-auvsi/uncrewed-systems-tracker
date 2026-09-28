@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-28T13:08:26.866893+00:00",
-  "generated_human": "2026-09-28 13:08 UTC",
+  "generated_at": "2026-09-28T23:00:58.398729+00:00",
+  "generated_human": "2026-09-28 23:00 UTC",
   "demo": false,
   "items": [
     {
@@ -2112,12 +2112,12 @@
       "is_new": false
     },
     {
-      "id": "FCC ECFS:26110071197",
+      "id": "FCC ECFS:26110071178",
       "source": "FCC ECFS",
       "category": "regulatory",
       "type": "OPPOSITION TO PETITION FOR RECONSIDERATION",
-      "title": "D-Fend Solutions: OPPOSITION TO PETITION FOR RECONSIDERATION (FCC 26-74)",
-      "url": "https://www.fcc.gov/ecfs/document/26110071197/1",
+      "title": "DRONERESPONDERS: OPPOSITION TO PETITION FOR RECONSIDERATION (FCC 26-74)",
+      "url": "https://www.fcc.gov/ecfs/document/26110071178/1",
       "agency": "FCC",
       "identifier": "FCC 26-74",
       "date": "2026-08-14",
@@ -2141,12 +2141,12 @@
       "is_new": false
     },
     {
-      "id": "FCC ECFS:26110071178",
+      "id": "FCC ECFS:26110071197",
       "source": "FCC ECFS",
       "category": "regulatory",
       "type": "OPPOSITION TO PETITION FOR RECONSIDERATION",
-      "title": "DRONERESPONDERS: OPPOSITION TO PETITION FOR RECONSIDERATION (FCC 26-74)",
-      "url": "https://www.fcc.gov/ecfs/document/26110071178/1",
+      "title": "D-Fend Solutions: OPPOSITION TO PETITION FOR RECONSIDERATION (FCC 26-74)",
+      "url": "https://www.fcc.gov/ecfs/document/26110071197/1",
       "agency": "FCC",
       "identifier": "FCC 26-74",
       "date": "2026-08-14",
@@ -2297,17 +2297,17 @@
       "is_new": false
     },
     {
-      "id": "Regulations.gov:FAA-2026-4558-1629",
+      "id": "Regulations.gov:FAA-2026-4558-1630",
       "source": "Regulations.gov",
       "category": "regulatory",
       "type": "Comment",
-      "title": "Comment on Designation – Restrict the Operation of Unmanned Aircraft in Close Proximity  to a Fixed Site Facility: Comment from Karin L",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1629",
+      "title": "Comment on Designation – Restrict the Operation of Unmanned Aircraft in Close Proximity  to a Fixed Site Facility: Comment from American Chemistry Council",
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1630",
       "agency": "FAA",
       "identifier": "FAA-2026-4558",
       "date": "2026-08-06",
       "deadline": null,
-      "summary": "Comment from Karin L",
+      "summary": "Comment from American Chemistry Council",
       "score": 80,
       "domains": [
         "air"
@@ -2323,7 +2323,7 @@
       "extra": {
         "docket_total_comments": 1669
       },
-      "first_seen": "2026-09-28T13:08:26.866893+00:00",
+      "first_seen": "2026-09-28T23:00:58.398729+00:00",
       "is_new": true
     },
     {
@@ -2353,7 +2353,7 @@
         "proceeding": "26-74"
       },
       "first_seen": "2026-09-28T13:08:26.866893+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:26110069384",
@@ -5206,7 +5206,7 @@
       "watchlist": null,
       "extra": {},
       "first_seen": "2026-09-28T13:08:26.866893+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "Regulations.gov:FAA-2026-12509-0001",
@@ -5230,6 +5230,30 @@
       "watchlist": null,
       "extra": {},
       "first_seen": "2026-09-28T13:08:26.866893+00:00",
+      "is_new": false
+    },
+    {
+      "id": "Regulations.gov:FAA-2026-12516-0001",
+      "source": "Regulations.gov",
+      "category": "regulatory",
+      "type": "Document",
+      "title": "Wisconsin Aerial Drone Services LLC - Petition",
+      "url": "https://www.regulations.gov/document/FAA-2026-12516-0001",
+      "agency": "FAA",
+      "identifier": "FAA-2026-12516",
+      "date": "2026-09-28",
+      "deadline": null,
+      "summary": "Wisconsin Aerial Drone Services LLC - Petition",
+      "score": 20,
+      "domains": [
+        "air"
+      ],
+      "matched_terms": [
+        "drone"
+      ],
+      "watchlist": null,
+      "extra": {},
+      "first_seen": "2026-09-28T23:00:58.398729+00:00",
       "is_new": true
     },
     {
@@ -5877,54 +5901,6 @@
       "is_new": false
     },
     {
-      "id": "Regulations.gov:FAA-2026-10957-0001",
-      "source": "Regulations.gov",
-      "category": "regulatory",
-      "type": "Document",
-      "title": "Loutre Valley Drone Services LLC - Petition",
-      "url": "https://www.regulations.gov/document/FAA-2026-10957-0001",
-      "agency": "FAA",
-      "identifier": "FAA-2026-10957",
-      "date": "2026-09-01",
-      "deadline": null,
-      "summary": "Loutre Valley Drone Services LLC - Petition",
-      "score": 20,
-      "domains": [
-        "air"
-      ],
-      "matched_terms": [
-        "drone"
-      ],
-      "watchlist": null,
-      "extra": {},
-      "first_seen": "2026-09-01T16:12:41.977744+00:00",
-      "is_new": false
-    },
-    {
-      "id": "Regulations.gov:DOT-OST-2026-3367-0001",
-      "source": "Regulations.gov",
-      "category": "regulatory",
-      "type": "Notice",
-      "title": "Agency Information Collection Activities; Proposals, Submissions, and Approvals: Information Collection Request for the Drone Infrastructure Inspection Grant Program",
-      "url": "https://www.regulations.gov/document/DOT-OST-2026-3367-0001",
-      "agency": "DOT",
-      "identifier": "DOT-OST-2026-3367",
-      "date": "2026-09-01",
-      "deadline": "2026-10-28",
-      "summary": "Agency Information Collection Activities; Proposals, Submissions, and Approvals: Information Collection Request for the Drone Infrastructure Inspection Grant Program",
-      "score": 20,
-      "domains": [
-        "air"
-      ],
-      "matched_terms": [
-        "drone"
-      ],
-      "watchlist": null,
-      "extra": {},
-      "first_seen": "2026-09-03T15:57:14.350942+00:00",
-      "is_new": false
-    },
-    {
       "id": "Regulations.gov:FAA-2026-10895-0001",
       "source": "Regulations.gov",
       "category": "regulatory",
@@ -6217,8 +6193,8 @@
     {
       "name": "Regulations.gov",
       "status": "ok",
-      "detail": "46 kept",
-      "count": 46
+      "detail": "45 kept",
+      "count": 45
     },
     {
       "name": "FCC ECFS",
@@ -6252,16 +6228,16 @@
     }
   ],
   "stats": {
-    "total": 222,
-    "new": 4,
+    "total": 221,
+    "new": 2,
     "by_category": {
-      "regulatory": 148,
+      "regulatory": 147,
       "procurement": 60,
       "litigation": 10,
       "legislative": 4
     },
     "by_domain": {
-      "air": 178,
+      "air": 177,
       "supply-chain": 110,
       "spectrum": 46,
       "ground": 11,
@@ -6271,7 +6247,7 @@
     "by_source": {
       "FCC ECFS": 90,
       "USAspending": 60,
-      "Regulations.gov": 34,
+      "Regulations.gov": 33,
       "Federal Register": 24,
       "CourtListener": 10,
       "Congress.gov": 4
@@ -6467,15 +6443,6 @@
       "category": "regulatory",
       "source": "Federal Register",
       "url": "https://www.federalregister.gov/documents/2026/09/01/2026-17776/60-day-notice-of-proposed-information-collection-information-collection-request-icr-for-the-drone"
-    },
-    {
-      "deadline": "2026-10-28",
-      "days": 30,
-      "title": "Agency Information Collection Activities; Proposals, Submissions, and Approvals: Information Collection Request for the Drone Infrastructure Inspection Grant Program",
-      "identifier": "DOT-OST-2026-3367",
-      "category": "regulatory",
-      "source": "Regulations.gov",
-      "url": "https://www.regulations.gov/document/DOT-OST-2026-3367-0001"
     },
     {
       "deadline": "2026-11-02",
