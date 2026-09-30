@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-30T12:03:15.744794+00:00",
-  "generated_human": "2026-09-30 12:03 UTC",
+  "generated_at": "2026-09-30T21:58:12.268559+00:00",
+  "generated_human": "2026-09-30 21:58 UTC",
   "demo": false,
   "items": [
     {
@@ -44,6 +44,64 @@
       },
       "first_seen": "2026-07-03T10:17:16.264437+00:00",
       "is_new": false
+    },
+    {
+      "id": "FCC ECFS:26110078781",
+      "source": "FCC ECFS",
+      "category": "regulatory",
+      "type": "Reply Comment",
+      "title": "CTIA: REPLY TO OPPOSITION TO PETITION FOR RECONSIDERATION (FCC 26-74)",
+      "url": "https://www.fcc.gov/ecfs/document/26110078781/1",
+      "agency": "FCC",
+      "identifier": "FCC 26-74",
+      "date": "2026-09-30",
+      "deadline": null,
+      "summary": "",
+      "score": 80,
+      "domains": [
+        "air",
+        "spectrum",
+        "supply-chain"
+      ],
+      "matched_terms": [],
+      "watchlist": {
+        "key": "gn-26-74",
+        "label": "GN 26-74 (Unleashing American Drone Dominance)"
+      },
+      "extra": {
+        "proceeding": "26-74"
+      },
+      "first_seen": "2026-09-30T21:58:12.268559+00:00",
+      "is_new": true
+    },
+    {
+      "id": "FCC ECFS:26110078798",
+      "source": "FCC ECFS",
+      "category": "regulatory",
+      "type": "Reply Comment",
+      "title": "GPS Innovation Alliance: REPLY TO COMMENTS (FCC 26-74)",
+      "url": "https://www.fcc.gov/ecfs/document/26110078798/1",
+      "agency": "FCC",
+      "identifier": "FCC 26-74",
+      "date": "2026-09-30",
+      "deadline": null,
+      "summary": "",
+      "score": 80,
+      "domains": [
+        "air",
+        "spectrum",
+        "supply-chain"
+      ],
+      "matched_terms": [],
+      "watchlist": {
+        "key": "gn-26-74",
+        "label": "GN 26-74 (Unleashing American Drone Dominance)"
+      },
+      "extra": {
+        "proceeding": "26-74"
+      },
+      "first_seen": "2026-09-30T21:58:12.268559+00:00",
+      "is_new": true
     },
     {
       "id": "Congress.gov:119-s-4429",
@@ -2141,12 +2199,12 @@
       "is_new": false
     },
     {
-      "id": "FCC ECFS:26110071178",
+      "id": "FCC ECFS:26110071197",
       "source": "FCC ECFS",
       "category": "regulatory",
       "type": "OPPOSITION TO PETITION FOR RECONSIDERATION",
-      "title": "DRONERESPONDERS: OPPOSITION TO PETITION FOR RECONSIDERATION (FCC 26-74)",
-      "url": "https://www.fcc.gov/ecfs/document/26110071178/1",
+      "title": "D-Fend Solutions: OPPOSITION TO PETITION FOR RECONSIDERATION (FCC 26-74)",
+      "url": "https://www.fcc.gov/ecfs/document/26110071197/1",
       "agency": "FCC",
       "identifier": "FCC 26-74",
       "date": "2026-08-14",
@@ -2170,12 +2228,12 @@
       "is_new": false
     },
     {
-      "id": "FCC ECFS:26110071197",
+      "id": "FCC ECFS:26110071178",
       "source": "FCC ECFS",
       "category": "regulatory",
       "type": "OPPOSITION TO PETITION FOR RECONSIDERATION",
-      "title": "D-Fend Solutions: OPPOSITION TO PETITION FOR RECONSIDERATION (FCC 26-74)",
-      "url": "https://www.fcc.gov/ecfs/document/26110071197/1",
+      "title": "DRONERESPONDERS: OPPOSITION TO PETITION FOR RECONSIDERATION (FCC 26-74)",
+      "url": "https://www.fcc.gov/ecfs/document/26110071178/1",
       "agency": "FCC",
       "identifier": "FCC 26-74",
       "date": "2026-08-14",
@@ -2297,17 +2355,17 @@
       "is_new": false
     },
     {
-      "id": "Regulations.gov:FAA-2026-4558-1630",
+      "id": "Regulations.gov:FAA-2026-4558-1629",
       "source": "Regulations.gov",
       "category": "regulatory",
       "type": "Comment",
-      "title": "Comment on Designation – Restrict the Operation of Unmanned Aircraft in Close Proximity  to a Fixed Site Facility: Comment from American Chemistry Council",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1630",
+      "title": "Comment on Designation – Restrict the Operation of Unmanned Aircraft in Close Proximity  to a Fixed Site Facility: Comment from Karin L",
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1629",
       "agency": "FAA",
       "identifier": "FAA-2026-4558",
       "date": "2026-08-06",
       "deadline": null,
-      "summary": "Comment from American Chemistry Council",
+      "summary": "Comment from Karin L",
       "score": 80,
       "domains": [
         "air"
@@ -2323,8 +2381,8 @@
       "extra": {
         "docket_total_comments": 1669
       },
-      "first_seen": "2026-09-30T04:25:14.227016+00:00",
-      "is_new": false
+      "first_seen": "2026-09-30T21:58:12.268559+00:00",
+      "is_new": true
     },
     {
       "id": "FCC ECFS:26110069388",
@@ -2353,7 +2411,7 @@
         "proceeding": "26-74"
       },
       "first_seen": "2026-09-30T12:03:15.744794+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:26110069384",
@@ -2485,35 +2543,6 @@
       "is_new": false
     },
     {
-      "id": "FCC ECFS:10702055201256",
-      "source": "FCC ECFS",
-      "category": "regulatory",
-      "type": "ORDER",
-      "title": "Office of Engineering & Technology: ORDER (FCC 26-74)",
-      "url": "https://docs.fcc.gov/public/attachments/DA-26-657A1.pdf",
-      "agency": "FCC",
-      "identifier": "FCC 26-74",
-      "date": "2026-07-02",
-      "deadline": null,
-      "summary": "",
-      "score": 80,
-      "domains": [
-        "air",
-        "spectrum",
-        "supply-chain"
-      ],
-      "matched_terms": [],
-      "watchlist": {
-        "key": "gn-26-74",
-        "label": "GN 26-74 (Unleashing American Drone Dominance)"
-      },
-      "extra": {
-        "proceeding": "26-74"
-      },
-      "first_seen": "2026-07-02T18:19:03.065344+00:00",
-      "is_new": false
-    },
-    {
       "id": "FCC ECFS:107022321324871",
       "source": "FCC ECFS",
       "category": "regulatory",
@@ -2540,6 +2569,35 @@
         "proceeding": "26-74"
       },
       "first_seen": "2026-08-18T06:43:25.448189+00:00",
+      "is_new": false
+    },
+    {
+      "id": "FCC ECFS:10702055201256",
+      "source": "FCC ECFS",
+      "category": "regulatory",
+      "type": "ORDER",
+      "title": "Office of Engineering & Technology: ORDER (FCC 26-74)",
+      "url": "https://docs.fcc.gov/public/attachments/DA-26-657A1.pdf",
+      "agency": "FCC",
+      "identifier": "FCC 26-74",
+      "date": "2026-07-02",
+      "deadline": null,
+      "summary": "",
+      "score": 80,
+      "domains": [
+        "air",
+        "spectrum",
+        "supply-chain"
+      ],
+      "matched_terms": [],
+      "watchlist": {
+        "key": "gn-26-74",
+        "label": "GN 26-74 (Unleashing American Drone Dominance)"
+      },
+      "extra": {
+        "proceeding": "26-74"
+      },
+      "first_seen": "2026-07-02T18:19:03.065344+00:00",
       "is_new": false
     },
     {
@@ -2963,64 +3021,6 @@
       "type": "Reply Comment",
       "title": "AT&T Services, Inc.: REPLY TO COMMENTS (FCC 26-74)",
       "url": "https://www.fcc.gov/ecfs/document/10518109165364/1",
-      "agency": "FCC",
-      "identifier": "FCC 26-74",
-      "date": "2026-05-19",
-      "deadline": null,
-      "summary": "",
-      "score": 80,
-      "domains": [
-        "air",
-        "spectrum",
-        "supply-chain"
-      ],
-      "matched_terms": [],
-      "watchlist": {
-        "key": "gn-26-74",
-        "label": "GN 26-74 (Unleashing American Drone Dominance)"
-      },
-      "extra": {
-        "proceeding": "26-74"
-      },
-      "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": false
-    },
-    {
-      "id": "FCC ECFS:10518135533675",
-      "source": "FCC ECFS",
-      "category": "regulatory",
-      "type": "Reply Comment",
-      "title": "CACI International: REPLY TO COMMENTS (FCC 26-74)",
-      "url": "https://www.fcc.gov/ecfs/document/10518135533675/1",
-      "agency": "FCC",
-      "identifier": "FCC 26-74",
-      "date": "2026-05-19",
-      "deadline": null,
-      "summary": "",
-      "score": 80,
-      "domains": [
-        "air",
-        "spectrum",
-        "supply-chain"
-      ],
-      "matched_terms": [],
-      "watchlist": {
-        "key": "gn-26-74",
-        "label": "GN 26-74 (Unleashing American Drone Dominance)"
-      },
-      "extra": {
-        "proceeding": "26-74"
-      },
-      "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": false
-    },
-    {
-      "id": "FCC ECFS:10518100110610",
-      "source": "FCC ECFS",
-      "category": "regulatory",
-      "type": "Reply Comment",
-      "title": "Wireless Infrastructure Association (WIA): REPLY TO COMMENTS (FCC 26-74)",
-      "url": "https://www.fcc.gov/ecfs/document/10518100110610/1",
       "agency": "FCC",
       "identifier": "FCC 26-74",
       "date": "2026-05-19",
@@ -3679,7 +3679,7 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-09-30T12:03:15.744794+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:692M1523F00178",
@@ -3879,7 +3879,7 @@
         "award_type": "BPA CALL"
       },
       "first_seen": "2026-09-30T12:03:15.744794+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "Federal Register:2026-16628",
@@ -4481,7 +4481,7 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-09-30T12:03:15.744794+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:19AQMM25F0189",
@@ -4788,7 +4788,7 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-09-30T12:03:15.744794+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:FA868922FB001",
@@ -5201,7 +5201,7 @@
       "watchlist": null,
       "extra": {},
       "first_seen": "2026-09-30T12:03:15.744794+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "Regulations.gov:FAA-2026-12574-0001",
@@ -5225,7 +5225,7 @@
       "watchlist": null,
       "extra": {},
       "first_seen": "2026-09-30T12:03:15.744794+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "Regulations.gov:FAA-2026-12511-0001",
@@ -6200,7 +6200,7 @@
   ],
   "stats": {
     "total": 220,
-    "new": 7,
+    "new": 3,
     "by_category": {
       "regulatory": 146,
       "procurement": 60,
@@ -6262,7 +6262,7 @@
       ],
       "deadline": null,
       "count": 45,
-      "latest": "2026-09-16"
+      "latest": "2026-09-30"
     },
     {
       "key": "dji-ca9",
