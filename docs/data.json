@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-29T22:00:12.777911+00:00",
-  "generated_human": "2026-09-29 22:00 UTC",
+  "generated_at": "2026-09-30T04:25:14.227016+00:00",
+  "generated_human": "2026-09-30 04:25 UTC",
   "demo": false,
   "items": [
     {
@@ -2297,17 +2297,17 @@
       "is_new": false
     },
     {
-      "id": "Regulations.gov:FAA-2026-4558-1629",
+      "id": "Regulations.gov:FAA-2026-4558-1630",
       "source": "Regulations.gov",
       "category": "regulatory",
       "type": "Comment",
-      "title": "Comment on Designation – Restrict the Operation of Unmanned Aircraft in Close Proximity  to a Fixed Site Facility: Comment from Karin L",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1629",
+      "title": "Comment on Designation – Restrict the Operation of Unmanned Aircraft in Close Proximity  to a Fixed Site Facility: Comment from American Chemistry Council",
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1630",
       "agency": "FAA",
       "identifier": "FAA-2026-4558",
       "date": "2026-08-06",
       "deadline": null,
-      "summary": "Comment from Karin L",
+      "summary": "Comment from American Chemistry Council",
       "score": 80,
       "domains": [
         "air"
@@ -2323,16 +2323,16 @@
       "extra": {
         "docket_total_comments": 1669
       },
-      "first_seen": "2026-09-29T22:00:12.777911+00:00",
+      "first_seen": "2026-09-30T04:25:14.227016+00:00",
       "is_new": true
     },
     {
-      "id": "FCC ECFS:26110069388",
+      "id": "FCC ECFS:26110069389",
       "source": "FCC ECFS",
       "category": "regulatory",
       "type": "PETITION",
       "title": "CTIA: PETITION (FCC 26-74)",
-      "url": "https://www.fcc.gov/ecfs/document/26110069388/1",
+      "url": "https://www.fcc.gov/ecfs/document/26110069389/1",
       "agency": "FCC",
       "identifier": "FCC 26-74",
       "date": "2026-08-04",
@@ -2352,7 +2352,7 @@
       "extra": {
         "proceeding": "26-74"
       },
-      "first_seen": "2026-09-29T22:00:12.777911+00:00",
+      "first_seen": "2026-09-30T04:25:14.227016+00:00",
       "is_new": true
     },
     {
@@ -4454,6 +4454,33 @@
       "is_new": false
     },
     {
+      "id": "USAspending:N0016425FJ051",
+      "source": "USAspending",
+      "category": "procurement",
+      "type": "Award",
+      "title": "PLATFORM SYSTEMS, INCORPORATED: VANILLA LE-UAS",
+      "url": "https://www.usaspending.gov/award/CONT_AWD_N0016425FJ051_9700_N0016425GJR96_9700",
+      "agency": "Department of Defense",
+      "identifier": "N0016425FJ051",
+      "date": "2025-04-02",
+      "deadline": null,
+      "summary": "VANILLA LE-UAS",
+      "score": 30,
+      "domains": [
+        "air"
+      ],
+      "matched_terms": [
+        "uas"
+      ],
+      "watchlist": null,
+      "extra": {
+        "amount": 3088674.0,
+        "award_type": "DELIVERY ORDER"
+      },
+      "first_seen": "2026-09-30T04:25:14.227016+00:00",
+      "is_new": true
+    },
+    {
       "id": "USAspending:19AQMM25F0189",
       "source": "USAspending",
       "category": "procurement",
@@ -4889,33 +4916,6 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-09-12T03:32:55.496723+00:00",
-      "is_new": false
-    },
-    {
-      "id": "USAspending:W900KK21F0033",
-      "source": "USAspending",
-      "category": "procurement",
-      "type": "Award",
-      "title": "GRIFFON AEROSPACE, INC.: ORDER FOR PILOT SERVICES, FIELD SUPPORT/OPERATION FOR SMALL UNMANNED AERIAL SYSTEMS.",
-      "url": "https://www.usaspending.gov/award/CONT_AWD_W900KK21F0033_9700_W31P4Q18D0029_9700",
-      "agency": "Department of Defense",
-      "identifier": "W900KK21F0033",
-      "date": "2021-01-19",
-      "deadline": null,
-      "summary": "ORDER FOR PILOT SERVICES, FIELD SUPPORT/OPERATION FOR SMALL UNMANNED AERIAL SYSTEMS.",
-      "score": 30,
-      "domains": [
-        "air"
-      ],
-      "matched_terms": [
-        "small unmanned"
-      ],
-      "watchlist": null,
-      "extra": {
-        "amount": 6660238.61,
-        "award_type": "DELIVERY ORDER"
-      },
-      "first_seen": "2026-09-01T11:15:06.324377+00:00",
       "is_new": false
     },
     {
@@ -6201,7 +6201,7 @@
   ],
   "stats": {
     "total": 220,
-    "new": 2,
+    "new": 3,
     "by_category": {
       "regulatory": 146,
       "procurement": 60,
@@ -6409,7 +6409,7 @@
   "deadlines": [
     {
       "deadline": "2026-10-27",
-      "days": 28,
+      "days": 27,
       "title": "60-Day Notice of Proposed Information Collection: Information Collection Request (ICR) for the Drone Infrastructure Inspection Grant (DIIG) Program",
       "identifier": "Docket No. DOT-OST-2026-3367",
       "category": "regulatory",
@@ -6418,7 +6418,7 @@
     },
     {
       "deadline": "2026-11-02",
-      "days": 34,
+      "days": 33,
       "title": "Agency Information Collection Activities; Proposed eCollection eComments Requested; Revision of a Previously Approved Collection; Title-SAFER SKIES State, Local, Tribal, and Territorial Counter-UAS Information Collection",
       "identifier": "OMB Number 1110-0090",
       "category": "regulatory",
