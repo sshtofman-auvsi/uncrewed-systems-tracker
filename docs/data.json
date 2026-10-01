@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-01T04:36:48.139375+00:00",
-  "generated_human": "2026-10-01 04:36 UTC",
+  "generated_at": "2026-10-01T12:38:20.031203+00:00",
+  "generated_human": "2026-10-01 12:38 UTC",
   "demo": false,
   "items": [
     {
@@ -2382,7 +2382,7 @@
         "docket_total_comments": 1669
       },
       "first_seen": "2026-10-01T04:36:48.139375+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:26110069388",
@@ -3560,7 +3560,7 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-10-01T04:36:48.139375+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "Federal Register:2026-13211",
@@ -3622,7 +3622,7 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-10-01T04:36:48.139375+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "Federal Register:2026-15417",
@@ -6162,6 +6162,30 @@
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
       "is_new": false
+    },
+    {
+      "id": "Regulations.gov:FAA-2026-12641-0001",
+      "source": "Regulations.gov",
+      "category": "regulatory",
+      "type": "Document",
+      "title": "Strata UAV LLC - Petition",
+      "url": "https://www.regulations.gov/document/FAA-2026-12641-0001",
+      "agency": "FAA",
+      "identifier": "FAA-2026-12641",
+      "date": "2026-10-01",
+      "deadline": null,
+      "summary": "Strata UAV LLC - Petition",
+      "score": 18,
+      "domains": [
+        "air"
+      ],
+      "matched_terms": [
+        "uav"
+      ],
+      "watchlist": null,
+      "extra": {},
+      "first_seen": "2026-10-01T12:38:20.031203+00:00",
+      "is_new": true
     }
   ],
   "sources": [
@@ -6174,8 +6198,8 @@
     {
       "name": "Regulations.gov",
       "status": "ok",
-      "detail": "44 kept",
-      "count": 44
+      "detail": "45 kept",
+      "count": 45
     },
     {
       "name": "FCC ECFS",
@@ -6209,16 +6233,16 @@
     }
   ],
   "stats": {
-    "total": 220,
-    "new": 3,
+    "total": 221,
+    "new": 1,
     "by_category": {
-      "regulatory": 146,
+      "regulatory": 147,
       "procurement": 60,
       "litigation": 10,
       "legislative": 4
     },
     "by_domain": {
-      "air": 176,
+      "air": 177,
       "supply-chain": 110,
       "spectrum": 46,
       "defense": 11,
@@ -6228,7 +6252,7 @@
     "by_source": {
       "FCC ECFS": 90,
       "USAspending": 60,
-      "Regulations.gov": 32,
+      "Regulations.gov": 33,
       "Federal Register": 24,
       "CourtListener": 10,
       "Congress.gov": 4
