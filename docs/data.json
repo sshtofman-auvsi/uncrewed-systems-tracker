@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-30T21:58:12.268559+00:00",
-  "generated_human": "2026-09-30 21:58 UTC",
+  "generated_at": "2026-10-01T04:36:48.139375+00:00",
+  "generated_human": "2026-10-01 04:36 UTC",
   "demo": false,
   "items": [
     {
@@ -72,7 +72,7 @@
         "proceeding": "26-74"
       },
       "first_seen": "2026-09-30T21:58:12.268559+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:26110078798",
@@ -101,7 +101,7 @@
         "proceeding": "26-74"
       },
       "first_seen": "2026-09-30T21:58:12.268559+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "Congress.gov:119-s-4429",
@@ -2170,35 +2170,6 @@
       "is_new": false
     },
     {
-      "id": "FCC ECFS:26110071217",
-      "source": "FCC ECFS",
-      "category": "regulatory",
-      "type": "OPPOSITION TO PETITION FOR RECONSIDERATION",
-      "title": "Security Industry Association: OPPOSITION TO PETITION FOR RECONSIDERATION (FCC 26-74)",
-      "url": "https://www.fcc.gov/ecfs/document/26110071217/1",
-      "agency": "FCC",
-      "identifier": "FCC 26-74",
-      "date": "2026-08-14",
-      "deadline": null,
-      "summary": "",
-      "score": 80,
-      "domains": [
-        "air",
-        "spectrum",
-        "supply-chain"
-      ],
-      "matched_terms": [],
-      "watchlist": {
-        "key": "gn-26-74",
-        "label": "GN 26-74 (Unleashing American Drone Dominance)"
-      },
-      "extra": {
-        "proceeding": "26-74"
-      },
-      "first_seen": "2026-08-14T18:55:22.284701+00:00",
-      "is_new": false
-    },
-    {
       "id": "FCC ECFS:26110071197",
       "source": "FCC ECFS",
       "category": "regulatory",
@@ -2234,6 +2205,35 @@
       "type": "OPPOSITION TO PETITION FOR RECONSIDERATION",
       "title": "DRONERESPONDERS: OPPOSITION TO PETITION FOR RECONSIDERATION (FCC 26-74)",
       "url": "https://www.fcc.gov/ecfs/document/26110071178/1",
+      "agency": "FCC",
+      "identifier": "FCC 26-74",
+      "date": "2026-08-14",
+      "deadline": null,
+      "summary": "",
+      "score": 80,
+      "domains": [
+        "air",
+        "spectrum",
+        "supply-chain"
+      ],
+      "matched_terms": [],
+      "watchlist": {
+        "key": "gn-26-74",
+        "label": "GN 26-74 (Unleashing American Drone Dominance)"
+      },
+      "extra": {
+        "proceeding": "26-74"
+      },
+      "first_seen": "2026-08-14T18:55:22.284701+00:00",
+      "is_new": false
+    },
+    {
+      "id": "FCC ECFS:26110071217",
+      "source": "FCC ECFS",
+      "category": "regulatory",
+      "type": "OPPOSITION TO PETITION FOR RECONSIDERATION",
+      "title": "Security Industry Association: OPPOSITION TO PETITION FOR RECONSIDERATION (FCC 26-74)",
+      "url": "https://www.fcc.gov/ecfs/document/26110071217/1",
       "agency": "FCC",
       "identifier": "FCC 26-74",
       "date": "2026-08-14",
@@ -2355,17 +2355,17 @@
       "is_new": false
     },
     {
-      "id": "Regulations.gov:FAA-2026-4558-1629",
+      "id": "Regulations.gov:FAA-2026-4558-1630",
       "source": "Regulations.gov",
       "category": "regulatory",
       "type": "Comment",
-      "title": "Comment on Designation – Restrict the Operation of Unmanned Aircraft in Close Proximity  to a Fixed Site Facility: Comment from Karin L",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1629",
+      "title": "Comment on Designation – Restrict the Operation of Unmanned Aircraft in Close Proximity  to a Fixed Site Facility: Comment from American Chemistry Council",
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1630",
       "agency": "FAA",
       "identifier": "FAA-2026-4558",
       "date": "2026-08-06",
       "deadline": null,
-      "summary": "Comment from Karin L",
+      "summary": "Comment from American Chemistry Council",
       "score": 80,
       "domains": [
         "air"
@@ -2381,7 +2381,7 @@
       "extra": {
         "docket_total_comments": 1669
       },
-      "first_seen": "2026-09-30T21:58:12.268559+00:00",
+      "first_seen": "2026-10-01T04:36:48.139375+00:00",
       "is_new": true
     },
     {
@@ -3532,6 +3532,37 @@
       "is_new": false
     },
     {
+      "id": "USAspending:70RSAT26FR0000009",
+      "source": "USAspending",
+      "category": "procurement",
+      "type": "Award",
+      "title": "THE MITRE CORPORATION: THE PURPOSE OF THIS REQUISITION IS TO COMMIT $750,000.00 FOR A NEW TASK ORDER UNDER 70RSAT20D00000001 FOR UNMANNED AIRCR",
+      "url": "https://www.usaspending.gov/award/CONT_AWD_70RSAT26FR0000009_7001_70RSAT26D00000001_7001",
+      "agency": "Department of Homeland Security",
+      "identifier": "70RSAT26FR0000009",
+      "date": "2026-03-24",
+      "deadline": null,
+      "summary": "THE PURPOSE OF THIS REQUISITION IS TO COMMIT $750,000.00 FOR A NEW TASK ORDER UNDER 70RSAT20D00000001 FOR UNMANNED AIRCRAFT SYSTEMS (UAS) AND COUNTER-UNMANNED AIRCRAFT SYSTEMS (C-UAS), PROVIDES DHS WITH DATA-DRIVEN INSIGHTS, OPERATIONAL RECOMMENDATIO",
+      "score": 66,
+      "domains": [
+        "air",
+        "defense"
+      ],
+      "matched_terms": [
+        "unmanned aircraft",
+        "uas",
+        "c-uas",
+        "counter-unmanned"
+      ],
+      "watchlist": null,
+      "extra": {
+        "amount": 3676836.0,
+        "award_type": "DELIVERY ORDER"
+      },
+      "first_seen": "2026-10-01T04:36:48.139375+00:00",
+      "is_new": true
+    },
+    {
       "id": "Federal Register:2026-13211",
       "source": "Federal Register",
       "category": "regulatory",
@@ -3563,6 +3594,35 @@
       },
       "first_seen": "2026-08-24T01:20:33.894711+00:00",
       "is_new": false
+    },
+    {
+      "id": "USAspending:W91CRB26FA251",
+      "source": "USAspending",
+      "category": "procurement",
+      "type": "Award",
+      "title": "NEROS, INC.: DELIVERY ORDER 1 FOR PURPOSE-BUILT ATTRITABLE SYSTEM (PBAS) TO INCLUDE SMALL UNMANNED AIRCRAFT SYSTEMS (SUAS) ARCHER WIT",
+      "url": "https://www.usaspending.gov/award/CONT_AWD_W91CRB26FA251_9700_W91CRB26DA011_9700",
+      "agency": "Department of Defense",
+      "identifier": "W91CRB26FA251",
+      "date": "2026-07-01",
+      "deadline": null,
+      "summary": "DELIVERY ORDER 1 FOR PURPOSE-BUILT ATTRITABLE SYSTEM (PBAS) TO INCLUDE SMALL UNMANNED AIRCRAFT SYSTEMS (SUAS) ARCHER WITH NEROS, INC.",
+      "score": 50,
+      "domains": [
+        "air"
+      ],
+      "matched_terms": [
+        "unmanned aircraft",
+        "suas",
+        "small unmanned"
+      ],
+      "watchlist": null,
+      "extra": {
+        "amount": 17452800.03,
+        "award_type": "DELIVERY ORDER"
+      },
+      "first_seen": "2026-10-01T04:36:48.139375+00:00",
+      "is_new": true
     },
     {
       "id": "Federal Register:2026-15417",
@@ -4968,33 +5028,6 @@
       "is_new": false
     },
     {
-      "id": "USAspending:0025",
-      "source": "USAspending",
-      "category": "procurement",
-      "type": "Award",
-      "title": "THE BOEING COMPANY: UAV - AIR VEHICLES, PROGRAM MANAGEMENT SUPPORT, SPARES",
-      "url": "https://www.usaspending.gov/award/CONT_AWD_0025_9700_H9222216D0028_9700",
-      "agency": "Department of Defense",
-      "identifier": "0025",
-      "date": "2017-12-08",
-      "deadline": null,
-      "summary": "UAV - AIR VEHICLES, PROGRAM MANAGEMENT SUPPORT, SPARES",
-      "score": 30,
-      "domains": [
-        "air"
-      ],
-      "matched_terms": [
-        "uav"
-      ],
-      "watchlist": null,
-      "extra": {
-        "amount": 9944383.46,
-        "award_type": "DELIVERY ORDER"
-      },
-      "first_seen": "2026-09-02T03:19:08.772510+00:00",
-      "is_new": false
-    },
-    {
       "id": "USAspending:NNG17FD73C",
       "source": "USAspending",
       "category": "procurement",
@@ -5011,33 +5044,10 @@
       "matched_terms": [],
       "watchlist": null,
       "extra": {
-        "amount": 352334981.32,
+        "amount": 352834981.32,
         "award_type": "DEFINITIVE CONTRACT"
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": false
-    },
-    {
-      "id": "USAspending:FA867810C0100",
-      "source": "USAspending",
-      "category": "procurement",
-      "type": "Award",
-      "title": "THE BOEING COMPANY: QF-16 FULL SCALE AERIAL TARGET (FSAT)",
-      "url": "https://www.usaspending.gov/award/CONT_AWD_FA867810C0100_9700_-NONE-_-NONE-",
-      "agency": "Department of Defense",
-      "identifier": "FA867810C0100",
-      "date": "2010-03-08",
-      "deadline": null,
-      "summary": "QF-16 FULL SCALE AERIAL TARGET (FSAT)",
-      "score": 30,
-      "domains": [],
-      "matched_terms": [],
-      "watchlist": null,
-      "extra": {
-        "amount": 329846037.78,
-        "award_type": "DEFINITIVE CONTRACT"
-      },
-      "first_seen": "2026-09-02T03:19:08.772510+00:00",
       "is_new": false
     },
     {
@@ -6208,11 +6218,11 @@
       "legislative": 4
     },
     "by_domain": {
-      "air": 175,
+      "air": 176,
       "supply-chain": 110,
       "spectrum": 46,
+      "defense": 11,
       "ground": 11,
-      "defense": 10,
       "maritime": 2
     },
     "by_source": {
@@ -6408,7 +6418,7 @@
   "deadlines": [
     {
       "deadline": "2026-10-27",
-      "days": 27,
+      "days": 26,
       "title": "60-Day Notice of Proposed Information Collection: Information Collection Request (ICR) for the Drone Infrastructure Inspection Grant (DIIG) Program",
       "identifier": "Docket No. DOT-OST-2026-3367",
       "category": "regulatory",
@@ -6417,7 +6427,7 @@
     },
     {
       "deadline": "2026-11-02",
-      "days": 33,
+      "days": 32,
       "title": "Agency Information Collection Activities; Proposed eCollection eComments Requested; Revision of a Previously Approved Collection; Title-SAFER SKIES State, Local, Tribal, and Territorial Counter-UAS Information Collection",
       "identifier": "OMB Number 1110-0090",
       "category": "regulatory",
