@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-02T12:01:16.216406+00:00",
-  "generated_human": "2026-10-02 12:01 UTC",
+  "generated_at": "2026-10-02T21:55:35.822740+00:00",
+  "generated_human": "2026-10-02 21:55 UTC",
   "demo": false,
   "items": [
     {
@@ -44,6 +44,38 @@
       },
       "first_seen": "2026-07-03T10:17:16.264437+00:00",
       "is_new": false
+    },
+    {
+      "id": "FCC ECFS:26110079084",
+      "source": "FCC ECFS",
+      "category": "regulatory",
+      "type": "Comment",
+      "title": "Jose M Ramirez: COMMENT (FCC 26-22)",
+      "url": "https://www.fcc.gov/ecfs/search/search-filings/filing/26110079084",
+      "agency": "FCC",
+      "identifier": "FCC 26-22",
+      "date": "2026-10-02",
+      "deadline": null,
+      "summary": "I have used DJI for a few years now. I do not see any issue to our national security. I own a drone and have not experienced or believe a threat. Please reconsider and lift the ban on these drones. Amazing footage is taken with drones all around the country. They are used commercially and help create jobs for content and media production companies.",
+      "score": 80,
+      "domains": [
+        "air",
+        "supply-chain"
+      ],
+      "matched_terms": [
+        "drone",
+        "dji",
+        "26-22"
+      ],
+      "watchlist": {
+        "key": "et-26-22",
+        "label": "ET 26-22 / DA-26-592 (DJI Security Assessment — comment by Aug 28, 2026)"
+      },
+      "extra": {
+        "proceeding": "26-22"
+      },
+      "first_seen": "2026-10-02T21:55:35.822740+00:00",
+      "is_new": true
     },
     {
       "id": "FCC ECFS:26110078980",
@@ -137,7 +169,7 @@
       "source": "Congress.gov",
       "category": "legislative",
       "type": "Bill",
-      "title": "S. 4429: A bill to prohibit the importation, manufacture, sale, resale, or introduction into interstate commerce in the United States of connected vehicles and related software and hardware associated with foreign adversaries.",
+      "title": "S. 4429: Connected Vehicle Security Act of 2026",
       "url": "https://www.congress.gov/bill/119th-congress/senate-bill/4429",
       "agency": "Congress",
       "identifier": "S. 4429",
@@ -150,7 +182,8 @@
         "supply-chain"
       ],
       "matched_terms": [
-        "s. 4429"
+        "connected vehicle",
+        "connected vehicle security act"
       ],
       "watchlist": {
         "key": "connected-vehicle",
@@ -2014,37 +2047,6 @@
       "is_new": false
     },
     {
-      "id": "FCC ECFS:26110072976",
-      "source": "FCC ECFS",
-      "category": "regulatory",
-      "type": "Comment",
-      "title": "Ryan Robins: COMMENT (FCC 26-22)",
-      "url": "https://www.fcc.gov/ecfs/search/search-filings/filing/26110072976",
-      "agency": "FCC",
-      "identifier": "FCC 26-22",
-      "date": "2026-08-25",
-      "deadline": null,
-      "summary": "I have a couple of DJI drones as a licensed remote pilot and they pair with my other DJI devices for audio and video. So it would force me out of the remote pilot business sadly as no one would buy them if you can’t use them and I can’t afford to buy new ones. Plus there isn’t even anything comparable at that price point. \n\nThis would be a major blow to the little guys just trying to get by with f",
-      "score": 80,
-      "domains": [
-        "air",
-        "supply-chain"
-      ],
-      "matched_terms": [
-        "dji",
-        "26-22"
-      ],
-      "watchlist": {
-        "key": "et-26-22",
-        "label": "ET 26-22 / DA-26-592 (DJI Security Assessment — comment by Aug 28, 2026)"
-      },
-      "extra": {
-        "proceeding": "26-22"
-      },
-      "first_seen": "2026-08-25T18:40:52.275279+00:00",
-      "is_new": false
-    },
-    {
       "id": "FCC ECFS:26110072188",
       "source": "FCC ECFS",
       "category": "regulatory",
@@ -2383,17 +2385,17 @@
       "is_new": false
     },
     {
-      "id": "Regulations.gov:FAA-2026-4558-1630",
+      "id": "Regulations.gov:FAA-2026-4558-1629",
       "source": "Regulations.gov",
       "category": "regulatory",
       "type": "Comment",
-      "title": "Comment on Designation – Restrict the Operation of Unmanned Aircraft in Close Proximity  to a Fixed Site Facility: Comment from American Chemistry Council",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1630",
+      "title": "Comment on Designation – Restrict the Operation of Unmanned Aircraft in Close Proximity  to a Fixed Site Facility: Comment from Karin L",
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1629",
       "agency": "FAA",
       "identifier": "FAA-2026-4558",
       "date": "2026-08-06",
       "deadline": null,
-      "summary": "Comment from American Chemistry Council",
+      "summary": "Comment from Karin L",
       "score": 80,
       "domains": [
         "air"
@@ -2409,8 +2411,8 @@
       "extra": {
         "docket_total_comments": 1669
       },
-      "first_seen": "2026-10-01T04:36:48.139375+00:00",
-      "is_new": false
+      "first_seen": "2026-10-02T21:55:35.822740+00:00",
+      "is_new": true
     },
     {
       "id": "FCC ECFS:26110069388",
@@ -5092,6 +5094,30 @@
       "is_new": false
     },
     {
+      "id": "Regulations.gov:FAA-2023-1271-0030",
+      "source": "Regulations.gov",
+      "category": "regulatory",
+      "type": "Document",
+      "title": "List of Approved Unmanned Aircraft Systems under Section 44807 (October 2, 2026)",
+      "url": "https://www.regulations.gov/document/FAA-2023-1271-0030",
+      "agency": "FAA",
+      "identifier": "FAA-2023-1271",
+      "date": "2026-10-02",
+      "deadline": null,
+      "summary": "List of Approved Unmanned Aircraft Systems under Section 44807 (October 2, 2026)",
+      "score": 22,
+      "domains": [
+        "air"
+      ],
+      "matched_terms": [
+        "unmanned aircraft"
+      ],
+      "watchlist": null,
+      "extra": {},
+      "first_seen": "2026-10-02T21:55:35.822740+00:00",
+      "is_new": true
+    },
+    {
       "id": "Federal Register:2026-15485",
       "source": "Federal Register",
       "category": "regulatory",
@@ -5179,6 +5205,30 @@
       "is_new": false
     },
     {
+      "id": "Regulations.gov:FAA-2026-12775-0001",
+      "source": "Regulations.gov",
+      "category": "regulatory",
+      "type": "Document",
+      "title": "Condor Drone Services, LLC - Petition",
+      "url": "https://www.regulations.gov/document/FAA-2026-12775-0001",
+      "agency": "FAA",
+      "identifier": "FAA-2026-12775",
+      "date": "2026-10-02",
+      "deadline": null,
+      "summary": "Condor Drone Services, LLC - Petition",
+      "score": 20,
+      "domains": [
+        "air"
+      ],
+      "matched_terms": [
+        "drone"
+      ],
+      "watchlist": null,
+      "extra": {},
+      "first_seen": "2026-10-02T21:55:35.822740+00:00",
+      "is_new": true
+    },
+    {
       "id": "Regulations.gov:FAA-2025-0064-0003",
       "source": "Regulations.gov",
       "category": "regulatory",
@@ -5200,6 +5250,30 @@
       "watchlist": null,
       "extra": {},
       "first_seen": "2026-10-02T12:01:16.216406+00:00",
+      "is_new": false
+    },
+    {
+      "id": "Regulations.gov:FAA-2026-12838-0001",
+      "source": "Regulations.gov",
+      "category": "regulatory",
+      "type": "Document",
+      "title": "Sunrise Drone Service LLC - Petition",
+      "url": "https://www.regulations.gov/document/FAA-2026-12838-0001",
+      "agency": "FAA",
+      "identifier": "FAA-2026-12838",
+      "date": "2026-10-02",
+      "deadline": null,
+      "summary": "Sunrise Drone Service LLC - Petition",
+      "score": 20,
+      "domains": [
+        "air"
+      ],
+      "matched_terms": [
+        "drone"
+      ],
+      "watchlist": null,
+      "extra": {},
+      "first_seen": "2026-10-02T21:55:35.822740+00:00",
       "is_new": true
     },
     {
@@ -5224,7 +5298,7 @@
       "watchlist": null,
       "extra": {},
       "first_seen": "2026-10-02T12:01:16.216406+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "Regulations.gov:FAA-2026-12744-0001",
@@ -5794,30 +5868,6 @@
       "is_new": false
     },
     {
-      "id": "Regulations.gov:FAA-2026-11386-0001",
-      "source": "Regulations.gov",
-      "category": "regulatory",
-      "type": "Document",
-      "title": "Hoffmann Drone Service LLC - Petition",
-      "url": "https://www.regulations.gov/document/FAA-2026-11386-0001",
-      "agency": "FAA",
-      "identifier": "FAA-2026-11386",
-      "date": "2026-09-08",
-      "deadline": null,
-      "summary": "Hoffmann Drone Service LLC - Petition",
-      "score": 20,
-      "domains": [
-        "air"
-      ],
-      "matched_terms": [
-        "drone"
-      ],
-      "watchlist": null,
-      "extra": {},
-      "first_seen": "2026-09-08T16:10:06.071280+00:00",
-      "is_new": false
-    },
-    {
       "id": "Federal Register:2026-17776",
       "source": "Federal Register",
       "category": "regulatory",
@@ -6134,8 +6184,8 @@
     {
       "name": "Regulations.gov",
       "status": "ok",
-      "detail": "44 kept",
-      "count": 44
+      "detail": "46 kept",
+      "count": 46
     },
     {
       "name": "FCC ECFS",
@@ -6169,16 +6219,16 @@
     }
   ],
   "stats": {
-    "total": 219,
-    "new": 2,
+    "total": 221,
+    "new": 5,
     "by_category": {
-      "regulatory": 145,
+      "regulatory": 147,
       "procurement": 60,
       "litigation": 10,
       "legislative": 4
     },
     "by_domain": {
-      "air": 174,
+      "air": 176,
       "supply-chain": 109,
       "spectrum": 45,
       "defense": 11,
@@ -6188,7 +6238,7 @@
     "by_source": {
       "FCC ECFS": 90,
       "USAspending": 60,
-      "Regulations.gov": 32,
+      "Regulations.gov": 34,
       "Federal Register": 23,
       "CourtListener": 10,
       "Congress.gov": 4
@@ -6218,7 +6268,7 @@
       ],
       "deadline": "2026-08-28",
       "count": 51,
-      "latest": "2026-09-14"
+      "latest": "2026-10-02"
     },
     {
       "key": "gn-26-74",
