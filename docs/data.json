@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-02T04:28:59.280073+00:00",
-  "generated_human": "2026-10-02 04:28 UTC",
+  "generated_at": "2026-10-02T12:01:16.216406+00:00",
+  "generated_human": "2026-10-02 12:01 UTC",
   "demo": false,
   "items": [
     {
@@ -137,7 +137,7 @@
       "source": "Congress.gov",
       "category": "legislative",
       "type": "Bill",
-      "title": "S. 4429: Connected Vehicle Security Act of 2026",
+      "title": "S. 4429: A bill to prohibit the importation, manufacture, sale, resale, or introduction into interstate commerce in the United States of connected vehicles and related software and hardware associated with foreign adversaries.",
       "url": "https://www.congress.gov/bill/119th-congress/senate-bill/4429",
       "agency": "Congress",
       "identifier": "S. 4429",
@@ -150,8 +150,7 @@
         "supply-chain"
       ],
       "matched_terms": [
-        "connected vehicle",
-        "connected vehicle security act"
+        "s. 4429"
       ],
       "watchlist": {
         "key": "connected-vehicle",
@@ -4531,7 +4530,7 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-10-02T04:28:59.280073+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:19AQMM25F0189",
@@ -4696,7 +4695,7 @@
         "award_type": "DEFINITIVE CONTRACT"
       },
       "first_seen": "2026-10-02T04:28:59.280073+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:N0001923F0041",
@@ -5178,6 +5177,54 @@
       },
       "first_seen": "2026-06-26T11:19:55.120727+00:00",
       "is_new": false
+    },
+    {
+      "id": "Regulations.gov:FAA-2025-0064-0003",
+      "source": "Regulations.gov",
+      "category": "regulatory",
+      "type": "Document",
+      "title": "HARPER DRONE SOLUTIONS, LLC - Amendment",
+      "url": "https://www.regulations.gov/document/FAA-2025-0064-0003",
+      "agency": "FAA",
+      "identifier": "FAA-2025-0064",
+      "date": "2026-10-02",
+      "deadline": null,
+      "summary": "HARPER DRONE SOLUTIONS, LLC - Amendment",
+      "score": 20,
+      "domains": [
+        "air"
+      ],
+      "matched_terms": [
+        "drone"
+      ],
+      "watchlist": null,
+      "extra": {},
+      "first_seen": "2026-10-02T12:01:16.216406+00:00",
+      "is_new": true
+    },
+    {
+      "id": "Regulations.gov:FAA-2024-2034-0005",
+      "source": "Regulations.gov",
+      "category": "regulatory",
+      "type": "Document",
+      "title": "Hazel Hill Drone Services LLC - Request for Extension",
+      "url": "https://www.regulations.gov/document/FAA-2024-2034-0005",
+      "agency": "FAA",
+      "identifier": "FAA-2024-2034",
+      "date": "2026-10-02",
+      "deadline": null,
+      "summary": "Hazel Hill Drone Services LLC - Request for Extension",
+      "score": 20,
+      "domains": [
+        "air"
+      ],
+      "matched_terms": [
+        "drone"
+      ],
+      "watchlist": null,
+      "extra": {},
+      "first_seen": "2026-10-02T12:01:16.216406+00:00",
+      "is_new": true
     },
     {
       "id": "Regulations.gov:FAA-2026-12744-0001",
@@ -5758,54 +5805,6 @@
       "date": "2026-09-08",
       "deadline": null,
       "summary": "Hoffmann Drone Service LLC - Petition",
-      "score": 20,
-      "domains": [
-        "air"
-      ],
-      "matched_terms": [
-        "drone"
-      ],
-      "watchlist": null,
-      "extra": {},
-      "first_seen": "2026-09-08T16:10:06.071280+00:00",
-      "is_new": false
-    },
-    {
-      "id": "Regulations.gov:FAA-2026-11357-0001",
-      "source": "Regulations.gov",
-      "category": "regulatory",
-      "type": "Document",
-      "title": "HAYMAN DRONE SERVICES LLC - Petition",
-      "url": "https://www.regulations.gov/document/FAA-2026-11357-0001",
-      "agency": "FAA",
-      "identifier": "FAA-2026-11357",
-      "date": "2026-09-08",
-      "deadline": null,
-      "summary": "HAYMAN DRONE SERVICES LLC - Petition",
-      "score": 20,
-      "domains": [
-        "air"
-      ],
-      "matched_terms": [
-        "drone"
-      ],
-      "watchlist": null,
-      "extra": {},
-      "first_seen": "2026-09-08T16:10:06.071280+00:00",
-      "is_new": false
-    },
-    {
-      "id": "Regulations.gov:FAA-2024-1706-0004",
-      "source": "Regulations.gov",
-      "category": "regulatory",
-      "type": "Document",
-      "title": "Hill’s Drone Service, LLC - Request for Extension",
-      "url": "https://www.regulations.gov/document/FAA-2024-1706-0004",
-      "agency": "FAA",
-      "identifier": "FAA-2024-1706",
-      "date": "2026-09-08",
-      "deadline": null,
-      "summary": "Hill’s Drone Service, LLC - Request for Extension",
       "score": 20,
       "domains": [
         "air"
