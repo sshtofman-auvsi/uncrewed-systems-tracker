@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-01T22:26:54.554414+00:00",
-  "generated_human": "2026-10-01 22:26 UTC",
+  "generated_at": "2026-10-02T04:28:59.280073+00:00",
+  "generated_human": "2026-10-02 04:28 UTC",
   "demo": false,
   "items": [
     {
@@ -72,7 +72,7 @@
         "proceeding": "26-74"
       },
       "first_seen": "2026-10-01T22:26:54.554414+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:26110078781",
@@ -2693,39 +2693,6 @@
       "is_new": false
     },
     {
-      "id": "USAspending:W58RGZ26F0332",
-      "source": "USAspending",
-      "category": "procurement",
-      "type": "Award",
-      "title": "GRIFFON AEROSPACE, INC.: IN ACCORDANCE WITH THE DIRECTIVES ESTABLISHED IN THE DEPARTMENT OF WAR MEMORANDUM DATED 10 JULY 2025, IN SUPPORT OF EXEC",
-      "url": "https://www.usaspending.gov/award/CONT_AWD_W58RGZ26F0332_9700_W58RGZ26G0061_9700",
-      "agency": "Department of Defense",
-      "identifier": "W58RGZ26F0332",
-      "date": "2026-06-03",
-      "deadline": null,
-      "summary": "IN ACCORDANCE WITH THE DIRECTIVES ESTABLISHED IN THE DEPARTMENT OF WAR MEMORANDUM DATED 10 JULY 2025, IN SUPPORT OF EXECUTIVE ORDER 14307-UNLEASHING U.S. MILITARY DRONE DOMINANCE",
-      "score": 80,
-      "domains": [
-        "air",
-        "spectrum",
-        "supply-chain"
-      ],
-      "matched_terms": [
-        "drone",
-        "drone dominance"
-      ],
-      "watchlist": {
-        "key": "gn-26-74",
-        "label": "GN 26-74 (Unleashing American Drone Dominance)"
-      },
-      "extra": {
-        "amount": 67940895.16,
-        "award_type": "DELIVERY ORDER"
-      },
-      "first_seen": "2026-09-03T10:48:36.776899+00:00",
-      "is_new": false
-    },
-    {
       "id": "FCC ECFS:10528281610686",
       "source": "FCC ECFS",
       "category": "regulatory",
@@ -4544,6 +4511,29 @@
       "is_new": false
     },
     {
+      "id": "USAspending:N0001925F0161",
+      "source": "USAspending",
+      "category": "procurement",
+      "type": "Award",
+      "title": "INSITU, INC.: HARDWARE, FIELD SERVICE REPRESENTATIVE (FSR) SUPPORT, TRAVEL AND DEPLOYMENT SUPPORT TO CONVERT SCANEAGLE 13 AIR VEHICLES",
+      "url": "https://www.usaspending.gov/award/CONT_AWD_N0001925F0161_9700_N0001922D0038_9700",
+      "agency": "Department of Defense",
+      "identifier": "N0001925F0161",
+      "date": "2025-06-02",
+      "deadline": null,
+      "summary": "HARDWARE, FIELD SERVICE REPRESENTATIVE (FSR) SUPPORT, TRAVEL AND DEPLOYMENT SUPPORT TO CONVERT SCANEAGLE 13 AIR VEHICLES FROM ANALOG TO DIGITAL IN SUPPORT OF POLAND FMS CASE PL-P-GAV.",
+      "score": 30,
+      "domains": [],
+      "matched_terms": [],
+      "watchlist": null,
+      "extra": {
+        "amount": 3163356.37,
+        "award_type": "DELIVERY ORDER"
+      },
+      "first_seen": "2026-10-02T04:28:59.280073+00:00",
+      "is_new": true
+    },
+    {
       "id": "USAspending:19AQMM25F0189",
       "source": "USAspending",
       "category": "procurement",
@@ -4680,6 +4670,33 @@
       },
       "first_seen": "2026-09-10T03:29:54.958940+00:00",
       "is_new": false
+    },
+    {
+      "id": "USAspending:693KA923C00012",
+      "source": "USAspending",
+      "category": "procurement",
+      "type": "Award",
+      "title": "I3 FEDERAL LLC: EVALUATION OF HAZARDS POSED BY LITHIUM-BATTERY POWERED UNMANNED AIRCRAFT SYSTEMS AND OTHER DANGEROUS GOODS INTEGRATED IN",
+      "url": "https://www.usaspending.gov/award/CONT_AWD_693KA923C00012_6920_-NONE-_-NONE-",
+      "agency": "Department of Transportation",
+      "identifier": "693KA923C00012",
+      "date": "2023-09-11",
+      "deadline": null,
+      "summary": "EVALUATION OF HAZARDS POSED BY LITHIUM-BATTERY POWERED UNMANNED AIRCRAFT SYSTEMS AND OTHER DANGEROUS GOODS INTEGRATED INTO THE DESIGN.",
+      "score": 30,
+      "domains": [
+        "air"
+      ],
+      "matched_terms": [
+        "unmanned aircraft"
+      ],
+      "watchlist": null,
+      "extra": {
+        "amount": 3612061.55,
+        "award_type": "DEFINITIVE CONTRACT"
+      },
+      "first_seen": "2026-10-02T04:28:59.280073+00:00",
+      "is_new": true
     },
     {
       "id": "USAspending:N0001923F0041",
@@ -4978,33 +4995,6 @@
       "is_new": false
     },
     {
-      "id": "USAspending:W900KK21F0005",
-      "source": "USAspending",
-      "category": "procurement",
-      "type": "Award",
-      "title": "PINNACLE SOLUTIONS, LLC: THIS TASK ORDER SUPPLIES FORT HUACHUCA WITH UNMANNED AIRCRAFT SUPPORT INSTRUCTION, ALONG WITH MISSION SUPPORT. IN SERVIC",
-      "url": "https://www.usaspending.gov/award/CONT_AWD_W900KK21F0005_9700_W900KK19D0006_9700",
-      "agency": "Department of Defense",
-      "identifier": "W900KK21F0005",
-      "date": "2020-11-01",
-      "deadline": null,
-      "summary": "THIS TASK ORDER SUPPLIES FORT HUACHUCA WITH UNMANNED AIRCRAFT SUPPORT INSTRUCTION, ALONG WITH MISSION SUPPORT. IN SERVICE TO THE UNITED STATES ARMY.",
-      "score": 30,
-      "domains": [
-        "air"
-      ],
-      "matched_terms": [
-        "unmanned aircraft"
-      ],
-      "watchlist": null,
-      "extra": {
-        "amount": 73859973.27,
-        "award_type": "DELIVERY ORDER"
-      },
-      "first_seen": "2026-08-28T10:02:14.632922+00:00",
-      "is_new": false
-    },
-    {
       "id": "USAspending:N0001919C0008",
       "source": "USAspending",
       "category": "procurement",
@@ -5211,7 +5201,7 @@
       "watchlist": null,
       "extra": {},
       "first_seen": "2026-10-01T22:26:54.554414+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "Regulations.gov:FAA-2026-12673-0001",
@@ -5235,7 +5225,7 @@
       "watchlist": null,
       "extra": {},
       "first_seen": "2026-10-01T22:26:54.554414+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "Regulations.gov:FAA-2026-12575-0001",
@@ -6111,35 +6101,6 @@
       "is_new": false
     },
     {
-      "id": "Federal Register:2026-11067",
-      "source": "Federal Register",
-      "category": "regulatory",
-      "type": "Final Rule",
-      "title": "Safety Zone; Lake Michigan, Manistee, MI",
-      "url": "https://www.federalregister.gov/documents/2026/06/03/2026-11067/safety-zone-lake-michigan-manistee-mi",
-      "agency": "Homeland Security Department, Coast Guard",
-      "identifier": "Docket Number USCG-2026-0617",
-      "date": "2026-06-03",
-      "deadline": null,
-      "summary": "The Coast Guard is establishing a temporary safety zone for certain waters of Lake Michigan near Manistee, MI. This action is intended to protect personnel, vessels, and the marine environment from potential hazards created by a drone display. Entry of vessels or persons into this zone is prohibited unless specifically authorized by the Captain of the Port, Sector Lake Michigan, or their designated representative.",
-      "score": 20,
-      "domains": [
-        "air"
-      ],
-      "matched_terms": [
-        "drone"
-      ],
-      "watchlist": null,
-      "extra": {
-        "comment_url": null,
-        "dockets": [
-          "Docket Number USCG-2026-0617"
-        ]
-      },
-      "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": false
-    },
-    {
       "id": "Regulations.gov:FAA-2026-12641-0001",
       "source": "Regulations.gov",
       "category": "regulatory",
@@ -6168,8 +6129,8 @@
     {
       "name": "Federal Register",
       "status": "ok",
-      "detail": "25 kept",
-      "count": 25
+      "detail": "24 kept",
+      "count": 24
     },
     {
       "name": "Regulations.gov",
@@ -6209,18 +6170,18 @@
     }
   ],
   "stats": {
-    "total": 220,
-    "new": 3,
+    "total": 219,
+    "new": 2,
     "by_category": {
-      "regulatory": 146,
+      "regulatory": 145,
       "procurement": 60,
       "litigation": 10,
       "legislative": 4
     },
     "by_domain": {
-      "air": 176,
-      "supply-chain": 110,
-      "spectrum": 46,
+      "air": 174,
+      "supply-chain": 109,
+      "spectrum": 45,
       "defense": 11,
       "ground": 11,
       "maritime": 2
@@ -6229,7 +6190,7 @@
       "FCC ECFS": 90,
       "USAspending": 60,
       "Regulations.gov": 32,
-      "Federal Register": 24,
+      "Federal Register": 23,
       "CourtListener": 10,
       "Congress.gov": 4
     }
@@ -6271,7 +6232,7 @@
         "supply-chain"
       ],
       "deadline": null,
-      "count": 45,
+      "count": 44,
       "latest": "2026-10-01"
     },
     {
@@ -6418,7 +6379,7 @@
   "deadlines": [
     {
       "deadline": "2026-10-27",
-      "days": 26,
+      "days": 25,
       "title": "60-Day Notice of Proposed Information Collection: Information Collection Request (ICR) for the Drone Infrastructure Inspection Grant (DIIG) Program",
       "identifier": "Docket No. DOT-OST-2026-3367",
       "category": "regulatory",
@@ -6427,7 +6388,7 @@
     },
     {
       "deadline": "2026-11-02",
-      "days": 32,
+      "days": 31,
       "title": "Agency Information Collection Activities; Proposed eCollection eComments Requested; Revision of a Previously Approved Collection; Title-SAFER SKIES State, Local, Tribal, and Territorial Counter-UAS Information Collection",
       "identifier": "OMB Number 1110-0090",
       "category": "regulatory",
