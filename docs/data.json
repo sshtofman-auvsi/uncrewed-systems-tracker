@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-03T20:41:40.608740+00:00",
-  "generated_human": "2026-10-03 20:41 UTC",
+  "generated_at": "2026-10-04T04:43:53.282827+00:00",
+  "generated_human": "2026-10-04 04:43 UTC",
   "demo": false,
   "items": [
     {
@@ -4099,31 +4099,31 @@
       "is_new": false
     },
     {
-      "id": "USAspending:SPE8EL26FJ4K6",
+      "id": "USAspending:H9240226FE029",
       "source": "USAspending",
       "category": "procurement",
       "type": "Award",
-      "title": "W S DARLEY & CO: 4572070011!UNMANNED SURFACE VESSEL, CATAMARAN STYLE",
-      "url": "https://www.usaspending.gov/award/CONT_AWD_SPE8EL26FJ4K6_9700_SPE8EJ21D1025_9700",
+      "title": "THE JOHNS HOPKINS UNIVERSITY APPLIED PHYSICS LABORATORY LLC: DRONE RANGER LITE (DRL) ENGINEERING DEVELOPMENT",
+      "url": "https://www.usaspending.gov/award/CONT_AWD_H9240226FE029_9700_H9240025DE001_9700",
       "agency": "Department of Defense",
-      "identifier": "SPE8EL26FJ4K6",
-      "date": "2026-06-05",
+      "identifier": "H9240226FE029",
+      "date": "2026-06-10",
       "deadline": null,
-      "summary": "4572070011!UNMANNED SURFACE VESSEL, CATAMARAN STYLE",
+      "summary": "DRONE RANGER LITE (DRL) ENGINEERING DEVELOPMENT",
       "score": 30,
       "domains": [
-        "maritime"
+        "air"
       ],
       "matched_terms": [
-        "unmanned surface vessel"
+        "drone"
       ],
       "watchlist": null,
       "extra": {
-        "amount": 35991555.41,
+        "amount": 3000000.0,
         "award_type": "DELIVERY ORDER"
       },
-      "first_seen": "2026-09-05T10:06:55.771659+00:00",
-      "is_new": false
+      "first_seen": "2026-10-04T04:43:53.282827+00:00",
+      "is_new": true
     },
     {
       "id": "USAspending:W58RGZ26F0334",
@@ -4506,6 +4506,29 @@
       "is_new": false
     },
     {
+      "id": "USAspending:W15P7T25F0078",
+      "source": "USAspending",
+      "category": "procurement",
+      "type": "Award",
+      "title": "LEIDOS, INC.: PURCHASE OF NAVMACS (TDP 1.10)",
+      "url": "https://www.usaspending.gov/award/CONT_AWD_W15P7T25F0078_9700_W15P7T23D0003_9700",
+      "agency": "Department of Defense",
+      "identifier": "W15P7T25F0078",
+      "date": "2025-06-24",
+      "deadline": null,
+      "summary": "PURCHASE OF NAVMACS (TDP 1.10)",
+      "score": 30,
+      "domains": [],
+      "matched_terms": [],
+      "watchlist": null,
+      "extra": {
+        "amount": 2973435.0,
+        "award_type": "DELIVERY ORDER"
+      },
+      "first_seen": "2026-10-04T04:43:53.282827+00:00",
+      "is_new": true
+    },
+    {
       "id": "USAspending:N0001925F0161",
       "source": "USAspending",
       "category": "procurement",
@@ -4602,27 +4625,27 @@
       "is_new": false
     },
     {
-      "id": "USAspending:FA701424F0347",
+      "id": "USAspending:19AQMM26F0930",
       "source": "USAspending",
       "category": "procurement",
       "type": "Award",
-      "title": "CONNECTED ALLIANCES LLC: WIRELESS POWER - ENABLING NONSTOP DRONES UTILIZING REMOTE ENERGY (ENDURE) PATHFINDER",
-      "url": "https://www.usaspending.gov/award/CONT_AWD_FA701424F0347_9700_FA701423D0014_9700",
-      "agency": "Department of Defense",
-      "identifier": "FA701424F0347",
-      "date": "2024-08-29",
+      "title": "BERRY AVIATION, INC.: INL BOGOTA COUNTERUAS - DETECT AND DEFEAT PROJECT",
+      "url": "https://www.usaspending.gov/award/CONT_AWD_19AQMM26F0930_1900_19AQMM22D0045_1900",
+      "agency": "Department of State",
+      "identifier": "19AQMM26F0930",
+      "date": "2024-09-16",
       "deadline": null,
-      "summary": "WIRELESS POWER - ENABLING NONSTOP DRONES UTILIZING REMOTE ENERGY (ENDURE) PATHFINDER",
+      "summary": "INL BOGOTA COUNTERUAS - DETECT AND DEFEAT PROJECT",
       "score": 30,
       "domains": [],
       "matched_terms": [],
       "watchlist": null,
       "extra": {
-        "amount": 4399999.8,
+        "amount": 2999721.92,
         "award_type": "DELIVERY ORDER"
       },
-      "first_seen": "2026-09-10T03:29:54.958940+00:00",
-      "is_new": false
+      "first_seen": "2026-10-04T04:43:53.282827+00:00",
+      "is_new": true
     },
     {
       "id": "USAspending:W58RGZ24C0031",
@@ -4645,29 +4668,6 @@
         "award_type": "DEFINITIVE CONTRACT"
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": false
-    },
-    {
-      "id": "USAspending:N0001923F0578",
-      "source": "USAspending",
-      "category": "procurement",
-      "type": "Award",
-      "title": "INSITU, INC.: THE PURPOSE OF THIS DELIVERY ORDER IS TO PROCURE HARDWARE AND SERVICES TO CONVERT THE LEBANON AIR FORCE (LAF) FLEET FROM",
-      "url": "https://www.usaspending.gov/award/CONT_AWD_N0001923F0578_9700_N0001922D0038_9700",
-      "agency": "Department of Defense",
-      "identifier": "N0001923F0578",
-      "date": "2024-03-08",
-      "deadline": null,
-      "summary": "THE PURPOSE OF THIS DELIVERY ORDER IS TO PROCURE HARDWARE AND SERVICES TO CONVERT THE LEBANON AIR FORCE (LAF) FLEET FROM ANALOG TO DIGITAL AND THE ABILITY TO OPERATE THE NEW DIGITAL AND VIDAR TECHNOLOGY.",
-      "score": 30,
-      "domains": [],
-      "matched_terms": [],
-      "watchlist": null,
-      "extra": {
-        "amount": 14407018.94,
-        "award_type": "DELIVERY ORDER"
-      },
-      "first_seen": "2026-09-05T10:06:55.771659+00:00",
       "is_new": false
     },
     {
@@ -6241,7 +6241,7 @@
   ],
   "stats": {
     "total": 221,
-    "new": 0,
+    "new": 3,
     "by_category": {
       "regulatory": 147,
       "procurement": 60,
@@ -6249,12 +6249,12 @@
       "legislative": 4
     },
     "by_domain": {
-      "air": 180,
+      "air": 181,
       "supply-chain": 109,
       "spectrum": 45,
       "defense": 13,
       "ground": 11,
-      "maritime": 2
+      "maritime": 1
     },
     "by_source": {
       "FCC ECFS": 90,
@@ -6449,7 +6449,7 @@
   "deadlines": [
     {
       "deadline": "2026-10-27",
-      "days": 24,
+      "days": 23,
       "title": "60-Day Notice of Proposed Information Collection: Information Collection Request (ICR) for the Drone Infrastructure Inspection Grant (DIIG) Program",
       "identifier": "Docket No. DOT-OST-2026-3367",
       "category": "regulatory",
@@ -6458,7 +6458,7 @@
     },
     {
       "deadline": "2026-11-02",
-      "days": 30,
+      "days": 29,
       "title": "Agency Information Collection Activities; Proposed eCollection eComments Requested; Revision of a Previously Approved Collection; Title-SAFER SKIES State, Local, Tribal, and Territorial Counter-UAS Information Collection",
       "identifier": "OMB Number 1110-0090",
       "category": "regulatory",
