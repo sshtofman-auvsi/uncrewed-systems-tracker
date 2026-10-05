@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-05T13:50:50.523226+00:00",
-  "generated_human": "2026-10-05 13:50 UTC",
+  "generated_at": "2026-10-05T23:50:16.489883+00:00",
+  "generated_human": "2026-10-05 23:50 UTC",
   "demo": false,
   "items": [
     {
@@ -46,6 +46,35 @@
       "is_new": false
     },
     {
+      "id": "FCC ECFS:26110079416",
+      "source": "FCC ECFS",
+      "category": "regulatory",
+      "type": "Comment",
+      "title": "Theodora Scarato, Director of Wireless and EMF Program at Environmental Health Sciences: COMMENT (FCC 26-74)",
+      "url": "https://www.fcc.gov/ecfs/document/26110079416/1",
+      "agency": "FCC",
+      "identifier": "FCC 26-74",
+      "date": "2026-10-05",
+      "deadline": null,
+      "summary": "",
+      "score": 80,
+      "domains": [
+        "air",
+        "spectrum",
+        "supply-chain"
+      ],
+      "matched_terms": [],
+      "watchlist": {
+        "key": "gn-26-74",
+        "label": "GN 26-74 (Unleashing American Drone Dominance)"
+      },
+      "extra": {
+        "proceeding": "26-74"
+      },
+      "first_seen": "2026-10-05T23:50:16.489883+00:00",
+      "is_new": true
+    },
+    {
       "id": "FCC ECFS:26110079084",
       "source": "FCC ECFS",
       "category": "regulatory",
@@ -78,93 +107,6 @@
       "is_new": false
     },
     {
-      "id": "FCC ECFS:26110078980",
-      "source": "FCC ECFS",
-      "category": "regulatory",
-      "type": "Comment",
-      "title": "Theodora Scarato, environmental health sciences: COMMENT (FCC 26-74)",
-      "url": "https://www.fcc.gov/ecfs/document/26110078980/1",
-      "agency": "FCC",
-      "identifier": "FCC 26-74",
-      "date": "2026-10-01",
-      "deadline": null,
-      "summary": "",
-      "score": 80,
-      "domains": [
-        "air",
-        "spectrum",
-        "supply-chain"
-      ],
-      "matched_terms": [],
-      "watchlist": {
-        "key": "gn-26-74",
-        "label": "GN 26-74 (Unleashing American Drone Dominance)"
-      },
-      "extra": {
-        "proceeding": "26-74"
-      },
-      "first_seen": "2026-10-01T22:26:54.554414+00:00",
-      "is_new": false
-    },
-    {
-      "id": "FCC ECFS:26110078781",
-      "source": "FCC ECFS",
-      "category": "regulatory",
-      "type": "Reply Comment",
-      "title": "CTIA: REPLY TO OPPOSITION TO PETITION FOR RECONSIDERATION (FCC 26-74)",
-      "url": "https://www.fcc.gov/ecfs/document/26110078781/1",
-      "agency": "FCC",
-      "identifier": "FCC 26-74",
-      "date": "2026-09-30",
-      "deadline": null,
-      "summary": "",
-      "score": 80,
-      "domains": [
-        "air",
-        "spectrum",
-        "supply-chain"
-      ],
-      "matched_terms": [],
-      "watchlist": {
-        "key": "gn-26-74",
-        "label": "GN 26-74 (Unleashing American Drone Dominance)"
-      },
-      "extra": {
-        "proceeding": "26-74"
-      },
-      "first_seen": "2026-09-30T21:58:12.268559+00:00",
-      "is_new": false
-    },
-    {
-      "id": "FCC ECFS:26110078798",
-      "source": "FCC ECFS",
-      "category": "regulatory",
-      "type": "Reply Comment",
-      "title": "GPS Innovation Alliance: REPLY TO COMMENTS (FCC 26-74)",
-      "url": "https://www.fcc.gov/ecfs/document/26110078798/1",
-      "agency": "FCC",
-      "identifier": "FCC 26-74",
-      "date": "2026-09-30",
-      "deadline": null,
-      "summary": "",
-      "score": 80,
-      "domains": [
-        "air",
-        "spectrum",
-        "supply-chain"
-      ],
-      "matched_terms": [],
-      "watchlist": {
-        "key": "gn-26-74",
-        "label": "GN 26-74 (Unleashing American Drone Dominance)"
-      },
-      "extra": {
-        "proceeding": "26-74"
-      },
-      "first_seen": "2026-09-30T21:58:12.268559+00:00",
-      "is_new": false
-    },
-    {
       "id": "Congress.gov:119-s-4429",
       "source": "Congress.gov",
       "category": "legislative",
@@ -191,122 +133,6 @@
       },
       "extra": {},
       "first_seen": "2026-08-08T06:54:40.460991+00:00",
-      "is_new": false
-    },
-    {
-      "id": "FCC ECFS:26110076810",
-      "source": "FCC ECFS",
-      "category": "regulatory",
-      "type": "Comment",
-      "title": "Autonomy Institute: COMMENT (FCC 26-74)",
-      "url": "https://www.fcc.gov/ecfs/search/search-filings/filing/26110076810",
-      "agency": "FCC",
-      "identifier": "FCC 26-74",
-      "date": "2026-09-16",
-      "deadline": null,
-      "summary": "Intelligent Infrastructure is the digital backbone of America’s next economy—without it, autonomy, resilience, and shared prosperity remain just ideas. The AV National Strategy correctly prioritizes safety, regulatory certainty, American innovation, and interoperable corridors. However, it will not deliver scaled deployment of autonomous ground systems, Vision Zero, Physical AI, or the low-altitud",
-      "score": 80,
-      "domains": [
-        "air",
-        "spectrum",
-        "supply-chain"
-      ],
-      "matched_terms": [],
-      "watchlist": {
-        "key": "gn-26-74",
-        "label": "GN 26-74 (Unleashing American Drone Dominance)"
-      },
-      "extra": {
-        "proceeding": "26-74"
-      },
-      "first_seen": "2026-09-16T20:58:37.154638+00:00",
-      "is_new": false
-    },
-    {
-      "id": "FCC ECFS:26110076809",
-      "source": "FCC ECFS",
-      "category": "regulatory",
-      "type": "MOTION TO COMPEL",
-      "title": "Autonomy Institute: MOTION TO COMPEL (FCC 26-74)",
-      "url": "https://www.fcc.gov/ecfs/document/26110076809/1",
-      "agency": "FCC",
-      "identifier": "FCC 26-74",
-      "date": "2026-09-16",
-      "deadline": null,
-      "summary": "",
-      "score": 80,
-      "domains": [
-        "air",
-        "spectrum",
-        "supply-chain"
-      ],
-      "matched_terms": [],
-      "watchlist": {
-        "key": "gn-26-74",
-        "label": "GN 26-74 (Unleashing American Drone Dominance)"
-      },
-      "extra": {
-        "proceeding": "26-74"
-      },
-      "first_seen": "2026-09-16T20:58:37.154638+00:00",
-      "is_new": false
-    },
-    {
-      "id": "FCC ECFS:26110076629",
-      "source": "FCC ECFS",
-      "category": "regulatory",
-      "type": "Comment",
-      "title": "The National Football League (NFL): COMMENT (FCC 26-74)",
-      "url": "https://www.fcc.gov/ecfs/document/26110076629/1",
-      "agency": "FCC",
-      "identifier": "FCC 26-74",
-      "date": "2026-09-15",
-      "deadline": null,
-      "summary": "",
-      "score": 80,
-      "domains": [
-        "air",
-        "spectrum",
-        "supply-chain"
-      ],
-      "matched_terms": [],
-      "watchlist": {
-        "key": "gn-26-74",
-        "label": "GN 26-74 (Unleashing American Drone Dominance)"
-      },
-      "extra": {
-        "proceeding": "26-74"
-      },
-      "first_seen": "2026-09-15T16:27:21.815238+00:00",
-      "is_new": false
-    },
-    {
-      "id": "FCC ECFS:26110076475",
-      "source": "FCC ECFS",
-      "category": "regulatory",
-      "type": "Comment",
-      "title": "Theodora Scarato: COMMENT (FCC 26-74)",
-      "url": "https://www.fcc.gov/ecfs/document/26110076475/1",
-      "agency": "FCC",
-      "identifier": "FCC 26-74",
-      "date": "2026-09-14",
-      "deadline": null,
-      "summary": "",
-      "score": 80,
-      "domains": [
-        "air",
-        "spectrum",
-        "supply-chain"
-      ],
-      "matched_terms": [],
-      "watchlist": {
-        "key": "gn-26-74",
-        "label": "GN 26-74 (Unleashing American Drone Dominance)"
-      },
-      "extra": {
-        "proceeding": "26-74"
-      },
-      "first_seen": "2026-09-14T21:36:30.241044+00:00",
       "is_new": false
     },
     {
@@ -339,35 +165,6 @@
         "proceeding": "26-22"
       },
       "first_seen": "2026-09-14T21:36:30.241044+00:00",
-      "is_new": false
-    },
-    {
-      "id": "FCC ECFS:10911978827428",
-      "source": "FCC ECFS",
-      "category": "regulatory",
-      "type": "ORDER",
-      "title": "Wireless Telecommunications Bureau: ORDER (FCC 26-74)",
-      "url": "https://docs.fcc.gov/public/attachments/DA-26-972A1.pdf",
-      "agency": "FCC",
-      "identifier": "FCC 26-74",
-      "date": "2026-09-11",
-      "deadline": null,
-      "summary": "",
-      "score": 80,
-      "domains": [
-        "air",
-        "spectrum",
-        "supply-chain"
-      ],
-      "matched_terms": [],
-      "watchlist": {
-        "key": "gn-26-74",
-        "label": "GN 26-74 (Unleashing American Drone Dominance)"
-      },
-      "extra": {
-        "proceeding": "26-74"
-      },
-      "first_seen": "2026-09-11T20:36:57.754520+00:00",
       "is_new": false
     },
     {
@@ -614,99 +411,6 @@
         "proceeding": "26-22"
       },
       "first_seen": "2026-09-03T15:57:14.350942+00:00",
-      "is_new": false
-    },
-    {
-      "id": "FCC ECFS:26110075039",
-      "source": "FCC ECFS",
-      "category": "regulatory",
-      "type": "Comment",
-      "title": "Greg: COMMENT (FCC 26-74)",
-      "url": "https://www.fcc.gov/ecfs/search/search-filings/filing/26110075039",
-      "agency": "FCC",
-      "identifier": "FCC 26-74",
-      "date": "2026-09-02",
-      "deadline": null,
-      "summary": "This is ridiculous. I want the most technically advanced drones for my business, not American made expensive crap",
-      "score": 80,
-      "domains": [
-        "air",
-        "spectrum",
-        "supply-chain"
-      ],
-      "matched_terms": [],
-      "watchlist": {
-        "key": "gn-26-74",
-        "label": "GN 26-74 (Unleashing American Drone Dominance)"
-      },
-      "extra": {
-        "proceeding": "26-74"
-      },
-      "first_seen": "2026-09-02T20:38:42.923710+00:00",
-      "is_new": false
-    },
-    {
-      "id": "FCC ECFS:26110074508",
-      "source": "FCC ECFS",
-      "category": "regulatory",
-      "type": "Comment",
-      "title": "Daniel Mittan: COMMENT (FCC 26-74)",
-      "url": "https://www.fcc.gov/ecfs/search/search-filings/filing/26110074508",
-      "agency": "FCC",
-      "identifier": "FCC 26-74",
-      "date": "2026-09-02",
-      "deadline": null,
-      "summary": "LiDAR is a tool. It's presence does not make a drone \"military-grade\".\n\nI fully support appropriate measures to protect America’s national security and to secure the U.S. drone supply chain. In fact, I believe those objectives can be better served by regulations that distinguish genuine military capabilities from ordinary civilian technology.\n\nThe United States should encourage innovation in LiDAR",
-      "score": 80,
-      "domains": [
-        "air",
-        "ground",
-        "spectrum",
-        "supply-chain"
-      ],
-      "matched_terms": [
-        "drone",
-        "supply chain",
-        "lidar",
-        "26-74"
-      ],
-      "watchlist": {
-        "key": "gn-26-74",
-        "label": "GN 26-74 (Unleashing American Drone Dominance)"
-      },
-      "extra": {
-        "proceeding": "26-74"
-      },
-      "first_seen": "2026-09-02T16:07:22.572980+00:00",
-      "is_new": false
-    },
-    {
-      "id": "FCC ECFS:26110074488",
-      "source": "FCC ECFS",
-      "category": "regulatory",
-      "type": "Comment",
-      "title": "Daniel D Mittan: COMMENT (FCC 26-74)",
-      "url": "https://www.fcc.gov/ecfs/document/26110074488/1",
-      "agency": "FCC",
-      "identifier": "FCC 26-74",
-      "date": "2026-09-02",
-      "deadline": null,
-      "summary": "",
-      "score": 80,
-      "domains": [
-        "air",
-        "spectrum",
-        "supply-chain"
-      ],
-      "matched_terms": [],
-      "watchlist": {
-        "key": "gn-26-74",
-        "label": "GN 26-74 (Unleashing American Drone Dominance)"
-      },
-      "extra": {
-        "proceeding": "26-74"
-      },
-      "first_seen": "2026-09-02T16:07:22.572980+00:00",
       "is_new": false
     },
     {
@@ -1046,39 +750,6 @@
       },
       "extra": {},
       "first_seen": "2026-08-08T06:54:40.460991+00:00",
-      "is_new": false
-    },
-    {
-      "id": "FCC ECFS:26110073762",
-      "source": "FCC ECFS",
-      "category": "regulatory",
-      "type": "Comment",
-      "title": "Christopher Michael Poarch, Elevate 360 Media Co, LLC: COMMENT (FCC 26-74)",
-      "url": "https://www.fcc.gov/ecfs/search/search-filings/filing/26110073762",
-      "agency": "FCC",
-      "identifier": "FCC 26-74",
-      "date": "2026-08-31",
-      "deadline": null,
-      "summary": "I strongly oppose the proposed restrictions on previously authorized foreign-produced unmanned aircraft systems and critical drone components without adequate protections for the thousands of American businesses that have built legitimate commercial operations around these aircraft.\n\nI fully support protecting our national security and strengthening the American drone manufacturing industry. Howev",
-      "score": 80,
-      "domains": [
-        "air",
-        "spectrum",
-        "supply-chain"
-      ],
-      "matched_terms": [
-        "unmanned aircraft",
-        "drone",
-        "26-74"
-      ],
-      "watchlist": {
-        "key": "gn-26-74",
-        "label": "GN 26-74 (Unleashing American Drone Dominance)"
-      },
-      "extra": {
-        "proceeding": "26-74"
-      },
-      "first_seen": "2026-08-31T22:38:23.590071+00:00",
       "is_new": false
     },
     {
@@ -1449,40 +1120,6 @@
         "proceeding": "26-22"
       },
       "first_seen": "2026-08-31T22:38:23.590071+00:00",
-      "is_new": false
-    },
-    {
-      "id": "FCC ECFS:26110073580",
-      "source": "FCC ECFS",
-      "category": "regulatory",
-      "type": "Comment",
-      "title": "PrecisionAg Drone Services, LLC (Nathan Croll, owner/operator): COMMENT (FCC 26-74)",
-      "url": "https://www.fcc.gov/ecfs/search/search-filings/filing/26110073580",
-      "agency": "FCC",
-      "identifier": "FCC 26-74",
-      "date": "2026-08-28",
-      "deadline": null,
-      "summary": "RE: Comments Regarding Proposed Restrictions on Foreign-Manufactured Agricultural Unmanned Aircraft Systems\n\nTo the Federal Communications Commission:\n\nI am submitting my comment as a start-up small-business owner in Missouri who intends to operate agricultural unmanned aircraft systems (UAS) to provide services to farmers, including crop spraying, fertilizer application, seeding, cover-crop appli",
-      "score": 80,
-      "domains": [
-        "air",
-        "spectrum",
-        "supply-chain"
-      ],
-      "matched_terms": [
-        "unmanned aircraft",
-        "uas",
-        "drone",
-        "26-74"
-      ],
-      "watchlist": {
-        "key": "gn-26-74",
-        "label": "GN 26-74 (Unleashing American Drone Dominance)"
-      },
-      "extra": {
-        "proceeding": "26-74"
-      },
-      "first_seen": "2026-08-28T21:47:14.838038+00:00",
       "is_new": false
     },
     {
@@ -2047,355 +1684,17 @@
       "is_new": false
     },
     {
-      "id": "FCC ECFS:26110072188",
-      "source": "FCC ECFS",
-      "category": "regulatory",
-      "type": "COMPLAINT",
-      "title": "Jesse Sosa: COMPLAINT (FCC 26-74)",
-      "url": "https://www.fcc.gov/ecfs/document/26110072188/1",
-      "agency": "FCC",
-      "identifier": "FCC 26-74",
-      "date": "2026-08-19",
-      "deadline": null,
-      "summary": "",
-      "score": 80,
-      "domains": [
-        "air",
-        "spectrum",
-        "supply-chain"
-      ],
-      "matched_terms": [],
-      "watchlist": {
-        "key": "gn-26-74",
-        "label": "GN 26-74 (Unleashing American Drone Dominance)"
-      },
-      "extra": {
-        "proceeding": "26-74"
-      },
-      "first_seen": "2026-08-19T18:36:34.483881+00:00",
-      "is_new": false
-    },
-    {
-      "id": "FCC ECFS:26110071493",
-      "source": "FCC ECFS",
-      "category": "regulatory",
-      "type": "Comment",
-      "title": "Mark Wise: COMMENT (FCC 26-74)",
-      "url": "https://www.fcc.gov/ecfs/search/search-filings/filing/26110071493",
-      "agency": "FCC",
-      "identifier": "FCC 26-74",
-      "date": "2026-08-17",
-      "deadline": null,
-      "summary": "Banning recreational sales and use of Drones is just UN-American !!!!!!!!!!!! Everyone just wants to enjoy flying their Drone. YOU already have us banned to a max. ceiling of 400 feet which I also think it should be a bit higher. I am wondering why so many Government Officials \"love\" taking Our Freedoms from the American People. \"YOU work for Us\" !!! I consider myself a very safe and responsible r",
-      "score": 80,
-      "domains": [
-        "air",
-        "spectrum",
-        "supply-chain"
-      ],
-      "matched_terms": [
-        "drone",
-        "26-74"
-      ],
-      "watchlist": {
-        "key": "gn-26-74",
-        "label": "GN 26-74 (Unleashing American Drone Dominance)"
-      },
-      "extra": {
-        "proceeding": "26-74"
-      },
-      "first_seen": "2026-08-17T18:40:13.579342+00:00",
-      "is_new": false
-    },
-    {
-      "id": "FCC ECFS:26110071793",
-      "source": "FCC ECFS",
-      "category": "regulatory",
-      "type": "Comment",
-      "title": "Bob Johnson: COMMENT (FCC 26-74)",
-      "url": "https://www.fcc.gov/ecfs/search/search-filings/filing/26110071793",
-      "agency": "FCC",
-      "identifier": "FCC 26-74",
-      "date": "2026-08-17",
-      "deadline": null,
-      "summary": "I oppose restrictions that would broadly ban or unnecessarily limit the use of LiDAR technology on drones. LiDAR can improve obstacle detection, navigation, mapping, surveying, infrastructure inspection, and safety, particularly in environments where ordinary cameras or GPS may be less effective.\n\nRather than imposing a blanket ban, the FCC should consider targeted rules addressing demonstrated sa",
-      "score": 80,
-      "domains": [
-        "air",
-        "spectrum",
-        "supply-chain"
-      ],
-      "matched_terms": [],
-      "watchlist": {
-        "key": "gn-26-74",
-        "label": "GN 26-74 (Unleashing American Drone Dominance)"
-      },
-      "extra": {
-        "proceeding": "26-74"
-      },
-      "first_seen": "2026-08-17T18:40:13.579342+00:00",
-      "is_new": false
-    },
-    {
-      "id": "FCC ECFS:10814150111418",
-      "source": "FCC ECFS",
-      "category": "regulatory",
-      "type": "Notice",
-      "title": "Wireless Telecommunications Bureau: PUBLIC NOTICE (FCC 26-74)",
-      "url": "https://docs.fcc.gov/public/attachments/DA-26-853A1.pdf",
-      "agency": "FCC",
-      "identifier": "FCC 26-74",
-      "date": "2026-08-14",
-      "deadline": null,
-      "summary": "",
-      "score": 80,
-      "domains": [
-        "air",
-        "spectrum",
-        "supply-chain"
-      ],
-      "matched_terms": [],
-      "watchlist": {
-        "key": "gn-26-74",
-        "label": "GN 26-74 (Unleashing American Drone Dominance)"
-      },
-      "extra": {
-        "proceeding": "26-74"
-      },
-      "first_seen": "2026-08-14T18:55:22.284701+00:00",
-      "is_new": false
-    },
-    {
-      "id": "FCC ECFS:26110071164",
-      "source": "FCC ECFS",
-      "category": "regulatory",
-      "type": "Comment",
-      "title": "Case Terwilliger: COMMENT (FCC 26-74)",
-      "url": "https://www.fcc.gov/ecfs/search/search-filings/filing/26110071164",
-      "agency": "FCC",
-      "identifier": "FCC 26-74",
-      "date": "2026-08-14",
-      "deadline": null,
-      "summary": "Military grade? Are you guys kidding with lidar i wouldn't trust my drone through trees. Just stop with the power grabs and view this amazing beautiful earth",
-      "score": 80,
-      "domains": [
-        "air",
-        "ground",
-        "spectrum",
-        "supply-chain"
-      ],
-      "matched_terms": [
-        "drone",
-        "lidar",
-        "26-74"
-      ],
-      "watchlist": {
-        "key": "gn-26-74",
-        "label": "GN 26-74 (Unleashing American Drone Dominance)"
-      },
-      "extra": {
-        "proceeding": "26-74"
-      },
-      "first_seen": "2026-08-14T18:55:22.284701+00:00",
-      "is_new": false
-    },
-    {
-      "id": "FCC ECFS:26110071217",
-      "source": "FCC ECFS",
-      "category": "regulatory",
-      "type": "OPPOSITION TO PETITION FOR RECONSIDERATION",
-      "title": "Security Industry Association: OPPOSITION TO PETITION FOR RECONSIDERATION (FCC 26-74)",
-      "url": "https://www.fcc.gov/ecfs/document/26110071217/1",
-      "agency": "FCC",
-      "identifier": "FCC 26-74",
-      "date": "2026-08-14",
-      "deadline": null,
-      "summary": "",
-      "score": 80,
-      "domains": [
-        "air",
-        "spectrum",
-        "supply-chain"
-      ],
-      "matched_terms": [],
-      "watchlist": {
-        "key": "gn-26-74",
-        "label": "GN 26-74 (Unleashing American Drone Dominance)"
-      },
-      "extra": {
-        "proceeding": "26-74"
-      },
-      "first_seen": "2026-08-14T18:55:22.284701+00:00",
-      "is_new": false
-    },
-    {
-      "id": "FCC ECFS:26110071197",
-      "source": "FCC ECFS",
-      "category": "regulatory",
-      "type": "OPPOSITION TO PETITION FOR RECONSIDERATION",
-      "title": "D-Fend Solutions: OPPOSITION TO PETITION FOR RECONSIDERATION (FCC 26-74)",
-      "url": "https://www.fcc.gov/ecfs/document/26110071197/1",
-      "agency": "FCC",
-      "identifier": "FCC 26-74",
-      "date": "2026-08-14",
-      "deadline": null,
-      "summary": "",
-      "score": 80,
-      "domains": [
-        "air",
-        "spectrum",
-        "supply-chain"
-      ],
-      "matched_terms": [],
-      "watchlist": {
-        "key": "gn-26-74",
-        "label": "GN 26-74 (Unleashing American Drone Dominance)"
-      },
-      "extra": {
-        "proceeding": "26-74"
-      },
-      "first_seen": "2026-08-14T18:55:22.284701+00:00",
-      "is_new": false
-    },
-    {
-      "id": "FCC ECFS:26110071178",
-      "source": "FCC ECFS",
-      "category": "regulatory",
-      "type": "OPPOSITION TO PETITION FOR RECONSIDERATION",
-      "title": "DRONERESPONDERS: OPPOSITION TO PETITION FOR RECONSIDERATION (FCC 26-74)",
-      "url": "https://www.fcc.gov/ecfs/document/26110071178/1",
-      "agency": "FCC",
-      "identifier": "FCC 26-74",
-      "date": "2026-08-14",
-      "deadline": null,
-      "summary": "",
-      "score": 80,
-      "domains": [
-        "air",
-        "spectrum",
-        "supply-chain"
-      ],
-      "matched_terms": [],
-      "watchlist": {
-        "key": "gn-26-74",
-        "label": "GN 26-74 (Unleashing American Drone Dominance)"
-      },
-      "extra": {
-        "proceeding": "26-74"
-      },
-      "first_seen": "2026-08-14T18:55:22.284701+00:00",
-      "is_new": false
-    },
-    {
-      "id": "FCC ECFS:26110071084",
-      "source": "FCC ECFS",
-      "category": "regulatory",
-      "type": "Comment",
-      "title": "Ishwar Seunath-Williams: COMMENT (FCC 26-74)",
-      "url": "https://www.fcc.gov/ecfs/search/search-filings/filing/26110071084",
-      "agency": "FCC",
-      "identifier": "FCC 26-74",
-      "date": "2026-08-13",
-      "deadline": null,
-      "summary": "I use my drone and do photo shoots, banning a drone that has the ability to avoid obstacles creates a greater risk to people and property. I do not support the banning of DJI products that have previously been deemed safe. This honestly feels like too much control being taken away from the consumer and specifically one company.",
-      "score": 80,
-      "domains": [
-        "air",
-        "spectrum",
-        "supply-chain"
-      ],
-      "matched_terms": [
-        "drone",
-        "dji",
-        "26-74"
-      ],
-      "watchlist": {
-        "key": "gn-26-74",
-        "label": "GN 26-74 (Unleashing American Drone Dominance)"
-      },
-      "extra": {
-        "proceeding": "26-74"
-      },
-      "first_seen": "2026-08-14T02:01:38.652289+00:00",
-      "is_new": false
-    },
-    {
-      "id": "FCC ECFS:26110070417",
-      "source": "FCC ECFS",
-      "category": "regulatory",
-      "type": "Comment",
-      "title": "Stephen Moffe: COMMENT (FCC 26-74)",
-      "url": "https://www.fcc.gov/ecfs/search/search-filings/filing/26110070417",
-      "agency": "FCC",
-      "identifier": "FCC 26-74",
-      "date": "2026-08-11",
-      "deadline": null,
-      "summary": "I requested the ban on drones from foreign countries be abandoned. It  serves no legitimate purpose, and I highly doubt that a company that wants to make money and offer a superior product to other drone companies that they be allowed to do so. It would be highly unlikely of any spyware technology being used which would effectively kill their business in the United States which is a large market,",
-      "score": 80,
-      "domains": [
-        "air",
-        "spectrum",
-        "supply-chain"
-      ],
-      "matched_terms": [
-        "drone",
-        "26-74"
-      ],
-      "watchlist": {
-        "key": "gn-26-74",
-        "label": "GN 26-74 (Unleashing American Drone Dominance)"
-      },
-      "extra": {
-        "proceeding": "26-74"
-      },
-      "first_seen": "2026-08-11T19:03:38.629602+00:00",
-      "is_new": false
-    },
-    {
-      "id": "FCC ECFS:26110070015",
-      "source": "FCC ECFS",
-      "category": "regulatory",
-      "type": "Comment",
-      "title": "Michael Ward: COMMENT (FCC 26-74)",
-      "url": "https://www.fcc.gov/ecfs/search/search-filings/filing/26110070015",
-      "agency": "FCC",
-      "identifier": "FCC 26-74",
-      "date": "2026-08-10",
-      "deadline": null,
-      "summary": "I’m an amateur drone pilot and do not want the DJI mini pro 5 to be restricted so that I cannot use my drone in the US. PLEASE consider this in your decision. Thank you",
-      "score": 80,
-      "domains": [
-        "air",
-        "spectrum",
-        "supply-chain"
-      ],
-      "matched_terms": [
-        "drone",
-        "dji",
-        "26-74"
-      ],
-      "watchlist": {
-        "key": "gn-26-74",
-        "label": "GN 26-74 (Unleashing American Drone Dominance)"
-      },
-      "extra": {
-        "proceeding": "26-74"
-      },
-      "first_seen": "2026-08-10T18:59:28.827229+00:00",
-      "is_new": false
-    },
-    {
-      "id": "Regulations.gov:FAA-2026-4558-1629",
+      "id": "Regulations.gov:FAA-2026-4558-1630",
       "source": "Regulations.gov",
       "category": "regulatory",
       "type": "Comment",
-      "title": "Comment on Designation – Restrict the Operation of Unmanned Aircraft in Close Proximity  to a Fixed Site Facility: Comment from Karin L",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1629",
+      "title": "Comment on Designation – Restrict the Operation of Unmanned Aircraft in Close Proximity  to a Fixed Site Facility: Comment from American Chemistry Council",
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1630",
       "agency": "FAA",
       "identifier": "FAA-2026-4558",
       "date": "2026-08-06",
       "deadline": null,
-      "summary": "Comment from Karin L",
+      "summary": "Comment from American Chemistry Council",
       "score": 80,
       "domains": [
         "air"
@@ -2411,66 +1710,8 @@
       "extra": {
         "docket_total_comments": 1669
       },
-      "first_seen": "2026-10-05T13:50:50.523226+00:00",
+      "first_seen": "2026-10-05T23:50:16.489883+00:00",
       "is_new": true
-    },
-    {
-      "id": "FCC ECFS:26110069388",
-      "source": "FCC ECFS",
-      "category": "regulatory",
-      "type": "PETITION",
-      "title": "CTIA: PETITION (FCC 26-74)",
-      "url": "https://www.fcc.gov/ecfs/document/26110069388/1",
-      "agency": "FCC",
-      "identifier": "FCC 26-74",
-      "date": "2026-08-04",
-      "deadline": null,
-      "summary": "",
-      "score": 80,
-      "domains": [
-        "air",
-        "spectrum",
-        "supply-chain"
-      ],
-      "matched_terms": [],
-      "watchlist": {
-        "key": "gn-26-74",
-        "label": "GN 26-74 (Unleashing American Drone Dominance)"
-      },
-      "extra": {
-        "proceeding": "26-74"
-      },
-      "first_seen": "2026-09-30T12:03:15.744794+00:00",
-      "is_new": false
-    },
-    {
-      "id": "FCC ECFS:26110069384",
-      "source": "FCC ECFS",
-      "category": "regulatory",
-      "type": "PETITION FOR RECONSIDERATION",
-      "title": "CTIA: PETITION FOR RECONSIDERATION (FCC 26-74)",
-      "url": "https://www.fcc.gov/ecfs/document/26110069384/1",
-      "agency": "FCC",
-      "identifier": "FCC 26-74",
-      "date": "2026-08-04",
-      "deadline": null,
-      "summary": "",
-      "score": 80,
-      "domains": [
-        "air",
-        "spectrum",
-        "supply-chain"
-      ],
-      "matched_terms": [],
-      "watchlist": {
-        "key": "gn-26-74",
-        "label": "GN 26-74 (Unleashing American Drone Dominance)"
-      },
-      "extra": {
-        "proceeding": "26-74"
-      },
-      "first_seen": "2026-08-07T18:58:44.285172+00:00",
-      "is_new": false
     },
     {
       "id": "Federal Register:2026-15659",
@@ -2510,38 +1751,6 @@
       "is_new": false
     },
     {
-      "id": "FCC ECFS:26110061103",
-      "source": "FCC ECFS",
-      "category": "regulatory",
-      "type": "Comment",
-      "title": "Ronald D McGraw Jr: COMMENT (FCC 26-74)",
-      "url": "https://www.fcc.gov/ecfs/search/search-filings/filing/26110061103",
-      "agency": "FCC",
-      "identifier": "FCC 26-74",
-      "date": "2026-07-28",
-      "deadline": null,
-      "summary": "To whom it may concern, I am a middle class citizen nearing retirement with a small farm on a single, (thanks to the horrible inflation and economy), barely livable income. I use a small inexpensive drone for fun, hobby, photography and to monitor fencing on the distant parts of my property, especially during drought cycles where I don't take a motorized vehicle out into the field for fear of wild",
-      "score": 80,
-      "domains": [
-        "air",
-        "spectrum",
-        "supply-chain"
-      ],
-      "matched_terms": [
-        "drone",
-        "26-74"
-      ],
-      "watchlist": {
-        "key": "gn-26-74",
-        "label": "GN 26-74 (Unleashing American Drone Dominance)"
-      },
-      "extra": {
-        "proceeding": "26-74"
-      },
-      "first_seen": "2026-07-28T19:25:57.892287+00:00",
-      "is_new": false
-    },
-    {
       "id": "Regulations.gov:FAA-2025-1908-3964",
       "source": "Regulations.gov",
       "category": "regulatory",
@@ -2570,64 +1779,6 @@
         "docket_total_comments": 3929
       },
       "first_seen": "2026-07-10T18:09:10.408312+00:00",
-      "is_new": false
-    },
-    {
-      "id": "FCC ECFS:107022321324871",
-      "source": "FCC ECFS",
-      "category": "regulatory",
-      "type": "OTHER",
-      "title": "Wireless Telecommunications Bureau: OTHER (FCC 26-74)",
-      "url": "https://docs.fcc.gov/public/attachments/DA-26-654A1.pdf",
-      "agency": "FCC",
-      "identifier": "FCC 26-74",
-      "date": "2026-07-02",
-      "deadline": null,
-      "summary": "",
-      "score": 80,
-      "domains": [
-        "air",
-        "spectrum",
-        "supply-chain"
-      ],
-      "matched_terms": [],
-      "watchlist": {
-        "key": "gn-26-74",
-        "label": "GN 26-74 (Unleashing American Drone Dominance)"
-      },
-      "extra": {
-        "proceeding": "26-74"
-      },
-      "first_seen": "2026-08-18T06:43:25.448189+00:00",
-      "is_new": false
-    },
-    {
-      "id": "FCC ECFS:10702055201256",
-      "source": "FCC ECFS",
-      "category": "regulatory",
-      "type": "ORDER",
-      "title": "Office of Engineering & Technology: ORDER (FCC 26-74)",
-      "url": "https://docs.fcc.gov/public/attachments/DA-26-657A1.pdf",
-      "agency": "FCC",
-      "identifier": "FCC 26-74",
-      "date": "2026-07-02",
-      "deadline": null,
-      "summary": "",
-      "score": 80,
-      "domains": [
-        "air",
-        "spectrum",
-        "supply-chain"
-      ],
-      "matched_terms": [],
-      "watchlist": {
-        "key": "gn-26-74",
-        "label": "GN 26-74 (Unleashing American Drone Dominance)"
-      },
-      "extra": {
-        "proceeding": "26-74"
-      },
-      "first_seen": "2026-07-02T18:19:03.065344+00:00",
       "is_new": false
     },
     {
@@ -2665,64 +1816,6 @@
       "is_new": false
     },
     {
-      "id": "FCC ECFS:26109881738",
-      "source": "FCC ECFS",
-      "category": "regulatory",
-      "type": "Notice",
-      "title": "Valkryn Systems: NOTICE OF EXPARTE (FCC 26-74)",
-      "url": "https://www.fcc.gov/ecfs/document/26109881738/1",
-      "agency": "FCC",
-      "identifier": "FCC 26-74",
-      "date": "2026-06-23",
-      "deadline": null,
-      "summary": "",
-      "score": 80,
-      "domains": [
-        "air",
-        "spectrum",
-        "supply-chain"
-      ],
-      "matched_terms": [],
-      "watchlist": {
-        "key": "gn-26-74",
-        "label": "GN 26-74 (Unleashing American Drone Dominance)"
-      },
-      "extra": {
-        "proceeding": "26-74"
-      },
-      "first_seen": "2026-06-24T10:37:40.965591+00:00",
-      "is_new": false
-    },
-    {
-      "id": "FCC ECFS:10528281610686",
-      "source": "FCC ECFS",
-      "category": "regulatory",
-      "type": "Notice",
-      "title": "Edison Electric Institute, American Public Power Association, Large Public Power Council, National Rural Electric Cooperatives Association: NOTICE OF EXPARTE (FCC 26-74)",
-      "url": "https://www.fcc.gov/ecfs/document/10528281610686/1",
-      "agency": "FCC",
-      "identifier": "FCC 26-74",
-      "date": "2026-05-28",
-      "deadline": null,
-      "summary": "",
-      "score": 80,
-      "domains": [
-        "air",
-        "spectrum",
-        "supply-chain"
-      ],
-      "matched_terms": [],
-      "watchlist": {
-        "key": "gn-26-74",
-        "label": "GN 26-74 (Unleashing American Drone Dominance)"
-      },
-      "extra": {
-        "proceeding": "26-74"
-      },
-      "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": false
-    },
-    {
       "id": "Congress.gov:119-hr-8870",
       "source": "Congress.gov",
       "category": "legislative",
@@ -2747,267 +1840,6 @@
         "label": "BUILD America 250 Act (Sec. 6009 LiDAR)"
       },
       "extra": {},
-      "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": false
-    },
-    {
-      "id": "FCC ECFS:10520398508165",
-      "source": "FCC ECFS",
-      "category": "regulatory",
-      "type": "Comment",
-      "title": "Justine Hollingshead: COMMENT (FCC 26-74)",
-      "url": "https://www.fcc.gov/ecfs/document/10520398508165/1",
-      "agency": "FCC",
-      "identifier": "FCC 26-74",
-      "date": "2026-05-20",
-      "deadline": null,
-      "summary": "",
-      "score": 80,
-      "domains": [
-        "air",
-        "spectrum",
-        "supply-chain"
-      ],
-      "matched_terms": [],
-      "watchlist": {
-        "key": "gn-26-74",
-        "label": "GN 26-74 (Unleashing American Drone Dominance)"
-      },
-      "extra": {
-        "proceeding": "26-74"
-      },
-      "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": false
-    },
-    {
-      "id": "FCC ECFS:1051957007226",
-      "source": "FCC ECFS",
-      "category": "regulatory",
-      "type": "Reply Comment",
-      "title": "Tyler Murray, AFSOC GSU: REPLY (FCC 26-74)",
-      "url": "https://www.fcc.gov/ecfs/document/1051957007226/1",
-      "agency": "FCC",
-      "identifier": "FCC 26-74",
-      "date": "2026-05-19",
-      "deadline": null,
-      "summary": "",
-      "score": 80,
-      "domains": [
-        "air",
-        "spectrum",
-        "supply-chain"
-      ],
-      "matched_terms": [],
-      "watchlist": {
-        "key": "gn-26-74",
-        "label": "GN 26-74 (Unleashing American Drone Dominance)"
-      },
-      "extra": {
-        "proceeding": "26-74"
-      },
-      "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": false
-    },
-    {
-      "id": "FCC ECFS:1051800837232",
-      "source": "FCC ECFS",
-      "category": "regulatory",
-      "type": "Reply Comment",
-      "title": "Anne E Cortez: REPLY TO COMMENTS (FCC 26-74)",
-      "url": "https://www.fcc.gov/ecfs/document/1051800837232/1",
-      "agency": "FCC",
-      "identifier": "FCC 26-74",
-      "date": "2026-05-19",
-      "deadline": null,
-      "summary": "",
-      "score": 80,
-      "domains": [
-        "air",
-        "spectrum",
-        "supply-chain"
-      ],
-      "matched_terms": [],
-      "watchlist": {
-        "key": "gn-26-74",
-        "label": "GN 26-74 (Unleashing American Drone Dominance)"
-      },
-      "extra": {
-        "proceeding": "26-74"
-      },
-      "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": false
-    },
-    {
-      "id": "FCC ECFS:105191287630717",
-      "source": "FCC ECFS",
-      "category": "regulatory",
-      "type": "LETTER",
-      "title": "Aerospace and Flight Test Radio Coordinating Council, Inc.: LETTER (FCC 26-74)",
-      "url": "https://www.fcc.gov/ecfs/document/105191287630717/1",
-      "agency": "FCC",
-      "identifier": "FCC 26-74",
-      "date": "2026-05-19",
-      "deadline": null,
-      "summary": "",
-      "score": 80,
-      "domains": [
-        "air",
-        "spectrum",
-        "supply-chain"
-      ],
-      "matched_terms": [],
-      "watchlist": {
-        "key": "gn-26-74",
-        "label": "GN 26-74 (Unleashing American Drone Dominance)"
-      },
-      "extra": {
-        "proceeding": "26-74"
-      },
-      "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": false
-    },
-    {
-      "id": "FCC ECFS:1051812307908",
-      "source": "FCC ECFS",
-      "category": "regulatory",
-      "type": "Reply Comment",
-      "title": "Lower Colorado River Authority: REPLY TO COMMENTS (FCC 26-74)",
-      "url": "https://www.fcc.gov/ecfs/document/1051812307908/1",
-      "agency": "FCC",
-      "identifier": "FCC 26-74",
-      "date": "2026-05-19",
-      "deadline": null,
-      "summary": "",
-      "score": 80,
-      "domains": [
-        "air",
-        "spectrum",
-        "supply-chain"
-      ],
-      "matched_terms": [],
-      "watchlist": {
-        "key": "gn-26-74",
-        "label": "GN 26-74 (Unleashing American Drone Dominance)"
-      },
-      "extra": {
-        "proceeding": "26-74"
-      },
-      "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": false
-    },
-    {
-      "id": "FCC ECFS:10518639213118",
-      "source": "FCC ECFS",
-      "category": "regulatory",
-      "type": "Reply Comment",
-      "title": "Silvus Technologies Inc.: REPLY TO COMMENTS (FCC 26-74)",
-      "url": "https://www.fcc.gov/ecfs/document/10518639213118/1",
-      "agency": "FCC",
-      "identifier": "FCC 26-74",
-      "date": "2026-05-19",
-      "deadline": null,
-      "summary": "",
-      "score": 80,
-      "domains": [
-        "air",
-        "spectrum",
-        "supply-chain"
-      ],
-      "matched_terms": [],
-      "watchlist": {
-        "key": "gn-26-74",
-        "label": "GN 26-74 (Unleashing American Drone Dominance)"
-      },
-      "extra": {
-        "proceeding": "26-74"
-      },
-      "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": false
-    },
-    {
-      "id": "FCC ECFS:1051813119257",
-      "source": "FCC ECFS",
-      "category": "regulatory",
-      "type": "Reply Comment",
-      "title": "Aerospace Industries Association, Air Line Pilots Association International, AURA Network Systems, Inc., Aviation Spectrum Resources, Inc., The Boeing Company, Joby Aviation, and Vertical Aviation International: REPLY TO COMMENTS (FCC 26-74)",
-      "url": "https://www.fcc.gov/ecfs/document/1051813119257/1",
-      "agency": "FCC",
-      "identifier": "FCC 26-74",
-      "date": "2026-05-19",
-      "deadline": null,
-      "summary": "",
-      "score": 80,
-      "domains": [
-        "air",
-        "spectrum",
-        "supply-chain"
-      ],
-      "matched_terms": [],
-      "watchlist": {
-        "key": "gn-26-74",
-        "label": "GN 26-74 (Unleashing American Drone Dominance)"
-      },
-      "extra": {
-        "proceeding": "26-74"
-      },
-      "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": false
-    },
-    {
-      "id": "FCC ECFS:10518843201689",
-      "source": "FCC ECFS",
-      "category": "regulatory",
-      "type": "Reply Comment",
-      "title": "Connected Devices for America Coalition, E-ZPass Group, American Trucking Associations (ATA), International Bridge, Tunnel, and Turnpike Association (IBTTA), LoRa Alliance, National Retail Federation (NRF), RAIN Alliance Inc., Wi-Fi Alliance, WISPA – The Association for Broadband Without Boundaries, Wi-SUN Alliance: REPLY TO COMMENTS (FCC 26-74)",
-      "url": "https://www.fcc.gov/ecfs/document/10518843201689/1",
-      "agency": "FCC",
-      "identifier": "FCC 26-74",
-      "date": "2026-05-19",
-      "deadline": null,
-      "summary": "",
-      "score": 80,
-      "domains": [
-        "air",
-        "spectrum",
-        "supply-chain"
-      ],
-      "matched_terms": [],
-      "watchlist": {
-        "key": "gn-26-74",
-        "label": "GN 26-74 (Unleashing American Drone Dominance)"
-      },
-      "extra": {
-        "proceeding": "26-74"
-      },
-      "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": false
-    },
-    {
-      "id": "FCC ECFS:105190835317675",
-      "source": "FCC ECFS",
-      "category": "regulatory",
-      "type": "Comment",
-      "title": "Sylvia Ratnasamy: COMMENT (FCC 26-74)",
-      "url": "https://www.fcc.gov/ecfs/search/search-filings/filing/105190835317675",
-      "agency": "FCC",
-      "identifier": "FCC 26-74",
-      "date": "2026-05-19",
-      "deadline": null,
-      "summary": "Comments in support of AERPAW and FCC Innovation Zones\t\t\t\tMay 18, 2026\n\n\nI would like to express my enthusiastic support for the FCC’s role in developing and growing Innovation Zones and advanced testbeds such as AERPAW. \n\nTogether with Mike Luby (BitRipple Inc.) and Prof. Shenker (UC Berkeley), I am participating in a research proposal that is current under review as part of the NSF VINES program",
-      "score": 80,
-      "domains": [
-        "air",
-        "spectrum",
-        "supply-chain"
-      ],
-      "matched_terms": [],
-      "watchlist": {
-        "key": "gn-26-74",
-        "label": "GN 26-74 (Unleashing American Drone Dominance)"
-      },
-      "extra": {
-        "proceeding": "26-74"
-      },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
       "is_new": false
     },
@@ -6240,25 +5072,25 @@
     }
   ],
   "stats": {
-    "total": 221,
-    "new": 1,
+    "total": 182,
+    "new": 2,
     "by_category": {
-      "regulatory": 147,
+      "regulatory": 108,
       "procurement": 60,
       "litigation": 10,
       "legislative": 4
     },
     "by_domain": {
-      "air": 181,
-      "supply-chain": 109,
-      "spectrum": 45,
+      "air": 142,
+      "supply-chain": 70,
       "defense": 13,
-      "ground": 11,
+      "ground": 9,
+      "spectrum": 6,
       "maritime": 1
     },
     "by_source": {
-      "FCC ECFS": 90,
       "USAspending": 60,
+      "FCC ECFS": 51,
       "Regulations.gov": 34,
       "Federal Register": 23,
       "CourtListener": 10,
@@ -6292,20 +5124,6 @@
       "latest": "2026-10-02"
     },
     {
-      "key": "gn-26-74",
-      "label": "GN 26-74 (Unleashing American Drone Dominance)",
-      "category": "regulatory",
-      "agency": "FCC",
-      "domain": [
-        "air",
-        "spectrum",
-        "supply-chain"
-      ],
-      "deadline": null,
-      "count": 44,
-      "latest": "2026-10-01"
-    },
-    {
       "key": "dji-ca9",
       "label": "DJI petition (9th Circuit, 26-1029)",
       "category": "litigation",
@@ -6317,6 +5135,20 @@
       "deadline": null,
       "count": 7,
       "latest": "2026-03-11"
+    },
+    {
+      "key": "gn-26-74",
+      "label": "GN 26-74 (Unleashing American Drone Dominance)",
+      "category": "regulatory",
+      "agency": "FCC",
+      "domain": [
+        "air",
+        "spectrum",
+        "supply-chain"
+      ],
+      "deadline": null,
+      "count": 5,
+      "latest": "2026-10-05"
     },
     {
       "key": "dji-cadc-1260h",
