@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-07T12:48:49.013493+00:00",
-  "generated_human": "2026-10-07 12:48 UTC",
+  "generated_at": "2026-10-07T22:50:49.580390+00:00",
+  "generated_human": "2026-10-07 22:50 UTC",
   "demo": false,
   "items": [
     {
@@ -46,15 +46,15 @@
       "is_new": false
     },
     {
-      "id": "FCC ECFS:26110079520",
+      "id": "FCC ECFS:26110079797",
       "source": "FCC ECFS",
       "category": "regulatory",
       "type": "Comment",
       "title": "Theodora Scarato, Director of Wireless and EMF Program at Environmental Health Sciences: COMMENT (FCC 26-74)",
-      "url": "https://www.fcc.gov/ecfs/document/26110079520/1",
+      "url": "https://www.fcc.gov/ecfs/document/26110079797/1",
       "agency": "FCC",
       "identifier": "FCC 26-74",
-      "date": "2026-10-06",
+      "date": "2026-10-07",
       "deadline": null,
       "summary": "",
       "score": 80,
@@ -71,7 +71,7 @@
       "extra": {
         "proceeding": "26-74"
       },
-      "first_seen": "2026-10-07T12:48:49.013493+00:00",
+      "first_seen": "2026-10-07T22:50:49.580390+00:00",
       "is_new": true
     },
     {
@@ -5172,7 +5172,7 @@
       ],
       "deadline": null,
       "count": 5,
-      "latest": "2026-10-06"
+      "latest": "2026-10-07"
     },
     {
       "key": "dji-cadc-1260h",
