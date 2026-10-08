@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-07T22:50:49.580390+00:00",
-  "generated_human": "2026-10-07 22:50 UTC",
+  "generated_at": "2026-10-08T04:57:17.010885+00:00",
+  "generated_human": "2026-10-08 04:57 UTC",
   "demo": false,
   "items": [
     {
@@ -46,12 +46,12 @@
       "is_new": false
     },
     {
-      "id": "FCC ECFS:26110079797",
+      "id": "FCC ECFS:26110079794",
       "source": "FCC ECFS",
       "category": "regulatory",
       "type": "Comment",
       "title": "Theodora Scarato, Director of Wireless and EMF Program at Environmental Health Sciences: COMMENT (FCC 26-74)",
-      "url": "https://www.fcc.gov/ecfs/document/26110079797/1",
+      "url": "https://www.fcc.gov/ecfs/document/26110079794/1",
       "agency": "FCC",
       "identifier": "FCC 26-74",
       "date": "2026-10-07",
@@ -71,7 +71,7 @@
       "extra": {
         "proceeding": "26-74"
       },
-      "first_seen": "2026-10-07T22:50:49.580390+00:00",
+      "first_seen": "2026-10-08T04:57:17.010885+00:00",
       "is_new": true
     },
     {
@@ -1684,17 +1684,17 @@
       "is_new": false
     },
     {
-      "id": "Regulations.gov:FAA-2026-4558-1629",
+      "id": "Regulations.gov:FAA-2026-4558-1630",
       "source": "Regulations.gov",
       "category": "regulatory",
       "type": "Comment",
-      "title": "Comment on Designation – Restrict the Operation of Unmanned Aircraft in Close Proximity  to a Fixed Site Facility: Comment from Karin L",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1629",
+      "title": "Comment on Designation – Restrict the Operation of Unmanned Aircraft in Close Proximity  to a Fixed Site Facility: Comment from American Chemistry Council",
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1630",
       "agency": "FAA",
       "identifier": "FAA-2026-4558",
       "date": "2026-08-06",
       "deadline": null,
-      "summary": "Comment from Karin L",
+      "summary": "Comment from American Chemistry Council",
       "score": 80,
       "domains": [
         "air"
@@ -1710,8 +1710,8 @@
       "extra": {
         "docket_total_comments": 1669
       },
-      "first_seen": "2026-10-07T04:45:51.198516+00:00",
-      "is_new": false
+      "first_seen": "2026-10-08T04:57:17.010885+00:00",
+      "is_new": true
     },
     {
       "id": "Federal Register:2026-15659",
@@ -2571,6 +2571,35 @@
       "is_new": false
     },
     {
+      "id": "USAspending:FA807521F0077",
+      "source": "USAspending",
+      "category": "procurement",
+      "type": "Award",
+      "title": "CACI, INC. - FEDERAL: COUNTER UNMANNED AIRCRAFT SYSTEMS RESEARCH, DEVELOPMENT, AND SUSTAINMENT FOR THE DIGITAL INTEGRATION SUPPORT CELL AND NA",
+      "url": "https://www.usaspending.gov/award/CONT_AWD_FA807521F0077_9700_FA807518D0006_9700",
+      "agency": "Department of Defense",
+      "identifier": "FA807521F0077",
+      "date": "2021-09-27",
+      "deadline": null,
+      "summary": "COUNTER UNMANNED AIRCRAFT SYSTEMS RESEARCH, DEVELOPMENT, AND SUSTAINMENT FOR THE DIGITAL INTEGRATION SUPPORT CELL AND NAVAL SURFACE WARFARE CENTER, CRANE DIVISION",
+      "score": 38,
+      "domains": [
+        "air",
+        "defense"
+      ],
+      "matched_terms": [
+        "unmanned aircraft",
+        "counter unmanned"
+      ],
+      "watchlist": null,
+      "extra": {
+        "amount": 81355601.96,
+        "award_type": "DELIVERY ORDER"
+      },
+      "first_seen": "2026-10-08T04:57:17.010885+00:00",
+      "is_new": true
+    },
+    {
       "id": "USAspending:692M1523F00178",
       "source": "USAspending",
       "category": "procurement",
@@ -2885,6 +2914,52 @@
       "is_new": false
     },
     {
+      "id": "USAspending:FA862926FB057",
+      "source": "USAspending",
+      "category": "procurement",
+      "type": "Award",
+      "title": "ANDURIL INDUSTRIES, INC.: THE CONTRACTOR MUST EXECUTE ALL REQUIREMENTS OF THIS DELIVERY ORDER IN ACCORDANCE WITH THE SOW ATTACHED TO BASIC CONTRAC",
+      "url": "https://www.usaspending.gov/award/CONT_AWD_FA862926FB057_9700_FA862926DB002_9700",
+      "agency": "Department of Defense",
+      "identifier": "FA862926FB057",
+      "date": "2026-07-09",
+      "deadline": null,
+      "summary": "THE CONTRACTOR MUST EXECUTE ALL REQUIREMENTS OF THIS DELIVERY ORDER IN ACCORDANCE WITH THE SOW ATTACHED TO BASIC CONTRACT FA8629-26-D-B002.",
+      "score": 30,
+      "domains": [],
+      "matched_terms": [],
+      "watchlist": null,
+      "extra": {
+        "amount": 11836752.0,
+        "award_type": "DELIVERY ORDER"
+      },
+      "first_seen": "2026-10-08T04:57:17.010885+00:00",
+      "is_new": true
+    },
+    {
+      "id": "USAspending:W58RGZ26F0356",
+      "source": "USAspending",
+      "category": "procurement",
+      "type": "Award",
+      "title": "PLATFORM SYSTEMS, INCORPORATED: THIS AWARD CONSISTS OF 90 DAYS OF TECHNICAL, SUPPLY, AND MAINTENANCE SUPPORT. THIS ORDER IS AGAINST BOA W58RGZ-26-G-0055",
+      "url": "https://www.usaspending.gov/award/CONT_AWD_W58RGZ26F0356_9700_W58RGZ26G0055_9700",
+      "agency": "Department of Defense",
+      "identifier": "W58RGZ26F0356",
+      "date": "2026-07-07",
+      "deadline": null,
+      "summary": "THIS AWARD CONSISTS OF 90 DAYS OF TECHNICAL, SUPPLY, AND MAINTENANCE SUPPORT. THIS ORDER IS AGAINST BOA W58RGZ-26-G-0055.",
+      "score": 30,
+      "domains": [],
+      "matched_terms": [],
+      "watchlist": null,
+      "extra": {
+        "amount": 3563383.0,
+        "award_type": "DELIVERY ORDER"
+      },
+      "first_seen": "2026-10-08T04:57:17.010885+00:00",
+      "is_new": true
+    },
+    {
       "id": "USAspending:W900KK26FA112",
       "source": "USAspending",
       "category": "procurement",
@@ -2928,60 +3003,6 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-09-23T03:43:59.432845+00:00",
-      "is_new": false
-    },
-    {
-      "id": "USAspending:H9240226FE029",
-      "source": "USAspending",
-      "category": "procurement",
-      "type": "Award",
-      "title": "THE JOHNS HOPKINS UNIVERSITY APPLIED PHYSICS LABORATORY LLC: DRONE RANGER LITE (DRL) ENGINEERING DEVELOPMENT",
-      "url": "https://www.usaspending.gov/award/CONT_AWD_H9240226FE029_9700_H9240025DE001_9700",
-      "agency": "Department of Defense",
-      "identifier": "H9240226FE029",
-      "date": "2026-06-10",
-      "deadline": null,
-      "summary": "DRONE RANGER LITE (DRL) ENGINEERING DEVELOPMENT",
-      "score": 30,
-      "domains": [
-        "air"
-      ],
-      "matched_terms": [
-        "drone"
-      ],
-      "watchlist": null,
-      "extra": {
-        "amount": 3000000.0,
-        "award_type": "DELIVERY ORDER"
-      },
-      "first_seen": "2026-10-04T04:43:53.282827+00:00",
-      "is_new": false
-    },
-    {
-      "id": "USAspending:W58RGZ26F0334",
-      "source": "USAspending",
-      "category": "procurement",
-      "type": "Award",
-      "title": "AEROVIRONMENT, INC: AWARD IN SUPPORT OF TUAS BATTALION RECONNAISSANCE UAV REQUIREMENT.",
-      "url": "https://www.usaspending.gov/award/CONT_AWD_W58RGZ26F0334_9700_W58RGZ26G0005_9700",
-      "agency": "Department of Defense",
-      "identifier": "W58RGZ26F0334",
-      "date": "2026-06-03",
-      "deadline": null,
-      "summary": "AWARD IN SUPPORT OF TUAS BATTALION RECONNAISSANCE UAV REQUIREMENT.",
-      "score": 30,
-      "domains": [
-        "air"
-      ],
-      "matched_terms": [
-        "uav"
-      ],
-      "watchlist": null,
-      "extra": {
-        "amount": 117306231.51,
-        "award_type": "DELIVERY ORDER"
-      },
-      "first_seen": "2026-09-03T10:48:36.776899+00:00",
       "is_new": false
     },
     {
@@ -3098,6 +3119,29 @@
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
       "is_new": false
+    },
+    {
+      "id": "USAspending:W15P7T26F0090",
+      "source": "USAspending",
+      "category": "procurement",
+      "type": "Award",
+      "title": "LEIDOS, INC.: PROCURE TACTICAL EDGE COMPUTER KIT AND MOUNT KIT",
+      "url": "https://www.usaspending.gov/award/CONT_AWD_W15P7T26F0090_9700_W15P7T23D0003_9700",
+      "agency": "Department of Defense",
+      "identifier": "W15P7T26F0090",
+      "date": "2026-04-03",
+      "deadline": null,
+      "summary": "PROCURE TACTICAL EDGE COMPUTER KIT AND MOUNT KIT",
+      "score": 30,
+      "domains": [],
+      "matched_terms": [],
+      "watchlist": null,
+      "extra": {
+        "amount": 5327450.0,
+        "award_type": "DELIVERY ORDER"
+      },
+      "first_seen": "2026-10-08T04:57:17.010885+00:00",
+      "is_new": true
     },
     {
       "id": "USAspending:W912CH26CA009",
@@ -3338,29 +3382,6 @@
       "is_new": false
     },
     {
-      "id": "USAspending:W15P7T25F0078",
-      "source": "USAspending",
-      "category": "procurement",
-      "type": "Award",
-      "title": "LEIDOS, INC.: PURCHASE OF NAVMACS (TDP 1.10)",
-      "url": "https://www.usaspending.gov/award/CONT_AWD_W15P7T25F0078_9700_W15P7T23D0003_9700",
-      "agency": "Department of Defense",
-      "identifier": "W15P7T25F0078",
-      "date": "2025-06-24",
-      "deadline": null,
-      "summary": "PURCHASE OF NAVMACS (TDP 1.10)",
-      "score": 30,
-      "domains": [],
-      "matched_terms": [],
-      "watchlist": null,
-      "extra": {
-        "amount": 2973435.0,
-        "award_type": "DELIVERY ORDER"
-      },
-      "first_seen": "2026-10-04T04:43:53.282827+00:00",
-      "is_new": false
-    },
-    {
       "id": "USAspending:N0001925F0161",
       "source": "USAspending",
       "category": "procurement",
@@ -3381,33 +3402,6 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-10-02T04:28:59.280073+00:00",
-      "is_new": false
-    },
-    {
-      "id": "USAspending:N0016425FJ051",
-      "source": "USAspending",
-      "category": "procurement",
-      "type": "Award",
-      "title": "PLATFORM SYSTEMS, INCORPORATED: VANILLA LE-UAS",
-      "url": "https://www.usaspending.gov/award/CONT_AWD_N0016425FJ051_9700_N0016425GJR96_9700",
-      "agency": "Department of Defense",
-      "identifier": "N0016425FJ051",
-      "date": "2025-04-02",
-      "deadline": null,
-      "summary": "VANILLA LE-UAS",
-      "score": 30,
-      "domains": [
-        "air"
-      ],
-      "matched_terms": [
-        "uas"
-      ],
-      "watchlist": null,
-      "extra": {
-        "amount": 3088674.0,
-        "award_type": "DELIVERY ORDER"
-      },
-      "first_seen": "2026-10-03T04:11:35.129854+00:00",
       "is_new": false
     },
     {
@@ -3457,27 +3451,27 @@
       "is_new": false
     },
     {
-      "id": "USAspending:19AQMM26F0930",
+      "id": "USAspending:N0001424C1324",
       "source": "USAspending",
       "category": "procurement",
       "type": "Award",
-      "title": "BERRY AVIATION, INC.: INL BOGOTA COUNTERUAS - DETECT AND DEFEAT PROJECT",
-      "url": "https://www.usaspending.gov/award/CONT_AWD_19AQMM26F0930_1900_19AQMM22D0045_1900",
-      "agency": "Department of State",
-      "identifier": "19AQMM26F0930",
-      "date": "2024-09-16",
+      "title": "UNIVERSITY OF MAINE SYSTEM: INVESTIGATE AND ENHANCE THE MANUFACTURING TECHNOLOGIES USED FOR THE FABRICATION OF UNMANNED SURFACE VESSELS (USVS) AND R",
+      "url": "https://www.usaspending.gov/award/CONT_AWD_N0001424C1324_9700_-NONE-_-NONE-",
+      "agency": "Department of Defense",
+      "identifier": "N0001424C1324",
+      "date": "2024-07-12",
       "deadline": null,
-      "summary": "INL BOGOTA COUNTERUAS - DETECT AND DEFEAT PROJECT",
+      "summary": "INVESTIGATE AND ENHANCE THE MANUFACTURING TECHNOLOGIES USED FOR THE FABRICATION OF UNMANNED SURFACE VESSELS (USVS) AND RELATED MARITIME STRUCTURES DEVELOP DIGITAL MANUFACTURING SOFTWARE TOOLS WHICH ARE PROCESS-AWARE THAT DRIVE DESIGN CHOICES TOWARDS",
       "score": 30,
       "domains": [],
       "matched_terms": [],
       "watchlist": null,
       "extra": {
-        "amount": 2999721.92,
-        "award_type": "DELIVERY ORDER"
+        "amount": 9000000.0,
+        "award_type": "DEFINITIVE CONTRACT"
       },
-      "first_seen": "2026-10-04T04:43:53.282827+00:00",
-      "is_new": false
+      "first_seen": "2026-10-08T04:57:17.010885+00:00",
+      "is_new": true
     },
     {
       "id": "USAspending:W58RGZ24C0031",
@@ -3653,6 +3647,29 @@
       "is_new": false
     },
     {
+      "id": "USAspending:FA868923F2250",
+      "source": "USAspending",
+      "category": "procurement",
+      "type": "Award",
+      "title": "GENERAL ATOMICS AERONAUTICAL SYSTEMS, INC.: MQ-9 REAPER PROLIFERATED LOW EARTH ORBIT (PLEO)",
+      "url": "https://www.usaspending.gov/award/CONT_AWD_FA868923F2250_9700_FA868920D2020_9700",
+      "agency": "Department of Defense",
+      "identifier": "FA868923F2250",
+      "date": "2023-06-10",
+      "deadline": null,
+      "summary": "MQ-9 REAPER PROLIFERATED LOW EARTH ORBIT (PLEO)",
+      "score": 30,
+      "domains": [],
+      "matched_terms": [],
+      "watchlist": null,
+      "extra": {
+        "amount": 42319998.96,
+        "award_type": "DELIVERY ORDER"
+      },
+      "first_seen": "2026-10-08T04:57:17.010885+00:00",
+      "is_new": true
+    },
+    {
       "id": "USAspending:N0001923F2501",
       "source": "USAspending",
       "category": "procurement",
@@ -3745,33 +3762,6 @@
       "is_new": false
     },
     {
-      "id": "USAspending:FA875022F1008",
-      "source": "USAspending",
-      "category": "procurement",
-      "type": "Award",
-      "title": "BOOZ ALLEN HAMILTON INC: COLLABORATIVE LOW-ALTITUDE UNMANNED AIRCRAFT SYSTEMS INTEGRATION EFFORT UTM RDT&E, MATURATION, PRODUCTIZATION, OPERATION",
-      "url": "https://www.usaspending.gov/award/CONT_AWD_FA875022F1008_9700_FA875021D1100_9700",
-      "agency": "Department of Defense",
-      "identifier": "FA875022F1008",
-      "date": "2022-07-28",
-      "deadline": null,
-      "summary": "COLLABORATIVE LOW-ALTITUDE UNMANNED AIRCRAFT SYSTEMS INTEGRATION EFFORT UTM RDT&E, MATURATION, PRODUCTIZATION, OPERATIONAL ASSESSMENT, AND DEPLOYMENT (CLUE III)",
-      "score": 30,
-      "domains": [
-        "air"
-      ],
-      "matched_terms": [
-        "unmanned aircraft"
-      ],
-      "watchlist": null,
-      "extra": {
-        "amount": 30892355.0,
-        "award_type": "DELIVERY ORDER"
-      },
-      "first_seen": "2026-09-09T03:33:04.270117+00:00",
-      "is_new": false
-    },
-    {
       "id": "USAspending:FA862222F8449",
       "source": "USAspending",
       "category": "procurement",
@@ -3819,7 +3809,7 @@
       ],
       "watchlist": null,
       "extra": {
-        "amount": 99662764.01,
+        "amount": 100984054.77,
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
@@ -4572,17 +4562,17 @@
       "is_new": false
     },
     {
-      "id": "Regulations.gov:FAA-2026-11354-0004",
+      "id": "Regulations.gov:FAA-2026-11722-0001",
       "source": "Regulations.gov",
       "category": "regulatory",
       "type": "Document",
-      "title": "Agri Spray Drone Solutions LLC - Additional Information",
-      "url": "https://www.regulations.gov/document/FAA-2026-11354-0004",
+      "title": "Wisconsin Aerial Drone Services LLC - Petition",
+      "url": "https://www.regulations.gov/document/FAA-2026-11722-0001",
       "agency": "FAA",
-      "identifier": "FAA-2026-11354",
+      "identifier": "FAA-2026-11722",
       "date": "2026-09-14",
       "deadline": null,
-      "summary": "Agri Spray Drone Solutions LLC - Additional Information",
+      "summary": "Wisconsin Aerial Drone Services LLC - Petition",
       "score": 20,
       "domains": [
         "air"
@@ -4596,17 +4586,17 @@
       "is_new": false
     },
     {
-      "id": "Regulations.gov:FAA-2026-11722-0001",
+      "id": "Regulations.gov:FAA-2026-11354-0004",
       "source": "Regulations.gov",
       "category": "regulatory",
       "type": "Document",
-      "title": "Wisconsin Aerial Drone Services LLC - Petition",
-      "url": "https://www.regulations.gov/document/FAA-2026-11722-0001",
+      "title": "Agri Spray Drone Solutions LLC - Additional Information",
+      "url": "https://www.regulations.gov/document/FAA-2026-11354-0004",
       "agency": "FAA",
-      "identifier": "FAA-2026-11722",
+      "identifier": "FAA-2026-11354",
       "date": "2026-09-14",
       "deadline": null,
-      "summary": "Wisconsin Aerial Drone Services LLC - Petition",
+      "summary": "Agri Spray Drone Solutions LLC - Additional Information",
       "score": 20,
       "domains": [
         "air"
@@ -5097,7 +5087,7 @@
   ],
   "stats": {
     "total": 183,
-    "new": 1,
+    "new": 8,
     "by_category": {
       "regulatory": 109,
       "procurement": 60,
@@ -5105,9 +5095,9 @@
       "legislative": 4
     },
     "by_domain": {
-      "air": 143,
+      "air": 140,
       "supply-chain": 70,
-      "defense": 13,
+      "defense": 14,
       "ground": 9,
       "spectrum": 6,
       "maritime": 1
@@ -5305,7 +5295,7 @@
   "deadlines": [
     {
       "deadline": "2026-10-27",
-      "days": 20,
+      "days": 19,
       "title": "60-Day Notice of Proposed Information Collection: Information Collection Request (ICR) for the Drone Infrastructure Inspection Grant (DIIG) Program",
       "identifier": "Docket No. DOT-OST-2026-3367",
       "category": "regulatory",
@@ -5314,7 +5304,7 @@
     },
     {
       "deadline": "2026-11-02",
-      "days": 26,
+      "days": 25,
       "title": "Agency Information Collection Activities; Proposed eCollection eComments Requested; Revision of a Previously Approved Collection; Title-SAFER SKIES State, Local, Tribal, and Territorial Counter-UAS Information Collection",
       "identifier": "OMB Number 1110-0090",
       "category": "regulatory",
