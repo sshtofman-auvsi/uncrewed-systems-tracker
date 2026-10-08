@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-08T12:57:49.526195+00:00",
-  "generated_human": "2026-10-08 12:57 UTC",
+  "generated_at": "2026-10-08T23:01:41.264706+00:00",
+  "generated_human": "2026-10-08 23:01 UTC",
   "demo": false,
   "items": [
     {
@@ -46,15 +46,15 @@
       "is_new": false
     },
     {
-      "id": "FCC ECFS:26110079794",
+      "id": "FCC ECFS:1008299084492",
       "source": "FCC ECFS",
       "category": "regulatory",
-      "type": "Comment",
-      "title": "Theodora Scarato, Director of Wireless and EMF Program at Environmental Health Sciences: COMMENT (FCC 26-74)",
-      "url": "https://www.fcc.gov/ecfs/document/26110079794/1",
+      "type": "Public Draft",
+      "title": "Office of Media Relations: Public Draft (FCC 26-74)",
+      "url": "https://docs.fcc.gov/public/attachments/DOC-425713A1.pdf",
       "agency": "FCC",
       "identifier": "FCC 26-74",
-      "date": "2026-10-07",
+      "date": "2026-10-08",
       "deadline": null,
       "summary": "",
       "score": 80,
@@ -71,8 +71,37 @@
       "extra": {
         "proceeding": "26-74"
       },
-      "first_seen": "2026-10-08T04:57:17.010885+00:00",
-      "is_new": false
+      "first_seen": "2026-10-08T23:01:41.264706+00:00",
+      "is_new": true
+    },
+    {
+      "id": "FCC ECFS:26110079990",
+      "source": "FCC ECFS",
+      "category": "regulatory",
+      "type": "Comment",
+      "title": "Theodora Scarato, Director of Wireless and EMF Program at Environmental Health Sciences: COMMENT (FCC 26-74)",
+      "url": "https://www.fcc.gov/ecfs/document/26110079990/1",
+      "agency": "FCC",
+      "identifier": "FCC 26-74",
+      "date": "2026-10-08",
+      "deadline": null,
+      "summary": "",
+      "score": 80,
+      "domains": [
+        "air",
+        "spectrum",
+        "supply-chain"
+      ],
+      "matched_terms": [],
+      "watchlist": {
+        "key": "gn-26-74",
+        "label": "GN 26-74 (Unleashing American Drone Dominance)"
+      },
+      "extra": {
+        "proceeding": "26-74"
+      },
+      "first_seen": "2026-10-08T23:01:41.264706+00:00",
+      "is_new": true
     },
     {
       "id": "FCC ECFS:26110079084",
@@ -1711,7 +1740,7 @@
         "docket_total_comments": 1669
       },
       "first_seen": "2026-10-08T12:57:49.526195+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "Federal Register:2026-15659",
@@ -4408,17 +4437,17 @@
       "is_new": false
     },
     {
-      "id": "Regulations.gov:FAA-2024-1961-0003",
+      "id": "Regulations.gov:FAA-2026-12314-0001",
       "source": "Regulations.gov",
       "category": "regulatory",
       "type": "Document",
-      "title": "OHIO DRONE AERIAL APPLICATION LLC - Amendment",
-      "url": "https://www.regulations.gov/document/FAA-2024-1961-0003",
+      "title": "Ohio Drone Aerial Application LLC - Petition",
+      "url": "https://www.regulations.gov/document/FAA-2026-12314-0001",
       "agency": "FAA",
-      "identifier": "FAA-2024-1961",
+      "identifier": "FAA-2026-12314",
       "date": "2026-09-23",
       "deadline": null,
-      "summary": "OHIO DRONE AERIAL APPLICATION LLC - Amendment",
+      "summary": "Ohio Drone Aerial Application LLC - Petition",
       "score": 20,
       "domains": [
         "air"
@@ -4432,17 +4461,17 @@
       "is_new": false
     },
     {
-      "id": "Regulations.gov:FAA-2026-12314-0001",
+      "id": "Regulations.gov:FAA-2024-1961-0003",
       "source": "Regulations.gov",
       "category": "regulatory",
       "type": "Document",
-      "title": "Ohio Drone Aerial Application LLC - Petition",
-      "url": "https://www.regulations.gov/document/FAA-2026-12314-0001",
+      "title": "OHIO DRONE AERIAL APPLICATION LLC - Amendment",
+      "url": "https://www.regulations.gov/document/FAA-2024-1961-0003",
       "agency": "FAA",
-      "identifier": "FAA-2026-12314",
+      "identifier": "FAA-2024-1961",
       "date": "2026-09-23",
       "deadline": null,
-      "summary": "Ohio Drone Aerial Application LLC - Petition",
+      "summary": "OHIO DRONE AERIAL APPLICATION LLC - Amendment",
       "score": 20,
       "domains": [
         "air"
@@ -4562,17 +4591,17 @@
       "is_new": false
     },
     {
-      "id": "Regulations.gov:FAA-2026-11722-0001",
+      "id": "Regulations.gov:FAA-2026-11354-0004",
       "source": "Regulations.gov",
       "category": "regulatory",
       "type": "Document",
-      "title": "Wisconsin Aerial Drone Services LLC - Petition",
-      "url": "https://www.regulations.gov/document/FAA-2026-11722-0001",
+      "title": "Agri Spray Drone Solutions LLC - Additional Information",
+      "url": "https://www.regulations.gov/document/FAA-2026-11354-0004",
       "agency": "FAA",
-      "identifier": "FAA-2026-11722",
+      "identifier": "FAA-2026-11354",
       "date": "2026-09-14",
       "deadline": null,
-      "summary": "Wisconsin Aerial Drone Services LLC - Petition",
+      "summary": "Agri Spray Drone Solutions LLC - Additional Information",
       "score": 20,
       "domains": [
         "air"
@@ -4586,17 +4615,17 @@
       "is_new": false
     },
     {
-      "id": "Regulations.gov:FAA-2026-11354-0004",
+      "id": "Regulations.gov:FAA-2026-11722-0001",
       "source": "Regulations.gov",
       "category": "regulatory",
       "type": "Document",
-      "title": "Agri Spray Drone Solutions LLC - Additional Information",
-      "url": "https://www.regulations.gov/document/FAA-2026-11354-0004",
+      "title": "Wisconsin Aerial Drone Services LLC - Petition",
+      "url": "https://www.regulations.gov/document/FAA-2026-11722-0001",
       "agency": "FAA",
-      "identifier": "FAA-2026-11354",
+      "identifier": "FAA-2026-11722",
       "date": "2026-09-14",
       "deadline": null,
-      "summary": "Agri Spray Drone Solutions LLC - Additional Information",
+      "summary": "Wisconsin Aerial Drone Services LLC - Petition",
       "score": 20,
       "domains": [
         "air"
@@ -5086,25 +5115,25 @@
     }
   ],
   "stats": {
-    "total": 183,
-    "new": 1,
+    "total": 184,
+    "new": 2,
     "by_category": {
-      "regulatory": 109,
+      "regulatory": 110,
       "procurement": 60,
       "litigation": 10,
       "legislative": 4
     },
     "by_domain": {
-      "air": 140,
-      "supply-chain": 70,
+      "air": 141,
+      "supply-chain": 71,
       "defense": 14,
       "ground": 9,
-      "spectrum": 6,
+      "spectrum": 7,
       "maritime": 1
     },
     "by_source": {
       "USAspending": 60,
-      "FCC ECFS": 51,
+      "FCC ECFS": 52,
       "Regulations.gov": 35,
       "Federal Register": 23,
       "CourtListener": 10,
@@ -5161,8 +5190,8 @@
         "supply-chain"
       ],
       "deadline": null,
-      "count": 5,
-      "latest": "2026-10-07"
+      "count": 6,
+      "latest": "2026-10-08"
     },
     {
       "key": "dji-cadc-1260h",
