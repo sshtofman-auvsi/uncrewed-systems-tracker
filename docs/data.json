@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-09T04:59:25.163485+00:00",
-  "generated_human": "2026-10-09 04:59 UTC",
+  "generated_at": "2026-10-09T12:43:33.675357+00:00",
+  "generated_human": "2026-10-09 12:43 UTC",
   "demo": false,
   "items": [
     {
@@ -1713,17 +1713,17 @@
       "is_new": false
     },
     {
-      "id": "Regulations.gov:FAA-2026-4558-1630",
+      "id": "Regulations.gov:FAA-2026-4558-1629",
       "source": "Regulations.gov",
       "category": "regulatory",
       "type": "Comment",
-      "title": "Comment on Designation – Restrict the Operation of Unmanned Aircraft in Close Proximity  to a Fixed Site Facility: Comment from American Chemistry Council",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1630",
+      "title": "Comment on Designation – Restrict the Operation of Unmanned Aircraft in Close Proximity  to a Fixed Site Facility: Comment from Karin L",
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1629",
       "agency": "FAA",
       "identifier": "FAA-2026-4558",
       "date": "2026-08-06",
       "deadline": null,
-      "summary": "Comment from American Chemistry Council",
+      "summary": "Comment from Karin L",
       "score": 80,
       "domains": [
         "air"
@@ -1739,7 +1739,7 @@
       "extra": {
         "docket_total_comments": 1669
       },
-      "first_seen": "2026-10-09T04:59:25.163485+00:00",
+      "first_seen": "2026-10-09T12:43:33.675357+00:00",
       "is_new": true
     },
     {
@@ -1841,7 +1841,7 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-10-09T04:59:25.163485+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "Federal Register:2026-13126",
@@ -3645,7 +3645,7 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-10-09T04:59:25.163485+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:FA868923F2250",
@@ -3883,7 +3883,7 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-10-09T04:59:25.163485+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:NNG17FD73C",
@@ -3983,6 +3983,35 @@
       "extra": {},
       "first_seen": "2026-10-02T21:55:35.822740+00:00",
       "is_new": false
+    },
+    {
+      "id": "Federal Register:2026-20734",
+      "source": "Federal Register",
+      "category": "regulatory",
+      "type": "Notice",
+      "title": "Parts and Accessories Necessary for Safe Operation; Application for Exemption From Aurora Operations, Inc (USDOT #341156)",
+      "url": "https://www.federalregister.gov/documents/2026/10/09/2026-20734/parts-and-accessories-necessary-for-safe-operation-application-for-exemption-from-aurora-operations",
+      "agency": "Transportation Department, Federal Motor Carrier Safety Administration",
+      "identifier": "Docket No. FMCSA-2026-0958",
+      "date": "2026-10-09",
+      "deadline": null,
+      "summary": "FMCSA announces its decision to grant a limited five-year exemption to Aurora Operations, Inc. (Aurora) and other motor carriers operating Level 4 automated driving system (ADS)-equipped commercial motor vehicles (CMVs), with prior notice to FMCSA, from compliance with the warning device placement requirements, the steady-burning lamp requirements, and the requirements for the types and number of warning devices. This exemption permits motor carriers to use cab-mounted warning beacons in lieu of traditional warning devices on Level 4 ADS- equipped CMVs. The Agency has determined that granting ",
+      "score": 21,
+      "domains": [
+        "ground"
+      ],
+      "matched_terms": [
+        "automated driving system"
+      ],
+      "watchlist": null,
+      "extra": {
+        "comment_url": null,
+        "dockets": [
+          "Docket No. FMCSA-2026-0958"
+        ]
+      },
+      "first_seen": "2026-10-09T12:43:33.675357+00:00",
+      "is_new": true
     },
     {
       "id": "Federal Register:2026-15485",
@@ -5069,8 +5098,8 @@
     {
       "name": "Federal Register",
       "status": "ok",
-      "detail": "24 kept",
-      "count": 24
+      "detail": "25 kept",
+      "count": 25
     },
     {
       "name": "Regulations.gov",
@@ -5110,10 +5139,10 @@
     }
   ],
   "stats": {
-    "total": 184,
-    "new": 4,
+    "total": 185,
+    "new": 2,
     "by_category": {
-      "regulatory": 110,
+      "regulatory": 111,
       "procurement": 60,
       "litigation": 10,
       "legislative": 4
@@ -5122,7 +5151,7 @@
       "air": 140,
       "supply-chain": 71,
       "defense": 14,
-      "ground": 9,
+      "ground": 10,
       "spectrum": 7,
       "maritime": 1
     },
@@ -5130,7 +5159,7 @@
       "USAspending": 60,
       "FCC ECFS": 52,
       "Regulations.gov": 35,
-      "Federal Register": 23,
+      "Federal Register": 24,
       "CourtListener": 10,
       "Congress.gov": 4
     }
