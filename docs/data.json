@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-09T12:43:33.675357+00:00",
-  "generated_human": "2026-10-09 12:43 UTC",
+  "generated_at": "2026-10-09T22:23:06.143688+00:00",
+  "generated_human": "2026-10-09 22:23 UTC",
   "demo": false,
   "items": [
     {
@@ -46,15 +46,15 @@
       "is_new": false
     },
     {
-      "id": "FCC ECFS:1008299084492",
+      "id": "FCC ECFS:26110080292",
       "source": "FCC ECFS",
       "category": "regulatory",
-      "type": "Public Draft",
-      "title": "Office of Media Relations: Public Draft (FCC 26-74)",
-      "url": "https://docs.fcc.gov/public/attachments/DOC-425713A1.pdf",
+      "type": "Comment",
+      "title": "Kevin Mottus, Outreach Director, CA Brain Tumor Assn: COMMENT (FCC 26-74)",
+      "url": "https://www.fcc.gov/ecfs/document/26110080292/1",
       "agency": "FCC",
       "identifier": "FCC 26-74",
-      "date": "2026-10-08",
+      "date": "2026-10-09",
       "deadline": null,
       "summary": "",
       "score": 80,
@@ -71,16 +71,45 @@
       "extra": {
         "proceeding": "26-74"
       },
-      "first_seen": "2026-10-08T23:01:41.264706+00:00",
-      "is_new": false
+      "first_seen": "2026-10-09T22:23:06.143688+00:00",
+      "is_new": true
     },
     {
-      "id": "FCC ECFS:26110079990",
+      "id": "FCC ECFS:26110080213",
       "source": "FCC ECFS",
       "category": "regulatory",
       "type": "Comment",
       "title": "Theodora Scarato, Director of Wireless and EMF Program at Environmental Health Sciences: COMMENT (FCC 26-74)",
-      "url": "https://www.fcc.gov/ecfs/document/26110079990/1",
+      "url": "https://www.fcc.gov/ecfs/document/26110080213/1",
+      "agency": "FCC",
+      "identifier": "FCC 26-74",
+      "date": "2026-10-09",
+      "deadline": null,
+      "summary": "",
+      "score": 80,
+      "domains": [
+        "air",
+        "spectrum",
+        "supply-chain"
+      ],
+      "matched_terms": [],
+      "watchlist": {
+        "key": "gn-26-74",
+        "label": "GN 26-74 (Unleashing American Drone Dominance)"
+      },
+      "extra": {
+        "proceeding": "26-74"
+      },
+      "first_seen": "2026-10-09T22:23:06.143688+00:00",
+      "is_new": true
+    },
+    {
+      "id": "FCC ECFS:1008299084492",
+      "source": "FCC ECFS",
+      "category": "regulatory",
+      "type": "Public Draft",
+      "title": "Office of Media Relations: Public Draft (FCC 26-74)",
+      "url": "https://docs.fcc.gov/public/attachments/DOC-425713A1.pdf",
       "agency": "FCC",
       "identifier": "FCC 26-74",
       "date": "2026-10-08",
@@ -1740,7 +1769,7 @@
         "docket_total_comments": 1669
       },
       "first_seen": "2026-10-09T12:43:33.675357+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "Federal Register:2026-15659",
@@ -4011,7 +4040,7 @@
         ]
       },
       "first_seen": "2026-10-09T12:43:33.675357+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "Federal Register:2026-15485",
@@ -4099,6 +4128,30 @@
       },
       "first_seen": "2026-06-26T11:19:55.120727+00:00",
       "is_new": false
+    },
+    {
+      "id": "Regulations.gov:FAA-2025-5578-0006",
+      "source": "Regulations.gov",
+      "category": "regulatory",
+      "type": "Document",
+      "title": "Welby Solutions, LLC Drone Services - Request for Amendment",
+      "url": "https://www.regulations.gov/document/FAA-2025-5578-0006",
+      "agency": "FAA",
+      "identifier": "FAA-2025-5578",
+      "date": "2026-10-09",
+      "deadline": null,
+      "summary": "Welby Solutions, LLC Drone Services - Request for Amendment",
+      "score": 20,
+      "domains": [
+        "air"
+      ],
+      "matched_terms": [
+        "drone"
+      ],
+      "watchlist": null,
+      "extra": {},
+      "first_seen": "2026-10-09T22:23:06.143688+00:00",
+      "is_new": true
     },
     {
       "id": "Regulations.gov:FAA-2026-12938-0001",
@@ -4764,30 +4817,6 @@
       "is_new": false
     },
     {
-      "id": "Regulations.gov:FAA-2023-2479-0013",
-      "source": "Regulations.gov",
-      "category": "regulatory",
-      "type": "Document",
-      "title": "Loutre Valley Drone Services LLC - Petition",
-      "url": "https://www.regulations.gov/document/FAA-2023-2479-0013",
-      "agency": "FAA",
-      "identifier": "FAA-2023-2479",
-      "date": "2026-09-10",
-      "deadline": null,
-      "summary": "Loutre Valley Drone Services LLC - Petition",
-      "score": 20,
-      "domains": [
-        "air"
-      ],
-      "matched_terms": [
-        "drone"
-      ],
-      "watchlist": null,
-      "extra": {},
-      "first_seen": "2026-09-10T20:31:41.638159+00:00",
-      "is_new": false
-    },
-    {
       "id": "Federal Register:2026-17776",
       "source": "Federal Register",
       "category": "regulatory",
@@ -5139,25 +5168,25 @@
     }
   ],
   "stats": {
-    "total": 185,
-    "new": 2,
+    "total": 186,
+    "new": 3,
     "by_category": {
-      "regulatory": 111,
+      "regulatory": 112,
       "procurement": 60,
       "litigation": 10,
       "legislative": 4
     },
     "by_domain": {
-      "air": 140,
-      "supply-chain": 71,
+      "air": 141,
+      "supply-chain": 72,
       "defense": 14,
       "ground": 10,
-      "spectrum": 7,
+      "spectrum": 8,
       "maritime": 1
     },
     "by_source": {
       "USAspending": 60,
-      "FCC ECFS": 52,
+      "FCC ECFS": 53,
       "Regulations.gov": 35,
       "Federal Register": 24,
       "CourtListener": 10,
@@ -5191,6 +5220,20 @@
       "latest": "2026-10-02"
     },
     {
+      "key": "gn-26-74",
+      "label": "GN 26-74 (Unleashing American Drone Dominance)",
+      "category": "regulatory",
+      "agency": "FCC",
+      "domain": [
+        "air",
+        "spectrum",
+        "supply-chain"
+      ],
+      "deadline": null,
+      "count": 7,
+      "latest": "2026-10-09"
+    },
+    {
       "key": "dji-ca9",
       "label": "DJI petition (9th Circuit, 26-1029)",
       "category": "litigation",
@@ -5202,20 +5245,6 @@
       "deadline": null,
       "count": 7,
       "latest": "2026-03-11"
-    },
-    {
-      "key": "gn-26-74",
-      "label": "GN 26-74 (Unleashing American Drone Dominance)",
-      "category": "regulatory",
-      "agency": "FCC",
-      "domain": [
-        "air",
-        "spectrum",
-        "supply-chain"
-      ],
-      "deadline": null,
-      "count": 6,
-      "latest": "2026-10-08"
     },
     {
       "key": "dji-cadc-1260h",
