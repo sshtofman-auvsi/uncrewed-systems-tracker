@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-08T23:01:41.264706+00:00",
-  "generated_human": "2026-10-08 23:01 UTC",
+  "generated_at": "2026-10-09T04:59:25.163485+00:00",
+  "generated_human": "2026-10-09 04:59 UTC",
   "demo": false,
   "items": [
     {
@@ -72,7 +72,7 @@
         "proceeding": "26-74"
       },
       "first_seen": "2026-10-08T23:01:41.264706+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:26110079990",
@@ -101,7 +101,7 @@
         "proceeding": "26-74"
       },
       "first_seen": "2026-10-08T23:01:41.264706+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:26110079084",
@@ -1713,17 +1713,17 @@
       "is_new": false
     },
     {
-      "id": "Regulations.gov:FAA-2026-4558-1629",
+      "id": "Regulations.gov:FAA-2026-4558-1630",
       "source": "Regulations.gov",
       "category": "regulatory",
       "type": "Comment",
-      "title": "Comment on Designation – Restrict the Operation of Unmanned Aircraft in Close Proximity  to a Fixed Site Facility: Comment from Karin L",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1629",
+      "title": "Comment on Designation – Restrict the Operation of Unmanned Aircraft in Close Proximity  to a Fixed Site Facility: Comment from American Chemistry Council",
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1630",
       "agency": "FAA",
       "identifier": "FAA-2026-4558",
       "date": "2026-08-06",
       "deadline": null,
-      "summary": "Comment from Karin L",
+      "summary": "Comment from American Chemistry Council",
       "score": 80,
       "domains": [
         "air"
@@ -1739,8 +1739,8 @@
       "extra": {
         "docket_total_comments": 1669
       },
-      "first_seen": "2026-10-08T12:57:49.526195+00:00",
-      "is_new": false
+      "first_seen": "2026-10-09T04:59:25.163485+00:00",
+      "is_new": true
     },
     {
       "id": "Federal Register:2026-15659",
@@ -1809,6 +1809,39 @@
       },
       "first_seen": "2026-07-10T18:09:10.408312+00:00",
       "is_new": false
+    },
+    {
+      "id": "USAspending:W58RGZ26F0363",
+      "source": "USAspending",
+      "category": "procurement",
+      "type": "Award",
+      "title": "GRIFFON AEROSPACE, INC.: IN SUPPORT OF EXECUTIVE ORDER- UNLEASHING DRONE DOMINANCE, THE ARMY CONTRACTING COMMAND-REDSTONE ARSENAL ESTABLISHED THE",
+      "url": "https://www.usaspending.gov/award/CONT_AWD_W58RGZ26F0363_9700_W58RGZ26G0061_9700",
+      "agency": "Department of Defense",
+      "identifier": "W58RGZ26F0363",
+      "date": "2026-07-09",
+      "deadline": null,
+      "summary": "IN SUPPORT OF EXECUTIVE ORDER- UNLEASHING DRONE DOMINANCE, THE ARMY CONTRACTING COMMAND-REDSTONE ARSENAL ESTABLISHED THE BASIC ORDERING AGREEMENT TO PROCURE DRONES AND DRONE DOMINANT COMPONENTS.",
+      "score": 80,
+      "domains": [
+        "air",
+        "spectrum",
+        "supply-chain"
+      ],
+      "matched_terms": [
+        "drone",
+        "drone dominance"
+      ],
+      "watchlist": {
+        "key": "gn-26-74",
+        "label": "GN 26-74 (Unleashing American Drone Dominance)"
+      },
+      "extra": {
+        "amount": 37004023.84,
+        "award_type": "DELIVERY ORDER"
+      },
+      "first_seen": "2026-10-09T04:59:25.163485+00:00",
+      "is_new": true
     },
     {
       "id": "Federal Register:2026-13126",
@@ -1936,39 +1969,6 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-09-12T03:32:55.496723+00:00",
-      "is_new": false
-    },
-    {
-      "id": "USAspending:W58RGZ26F0206",
-      "source": "USAspending",
-      "category": "procurement",
-      "type": "Award",
-      "title": "AEROVIRONMENT, INC: IN ACCORDANCE WITH THE DIRECTIVES ESTABLISHED IN THE DEPARTMENT OF WAR MEMORANDUM DATED 10 JULY 2025, IN SUPPORT OF EXEC",
-      "url": "https://www.usaspending.gov/award/CONT_AWD_W58RGZ26F0206_9700_W58RGZ26G0062_9700",
-      "agency": "Department of Defense",
-      "identifier": "W58RGZ26F0206",
-      "date": "2026-03-12",
-      "deadline": null,
-      "summary": "IN ACCORDANCE WITH THE DIRECTIVES ESTABLISHED IN THE DEPARTMENT OF WAR MEMORANDUM DATED 10 JULY 2025, IN SUPPORT OF EXECUTIVE ORDER 14307-UNLEASHING U.S. MILITARY DRONE DOMINANCE.",
-      "score": 80,
-      "domains": [
-        "air",
-        "spectrum",
-        "supply-chain"
-      ],
-      "matched_terms": [
-        "drone",
-        "drone dominance"
-      ],
-      "watchlist": {
-        "key": "gn-26-74",
-        "label": "GN 26-74 (Unleashing American Drone Dominance)"
-      },
-      "extra": {
-        "amount": 17583318.0,
-        "award_type": "DELIVERY ORDER"
-      },
-      "first_seen": "2026-09-10T03:29:54.958940+00:00",
       "is_new": false
     },
     {
@@ -2654,34 +2654,6 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": false
-    },
-    {
-      "id": "USAspending:W51AA126FA246",
-      "source": "USAspending",
-      "category": "procurement",
-      "type": "Award",
-      "title": "DARKHIVE INC.: SMALL UNMANNED AIRCRAFT SYSTEMS MOTOR ASSEMBLY LINES AND BULK RAW MATERIALS SUPPLIES",
-      "url": "https://www.usaspending.gov/award/CONT_AWD_W51AA126FA246_9700_FA873023DB003_9700",
-      "agency": "Department of Defense",
-      "identifier": "W51AA126FA246",
-      "date": "2026-07-01",
-      "deadline": null,
-      "summary": "SMALL UNMANNED AIRCRAFT SYSTEMS MOTOR ASSEMBLY LINES AND BULK RAW MATERIALS SUPPLIES",
-      "score": 36,
-      "domains": [
-        "air"
-      ],
-      "matched_terms": [
-        "unmanned aircraft",
-        "small unmanned"
-      ],
-      "watchlist": null,
-      "extra": {
-        "amount": 3475548.0,
-        "award_type": "DELIVERY ORDER"
-      },
-      "first_seen": "2026-10-03T04:11:35.129854+00:00",
       "is_new": false
     },
     {
@@ -3411,29 +3383,6 @@
       "is_new": false
     },
     {
-      "id": "USAspending:N0001925F0161",
-      "source": "USAspending",
-      "category": "procurement",
-      "type": "Award",
-      "title": "INSITU, INC.: HARDWARE, FIELD SERVICE REPRESENTATIVE (FSR) SUPPORT, TRAVEL AND DEPLOYMENT SUPPORT TO CONVERT SCANEAGLE 13 AIR VEHICLES",
-      "url": "https://www.usaspending.gov/award/CONT_AWD_N0001925F0161_9700_N0001922D0038_9700",
-      "agency": "Department of Defense",
-      "identifier": "N0001925F0161",
-      "date": "2025-06-02",
-      "deadline": null,
-      "summary": "HARDWARE, FIELD SERVICE REPRESENTATIVE (FSR) SUPPORT, TRAVEL AND DEPLOYMENT SUPPORT TO CONVERT SCANEAGLE 13 AIR VEHICLES FROM ANALOG TO DIGITAL IN SUPPORT OF POLAND FMS CASE PL-P-GAV.",
-      "score": 30,
-      "domains": [],
-      "matched_terms": [],
-      "watchlist": null,
-      "extra": {
-        "amount": 3163356.37,
-        "award_type": "DELIVERY ORDER"
-      },
-      "first_seen": "2026-10-02T04:28:59.280073+00:00",
-      "is_new": false
-    },
-    {
       "id": "USAspending:19AQMM25F0189",
       "source": "USAspending",
       "category": "procurement",
@@ -3519,7 +3468,7 @@
       "matched_terms": [],
       "watchlist": null,
       "extra": {
-        "amount": 786891808.0,
+        "amount": 787691808.0,
         "award_type": "DEFINITIVE CONTRACT"
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
@@ -3674,6 +3623,29 @@
       },
       "first_seen": "2026-09-17T03:49:52.858693+00:00",
       "is_new": false
+    },
+    {
+      "id": "USAspending:FA868923F2850",
+      "source": "USAspending",
+      "category": "procurement",
+      "type": "Award",
+      "title": "GENERAL ATOMICS AERONAUTICAL SYSTEMS, INC.: MQ-9 REAPER FOREIGN MILITARY SALES (FMS) ITALY MID LIFE MODERNIZATION LOT 2",
+      "url": "https://www.usaspending.gov/award/CONT_AWD_FA868923F2850_9700_FA868920D2020_9700",
+      "agency": "Department of Defense",
+      "identifier": "FA868923F2850",
+      "date": "2023-07-14",
+      "deadline": null,
+      "summary": "MQ-9 REAPER FOREIGN MILITARY SALES (FMS) ITALY MID LIFE MODERNIZATION LOT 2",
+      "score": 30,
+      "domains": [],
+      "matched_terms": [],
+      "watchlist": null,
+      "extra": {
+        "amount": 80637544.72,
+        "award_type": "DELIVERY ORDER"
+      },
+      "first_seen": "2026-10-09T04:59:25.163485+00:00",
+      "is_new": true
     },
     {
       "id": "USAspending:FA868923F2250",
@@ -3889,6 +3861,29 @@
       },
       "first_seen": "2026-09-26T03:56:32.861219+00:00",
       "is_new": false
+    },
+    {
+      "id": "USAspending:FA862018F2366",
+      "source": "USAspending",
+      "category": "procurement",
+      "type": "Award",
+      "title": "GENERAL ATOMICS AERONAUTICAL SYSTEMS, INC.: LASER SMALL DIAMETER BOMB",
+      "url": "https://www.usaspending.gov/award/CONT_AWD_FA862018F2366_9700_FA862015G4040_9700",
+      "agency": "Department of Defense",
+      "identifier": "FA862018F2366",
+      "date": "2017-11-30",
+      "deadline": null,
+      "summary": "LASER SMALL DIAMETER BOMB",
+      "score": 30,
+      "domains": [],
+      "matched_terms": [],
+      "watchlist": null,
+      "extra": {
+        "amount": 23536752.38,
+        "award_type": "DELIVERY ORDER"
+      },
+      "first_seen": "2026-10-09T04:59:25.163485+00:00",
+      "is_new": true
     },
     {
       "id": "USAspending:NNG17FD73C",
@@ -4591,17 +4586,17 @@
       "is_new": false
     },
     {
-      "id": "Regulations.gov:FAA-2026-11354-0004",
+      "id": "Regulations.gov:FAA-2026-11722-0001",
       "source": "Regulations.gov",
       "category": "regulatory",
       "type": "Document",
-      "title": "Agri Spray Drone Solutions LLC - Additional Information",
-      "url": "https://www.regulations.gov/document/FAA-2026-11354-0004",
+      "title": "Wisconsin Aerial Drone Services LLC - Petition",
+      "url": "https://www.regulations.gov/document/FAA-2026-11722-0001",
       "agency": "FAA",
-      "identifier": "FAA-2026-11354",
+      "identifier": "FAA-2026-11722",
       "date": "2026-09-14",
       "deadline": null,
-      "summary": "Agri Spray Drone Solutions LLC - Additional Information",
+      "summary": "Wisconsin Aerial Drone Services LLC - Petition",
       "score": 20,
       "domains": [
         "air"
@@ -4615,17 +4610,17 @@
       "is_new": false
     },
     {
-      "id": "Regulations.gov:FAA-2026-11722-0001",
+      "id": "Regulations.gov:FAA-2026-11354-0004",
       "source": "Regulations.gov",
       "category": "regulatory",
       "type": "Document",
-      "title": "Wisconsin Aerial Drone Services LLC - Petition",
-      "url": "https://www.regulations.gov/document/FAA-2026-11722-0001",
+      "title": "Agri Spray Drone Solutions LLC - Additional Information",
+      "url": "https://www.regulations.gov/document/FAA-2026-11354-0004",
       "agency": "FAA",
-      "identifier": "FAA-2026-11722",
+      "identifier": "FAA-2026-11354",
       "date": "2026-09-14",
       "deadline": null,
-      "summary": "Wisconsin Aerial Drone Services LLC - Petition",
+      "summary": "Agri Spray Drone Solutions LLC - Additional Information",
       "score": 20,
       "domains": [
         "air"
@@ -5098,7 +5093,7 @@
     {
       "name": "SAM.gov",
       "status": "error",
-      "detail": "kw 'unmanned aircraft': HTTP 401: {\"code\":\"900901\",\"message\":\"Invalid Credentials\",\"description\":\"Invalid Credentials. Make sure you have provided the correct security credentials\"}; kw 'unmanned aerial': HTTP 401: {\"code\":\"900901\",\"message\":\"Invalid Credentials\",\"description\":\"Invalid Credentials. Make sure you have provided the correct security credentials\"}; kw 'drone': HTTP 401: {\"code\":\"900901\",\"message\":\"Invalid Credentials\",\"description\":\"Invalid Credentials. Make sure you have provided the correct security credentials\"}",
+      "detail": "kw 'unmanned aircraft': HTTP 401: <html><body><h1>API_KEY_INVALID</h1><p>An invalid API key was supplied. Please submit with a valid API key.</p></body></html>; kw 'unmanned aerial': HTTP 401: <html><body><h1>API_KEY_INVALID</h1><p>An invalid API key was supplied. Please submit with a valid API key.</p></body></html>; kw 'drone': HTTP 401: <html><body><h1>API_KEY_INVALID</h1><p>An invalid API key was supplied. Please submit with a valid API key.</p></body></html>",
       "count": 0
     },
     {
@@ -5116,7 +5111,7 @@
   ],
   "stats": {
     "total": 184,
-    "new": 2,
+    "new": 4,
     "by_category": {
       "regulatory": 110,
       "procurement": 60,
@@ -5124,7 +5119,7 @@
       "legislative": 4
     },
     "by_domain": {
-      "air": 141,
+      "air": 140,
       "supply-chain": 71,
       "defense": 14,
       "ground": 9,
@@ -5324,7 +5319,7 @@
   "deadlines": [
     {
       "deadline": "2026-10-27",
-      "days": 19,
+      "days": 18,
       "title": "60-Day Notice of Proposed Information Collection: Information Collection Request (ICR) for the Drone Infrastructure Inspection Grant (DIIG) Program",
       "identifier": "Docket No. DOT-OST-2026-3367",
       "category": "regulatory",
@@ -5333,7 +5328,7 @@
     },
     {
       "deadline": "2026-11-02",
-      "days": 25,
+      "days": 24,
       "title": "Agency Information Collection Activities; Proposed eCollection eComments Requested; Revision of a Previously Approved Collection; Title-SAFER SKIES State, Local, Tribal, and Territorial Counter-UAS Information Collection",
       "identifier": "OMB Number 1110-0090",
       "category": "regulatory",
