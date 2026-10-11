@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-11T04:30:02.767648+00:00",
-  "generated_human": "2026-10-11 04:30 UTC",
+  "generated_at": "2026-10-11T12:15:48.403861+00:00",
+  "generated_human": "2026-10-11 12:15 UTC",
   "demo": false,
   "items": [
     {
@@ -2678,7 +2678,7 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-10-11T04:30:02.767648+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "Federal Register:2026-15483",
@@ -4667,17 +4667,17 @@
       "is_new": false
     },
     {
-      "id": "Regulations.gov:FAA-2026-11722-0001",
+      "id": "Regulations.gov:FAA-2026-11354-0004",
       "source": "Regulations.gov",
       "category": "regulatory",
       "type": "Document",
-      "title": "Wisconsin Aerial Drone Services LLC - Petition",
-      "url": "https://www.regulations.gov/document/FAA-2026-11722-0001",
+      "title": "Agri Spray Drone Solutions LLC - Additional Information",
+      "url": "https://www.regulations.gov/document/FAA-2026-11354-0004",
       "agency": "FAA",
-      "identifier": "FAA-2026-11722",
+      "identifier": "FAA-2026-11354",
       "date": "2026-09-14",
       "deadline": null,
-      "summary": "Wisconsin Aerial Drone Services LLC - Petition",
+      "summary": "Agri Spray Drone Solutions LLC - Additional Information",
       "score": 20,
       "domains": [
         "air"
@@ -4691,17 +4691,17 @@
       "is_new": false
     },
     {
-      "id": "Regulations.gov:FAA-2026-11354-0004",
+      "id": "Regulations.gov:FAA-2026-11722-0001",
       "source": "Regulations.gov",
       "category": "regulatory",
       "type": "Document",
-      "title": "Agri Spray Drone Solutions LLC - Additional Information",
-      "url": "https://www.regulations.gov/document/FAA-2026-11354-0004",
+      "title": "Wisconsin Aerial Drone Services LLC - Petition",
+      "url": "https://www.regulations.gov/document/FAA-2026-11722-0001",
       "agency": "FAA",
-      "identifier": "FAA-2026-11354",
+      "identifier": "FAA-2026-11722",
       "date": "2026-09-14",
       "deadline": null,
-      "summary": "Agri Spray Drone Solutions LLC - Additional Information",
+      "summary": "Wisconsin Aerial Drone Services LLC - Petition",
       "score": 20,
       "domains": [
         "air"
@@ -5168,7 +5168,7 @@
   ],
   "stats": {
     "total": 186,
-    "new": 1,
+    "new": 0,
     "by_category": {
       "regulatory": 112,
       "procurement": 60,
