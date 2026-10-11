@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-10T21:17:03.757662+00:00",
-  "generated_human": "2026-10-10 21:17 UTC",
+  "generated_at": "2026-10-11T04:30:02.767648+00:00",
+  "generated_human": "2026-10-11 04:30 UTC",
   "demo": false,
   "items": [
     {
@@ -1968,39 +1968,6 @@
       "is_new": false
     },
     {
-      "id": "USAspending:W58RGZ26F0211",
-      "source": "USAspending",
-      "category": "procurement",
-      "type": "Award",
-      "title": "GRIFFON AEROSPACE, INC.: IN SUPPORT OF EXECUTIVE ORDER- UNLEASHING AMERICA DRONE DOMINANCE, THE ARMY CONTRACTING COMMAND-REDSTONE ARSENAL ESTABLI",
-      "url": "https://www.usaspending.gov/award/CONT_AWD_W58RGZ26F0211_9700_W58RGZ26G0061_9700",
-      "agency": "Department of Defense",
-      "identifier": "W58RGZ26F0211",
-      "date": "2026-03-16",
-      "deadline": null,
-      "summary": "IN SUPPORT OF EXECUTIVE ORDER- UNLEASHING AMERICA DRONE DOMINANCE, THE ARMY CONTRACTING COMMAND-REDSTONE ARSENAL ESTABLISHES THIS BASIC ORDERING AGREEMENT TO PROCURE DRONES AND DRONE DOMINANT COMPONENTS.",
-      "score": 80,
-      "domains": [
-        "air",
-        "spectrum",
-        "supply-chain"
-      ],
-      "matched_terms": [
-        "drone",
-        "drone dominance"
-      ],
-      "watchlist": {
-        "key": "gn-26-74",
-        "label": "GN 26-74 (Unleashing American Drone Dominance)"
-      },
-      "extra": {
-        "amount": 77729004.5,
-        "award_type": "DELIVERY ORDER"
-      },
-      "first_seen": "2026-09-12T03:32:55.496723+00:00",
-      "is_new": false
-    },
-    {
       "id": "CourtListener:72313063",
       "source": "CourtListener",
       "category": "litigation",
@@ -2684,6 +2651,34 @@
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
       "is_new": false
+    },
+    {
+      "id": "USAspending:W51AA126FA246",
+      "source": "USAspending",
+      "category": "procurement",
+      "type": "Award",
+      "title": "DARKHIVE INC.: SMALL UNMANNED AIRCRAFT SYSTEMS MOTOR ASSEMBLY LINES AND BULK RAW MATERIALS SUPPLIES",
+      "url": "https://www.usaspending.gov/award/CONT_AWD_W51AA126FA246_9700_FA873023DB003_9700",
+      "agency": "Department of Defense",
+      "identifier": "W51AA126FA246",
+      "date": "2026-07-01",
+      "deadline": null,
+      "summary": "SMALL UNMANNED AIRCRAFT SYSTEMS MOTOR ASSEMBLY LINES AND BULK RAW MATERIALS SUPPLIES",
+      "score": 36,
+      "domains": [
+        "air"
+      ],
+      "matched_terms": [
+        "unmanned aircraft",
+        "small unmanned"
+      ],
+      "watchlist": null,
+      "extra": {
+        "amount": 3475548.0,
+        "award_type": "DELIVERY ORDER"
+      },
+      "first_seen": "2026-10-11T04:30:02.767648+00:00",
+      "is_new": true
     },
     {
       "id": "Federal Register:2026-15483",
@@ -5173,7 +5168,7 @@
   ],
   "stats": {
     "total": 186,
-    "new": 0,
+    "new": 1,
     "by_category": {
       "regulatory": 112,
       "procurement": 60,
@@ -5182,10 +5177,10 @@
     },
     "by_domain": {
       "air": 142,
-      "supply-chain": 72,
+      "supply-chain": 71,
       "defense": 14,
       "ground": 10,
-      "spectrum": 8,
+      "spectrum": 7,
       "maritime": 1
     },
     "by_source": {
@@ -5224,20 +5219,6 @@
       "latest": "2026-10-02"
     },
     {
-      "key": "gn-26-74",
-      "label": "GN 26-74 (Unleashing American Drone Dominance)",
-      "category": "regulatory",
-      "agency": "FCC",
-      "domain": [
-        "air",
-        "spectrum",
-        "supply-chain"
-      ],
-      "deadline": null,
-      "count": 7,
-      "latest": "2026-10-09"
-    },
-    {
       "key": "dji-ca9",
       "label": "DJI petition (9th Circuit, 26-1029)",
       "category": "litigation",
@@ -5249,6 +5230,20 @@
       "deadline": null,
       "count": 7,
       "latest": "2026-03-11"
+    },
+    {
+      "key": "gn-26-74",
+      "label": "GN 26-74 (Unleashing American Drone Dominance)",
+      "category": "regulatory",
+      "agency": "FCC",
+      "domain": [
+        "air",
+        "spectrum",
+        "supply-chain"
+      ],
+      "deadline": null,
+      "count": 6,
+      "latest": "2026-10-09"
     },
     {
       "key": "dji-cadc-1260h",
@@ -5381,7 +5376,7 @@
   "deadlines": [
     {
       "deadline": "2026-10-27",
-      "days": 17,
+      "days": 16,
       "title": "60-Day Notice of Proposed Information Collection: Information Collection Request (ICR) for the Drone Infrastructure Inspection Grant (DIIG) Program",
       "identifier": "Docket No. DOT-OST-2026-3367",
       "category": "regulatory",
@@ -5390,7 +5385,7 @@
     },
     {
       "deadline": "2026-11-02",
-      "days": 23,
+      "days": 22,
       "title": "Agency Information Collection Activities; Proposed eCollection eComments Requested; Revision of a Previously Approved Collection; Title-SAFER SKIES State, Local, Tribal, and Territorial Counter-UAS Information Collection",
       "identifier": "OMB Number 1110-0090",
       "category": "regulatory",
