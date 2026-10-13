@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-13T00:15:16.809591+00:00",
-  "generated_human": "2026-10-13 00:15 UTC",
+  "generated_at": "2026-10-13T13:43:26.235128+00:00",
+  "generated_human": "2026-10-13 13:43 UTC",
   "demo": false,
   "items": [
     {
@@ -72,15 +72,15 @@
         "proceeding": "26-74"
       },
       "first_seen": "2026-10-13T00:15:16.809591+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
-      "id": "FCC ECFS:26110080211",
+      "id": "FCC ECFS:26110080213",
       "source": "FCC ECFS",
       "category": "regulatory",
       "type": "Comment",
       "title": "Theodora Scarato, Director of Wireless and EMF Program at Environmental Health Sciences: COMMENT (FCC 26-74)",
-      "url": "https://www.fcc.gov/ecfs/document/26110080211/1",
+      "url": "https://www.fcc.gov/ecfs/document/26110080213/1",
       "agency": "FCC",
       "identifier": "FCC 26-74",
       "date": "2026-10-09",
@@ -100,8 +100,8 @@
       "extra": {
         "proceeding": "26-74"
       },
-      "first_seen": "2026-10-10T04:44:51.808814+00:00",
-      "is_new": false
+      "first_seen": "2026-10-13T13:43:26.235128+00:00",
+      "is_new": true
     },
     {
       "id": "FCC ECFS:1008299084492",
@@ -1742,17 +1742,17 @@
       "is_new": false
     },
     {
-      "id": "Regulations.gov:FAA-2026-4558-1629",
+      "id": "Regulations.gov:FAA-2026-4558-1630",
       "source": "Regulations.gov",
       "category": "regulatory",
       "type": "Comment",
-      "title": "Comment on Designation – Restrict the Operation of Unmanned Aircraft in Close Proximity  to a Fixed Site Facility: Comment from Karin L",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1629",
+      "title": "Comment on Designation – Restrict the Operation of Unmanned Aircraft in Close Proximity  to a Fixed Site Facility: Comment from American Chemistry Council",
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1630",
       "agency": "FAA",
       "identifier": "FAA-2026-4558",
       "date": "2026-08-06",
       "deadline": null,
-      "summary": "Comment from Karin L",
+      "summary": "Comment from American Chemistry Council",
       "score": 80,
       "domains": [
         "air"
@@ -1768,7 +1768,7 @@
       "extra": {
         "docket_total_comments": 1669
       },
-      "first_seen": "2026-10-13T00:15:16.809591+00:00",
+      "first_seen": "2026-10-13T13:43:26.235128+00:00",
       "is_new": true
     },
     {
@@ -2538,35 +2538,6 @@
       "is_new": false
     },
     {
-      "id": "USAspending:70T05026F7500N003",
-      "source": "USAspending",
-      "category": "procurement",
-      "type": "Award",
-      "title": "RELI GROUP INC: COUNTER-UNMANNED AIRCRAFT SYSTEMS ENTERPRISE PROGRAM MANAGEMENT AND TECHNICAL SUPPORT SERVICES",
-      "url": "https://www.usaspending.gov/award/CONT_AWD_70T05026F7500N003_7013_70T05024A7503N002_7013",
-      "agency": "Department of Homeland Security",
-      "identifier": "70T05026F7500N003",
-      "date": "2026-09-30",
-      "deadline": null,
-      "summary": "COUNTER-UNMANNED AIRCRAFT SYSTEMS ENTERPRISE PROGRAM MANAGEMENT AND TECHNICAL SUPPORT SERVICES",
-      "score": 38,
-      "domains": [
-        "air",
-        "defense"
-      ],
-      "matched_terms": [
-        "unmanned aircraft",
-        "counter-unmanned"
-      ],
-      "watchlist": null,
-      "extra": {
-        "amount": 3548464.0,
-        "award_type": "BPA CALL"
-      },
-      "first_seen": "2026-10-03T04:11:35.129854+00:00",
-      "is_new": false
-    },
-    {
       "id": "USAspending:70T05026F6116N004",
       "source": "USAspending",
       "category": "procurement",
@@ -2650,34 +2621,6 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": false
-    },
-    {
-      "id": "USAspending:W51AA126FA246",
-      "source": "USAspending",
-      "category": "procurement",
-      "type": "Award",
-      "title": "DARKHIVE INC.: SMALL UNMANNED AIRCRAFT SYSTEMS MOTOR ASSEMBLY LINES AND BULK RAW MATERIALS SUPPLIES",
-      "url": "https://www.usaspending.gov/award/CONT_AWD_W51AA126FA246_9700_FA873023DB003_9700",
-      "agency": "Department of Defense",
-      "identifier": "W51AA126FA246",
-      "date": "2026-07-01",
-      "deadline": null,
-      "summary": "SMALL UNMANNED AIRCRAFT SYSTEMS MOTOR ASSEMBLY LINES AND BULK RAW MATERIALS SUPPLIES",
-      "score": 36,
-      "domains": [
-        "air"
-      ],
-      "matched_terms": [
-        "unmanned aircraft",
-        "small unmanned"
-      ],
-      "watchlist": null,
-      "extra": {
-        "amount": 3475548.0,
-        "award_type": "DELIVERY ORDER"
-      },
-      "first_seen": "2026-10-11T04:30:02.767648+00:00",
       "is_new": false
     },
     {
@@ -2985,29 +2928,6 @@
       "is_new": false
     },
     {
-      "id": "USAspending:W58RGZ26F0356",
-      "source": "USAspending",
-      "category": "procurement",
-      "type": "Award",
-      "title": "PLATFORM SYSTEMS, INCORPORATED: THIS AWARD CONSISTS OF 90 DAYS OF TECHNICAL, SUPPLY, AND MAINTENANCE SUPPORT. THIS ORDER IS AGAINST BOA W58RGZ-26-G-0055",
-      "url": "https://www.usaspending.gov/award/CONT_AWD_W58RGZ26F0356_9700_W58RGZ26G0055_9700",
-      "agency": "Department of Defense",
-      "identifier": "W58RGZ26F0356",
-      "date": "2026-07-07",
-      "deadline": null,
-      "summary": "THIS AWARD CONSISTS OF 90 DAYS OF TECHNICAL, SUPPLY, AND MAINTENANCE SUPPORT. THIS ORDER IS AGAINST BOA W58RGZ-26-G-0055.",
-      "score": 30,
-      "domains": [],
-      "matched_terms": [],
-      "watchlist": null,
-      "extra": {
-        "amount": 3563383.0,
-        "award_type": "DELIVERY ORDER"
-      },
-      "first_seen": "2026-10-08T04:57:17.010885+00:00",
-      "is_new": false
-    },
-    {
       "id": "USAspending:W900KK26FA112",
       "source": "USAspending",
       "category": "procurement",
@@ -3052,6 +2972,33 @@
       },
       "first_seen": "2026-09-23T03:43:59.432845+00:00",
       "is_new": false
+    },
+    {
+      "id": "USAspending:W58RGZ26F0334",
+      "source": "USAspending",
+      "category": "procurement",
+      "type": "Award",
+      "title": "AEROVIRONMENT, INC: AWARD IN SUPPORT OF TUAS BATTALION RECONNAISSANCE UAV REQUIREMENT.",
+      "url": "https://www.usaspending.gov/award/CONT_AWD_W58RGZ26F0334_9700_W58RGZ26G0005_9700",
+      "agency": "Department of Defense",
+      "identifier": "W58RGZ26F0334",
+      "date": "2026-06-03",
+      "deadline": null,
+      "summary": "AWARD IN SUPPORT OF TUAS BATTALION RECONNAISSANCE UAV REQUIREMENT.",
+      "score": 30,
+      "domains": [
+        "air"
+      ],
+      "matched_terms": [
+        "uav"
+      ],
+      "watchlist": null,
+      "extra": {
+        "amount": 117306231.51,
+        "award_type": "DELIVERY ORDER"
+      },
+      "first_seen": "2026-10-13T13:43:26.235128+00:00",
+      "is_new": true
     },
     {
       "id": "USAspending:W15P7T26F0130",
@@ -3121,6 +3068,29 @@
       },
       "first_seen": "2026-09-09T03:33:04.270117+00:00",
       "is_new": false
+    },
+    {
+      "id": "USAspending:FA862926PB003",
+      "source": "USAspending",
+      "category": "procurement",
+      "type": "Award",
+      "title": "AEROVIRONMENT, INC: ACC/A3J-MIPR-TACP ACC HURRICANE ORDER",
+      "url": "https://www.usaspending.gov/award/CONT_AWD_FA862926PB003_9700_-NONE-_-NONE-",
+      "agency": "Department of Defense",
+      "identifier": "FA862926PB003",
+      "date": "2026-04-29",
+      "deadline": null,
+      "summary": "ACC/A3J-MIPR-TACP ACC HURRICANE ORDER",
+      "score": 30,
+      "domains": [],
+      "matched_terms": [],
+      "watchlist": null,
+      "extra": {
+        "amount": 4451223.0,
+        "award_type": "PURCHASE ORDER"
+      },
+      "first_seen": "2026-10-13T13:43:26.235128+00:00",
+      "is_new": true
     },
     {
       "id": "USAspending:80NM0026F7025",
@@ -3499,6 +3469,29 @@
       "is_new": false
     },
     {
+      "id": "USAspending:FA868924F2451",
+      "source": "USAspending",
+      "category": "procurement",
+      "type": "Award",
+      "title": "GENERAL ATOMICS AERONAUTICAL SYSTEMS, INC.: MQ-9 REAPER JOINT UNION OPERATIONAL NEED PROLIFERLATED LOW EARTH ORBIT PHASE II",
+      "url": "https://www.usaspending.gov/award/CONT_AWD_FA868924F2451_9700_FA868920D2020_9700",
+      "agency": "Department of Defense",
+      "identifier": "FA868924F2451",
+      "date": "2024-04-22",
+      "deadline": null,
+      "summary": "MQ-9 REAPER JOINT UNION OPERATIONAL NEED PROLIFERLATED LOW EARTH ORBIT PHASE II",
+      "score": 30,
+      "domains": [],
+      "matched_terms": [],
+      "watchlist": null,
+      "extra": {
+        "amount": 94766490.59,
+        "award_type": "DELIVERY ORDER"
+      },
+      "first_seen": "2026-10-13T13:43:26.235128+00:00",
+      "is_new": true
+    },
+    {
       "id": "USAspending:W58RGZ24C0021",
       "source": "USAspending",
       "category": "procurement",
@@ -3519,33 +3512,6 @@
         "award_type": "DEFINITIVE CONTRACT"
       },
       "first_seen": "2026-09-10T03:29:54.958940+00:00",
-      "is_new": false
-    },
-    {
-      "id": "USAspending:693KA923C00012",
-      "source": "USAspending",
-      "category": "procurement",
-      "type": "Award",
-      "title": "I3 FEDERAL LLC: EVALUATION OF HAZARDS POSED BY LITHIUM-BATTERY POWERED UNMANNED AIRCRAFT SYSTEMS AND OTHER DANGEROUS GOODS INTEGRATED IN",
-      "url": "https://www.usaspending.gov/award/CONT_AWD_693KA923C00012_6920_-NONE-_-NONE-",
-      "agency": "Department of Transportation",
-      "identifier": "693KA923C00012",
-      "date": "2023-09-11",
-      "deadline": null,
-      "summary": "EVALUATION OF HAZARDS POSED BY LITHIUM-BATTERY POWERED UNMANNED AIRCRAFT SYSTEMS AND OTHER DANGEROUS GOODS INTEGRATED INTO THE DESIGN.",
-      "score": 30,
-      "domains": [
-        "air"
-      ],
-      "matched_terms": [
-        "unmanned aircraft"
-      ],
-      "watchlist": null,
-      "extra": {
-        "amount": 3612061.55,
-        "award_type": "DEFINITIVE CONTRACT"
-      },
-      "first_seen": "2026-10-02T04:28:59.280073+00:00",
       "is_new": false
     },
     {
@@ -3743,6 +3709,29 @@
       },
       "first_seen": "2026-09-26T03:56:32.861219+00:00",
       "is_new": false
+    },
+    {
+      "id": "USAspending:FA868923C2018",
+      "source": "USAspending",
+      "category": "procurement",
+      "type": "Award",
+      "title": "GENERAL ATOMICS AERONAUTICAL SYSTEMS, INC.: MQ-9B PRODUCTION FMS TAIWAN",
+      "url": "https://www.usaspending.gov/award/CONT_AWD_FA868923C2018_9700_-NONE-_-NONE-",
+      "agency": "Department of Defense",
+      "identifier": "FA868923C2018",
+      "date": "2023-04-28",
+      "deadline": null,
+      "summary": "MQ-9B PRODUCTION FMS TAIWAN",
+      "score": 30,
+      "domains": [],
+      "matched_terms": [],
+      "watchlist": null,
+      "extra": {
+        "amount": 471430334.17,
+        "award_type": "DEFINITIVE CONTRACT"
+      },
+      "first_seen": "2026-10-13T13:43:26.235128+00:00",
+      "is_new": true
     },
     {
       "id": "USAspending:N0001923F0319",
@@ -5168,7 +5157,7 @@
   ],
   "stats": {
     "total": 186,
-    "new": 2,
+    "new": 6,
     "by_category": {
       "regulatory": 112,
       "procurement": 60,
@@ -5176,9 +5165,9 @@
       "legislative": 4
     },
     "by_domain": {
-      "air": 142,
+      "air": 140,
       "supply-chain": 71,
-      "defense": 14,
+      "defense": 13,
       "ground": 10,
       "spectrum": 7,
       "maritime": 1
