@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-14T11:22:43.137851+00:00",
-  "generated_human": "2026-10-14 11:22 UTC",
+  "generated_at": "2026-10-14T16:42:51.704598+00:00",
+  "generated_human": "2026-10-14 16:42 UTC",
   "demo": false,
   "items": [
     {
@@ -46,15 +46,15 @@
       "is_new": false
     },
     {
-      "id": "FCC ECFS:26110080960",
+      "id": "FCC ECFS:26110081357",
       "source": "FCC ECFS",
       "category": "regulatory",
       "type": "Comment",
       "title": "Theodora Scarato, Director of Wireless and EMF Program at Environmental Health Sciences: COMMENT (FCC 26-74)",
-      "url": "https://www.fcc.gov/ecfs/document/26110080960/1",
+      "url": "https://www.fcc.gov/ecfs/document/26110081357/1",
       "agency": "FCC",
       "identifier": "FCC 26-74",
-      "date": "2026-10-13",
+      "date": "2026-10-14",
       "deadline": null,
       "summary": "",
       "score": 80,
@@ -71,36 +71,7 @@
       "extra": {
         "proceeding": "26-74"
       },
-      "first_seen": "2026-10-13T22:22:28.420749+00:00",
-      "is_new": false
-    },
-    {
-      "id": "FCC ECFS:26110080410",
-      "source": "FCC ECFS",
-      "category": "regulatory",
-      "type": "Comment",
-      "title": "Kevin Mottus, Outreach Director, CA Brain Tumor Assn: COMMENT (FCC 26-74)",
-      "url": "https://www.fcc.gov/ecfs/document/26110080410/1",
-      "agency": "FCC",
-      "identifier": "FCC 26-74",
-      "date": "2026-10-13",
-      "deadline": null,
-      "summary": "",
-      "score": 80,
-      "domains": [
-        "air",
-        "spectrum",
-        "supply-chain"
-      ],
-      "matched_terms": [],
-      "watchlist": {
-        "key": "gn-26-74",
-        "label": "GN 26-74 (Unleashing American Drone Dominance)"
-      },
-      "extra": {
-        "proceeding": "26-74"
-      },
-      "first_seen": "2026-10-14T11:22:43.137851+00:00",
+      "first_seen": "2026-10-14T16:42:51.704598+00:00",
       "is_new": true
     },
     {
@@ -1713,17 +1684,17 @@
       "is_new": false
     },
     {
-      "id": "Regulations.gov:FAA-2026-4558-1630",
+      "id": "Regulations.gov:FAA-2026-4558-1629",
       "source": "Regulations.gov",
       "category": "regulatory",
       "type": "Comment",
-      "title": "Comment on Designation – Restrict the Operation of Unmanned Aircraft in Close Proximity  to a Fixed Site Facility: Comment from American Chemistry Council",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1630",
+      "title": "Comment on Designation – Restrict the Operation of Unmanned Aircraft in Close Proximity  to a Fixed Site Facility: Comment from Karin L",
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1629",
       "agency": "FAA",
       "identifier": "FAA-2026-4558",
       "date": "2026-08-06",
       "deadline": null,
-      "summary": "Comment from American Chemistry Council",
+      "summary": "Comment from Karin L",
       "score": 80,
       "domains": [
         "air"
@@ -1739,7 +1710,7 @@
       "extra": {
         "docket_total_comments": 1669
       },
-      "first_seen": "2026-10-14T11:22:43.137851+00:00",
+      "first_seen": "2026-10-14T16:42:51.704598+00:00",
       "is_new": true
     },
     {
@@ -5124,25 +5095,25 @@
     }
   ],
   "stats": {
-    "total": 185,
+    "total": 184,
     "new": 2,
     "by_category": {
-      "regulatory": 111,
+      "regulatory": 110,
       "procurement": 60,
       "litigation": 10,
       "legislative": 4
     },
     "by_domain": {
-      "air": 139,
-      "supply-chain": 70,
+      "air": 138,
+      "supply-chain": 69,
       "defense": 12,
       "ground": 10,
-      "spectrum": 6,
+      "spectrum": 5,
       "maritime": 1
     },
     "by_source": {
       "USAspending": 60,
-      "FCC ECFS": 52,
+      "FCC ECFS": 51,
       "Regulations.gov": 35,
       "Federal Register": 24,
       "CourtListener": 10,
@@ -5199,8 +5170,8 @@
         "supply-chain"
       ],
       "deadline": null,
-      "count": 5,
-      "latest": "2026-10-13"
+      "count": 4,
+      "latest": "2026-10-14"
     },
     {
       "key": "dji-cadc-1260h",
