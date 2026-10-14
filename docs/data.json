@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-14T16:42:51.704598+00:00",
-  "generated_human": "2026-10-14 16:42 UTC",
+  "generated_at": "2026-10-14T21:22:52.723254+00:00",
+  "generated_human": "2026-10-14 21:22 UTC",
   "demo": false,
   "items": [
     {
@@ -46,12 +46,12 @@
       "is_new": false
     },
     {
-      "id": "FCC ECFS:26110081357",
+      "id": "FCC ECFS:26110081462",
       "source": "FCC ECFS",
       "category": "regulatory",
       "type": "Comment",
       "title": "Theodora Scarato, Director of Wireless and EMF Program at Environmental Health Sciences: COMMENT (FCC 26-74)",
-      "url": "https://www.fcc.gov/ecfs/document/26110081357/1",
+      "url": "https://www.fcc.gov/ecfs/document/26110081462/1",
       "agency": "FCC",
       "identifier": "FCC 26-74",
       "date": "2026-10-14",
@@ -71,7 +71,63 @@
       "extra": {
         "proceeding": "26-74"
       },
-      "first_seen": "2026-10-14T16:42:51.704598+00:00",
+      "first_seen": "2026-10-14T21:22:52.723254+00:00",
+      "is_new": true
+    },
+    {
+      "id": "FCC ECFS:26110081553",
+      "source": "FCC ECFS",
+      "category": "regulatory",
+      "type": "LETTER",
+      "title": "Department of War: LETTER (FCC 26-22)",
+      "url": "https://www.fcc.gov/ecfs/document/26110081553/1",
+      "agency": "FCC",
+      "identifier": "FCC 26-22",
+      "date": "2026-10-14",
+      "deadline": null,
+      "summary": "",
+      "score": 80,
+      "domains": [
+        "supply-chain",
+        "air"
+      ],
+      "matched_terms": [],
+      "watchlist": {
+        "key": "et-26-22",
+        "label": "ET 26-22 / DA-26-592 (DJI Security Assessment — comment by Aug 28, 2026)"
+      },
+      "extra": {
+        "proceeding": "26-22"
+      },
+      "first_seen": "2026-10-14T21:22:52.723254+00:00",
+      "is_new": true
+    },
+    {
+      "id": "FCC ECFS:1014238276170",
+      "source": "FCC ECFS",
+      "category": "regulatory",
+      "type": "Notice",
+      "title": "Public Safety & Homeland Security Bureau: PUBLIC NOTICE (FCC 26-22)",
+      "url": "https://docs.fcc.gov/public/attachments/DA-26-1106A1.pdf",
+      "agency": "FCC",
+      "identifier": "FCC 26-22",
+      "date": "2026-10-14",
+      "deadline": null,
+      "summary": "",
+      "score": 80,
+      "domains": [
+        "supply-chain",
+        "air"
+      ],
+      "matched_terms": [],
+      "watchlist": {
+        "key": "et-26-22",
+        "label": "ET 26-22 / DA-26-592 (DJI Security Assessment — comment by Aug 28, 2026)"
+      },
+      "extra": {
+        "proceeding": "26-22"
+      },
+      "first_seen": "2026-10-14T21:22:52.723254+00:00",
       "is_new": true
     },
     {
@@ -1621,80 +1677,17 @@
       "is_new": false
     },
     {
-      "id": "FCC ECFS:26110073125",
-      "source": "FCC ECFS",
-      "category": "regulatory",
-      "type": "Comment",
-      "title": "Alfred Emanuel Lehmberg IV: COMMENT (FCC 26-22)",
-      "url": "https://www.fcc.gov/ecfs/search/search-filings/filing/26110073125",
-      "agency": "FCC",
-      "identifier": "FCC 26-22",
-      "date": "2026-08-26",
-      "deadline": null,
-      "summary": "I am a military veteran, a certified member of the National Veteran Owned Business Association (NaVOBA), and the owner of a commercial drone service enterprise. I am filing this comment to state clearly that the proposed FCC restrictions on DJI equipment will directly harm my business, impact my livelihood, and nullify the significant capital investment I made using my own savings and resources. W",
-      "score": 80,
-      "domains": [
-        "air",
-        "supply-chain"
-      ],
-      "matched_terms": [
-        "drone",
-        "dji",
-        "26-22"
-      ],
-      "watchlist": {
-        "key": "et-26-22",
-        "label": "ET 26-22 / DA-26-592 (DJI Security Assessment — comment by Aug 28, 2026)"
-      },
-      "extra": {
-        "proceeding": "26-22"
-      },
-      "first_seen": "2026-08-26T19:50:21.800032+00:00",
-      "is_new": false
-    },
-    {
-      "id": "FCC ECFS:26110073040",
-      "source": "FCC ECFS",
-      "category": "regulatory",
-      "type": "Comment",
-      "title": "Carter Mahan: COMMENT (FCC 26-22)",
-      "url": "https://www.fcc.gov/ecfs/search/search-filings/filing/26110073040",
-      "agency": "FCC",
-      "identifier": "FCC 26-22",
-      "date": "2026-08-25",
-      "deadline": null,
-      "summary": "Dear FCC,\n\nI understand why the FCC is concerned about national security, and I agree that those concerns need to be taken seriously. But I also think DJI should have the opportunity to prove that its equipment is safe. If there is a specific security problem with DJI drones, I would like to see that problem clearly identified and independently verified. DJI has already taken steps to have its equ",
-      "score": 80,
-      "domains": [
-        "air",
-        "supply-chain"
-      ],
-      "matched_terms": [
-        "dji",
-        "26-22"
-      ],
-      "watchlist": {
-        "key": "et-26-22",
-        "label": "ET 26-22 / DA-26-592 (DJI Security Assessment — comment by Aug 28, 2026)"
-      },
-      "extra": {
-        "proceeding": "26-22"
-      },
-      "first_seen": "2026-08-26T01:21:43.238413+00:00",
-      "is_new": false
-    },
-    {
-      "id": "Regulations.gov:FAA-2026-4558-1629",
+      "id": "Regulations.gov:FAA-2026-4558-1630",
       "source": "Regulations.gov",
       "category": "regulatory",
       "type": "Comment",
-      "title": "Comment on Designation – Restrict the Operation of Unmanned Aircraft in Close Proximity  to a Fixed Site Facility: Comment from Karin L",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1629",
+      "title": "Comment on Designation – Restrict the Operation of Unmanned Aircraft in Close Proximity  to a Fixed Site Facility: Comment from American Chemistry Council",
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1630",
       "agency": "FAA",
       "identifier": "FAA-2026-4558",
       "date": "2026-08-06",
       "deadline": null,
-      "summary": "Comment from Karin L",
+      "summary": "Comment from American Chemistry Council",
       "score": 80,
       "domains": [
         "air"
@@ -1710,7 +1703,7 @@
       "extra": {
         "docket_total_comments": 1669
       },
-      "first_seen": "2026-10-14T16:42:51.704598+00:00",
+      "first_seen": "2026-10-14T21:22:52.723254+00:00",
       "is_new": true
     },
     {
@@ -4057,6 +4050,30 @@
       "is_new": false
     },
     {
+      "id": "Regulations.gov:FAA-2024-1546-0015",
+      "source": "Regulations.gov",
+      "category": "regulatory",
+      "type": "Document",
+      "title": "Great Lakes Drone Solutions LLC - Response to Request for Information",
+      "url": "https://www.regulations.gov/document/FAA-2024-1546-0015",
+      "agency": "FAA",
+      "identifier": "FAA-2024-1546",
+      "date": "2026-10-14",
+      "deadline": null,
+      "summary": "Great Lakes Drone Solutions LLC - Response to Request for Information",
+      "score": 20,
+      "domains": [
+        "air"
+      ],
+      "matched_terms": [
+        "drone"
+      ],
+      "watchlist": null,
+      "extra": {},
+      "first_seen": "2026-10-14T21:22:52.723254+00:00",
+      "is_new": true
+    },
+    {
       "id": "Regulations.gov:FAA-2024-2534-0003",
       "source": "Regulations.gov",
       "category": "regulatory",
@@ -4720,30 +4737,6 @@
       "is_new": false
     },
     {
-      "id": "Regulations.gov:FAA-2026-11650-0001",
-      "source": "Regulations.gov",
-      "category": "regulatory",
-      "type": "Document",
-      "title": "Over the Top Drone Services, LLC - Petition",
-      "url": "https://www.regulations.gov/document/FAA-2026-11650-0001",
-      "agency": "FAA",
-      "identifier": "FAA-2026-11650",
-      "date": "2026-09-11",
-      "deadline": null,
-      "summary": "Over the Top Drone Services, LLC - Petition",
-      "score": 20,
-      "domains": [
-        "air"
-      ],
-      "matched_terms": [
-        "drone"
-      ],
-      "watchlist": null,
-      "extra": {},
-      "first_seen": "2026-09-11T16:01:40.852303+00:00",
-      "is_new": false
-    },
-    {
       "id": "Federal Register:2026-17776",
       "source": "Federal Register",
       "category": "regulatory",
@@ -5096,7 +5089,7 @@
   ],
   "stats": {
     "total": 184,
-    "new": 2,
+    "new": 5,
     "by_category": {
       "regulatory": 110,
       "procurement": 60,
@@ -5144,7 +5137,7 @@
       ],
       "deadline": "2026-08-28",
       "count": 51,
-      "latest": "2026-10-02"
+      "latest": "2026-10-14"
     },
     {
       "key": "dji-ca9",
