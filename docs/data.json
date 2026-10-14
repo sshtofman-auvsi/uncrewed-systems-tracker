@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-13T22:22:28.420749+00:00",
-  "generated_human": "2026-10-13 22:22 UTC",
+  "generated_at": "2026-10-14T03:53:13.506208+00:00",
+  "generated_human": "2026-10-14 03:53 UTC",
   "demo": false,
   "items": [
     {
@@ -72,15 +72,15 @@
         "proceeding": "26-74"
       },
       "first_seen": "2026-10-13T22:22:28.420749+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
-      "id": "FCC ECFS:26110080410",
+      "id": "FCC ECFS:26110080417",
       "source": "FCC ECFS",
       "category": "regulatory",
       "type": "Comment",
       "title": "Kevin Mottus, Outreach Director, CA Brain Tumor Assn: COMMENT (FCC 26-74)",
-      "url": "https://www.fcc.gov/ecfs/document/26110080410/1",
+      "url": "https://www.fcc.gov/ecfs/document/26110080417/1",
       "agency": "FCC",
       "identifier": "FCC 26-74",
       "date": "2026-10-13",
@@ -100,7 +100,7 @@
       "extra": {
         "proceeding": "26-74"
       },
-      "first_seen": "2026-10-13T22:22:28.420749+00:00",
+      "first_seen": "2026-10-14T03:53:13.506208+00:00",
       "is_new": true
     },
     {
@@ -1713,17 +1713,17 @@
       "is_new": false
     },
     {
-      "id": "Regulations.gov:FAA-2026-4558-1630",
+      "id": "Regulations.gov:FAA-2026-4558-1629",
       "source": "Regulations.gov",
       "category": "regulatory",
       "type": "Comment",
-      "title": "Comment on Designation – Restrict the Operation of Unmanned Aircraft in Close Proximity  to a Fixed Site Facility: Comment from American Chemistry Council",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1630",
+      "title": "Comment on Designation – Restrict the Operation of Unmanned Aircraft in Close Proximity  to a Fixed Site Facility: Comment from Karin L",
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1629",
       "agency": "FAA",
       "identifier": "FAA-2026-4558",
       "date": "2026-08-06",
       "deadline": null,
-      "summary": "Comment from American Chemistry Council",
+      "summary": "Comment from Karin L",
       "score": 80,
       "domains": [
         "air"
@@ -1739,8 +1739,8 @@
       "extra": {
         "docket_total_comments": 1669
       },
-      "first_seen": "2026-10-13T13:43:26.235128+00:00",
-      "is_new": false
+      "first_seen": "2026-10-14T03:53:13.506208+00:00",
+      "is_new": true
     },
     {
       "id": "Federal Register:2026-15659",
@@ -2328,37 +2328,6 @@
       "is_new": false
     },
     {
-      "id": "USAspending:70RSAT26FR0000009",
-      "source": "USAspending",
-      "category": "procurement",
-      "type": "Award",
-      "title": "THE MITRE CORPORATION: THE PURPOSE OF THIS REQUISITION IS TO COMMIT $750,000.00 FOR A NEW TASK ORDER UNDER 70RSAT20D00000001 FOR UNMANNED AIRCR",
-      "url": "https://www.usaspending.gov/award/CONT_AWD_70RSAT26FR0000009_7001_70RSAT26D00000001_7001",
-      "agency": "Department of Homeland Security",
-      "identifier": "70RSAT26FR0000009",
-      "date": "2026-03-24",
-      "deadline": null,
-      "summary": "THE PURPOSE OF THIS REQUISITION IS TO COMMIT $750,000.00 FOR A NEW TASK ORDER UNDER 70RSAT20D00000001 FOR UNMANNED AIRCRAFT SYSTEMS (UAS) AND COUNTER-UNMANNED AIRCRAFT SYSTEMS (C-UAS), PROVIDES DHS WITH DATA-DRIVEN INSIGHTS, OPERATIONAL RECOMMENDATIO",
-      "score": 66,
-      "domains": [
-        "air",
-        "defense"
-      ],
-      "matched_terms": [
-        "unmanned aircraft",
-        "uas",
-        "c-uas",
-        "counter-unmanned"
-      ],
-      "watchlist": null,
-      "extra": {
-        "amount": 3676836.0,
-        "award_type": "DELIVERY ORDER"
-      },
-      "first_seen": "2026-10-01T04:36:48.139375+00:00",
-      "is_new": false
-    },
-    {
       "id": "Federal Register:2026-13211",
       "source": "Federal Register",
       "category": "regulatory",
@@ -2479,36 +2448,6 @@
       "is_new": false
     },
     {
-      "id": "USAspending:70Z02325F71100013",
-      "source": "USAspending",
-      "category": "procurement",
-      "type": "Award",
-      "title": "ARETE CONSULTING LLC: SUBJECT MATTER EXPERTISE SERVICES TO ESTABLISH NEW ROBOTICS AND AUTONOMOUS SYSTEMS DOMAIN FOR \"DRONE\" AND COUNTER-UNMANN",
-      "url": "https://www.usaspending.gov/award/CONT_AWD_70Z02325F71100013_7008_47QRCA25DA145_4732",
-      "agency": "Department of Homeland Security",
-      "identifier": "70Z02325F71100013",
-      "date": "2025-09-22",
-      "deadline": null,
-      "summary": "SUBJECT MATTER EXPERTISE SERVICES TO ESTABLISH NEW ROBOTICS AND AUTONOMOUS SYSTEMS DOMAIN FOR \"DRONE\" AND COUNTER-UNMANNED AUTONOMOUS SYSTEMS.",
-      "score": 46,
-      "domains": [
-        "air",
-        "defense"
-      ],
-      "matched_terms": [
-        "drone",
-        "counter-unmanned",
-        "autonomous systems"
-      ],
-      "watchlist": null,
-      "extra": {
-        "amount": 4432225.82,
-        "award_type": "DELIVERY ORDER"
-      },
-      "first_seen": "2026-09-23T03:43:59.432845+00:00",
-      "is_new": false
-    },
-    {
       "id": "USAspending:70T05026F6116N004",
       "source": "USAspending",
       "category": "procurement",
@@ -2567,6 +2506,34 @@
       "is_new": false
     },
     {
+      "id": "USAspending:W58RGZ19C0027",
+      "source": "USAspending",
+      "category": "procurement",
+      "type": "Award",
+      "title": "GENERAL ATOMICS AERONAUTICAL SYSTEMS, INC.: REQUIREMENT IS FOR THE PROCUREMENT OF PERFORMANCE BASED LOGISTICS SUPPORT SERVICES FOR THE MQ-1C GRAY EAGLE UNMANNED AIR",
+      "url": "https://www.usaspending.gov/award/CONT_AWD_W58RGZ19C0027_9700_-NONE-_-NONE-",
+      "agency": "Department of Defense",
+      "identifier": "W58RGZ19C0027",
+      "date": "2019-04-24",
+      "deadline": null,
+      "summary": "REQUIREMENT IS FOR THE PROCUREMENT OF PERFORMANCE BASED LOGISTICS SUPPORT SERVICES FOR THE MQ-1C GRAY EAGLE UNMANNED AIRCRAFT SYSTEM.",
+      "score": 38,
+      "domains": [
+        "air"
+      ],
+      "matched_terms": [
+        "unmanned aircraft",
+        "unmanned aircraft system"
+      ],
+      "watchlist": null,
+      "extra": {
+        "amount": 1896157069.11,
+        "award_type": "DEFINITIVE CONTRACT"
+      },
+      "first_seen": "2026-10-14T03:53:13.506208+00:00",
+      "is_new": true
+    },
+    {
       "id": "USAspending:692M1523F00178",
       "source": "USAspending",
       "category": "procurement",
@@ -2593,6 +2560,34 @@
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
       "is_new": false
+    },
+    {
+      "id": "USAspending:FA807523F0009",
+      "source": "USAspending",
+      "category": "procurement",
+      "type": "Award",
+      "title": "NAVAL SYSTEMS, INC.: SMALL UNMANNED AIRCRAFT SYSTEMS AND ENABLING TECHNOLOGIES ANALYSIS FOR NAVAL SURFACE WARFARE CENTER, PANAMA CITY DIVISIO",
+      "url": "https://www.usaspending.gov/award/CONT_AWD_FA807523F0009_9700_FA807519D0025_9700",
+      "agency": "Department of Defense",
+      "identifier": "FA807523F0009",
+      "date": "2022-12-21",
+      "deadline": null,
+      "summary": "SMALL UNMANNED AIRCRAFT SYSTEMS AND ENABLING TECHNOLOGIES ANALYSIS FOR NAVAL SURFACE WARFARE CENTER, PANAMA CITY DIVISION",
+      "score": 36,
+      "domains": [
+        "air"
+      ],
+      "matched_terms": [
+        "unmanned aircraft",
+        "small unmanned"
+      ],
+      "watchlist": null,
+      "extra": {
+        "amount": 12360801.42,
+        "award_type": "DELIVERY ORDER"
+      },
+      "first_seen": "2026-10-14T03:53:13.506208+00:00",
+      "is_new": true
     },
     {
       "id": "Federal Register:2026-15483",
@@ -2738,6 +2733,35 @@
       },
       "first_seen": "2026-07-03T10:17:16.264437+00:00",
       "is_new": false
+    },
+    {
+      "id": "USAspending:W56KGU25C0009",
+      "source": "USAspending",
+      "category": "procurement",
+      "type": "Award",
+      "title": "VIRGINIA POLYTECHNIC INSTITUTE & STATE UNIVERSITY: BROAD AGENCY ANNOUNCEMENT FOR VIRGINIA TECH WITHIN AN EXISTING COUNTER UAS (CUAS) SOFTWARE",
+      "url": "https://www.usaspending.gov/award/CONT_AWD_W56KGU25C0009_9700_-NONE-_-NONE-",
+      "agency": "Department of Defense",
+      "identifier": "W56KGU25C0009",
+      "date": "2025-03-18",
+      "deadline": null,
+      "summary": "BROAD AGENCY ANNOUNCEMENT FOR VIRGINIA TECH WITHIN AN EXISTING COUNTER UAS (CUAS) SOFTWARE",
+      "score": 34,
+      "domains": [
+        "air",
+        "defense"
+      ],
+      "matched_terms": [
+        "uas",
+        "counter uas"
+      ],
+      "watchlist": null,
+      "extra": {
+        "amount": 4666000.0,
+        "award_type": "DEFINITIVE CONTRACT"
+      },
+      "first_seen": "2026-10-14T03:53:13.506208+00:00",
+      "is_new": true
     },
     {
       "id": "USAspending:W31P4Q24FE001",
@@ -3294,33 +3318,6 @@
       "is_new": false
     },
     {
-      "id": "USAspending:FA852725CB001",
-      "source": "USAspending",
-      "category": "procurement",
-      "type": "Award",
-      "title": "UTAH STATE UNIVERSITY SPACE DYNAMICS LABORATORY: REPUBLIC OF KOREA AIR FORCE GLOBAL HAWK HIGH-ALTITUDE UNMANNED AIRCRAFT  TASKING, COLLECTION, PROCESSING, EXPLOITATION &",
-      "url": "https://www.usaspending.gov/award/CONT_AWD_FA852725CB001_9700_-NONE-_-NONE-",
-      "agency": "Department of Defense",
-      "identifier": "FA852725CB001",
-      "date": "2025-09-01",
-      "deadline": null,
-      "summary": "REPUBLIC OF KOREA AIR FORCE GLOBAL HAWK HIGH-ALTITUDE UNMANNED AIRCRAFT  TASKING, COLLECTION, PROCESSING, EXPLOITATION & DISSEMINATION (TCPED) SYSTEM",
-      "score": 30,
-      "domains": [
-        "air"
-      ],
-      "matched_terms": [
-        "unmanned aircraft"
-      ],
-      "watchlist": null,
-      "extra": {
-        "amount": 28628661.1,
-        "award_type": "DEFINITIVE CONTRACT"
-      },
-      "first_seen": "2026-09-15T03:48:12.693883+00:00",
-      "is_new": false
-    },
-    {
       "id": "USAspending:N0016425FJ608",
       "source": "USAspending",
       "category": "procurement",
@@ -3479,7 +3476,7 @@
       "matched_terms": [],
       "watchlist": null,
       "extra": {
-        "amount": 367444098.15,
+        "amount": 423974276.15,
         "award_type": "DEFINITIVE CONTRACT"
       },
       "first_seen": "2026-09-10T03:29:54.958940+00:00",
@@ -4110,7 +4107,7 @@
       "watchlist": null,
       "extra": {},
       "first_seen": "2026-10-13T22:22:28.420749+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "Regulations.gov:FAA-2026-13309-0001",
@@ -4134,7 +4131,7 @@
       "watchlist": null,
       "extra": {},
       "first_seen": "2026-10-13T22:22:28.420749+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "Regulations.gov:FAA-2025-5578-0006",
@@ -5128,7 +5125,7 @@
   ],
   "stats": {
     "total": 185,
-    "new": 4,
+    "new": 5,
     "by_category": {
       "regulatory": 111,
       "procurement": 60,
@@ -5138,7 +5135,7 @@
     "by_domain": {
       "air": 139,
       "supply-chain": 70,
-      "defense": 13,
+      "defense": 12,
       "ground": 10,
       "spectrum": 6,
       "maritime": 1
@@ -5336,7 +5333,7 @@
   "deadlines": [
     {
       "deadline": "2026-10-27",
-      "days": 14,
+      "days": 13,
       "title": "60-Day Notice of Proposed Information Collection: Information Collection Request (ICR) for the Drone Infrastructure Inspection Grant (DIIG) Program",
       "identifier": "Docket No. DOT-OST-2026-3367",
       "category": "regulatory",
@@ -5345,7 +5342,7 @@
     },
     {
       "deadline": "2026-11-02",
-      "days": 20,
+      "days": 19,
       "title": "Agency Information Collection Activities; Proposed eCollection eComments Requested; Revision of a Previously Approved Collection; Title-SAFER SKIES State, Local, Tribal, and Territorial Counter-UAS Information Collection",
       "identifier": "OMB Number 1110-0090",
       "category": "regulatory",
