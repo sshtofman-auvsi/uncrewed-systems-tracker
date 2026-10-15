@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-14T21:22:52.723254+00:00",
-  "generated_human": "2026-10-14 21:22 UTC",
+  "generated_at": "2026-10-15T03:34:56.068510+00:00",
+  "generated_human": "2026-10-15 03:34 UTC",
   "demo": false,
   "items": [
     {
@@ -46,12 +46,12 @@
       "is_new": false
     },
     {
-      "id": "FCC ECFS:26110081462",
+      "id": "FCC ECFS:26110081430",
       "source": "FCC ECFS",
       "category": "regulatory",
       "type": "Comment",
       "title": "Theodora Scarato, Director of Wireless and EMF Program at Environmental Health Sciences: COMMENT (FCC 26-74)",
-      "url": "https://www.fcc.gov/ecfs/document/26110081462/1",
+      "url": "https://www.fcc.gov/ecfs/document/26110081430/1",
       "agency": "FCC",
       "identifier": "FCC 26-74",
       "date": "2026-10-14",
@@ -71,7 +71,7 @@
       "extra": {
         "proceeding": "26-74"
       },
-      "first_seen": "2026-10-14T21:22:52.723254+00:00",
+      "first_seen": "2026-10-15T03:34:56.068510+00:00",
       "is_new": true
     },
     {
@@ -100,7 +100,7 @@
         "proceeding": "26-22"
       },
       "first_seen": "2026-10-14T21:22:52.723254+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:1014238276170",
@@ -128,7 +128,7 @@
         "proceeding": "26-22"
       },
       "first_seen": "2026-10-14T21:22:52.723254+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:26110079084",
@@ -1704,7 +1704,7 @@
         "docket_total_comments": 1669
       },
       "first_seen": "2026-10-14T21:22:52.723254+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "Federal Register:2026-15659",
@@ -2292,6 +2292,37 @@
       "is_new": false
     },
     {
+      "id": "USAspending:70RSAT26FR0000009",
+      "source": "USAspending",
+      "category": "procurement",
+      "type": "Award",
+      "title": "THE MITRE CORPORATION: THE PURPOSE OF THIS REQUISITION IS TO COMMIT $750,000.00 FOR A NEW TASK ORDER UNDER 70RSAT20D00000001 FOR UNMANNED AIRCR",
+      "url": "https://www.usaspending.gov/award/CONT_AWD_70RSAT26FR0000009_7001_70RSAT26D00000001_7001",
+      "agency": "Department of Homeland Security",
+      "identifier": "70RSAT26FR0000009",
+      "date": "2026-03-24",
+      "deadline": null,
+      "summary": "THE PURPOSE OF THIS REQUISITION IS TO COMMIT $750,000.00 FOR A NEW TASK ORDER UNDER 70RSAT20D00000001 FOR UNMANNED AIRCRAFT SYSTEMS (UAS) AND COUNTER-UNMANNED AIRCRAFT SYSTEMS (C-UAS), PROVIDES DHS WITH DATA-DRIVEN INSIGHTS, OPERATIONAL RECOMMENDATIO",
+      "score": 66,
+      "domains": [
+        "air",
+        "defense"
+      ],
+      "matched_terms": [
+        "unmanned aircraft",
+        "uas",
+        "c-uas",
+        "counter-unmanned"
+      ],
+      "watchlist": null,
+      "extra": {
+        "amount": 3676836.0,
+        "award_type": "DELIVERY ORDER"
+      },
+      "first_seen": "2026-10-15T03:34:56.068510+00:00",
+      "is_new": true
+    },
+    {
       "id": "Federal Register:2026-13211",
       "source": "Federal Register",
       "category": "regulatory",
@@ -2383,33 +2414,34 @@
       "is_new": false
     },
     {
-      "id": "USAspending:W58RGZ26F0244",
+      "id": "USAspending:70Z02325F71100013",
       "source": "USAspending",
       "category": "procurement",
       "type": "Award",
-      "title": "PERFORMANCE DRONE WORKS LLC: THE SMALL UNCREWED AIRCRAFT SYSTEMS (SUAS) PRODUCT OFFICE HAS AN URGENT REQUIREMENT TO PROCURE C100X UAS SYSTEMS AND ASS",
-      "url": "https://www.usaspending.gov/award/CONT_AWD_W58RGZ26F0244_9700_W58RGZ26G0060_9700",
-      "agency": "Department of Defense",
-      "identifier": "W58RGZ26F0244",
-      "date": "2026-03-27",
+      "title": "ARETE CONSULTING LLC: SUBJECT MATTER EXPERTISE SERVICES TO ESTABLISH NEW ROBOTICS AND AUTONOMOUS SYSTEMS DOMAIN FOR \"DRONE\" AND COUNTER-UNMANN",
+      "url": "https://www.usaspending.gov/award/CONT_AWD_70Z02325F71100013_7008_47QRCA25DA145_4732",
+      "agency": "Department of Homeland Security",
+      "identifier": "70Z02325F71100013",
+      "date": "2025-09-22",
       "deadline": null,
-      "summary": "THE SMALL UNCREWED AIRCRAFT SYSTEMS (SUAS) PRODUCT OFFICE HAS AN URGENT REQUIREMENT TO PROCURE C100X UAS SYSTEMS AND ASSOCIATED COMPONENTS.",
+      "summary": "SUBJECT MATTER EXPERTISE SERVICES TO ESTABLISH NEW ROBOTICS AND AUTONOMOUS SYSTEMS DOMAIN FOR \"DRONE\" AND COUNTER-UNMANNED AUTONOMOUS SYSTEMS.",
       "score": 46,
       "domains": [
-        "air"
+        "air",
+        "defense"
       ],
       "matched_terms": [
-        "uas",
         "drone",
-        "suas"
+        "counter-unmanned",
+        "autonomous systems"
       ],
       "watchlist": null,
       "extra": {
-        "amount": 15259840.0,
+        "amount": 4432225.82,
         "award_type": "DELIVERY ORDER"
       },
-      "first_seen": "2026-09-16T10:59:01.682675+00:00",
-      "is_new": false
+      "first_seen": "2026-10-15T03:34:56.068510+00:00",
+      "is_new": true
     },
     {
       "id": "USAspending:70T05026F6116N004",
@@ -2887,6 +2919,29 @@
       "is_new": false
     },
     {
+      "id": "USAspending:W58RGZ26F0356",
+      "source": "USAspending",
+      "category": "procurement",
+      "type": "Award",
+      "title": "PLATFORM SYSTEMS, INCORPORATED: THIS AWARD CONSISTS OF 90 DAYS OF TECHNICAL, SUPPLY, AND MAINTENANCE SUPPORT. THIS ORDER IS AGAINST BOA W58RGZ-26-G-0055",
+      "url": "https://www.usaspending.gov/award/CONT_AWD_W58RGZ26F0356_9700_W58RGZ26G0055_9700",
+      "agency": "Department of Defense",
+      "identifier": "W58RGZ26F0356",
+      "date": "2026-07-07",
+      "deadline": null,
+      "summary": "THIS AWARD CONSISTS OF 90 DAYS OF TECHNICAL, SUPPLY, AND MAINTENANCE SUPPORT. THIS ORDER IS AGAINST BOA W58RGZ-26-G-0055.",
+      "score": 30,
+      "domains": [],
+      "matched_terms": [],
+      "watchlist": null,
+      "extra": {
+        "amount": 3563383.0,
+        "award_type": "DELIVERY ORDER"
+      },
+      "first_seen": "2026-10-15T03:34:56.068510+00:00",
+      "is_new": true
+    },
+    {
       "id": "USAspending:W900KK26FA112",
       "source": "USAspending",
       "category": "procurement",
@@ -2957,52 +3012,6 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-10-13T13:43:26.235128+00:00",
-      "is_new": false
-    },
-    {
-      "id": "USAspending:W15P7T26F0130",
-      "source": "USAspending",
-      "category": "procurement",
-      "type": "Award",
-      "title": "LEIDOS, INC.: PROCURE COMMERCIAL IT HARDWARE USING THE CHS CONTRACT",
-      "url": "https://www.usaspending.gov/award/CONT_AWD_W15P7T26F0130_9700_W15P7T23D0003_9700",
-      "agency": "Department of Defense",
-      "identifier": "W15P7T26F0130",
-      "date": "2026-05-20",
-      "deadline": null,
-      "summary": "PROCURE COMMERCIAL IT HARDWARE USING THE CHS CONTRACT",
-      "score": 30,
-      "domains": [],
-      "matched_terms": [],
-      "watchlist": null,
-      "extra": {
-        "amount": 4827350.0,
-        "award_type": "DELIVERY ORDER"
-      },
-      "first_seen": "2026-09-11T03:27:14.524299+00:00",
-      "is_new": false
-    },
-    {
-      "id": "USAspending:FA868926CB005",
-      "source": "USAspending",
-      "category": "procurement",
-      "type": "Award",
-      "title": "GENERAL ATOMICS AERONAUTICAL SYSTEMS, INC.: HARDENED SERVER AND ANCILLARY EQUIPMENT TO PROTECT EXPORTABLE MQ-9A AVSIM AND T-OFP SOFTWARE AND ENABLES AIRCREW TRAININ",
-      "url": "https://www.usaspending.gov/award/CONT_AWD_FA868926CB005_9700_-NONE-_-NONE-",
-      "agency": "Department of Defense",
-      "identifier": "FA868926CB005",
-      "date": "2026-05-08",
-      "deadline": null,
-      "summary": "HARDENED SERVER AND ANCILLARY EQUIPMENT TO PROTECT EXPORTABLE MQ-9A AVSIM AND T-OFP SOFTWARE AND ENABLES AIRCREW TRAINING WITH A MEDIUM ALTITUDE LONG ENDURANCE TACTICAL (MALET) JOINT SYSTEM INTEGRATION LABORATORY [JSIL] AIRCREW TRAINER (MJAT).",
-      "score": 30,
-      "domains": [],
-      "matched_terms": [],
-      "watchlist": null,
-      "extra": {
-        "amount": 7660262.96,
-        "award_type": "DEFINITIVE CONTRACT"
-      },
-      "first_seen": "2026-09-16T10:59:01.682675+00:00",
       "is_new": false
     },
     {
@@ -3447,6 +3456,33 @@
       "is_new": false
     },
     {
+      "id": "USAspending:693KA923C00012",
+      "source": "USAspending",
+      "category": "procurement",
+      "type": "Award",
+      "title": "I3 FEDERAL LLC: EVALUATION OF HAZARDS POSED BY LITHIUM-BATTERY POWERED UNMANNED AIRCRAFT SYSTEMS AND OTHER DANGEROUS GOODS INTEGRATED IN",
+      "url": "https://www.usaspending.gov/award/CONT_AWD_693KA923C00012_6920_-NONE-_-NONE-",
+      "agency": "Department of Transportation",
+      "identifier": "693KA923C00012",
+      "date": "2023-09-11",
+      "deadline": null,
+      "summary": "EVALUATION OF HAZARDS POSED BY LITHIUM-BATTERY POWERED UNMANNED AIRCRAFT SYSTEMS AND OTHER DANGEROUS GOODS INTEGRATED INTO THE DESIGN.",
+      "score": 30,
+      "domains": [
+        "air"
+      ],
+      "matched_terms": [
+        "unmanned aircraft"
+      ],
+      "watchlist": null,
+      "extra": {
+        "amount": 3612061.55,
+        "award_type": "DEFINITIVE CONTRACT"
+      },
+      "first_seen": "2026-10-15T03:34:56.068510+00:00",
+      "is_new": true
+    },
+    {
       "id": "USAspending:FA462523C0025",
       "source": "USAspending",
       "category": "procurement",
@@ -3521,29 +3557,6 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": false
-    },
-    {
-      "id": "USAspending:N0001923F2503",
-      "source": "USAspending",
-      "category": "procurement",
-      "type": "Award",
-      "title": "GENERAL ATOMICS AERONAUTICAL SYSTEMS, INC.: MQ9A -25 CONVERSION",
-      "url": "https://www.usaspending.gov/award/CONT_AWD_N0001923F2503_9700_N0001922G0006_9700",
-      "agency": "Department of Defense",
-      "identifier": "N0001923F2503",
-      "date": "2023-08-02",
-      "deadline": null,
-      "summary": "MQ9A -25 CONVERSION",
-      "score": 30,
-      "domains": [],
-      "matched_terms": [],
-      "watchlist": null,
-      "extra": {
-        "amount": 16909654.0,
-        "award_type": "DELIVERY ORDER"
-      },
-      "first_seen": "2026-09-16T10:59:01.682675+00:00",
       "is_new": false
     },
     {
@@ -4071,7 +4084,7 @@
       "watchlist": null,
       "extra": {},
       "first_seen": "2026-10-14T21:22:52.723254+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "Regulations.gov:FAA-2024-2534-0003",
@@ -5097,9 +5110,9 @@
       "legislative": 4
     },
     "by_domain": {
-      "air": 138,
+      "air": 140,
       "supply-chain": 69,
-      "defense": 12,
+      "defense": 14,
       "ground": 10,
       "spectrum": 5,
       "maritime": 1
@@ -5297,7 +5310,7 @@
   "deadlines": [
     {
       "deadline": "2026-10-27",
-      "days": 13,
+      "days": 12,
       "title": "60-Day Notice of Proposed Information Collection: Information Collection Request (ICR) for the Drone Infrastructure Inspection Grant (DIIG) Program",
       "identifier": "Docket No. DOT-OST-2026-3367",
       "category": "regulatory",
@@ -5306,7 +5319,7 @@
     },
     {
       "deadline": "2026-11-02",
-      "days": 19,
+      "days": 18,
       "title": "Agency Information Collection Activities; Proposed eCollection eComments Requested; Revision of a Previously Approved Collection; Title-SAFER SKIES State, Local, Tribal, and Territorial Counter-UAS Information Collection",
       "identifier": "OMB Number 1110-0090",
       "category": "regulatory",
