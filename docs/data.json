@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-15T10:59:06.327334+00:00",
-  "generated_human": "2026-10-15 10:59 UTC",
+  "generated_at": "2026-10-15T16:28:18.351842+00:00",
+  "generated_human": "2026-10-15 16:28 UTC",
   "demo": false,
   "items": [
     {
@@ -46,15 +46,15 @@
       "is_new": false
     },
     {
-      "id": "FCC ECFS:26110081430",
+      "id": "FCC ECFS:26110081609",
       "source": "FCC ECFS",
       "category": "regulatory",
       "type": "Comment",
       "title": "Theodora Scarato, Director of Wireless and EMF Program at Environmental Health Sciences: COMMENT (FCC 26-74)",
-      "url": "https://www.fcc.gov/ecfs/document/26110081430/1",
+      "url": "https://www.fcc.gov/ecfs/document/26110081609/1",
       "agency": "FCC",
       "identifier": "FCC 26-74",
-      "date": "2026-10-14",
+      "date": "2026-10-15",
       "deadline": null,
       "summary": "",
       "score": 80,
@@ -71,8 +71,8 @@
       "extra": {
         "proceeding": "26-74"
       },
-      "first_seen": "2026-10-15T03:34:56.068510+00:00",
-      "is_new": false
+      "first_seen": "2026-10-15T16:28:18.351842+00:00",
+      "is_new": true
     },
     {
       "id": "FCC ECFS:26110081553",
@@ -3177,7 +3177,7 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-10-15T10:59:06.327334+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:N0001925F2571",
@@ -3369,7 +3369,7 @@
         "award_type": "DEFINITIVE CONTRACT"
       },
       "first_seen": "2026-10-15T10:59:06.327334+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:N0001924F0328",
@@ -4093,7 +4093,7 @@
         ]
       },
       "first_seen": "2026-10-15T10:59:06.327334+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "Regulations.gov:FAA-2024-1546-0015",
@@ -5135,7 +5135,7 @@
   ],
   "stats": {
     "total": 185,
-    "new": 3,
+    "new": 1,
     "by_category": {
       "regulatory": 111,
       "procurement": 60,
@@ -5210,7 +5210,7 @@
       ],
       "deadline": null,
       "count": 4,
-      "latest": "2026-10-14"
+      "latest": "2026-10-15"
     },
     {
       "key": "dji-cadc-1260h",
