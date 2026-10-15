@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-15T03:34:56.068510+00:00",
-  "generated_human": "2026-10-15 03:34 UTC",
+  "generated_at": "2026-10-15T10:59:06.327334+00:00",
+  "generated_human": "2026-10-15 10:59 UTC",
   "demo": false,
   "items": [
     {
@@ -72,7 +72,7 @@
         "proceeding": "26-74"
       },
       "first_seen": "2026-10-15T03:34:56.068510+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:26110081553",
@@ -2320,7 +2320,7 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-10-15T03:34:56.068510+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "Federal Register:2026-13211",
@@ -2441,7 +2441,7 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-10-15T03:34:56.068510+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:70T05026F6116N004",
@@ -2919,29 +2919,6 @@
       "is_new": false
     },
     {
-      "id": "USAspending:W58RGZ26F0356",
-      "source": "USAspending",
-      "category": "procurement",
-      "type": "Award",
-      "title": "PLATFORM SYSTEMS, INCORPORATED: THIS AWARD CONSISTS OF 90 DAYS OF TECHNICAL, SUPPLY, AND MAINTENANCE SUPPORT. THIS ORDER IS AGAINST BOA W58RGZ-26-G-0055",
-      "url": "https://www.usaspending.gov/award/CONT_AWD_W58RGZ26F0356_9700_W58RGZ26G0055_9700",
-      "agency": "Department of Defense",
-      "identifier": "W58RGZ26F0356",
-      "date": "2026-07-07",
-      "deadline": null,
-      "summary": "THIS AWARD CONSISTS OF 90 DAYS OF TECHNICAL, SUPPLY, AND MAINTENANCE SUPPORT. THIS ORDER IS AGAINST BOA W58RGZ-26-G-0055.",
-      "score": 30,
-      "domains": [],
-      "matched_terms": [],
-      "watchlist": null,
-      "extra": {
-        "amount": 3563383.0,
-        "award_type": "DELIVERY ORDER"
-      },
-      "first_seen": "2026-10-15T03:34:56.068510+00:00",
-      "is_new": true
-    },
-    {
       "id": "USAspending:W900KK26FA112",
       "source": "USAspending",
       "category": "procurement",
@@ -3176,6 +3153,33 @@
       "is_new": false
     },
     {
+      "id": "USAspending:FA865022F2611",
+      "source": "USAspending",
+      "category": "procurement",
+      "type": "Award",
+      "title": "DCS CORPORATION: TEAMING OF HUMANS AND UNMANNED NETWORKED DRONE RESEARCH",
+      "url": "https://www.usaspending.gov/award/CONT_AWD_FA865022F2611_9700_FA865021D2602_9700",
+      "agency": "Department of Defense",
+      "identifier": "FA865022F2611",
+      "date": "2026-02-16",
+      "deadline": null,
+      "summary": "TEAMING OF HUMANS AND UNMANNED NETWORKED DRONE RESEARCH",
+      "score": 30,
+      "domains": [
+        "air"
+      ],
+      "matched_terms": [
+        "drone"
+      ],
+      "watchlist": null,
+      "extra": {
+        "amount": 11460965.76,
+        "award_type": "DELIVERY ORDER"
+      },
+      "first_seen": "2026-10-15T10:59:06.327334+00:00",
+      "is_new": true
+    },
+    {
       "id": "USAspending:N0001925F2571",
       "source": "USAspending",
       "category": "procurement",
@@ -3341,6 +3345,33 @@
       "is_new": false
     },
     {
+      "id": "USAspending:FA239424CB050",
+      "source": "USAspending",
+      "category": "procurement",
+      "type": "Award",
+      "title": "CYTEC ENGINEERED MATERIALS, INC.: COMPOSITES FOR ADVANCED AIR MOBILITY (CAAM)",
+      "url": "https://www.usaspending.gov/award/CONT_AWD_FA239424CB050_9700_-NONE-_-NONE-",
+      "agency": "Department of Defense",
+      "identifier": "FA239424CB050",
+      "date": "2024-09-30",
+      "deadline": null,
+      "summary": "COMPOSITES FOR ADVANCED AIR MOBILITY (CAAM)",
+      "score": 30,
+      "domains": [
+        "air"
+      ],
+      "matched_terms": [
+        "advanced air mobility"
+      ],
+      "watchlist": null,
+      "extra": {
+        "amount": 15065877.0,
+        "award_type": "DEFINITIVE CONTRACT"
+      },
+      "first_seen": "2026-10-15T10:59:06.327334+00:00",
+      "is_new": true
+    },
+    {
       "id": "USAspending:N0001924F0328",
       "source": "USAspending",
       "category": "procurement",
@@ -3454,33 +3485,6 @@
       },
       "first_seen": "2026-09-10T03:29:54.958940+00:00",
       "is_new": false
-    },
-    {
-      "id": "USAspending:693KA923C00012",
-      "source": "USAspending",
-      "category": "procurement",
-      "type": "Award",
-      "title": "I3 FEDERAL LLC: EVALUATION OF HAZARDS POSED BY LITHIUM-BATTERY POWERED UNMANNED AIRCRAFT SYSTEMS AND OTHER DANGEROUS GOODS INTEGRATED IN",
-      "url": "https://www.usaspending.gov/award/CONT_AWD_693KA923C00012_6920_-NONE-_-NONE-",
-      "agency": "Department of Transportation",
-      "identifier": "693KA923C00012",
-      "date": "2023-09-11",
-      "deadline": null,
-      "summary": "EVALUATION OF HAZARDS POSED BY LITHIUM-BATTERY POWERED UNMANNED AIRCRAFT SYSTEMS AND OTHER DANGEROUS GOODS INTEGRATED INTO THE DESIGN.",
-      "score": 30,
-      "domains": [
-        "air"
-      ],
-      "matched_terms": [
-        "unmanned aircraft"
-      ],
-      "watchlist": null,
-      "extra": {
-        "amount": 3612061.55,
-        "award_type": "DEFINITIVE CONTRACT"
-      },
-      "first_seen": "2026-10-15T03:34:56.068510+00:00",
-      "is_new": true
     },
     {
       "id": "USAspending:FA462523C0025",
@@ -3772,7 +3776,7 @@
       ],
       "watchlist": null,
       "extra": {
-        "amount": 100984054.77,
+        "amount": 101056498.72,
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
@@ -3818,7 +3822,7 @@
       "matched_terms": [],
       "watchlist": null,
       "extra": {
-        "amount": 1811548807.37,
+        "amount": 1810662428.42,
         "award_type": "DEFINITIVE CONTRACT"
       },
       "first_seen": "2026-09-26T03:56:32.861219+00:00",
@@ -4061,6 +4065,35 @@
       },
       "first_seen": "2026-06-26T11:19:55.120727+00:00",
       "is_new": false
+    },
+    {
+      "id": "Federal Register:2026-21053",
+      "source": "Federal Register",
+      "category": "regulatory",
+      "type": "Final Rule",
+      "title": "Safety Zone; Lake Michigan, Chicago, IL",
+      "url": "https://www.federalregister.gov/documents/2026/10/15/2026-21053/safety-zone-lake-michigan-chicago-il",
+      "agency": "Homeland Security Department, Coast Guard",
+      "identifier": "Docket Number USCG-2026-1291",
+      "date": "2026-10-15",
+      "deadline": null,
+      "summary": "The Coast Guard is establishing a temporary safety zone for navigable waters within an area of Lake Michigan in Chicago, IL. The safety zone is needed to protect personnel, vessels, and the marine environment from potential hazards created by the Navy Pier Fireworks and Drone Show. Entry of vessels or persons into this zone is prohibited unless specifically authorized by the Captain of the Port, Sector Lake Michigan or their designated representative.",
+      "score": 20,
+      "domains": [
+        "air"
+      ],
+      "matched_terms": [
+        "drone"
+      ],
+      "watchlist": null,
+      "extra": {
+        "comment_url": null,
+        "dockets": [
+          "Docket Number USCG-2026-1291"
+        ]
+      },
+      "first_seen": "2026-10-15T10:59:06.327334+00:00",
+      "is_new": true
     },
     {
       "id": "Regulations.gov:FAA-2024-1546-0015",
@@ -5060,8 +5093,8 @@
     {
       "name": "Federal Register",
       "status": "ok",
-      "detail": "25 kept",
-      "count": 25
+      "detail": "26 kept",
+      "count": 26
     },
     {
       "name": "Regulations.gov",
@@ -5101,16 +5134,16 @@
     }
   ],
   "stats": {
-    "total": 184,
-    "new": 5,
+    "total": 185,
+    "new": 3,
     "by_category": {
-      "regulatory": 110,
+      "regulatory": 111,
       "procurement": 60,
       "litigation": 10,
       "legislative": 4
     },
     "by_domain": {
-      "air": 140,
+      "air": 142,
       "supply-chain": 69,
       "defense": 14,
       "ground": 10,
@@ -5121,7 +5154,7 @@
       "USAspending": 60,
       "FCC ECFS": 51,
       "Regulations.gov": 35,
-      "Federal Register": 24,
+      "Federal Register": 25,
       "CourtListener": 10,
       "Congress.gov": 4
     }
