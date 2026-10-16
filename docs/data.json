@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-16T16:15:04.539510+00:00",
-  "generated_human": "2026-10-16 16:15 UTC",
+  "generated_at": "2026-10-16T20:36:31.217084+00:00",
+  "generated_human": "2026-10-16 20:36 UTC",
   "demo": false,
   "items": [
     {
@@ -46,12 +46,12 @@
       "is_new": false
     },
     {
-      "id": "FCC ECFS:26110081849",
+      "id": "FCC ECFS:26110081985",
       "source": "FCC ECFS",
       "category": "regulatory",
       "type": "Comment",
       "title": "Theodora Scarato, Director of Wireless and EMF Program at Environmental Health Sciences: COMMENT (FCC 26-74)",
-      "url": "https://www.fcc.gov/ecfs/document/26110081849/1",
+      "url": "https://www.fcc.gov/ecfs/document/26110081985/1",
       "agency": "FCC",
       "identifier": "FCC 26-74",
       "date": "2026-10-16",
@@ -71,7 +71,7 @@
       "extra": {
         "proceeding": "26-74"
       },
-      "first_seen": "2026-10-16T16:15:04.539510+00:00",
+      "first_seen": "2026-10-16T20:36:31.217084+00:00",
       "is_new": true
     },
     {
@@ -1644,17 +1644,17 @@
       "is_new": false
     },
     {
-      "id": "Regulations.gov:FAA-2026-4558-1629",
+      "id": "Regulations.gov:FAA-2026-4558-1630",
       "source": "Regulations.gov",
       "category": "regulatory",
       "type": "Comment",
-      "title": "Comment on Designation – Restrict the Operation of Unmanned Aircraft in Close Proximity  to a Fixed Site Facility: Comment from Karin L",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1629",
+      "title": "Comment on Designation – Restrict the Operation of Unmanned Aircraft in Close Proximity  to a Fixed Site Facility: Comment from American Chemistry Council",
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1630",
       "agency": "FAA",
       "identifier": "FAA-2026-4558",
       "date": "2026-08-06",
       "deadline": null,
-      "summary": "Comment from Karin L",
+      "summary": "Comment from American Chemistry Council",
       "score": 80,
       "domains": [
         "air"
@@ -1670,8 +1670,8 @@
       "extra": {
         "docket_total_comments": 1669
       },
-      "first_seen": "2026-10-16T10:53:11.980833+00:00",
-      "is_new": false
+      "first_seen": "2026-10-16T20:36:31.217084+00:00",
+      "is_new": true
     },
     {
       "id": "Federal Register:2026-15659",
@@ -5083,7 +5083,7 @@
   ],
   "stats": {
     "total": 183,
-    "new": 1,
+    "new": 2,
     "by_category": {
       "regulatory": 109,
       "procurement": 60,
