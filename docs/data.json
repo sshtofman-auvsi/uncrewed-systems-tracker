@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-15T21:01:42.104822+00:00",
-  "generated_human": "2026-10-15 21:01 UTC",
+  "generated_at": "2026-10-16T03:30:55.684796+00:00",
+  "generated_human": "2026-10-16 03:30 UTC",
   "demo": false,
   "items": [
     {
@@ -72,7 +72,7 @@
         "proceeding": "26-74"
       },
       "first_seen": "2026-10-15T21:01:42.104822+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:26110081760",
@@ -100,7 +100,7 @@
         "proceeding": "26-22"
       },
       "first_seen": "2026-10-15T21:01:42.104822+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:1015283532788",
@@ -128,7 +128,7 @@
         "proceeding": "26-22"
       },
       "first_seen": "2026-10-15T21:01:42.104822+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:26110081553",
@@ -1644,17 +1644,17 @@
       "is_new": false
     },
     {
-      "id": "Regulations.gov:FAA-2026-4558-1629",
+      "id": "Regulations.gov:FAA-2026-4558-1630",
       "source": "Regulations.gov",
       "category": "regulatory",
       "type": "Comment",
-      "title": "Comment on Designation – Restrict the Operation of Unmanned Aircraft in Close Proximity  to a Fixed Site Facility: Comment from Karin L",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1629",
+      "title": "Comment on Designation – Restrict the Operation of Unmanned Aircraft in Close Proximity  to a Fixed Site Facility: Comment from American Chemistry Council",
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1630",
       "agency": "FAA",
       "identifier": "FAA-2026-4558",
       "date": "2026-08-06",
       "deadline": null,
-      "summary": "Comment from Karin L",
+      "summary": "Comment from American Chemistry Council",
       "score": 80,
       "domains": [
         "air"
@@ -1670,7 +1670,7 @@
       "extra": {
         "docket_total_comments": 1669
       },
-      "first_seen": "2026-10-15T21:01:42.104822+00:00",
+      "first_seen": "2026-10-16T03:30:55.684796+00:00",
       "is_new": true
     },
     {
@@ -2321,6 +2321,66 @@
       },
       "first_seen": "2026-08-24T01:20:33.894711+00:00",
       "is_new": false
+    },
+    {
+      "id": "USAspending:HQ072724F1610",
+      "source": "USAspending",
+      "category": "procurement",
+      "type": "Award",
+      "title": "RAYTHEON COMPANY: THE ADVANCED TECHNOLOGY SUPPORT PROGRAM (ATSP) CONTRACT ACQUIRES PROGRESSIVE MICROELECTRONIC CAPABILITY SOLUTIONS FOR AD",
+      "url": "https://www.usaspending.gov/award/CONT_AWD_HQ072724F1610_9700_HQ072716D0006_9700",
+      "agency": "Department of Defense",
+      "identifier": "HQ072724F1610",
+      "date": "2024-08-27",
+      "deadline": null,
+      "summary": "THE ADVANCED TECHNOLOGY SUPPORT PROGRAM (ATSP) CONTRACT ACQUIRES PROGRESSIVE MICROELECTRONIC CAPABILITY SOLUTIONS FOR ADVANCED TECHNOLOGY MAINTAINABILITY OF THE MICROELECTRONICS-BASED COUNTER UNMANNED AIRCRAFT SYSTEM",
+      "score": 54,
+      "domains": [
+        "air",
+        "defense"
+      ],
+      "matched_terms": [
+        "unmanned aircraft",
+        "unmanned aircraft system",
+        "counter unmanned"
+      ],
+      "watchlist": null,
+      "extra": {
+        "amount": 216902654.0,
+        "award_type": "DELIVERY ORDER"
+      },
+      "first_seen": "2026-10-16T03:30:55.684796+00:00",
+      "is_new": true
+    },
+    {
+      "id": "USAspending:HQ072723F1601",
+      "source": "USAspending",
+      "category": "procurement",
+      "type": "Award",
+      "title": "RAYTHEON COMPANY: THIS TASK IS TO ANALYZE, INTEGRATE, MODIFY, PROCURE, AND DELIVER SOLUTIONS TO IMPROVE OPERATIONAL EFFECTIVENESS, ENHANCE",
+      "url": "https://www.usaspending.gov/award/CONT_AWD_HQ072723F1601_9700_HQ072716D0006_9700",
+      "agency": "Department of Defense",
+      "identifier": "HQ072723F1601",
+      "date": "2023-04-13",
+      "deadline": null,
+      "summary": "THIS TASK IS TO ANALYZE, INTEGRATE, MODIFY, PROCURE, AND DELIVER SOLUTIONS TO IMPROVE OPERATIONAL EFFECTIVENESS, ENHANCE PERFORMANCE FOR ENHANCED COYOTE BLOCK 2 AND COYOTE BLOCK 3 COUNTER UNMANNED AIRCRAFT SYSTEM SOLUTIONS.",
+      "score": 54,
+      "domains": [
+        "air",
+        "defense"
+      ],
+      "matched_terms": [
+        "unmanned aircraft",
+        "unmanned aircraft system",
+        "counter unmanned"
+      ],
+      "watchlist": null,
+      "extra": {
+        "amount": 253261774.0,
+        "award_type": "DELIVERY ORDER"
+      },
+      "first_seen": "2026-10-16T03:30:55.684796+00:00",
+      "is_new": true
     },
     {
       "id": "USAspending:W91CRB26FA251",
@@ -3216,29 +3276,6 @@
       "is_new": false
     },
     {
-      "id": "USAspending:FA868925FB010",
-      "source": "USAspending",
-      "category": "procurement",
-      "type": "Award",
-      "title": "GENERAL ATOMICS AERONAUTICAL SYSTEMS, INC.: IRIS DELIVERY ORDER (DO) 1 FOR INDIA MQ-9B FMS",
-      "url": "https://www.usaspending.gov/award/CONT_AWD_FA868925FB010_9700_FA868925DB001_9700",
-      "agency": "Department of Defense",
-      "identifier": "FA868925FB010",
-      "date": "2025-09-09",
-      "deadline": null,
-      "summary": "IRIS DELIVERY ORDER (DO) 1 FOR INDIA MQ-9B FMS",
-      "score": 30,
-      "domains": [],
-      "matched_terms": [],
-      "watchlist": null,
-      "extra": {
-        "amount": 468927076.98,
-        "award_type": "DELIVERY ORDER"
-      },
-      "first_seen": "2026-09-17T03:49:52.858693+00:00",
-      "is_new": false
-    },
-    {
       "id": "USAspending:FA868925FB009",
       "source": "USAspending",
       "category": "procurement",
@@ -3401,7 +3438,7 @@
       "matched_terms": [],
       "watchlist": null,
       "extra": {
-        "amount": 787691808.0,
+        "amount": 771562679.0,
         "award_type": "DEFINITIVE CONTRACT"
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
@@ -3528,33 +3565,6 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": false
-    },
-    {
-      "id": "USAspending:N0002423F8184",
-      "source": "USAspending",
-      "category": "procurement",
-      "type": "Award",
-      "title": "THE JOHNS HOPKINS UNIVERSITY APPLIED PHYSICS LABORATORY LLC: UNMANNED SURFACE VESSEL COMBAT SYSTEM",
-      "url": "https://www.usaspending.gov/award/CONT_AWD_N0002423F8184_9700_N0002422D6404_9700",
-      "agency": "Department of Defense",
-      "identifier": "N0002423F8184",
-      "date": "2023-08-01",
-      "deadline": null,
-      "summary": "UNMANNED SURFACE VESSEL COMBAT SYSTEM",
-      "score": 30,
-      "domains": [
-        "maritime"
-      ],
-      "matched_terms": [
-        "unmanned surface vessel"
-      ],
-      "watchlist": null,
-      "extra": {
-        "amount": 6316461.0,
-        "award_type": "DELIVERY ORDER"
-      },
-      "first_seen": "2026-09-17T03:49:52.858693+00:00",
       "is_new": false
     },
     {
@@ -4084,7 +4094,7 @@
       "watchlist": null,
       "extra": {},
       "first_seen": "2026-10-15T21:01:42.104822+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "Regulations.gov:FAA-2021-0114-0006",
@@ -4108,7 +4118,7 @@
       "watchlist": null,
       "extra": {},
       "first_seen": "2026-10-15T21:01:42.104822+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "Regulations.gov:FAA-2024-1546-0015",
@@ -4721,30 +4731,6 @@
       "is_new": false
     },
     {
-      "id": "Regulations.gov:FAA-2026-11722-0001",
-      "source": "Regulations.gov",
-      "category": "regulatory",
-      "type": "Document",
-      "title": "Wisconsin Aerial Drone Services LLC - Petition",
-      "url": "https://www.regulations.gov/document/FAA-2026-11722-0001",
-      "agency": "FAA",
-      "identifier": "FAA-2026-11722",
-      "date": "2026-09-14",
-      "deadline": null,
-      "summary": "Wisconsin Aerial Drone Services LLC - Petition",
-      "score": 20,
-      "domains": [
-        "air"
-      ],
-      "matched_terms": [
-        "drone"
-      ],
-      "watchlist": null,
-      "extra": {},
-      "first_seen": "2026-09-14T21:36:30.241044+00:00",
-      "is_new": false
-    },
-    {
       "id": "Federal Register:2026-18557",
       "source": "Federal Register",
       "category": "regulatory",
@@ -5027,35 +5013,6 @@
       "is_new": false
     },
     {
-      "id": "Federal Register:2026-12203",
-      "source": "Federal Register",
-      "category": "regulatory",
-      "type": "Final Rule",
-      "title": "Safety Zone; Ohio River Mile Marker 0-0.5, Allegheny River Mile Marker 0-0.5, Monongahela River Mile Marker 0-0.5, Pittsburgh, PA",
-      "url": "https://www.federalregister.gov/documents/2026/06/17/2026-12203/safety-zone-ohio-river-mile-marker-0-05-allegheny-river-mile-marker-0-05-monongahela-river-mile",
-      "agency": "Homeland Security Department, Coast Guard",
-      "identifier": "Docket Number USCG-2026-0635",
-      "date": "2026-06-17",
-      "deadline": null,
-      "summary": "The Coast Guard is establishing a temporary safety zone on June 27, 2026, on the Allegheny River Mile Marker 0 to Mile Marker 0.5, the Ohio River Mile Marker 0 to Mile Marker 0.5 and the Monongahela River Mile Marker 0 to Mile Marker 0.5. This safety zone is necessary to provide for the safety of life on the navigable waters during a drone display. Entry of vessels or persons into this zone is prohibited unless specifically authorized by the Captain of the Port Pittsburgh, or a designated representative.",
-      "score": 20,
-      "domains": [
-        "air"
-      ],
-      "matched_terms": [
-        "drone"
-      ],
-      "watchlist": null,
-      "extra": {
-        "comment_url": null,
-        "dockets": [
-          "Docket Number USCG-2026-0635"
-        ]
-      },
-      "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": false
-    },
-    {
       "id": "Regulations.gov:FAA-2026-12641-0001",
       "source": "Regulations.gov",
       "category": "regulatory",
@@ -5084,14 +5041,14 @@
     {
       "name": "Federal Register",
       "status": "ok",
-      "detail": "26 kept",
-      "count": 26
+      "detail": "25 kept",
+      "count": 25
     },
     {
       "name": "Regulations.gov",
       "status": "ok",
-      "detail": "48 kept",
-      "count": 48
+      "detail": "47 kept",
+      "count": 47
     },
     {
       "name": "FCC ECFS",
@@ -5125,10 +5082,10 @@
     }
   ],
   "stats": {
-    "total": 185,
-    "new": 6,
+    "total": 183,
+    "new": 3,
     "by_category": {
-      "regulatory": 111,
+      "regulatory": 109,
       "procurement": 60,
       "litigation": 10,
       "legislative": 4
@@ -5136,16 +5093,15 @@
     "by_domain": {
       "air": 142,
       "supply-chain": 68,
-      "defense": 14,
+      "defense": 16,
       "ground": 10,
-      "spectrum": 5,
-      "maritime": 1
+      "spectrum": 5
     },
     "by_source": {
       "USAspending": 60,
       "FCC ECFS": 50,
-      "Regulations.gov": 36,
-      "Federal Register": 25,
+      "Regulations.gov": 35,
+      "Federal Register": 24,
       "CourtListener": 10,
       "Congress.gov": 4
     }
@@ -5334,7 +5290,7 @@
   "deadlines": [
     {
       "deadline": "2026-10-27",
-      "days": 12,
+      "days": 11,
       "title": "60-Day Notice of Proposed Information Collection: Information Collection Request (ICR) for the Drone Infrastructure Inspection Grant (DIIG) Program",
       "identifier": "Docket No. DOT-OST-2026-3367",
       "category": "regulatory",
@@ -5343,7 +5299,7 @@
     },
     {
       "deadline": "2026-11-02",
-      "days": 18,
+      "days": 17,
       "title": "Agency Information Collection Activities; Proposed eCollection eComments Requested; Revision of a Previously Approved Collection; Title-SAFER SKIES State, Local, Tribal, and Territorial Counter-UAS Information Collection",
       "identifier": "OMB Number 1110-0090",
       "category": "regulatory",
