@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-16T20:36:31.217084+00:00",
-  "generated_human": "2026-10-16 20:36 UTC",
+  "generated_at": "2026-10-17T03:21:12.826031+00:00",
+  "generated_human": "2026-10-17 03:21 UTC",
   "demo": false,
   "items": [
     {
@@ -46,12 +46,12 @@
       "is_new": false
     },
     {
-      "id": "FCC ECFS:26110081985",
+      "id": "FCC ECFS:26110081962",
       "source": "FCC ECFS",
       "category": "regulatory",
       "type": "Comment",
       "title": "Theodora Scarato, Director of Wireless and EMF Program at Environmental Health Sciences: COMMENT (FCC 26-74)",
-      "url": "https://www.fcc.gov/ecfs/document/26110081985/1",
+      "url": "https://www.fcc.gov/ecfs/document/26110081962/1",
       "agency": "FCC",
       "identifier": "FCC 26-74",
       "date": "2026-10-16",
@@ -71,7 +71,7 @@
       "extra": {
         "proceeding": "26-74"
       },
-      "first_seen": "2026-10-16T20:36:31.217084+00:00",
+      "first_seen": "2026-10-17T03:21:12.826031+00:00",
       "is_new": true
     },
     {
@@ -1671,7 +1671,7 @@
         "docket_total_comments": 1669
       },
       "first_seen": "2026-10-16T20:36:31.217084+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "Federal Register:2026-15659",
@@ -3111,29 +3111,6 @@
       "is_new": false
     },
     {
-      "id": "USAspending:W912CH26CA009",
-      "source": "USAspending",
-      "category": "procurement",
-      "type": "Award",
-      "title": "NAPATREE TECHNOLOGY LLC: PROCUREMENT OF SUPPLIES AND SERVICES FOR AS3 SURVEYOR DRONES, BUMBLEBEE V1, BUMBLEBEE V2, AND HORNETS.",
-      "url": "https://www.usaspending.gov/award/CONT_AWD_W912CH26CA009_9700_-NONE-_-NONE-",
-      "agency": "Department of Defense",
-      "identifier": "W912CH26CA009",
-      "date": "2026-03-10",
-      "deadline": null,
-      "summary": "PROCUREMENT OF SUPPLIES AND SERVICES FOR AS3 SURVEYOR DRONES, BUMBLEBEE V1, BUMBLEBEE V2, AND HORNETS.",
-      "score": 30,
-      "domains": [],
-      "matched_terms": [],
-      "watchlist": null,
-      "extra": {
-        "amount": 265382200.0,
-        "award_type": "DEFINITIVE CONTRACT"
-      },
-      "first_seen": "2026-09-02T03:19:08.772510+00:00",
-      "is_new": false
-    },
-    {
       "id": "USAspending:19AQMM26C0257",
       "source": "USAspending",
       "category": "procurement",
@@ -3326,6 +3303,29 @@
       "is_new": false
     },
     {
+      "id": "USAspending:N0016425CJR94",
+      "source": "USAspending",
+      "category": "procurement",
+      "type": "Award",
+      "title": "ANDURIL INDUSTRIES, INC.: PRODUCTION AND DELIVERY OF ALTIUS 600M-V LOITERING MUNITIONS AND SUPPORTING HARDWARE",
+      "url": "https://www.usaspending.gov/award/CONT_AWD_N0016425CJR94_9700_-NONE-_-NONE-",
+      "agency": "Department of Defense",
+      "identifier": "N0016425CJR94",
+      "date": "2025-02-11",
+      "deadline": null,
+      "summary": "PRODUCTION AND DELIVERY OF ALTIUS 600M-V LOITERING MUNITIONS AND SUPPORTING HARDWARE",
+      "score": 30,
+      "domains": [],
+      "matched_terms": [],
+      "watchlist": null,
+      "extra": {
+        "amount": 93994917.0,
+        "award_type": "DEFINITIVE CONTRACT"
+      },
+      "first_seen": "2026-10-17T03:21:12.826031+00:00",
+      "is_new": true
+    },
+    {
       "id": "USAspending:19AQMM25F0189",
       "source": "USAspending",
       "category": "procurement",
@@ -3491,6 +3491,33 @@
       "is_new": false
     },
     {
+      "id": "USAspending:693KA923C00012",
+      "source": "USAspending",
+      "category": "procurement",
+      "type": "Award",
+      "title": "I3 FEDERAL LLC: EVALUATION OF HAZARDS POSED BY LITHIUM-BATTERY POWERED UNMANNED AIRCRAFT SYSTEMS AND OTHER DANGEROUS GOODS INTEGRATED IN",
+      "url": "https://www.usaspending.gov/award/CONT_AWD_693KA923C00012_6920_-NONE-_-NONE-",
+      "agency": "Department of Transportation",
+      "identifier": "693KA923C00012",
+      "date": "2023-09-11",
+      "deadline": null,
+      "summary": "EVALUATION OF HAZARDS POSED BY LITHIUM-BATTERY POWERED UNMANNED AIRCRAFT SYSTEMS AND OTHER DANGEROUS GOODS INTEGRATED INTO THE DESIGN.",
+      "score": 30,
+      "domains": [
+        "air"
+      ],
+      "matched_terms": [
+        "unmanned aircraft"
+      ],
+      "watchlist": null,
+      "extra": {
+        "amount": 3612061.55,
+        "award_type": "DEFINITIVE CONTRACT"
+      },
+      "first_seen": "2026-10-17T03:21:12.826031+00:00",
+      "is_new": true
+    },
+    {
       "id": "USAspending:FA462523C0025",
       "source": "USAspending",
       "category": "procurement",
@@ -3515,29 +3542,6 @@
         "award_type": "DEFINITIVE CONTRACT"
       },
       "first_seen": "2026-10-10T04:44:51.808814+00:00",
-      "is_new": false
-    },
-    {
-      "id": "USAspending:N0001923F0041",
-      "source": "USAspending",
-      "category": "procurement",
-      "type": "Award",
-      "title": "NORTHROP GRUMMAN SYSTEMS CORPORATION: THE PURPOSE OF THIS DELIVERY ORDER IS TO RETROFIT B9, B10, MB6P INTO THE IFC4.2 CONFIGURATION.",
-      "url": "https://www.usaspending.gov/award/CONT_AWD_N0001923F0041_9700_N0001920G0005_9700",
-      "agency": "Department of Defense",
-      "identifier": "N0001923F0041",
-      "date": "2023-08-23",
-      "deadline": null,
-      "summary": "THE PURPOSE OF THIS DELIVERY ORDER IS TO RETROFIT B9, B10, MB6P INTO THE IFC4.2 CONFIGURATION.",
-      "score": 30,
-      "domains": [],
-      "matched_terms": [],
-      "watchlist": null,
-      "extra": {
-        "amount": 220500476.78,
-        "award_type": "DELIVERY ORDER"
-      },
-      "first_seen": "2026-09-09T03:33:04.270117+00:00",
       "is_new": false
     },
     {
@@ -5083,7 +5087,7 @@
   ],
   "stats": {
     "total": 183,
-    "new": 2,
+    "new": 3,
     "by_category": {
       "regulatory": 109,
       "procurement": 60,
@@ -5091,7 +5095,7 @@
       "legislative": 4
     },
     "by_domain": {
-      "air": 142,
+      "air": 143,
       "supply-chain": 68,
       "defense": 16,
       "ground": 10,
@@ -5290,7 +5294,7 @@
   "deadlines": [
     {
       "deadline": "2026-10-27",
-      "days": 11,
+      "days": 10,
       "title": "60-Day Notice of Proposed Information Collection: Information Collection Request (ICR) for the Drone Infrastructure Inspection Grant (DIIG) Program",
       "identifier": "Docket No. DOT-OST-2026-3367",
       "category": "regulatory",
@@ -5299,7 +5303,7 @@
     },
     {
       "deadline": "2026-11-02",
-      "days": 17,
+      "days": 16,
       "title": "Agency Information Collection Activities; Proposed eCollection eComments Requested; Revision of a Previously Approved Collection; Title-SAFER SKIES State, Local, Tribal, and Territorial Counter-UAS Information Collection",
       "identifier": "OMB Number 1110-0090",
       "category": "regulatory",
