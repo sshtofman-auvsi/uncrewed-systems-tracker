@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-17T03:21:12.826031+00:00",
-  "generated_human": "2026-10-17 03:21 UTC",
+  "generated_at": "2026-10-17T10:17:34.851706+00:00",
+  "generated_human": "2026-10-17 10:17 UTC",
   "demo": false,
   "items": [
     {
@@ -72,7 +72,7 @@
         "proceeding": "26-74"
       },
       "first_seen": "2026-10-17T03:21:12.826031+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:26110081760",
@@ -1644,17 +1644,17 @@
       "is_new": false
     },
     {
-      "id": "Regulations.gov:FAA-2026-4558-1630",
+      "id": "Regulations.gov:FAA-2026-4558-1629",
       "source": "Regulations.gov",
       "category": "regulatory",
       "type": "Comment",
-      "title": "Comment on Designation – Restrict the Operation of Unmanned Aircraft in Close Proximity  to a Fixed Site Facility: Comment from American Chemistry Council",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1630",
+      "title": "Comment on Designation – Restrict the Operation of Unmanned Aircraft in Close Proximity  to a Fixed Site Facility: Comment from Karin L",
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1629",
       "agency": "FAA",
       "identifier": "FAA-2026-4558",
       "date": "2026-08-06",
       "deadline": null,
-      "summary": "Comment from American Chemistry Council",
+      "summary": "Comment from Karin L",
       "score": 80,
       "domains": [
         "air"
@@ -1670,8 +1670,8 @@
       "extra": {
         "docket_total_comments": 1669
       },
-      "first_seen": "2026-10-16T20:36:31.217084+00:00",
-      "is_new": false
+      "first_seen": "2026-10-17T10:17:34.851706+00:00",
+      "is_new": true
     },
     {
       "id": "Federal Register:2026-15659",
@@ -3323,7 +3323,7 @@
         "award_type": "DEFINITIVE CONTRACT"
       },
       "first_seen": "2026-10-17T03:21:12.826031+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:19AQMM25F0189",
@@ -3515,7 +3515,7 @@
         "award_type": "DEFINITIVE CONTRACT"
       },
       "first_seen": "2026-10-17T03:21:12.826031+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:FA462523C0025",
@@ -5087,7 +5087,7 @@
   ],
   "stats": {
     "total": 183,
-    "new": 3,
+    "new": 1,
     "by_category": {
       "regulatory": 109,
       "procurement": 60,
