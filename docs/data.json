@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-17T10:17:34.851706+00:00",
-  "generated_human": "2026-10-17 10:17 UTC",
+  "generated_at": "2026-10-17T15:07:32.156013+00:00",
+  "generated_human": "2026-10-17 15:07 UTC",
   "demo": false,
   "items": [
     {
@@ -46,12 +46,12 @@
       "is_new": false
     },
     {
-      "id": "FCC ECFS:26110081962",
+      "id": "FCC ECFS:26110081967",
       "source": "FCC ECFS",
       "category": "regulatory",
       "type": "Comment",
       "title": "Theodora Scarato, Director of Wireless and EMF Program at Environmental Health Sciences: COMMENT (FCC 26-74)",
-      "url": "https://www.fcc.gov/ecfs/document/26110081962/1",
+      "url": "https://www.fcc.gov/ecfs/document/26110081967/1",
       "agency": "FCC",
       "identifier": "FCC 26-74",
       "date": "2026-10-16",
@@ -71,8 +71,8 @@
       "extra": {
         "proceeding": "26-74"
       },
-      "first_seen": "2026-10-17T03:21:12.826031+00:00",
-      "is_new": false
+      "first_seen": "2026-10-17T15:07:32.156013+00:00",
+      "is_new": true
     },
     {
       "id": "FCC ECFS:26110081760",
@@ -1671,7 +1671,7 @@
         "docket_total_comments": 1669
       },
       "first_seen": "2026-10-17T10:17:34.851706+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "Federal Register:2026-15659",
