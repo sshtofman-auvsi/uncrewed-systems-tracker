@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-18T15:30:29.276726+00:00",
-  "generated_human": "2026-10-18 15:30 UTC",
+  "generated_at": "2026-10-18T20:14:31.746616+00:00",
+  "generated_human": "2026-10-18 20:14 UTC",
   "demo": false,
   "items": [
     {
@@ -46,12 +46,12 @@
       "is_new": false
     },
     {
-      "id": "FCC ECFS:26110081962",
+      "id": "FCC ECFS:26110081967",
       "source": "FCC ECFS",
       "category": "regulatory",
       "type": "Comment",
       "title": "Theodora Scarato, Director of Wireless and EMF Program at Environmental Health Sciences: COMMENT (FCC 26-74)",
-      "url": "https://www.fcc.gov/ecfs/document/26110081962/1",
+      "url": "https://www.fcc.gov/ecfs/document/26110081967/1",
       "agency": "FCC",
       "identifier": "FCC 26-74",
       "date": "2026-10-16",
@@ -71,8 +71,8 @@
       "extra": {
         "proceeding": "26-74"
       },
-      "first_seen": "2026-10-17T20:15:06.287154+00:00",
-      "is_new": false
+      "first_seen": "2026-10-18T20:14:31.746616+00:00",
+      "is_new": true
     },
     {
       "id": "FCC ECFS:26110081760",
@@ -1644,17 +1644,17 @@
       "is_new": false
     },
     {
-      "id": "Regulations.gov:FAA-2026-4558-1629",
+      "id": "Regulations.gov:FAA-2026-4558-1630",
       "source": "Regulations.gov",
       "category": "regulatory",
       "type": "Comment",
-      "title": "Comment on Designation – Restrict the Operation of Unmanned Aircraft in Close Proximity  to a Fixed Site Facility: Comment from Karin L",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1629",
+      "title": "Comment on Designation – Restrict the Operation of Unmanned Aircraft in Close Proximity  to a Fixed Site Facility: Comment from American Chemistry Council",
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1630",
       "agency": "FAA",
       "identifier": "FAA-2026-4558",
       "date": "2026-08-06",
       "deadline": null,
-      "summary": "Comment from Karin L",
+      "summary": "Comment from American Chemistry Council",
       "score": 80,
       "domains": [
         "air"
@@ -1670,7 +1670,7 @@
       "extra": {
         "docket_total_comments": 1669
       },
-      "first_seen": "2026-10-18T15:30:29.276726+00:00",
+      "first_seen": "2026-10-18T20:14:31.746616+00:00",
       "is_new": true
     },
     {
@@ -5087,7 +5087,7 @@
   ],
   "stats": {
     "total": 183,
-    "new": 1,
+    "new": 2,
     "by_category": {
       "regulatory": 109,
       "procurement": 60,
