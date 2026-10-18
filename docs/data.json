@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-18T10:32:07.749619+00:00",
-  "generated_human": "2026-10-18 10:32 UTC",
+  "generated_at": "2026-10-18T15:30:29.276726+00:00",
+  "generated_human": "2026-10-18 15:30 UTC",
   "demo": false,
   "items": [
     {
@@ -1644,17 +1644,17 @@
       "is_new": false
     },
     {
-      "id": "Regulations.gov:FAA-2026-4558-1630",
+      "id": "Regulations.gov:FAA-2026-4558-1629",
       "source": "Regulations.gov",
       "category": "regulatory",
       "type": "Comment",
-      "title": "Comment on Designation – Restrict the Operation of Unmanned Aircraft in Close Proximity  to a Fixed Site Facility: Comment from American Chemistry Council",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1630",
+      "title": "Comment on Designation – Restrict the Operation of Unmanned Aircraft in Close Proximity  to a Fixed Site Facility: Comment from Karin L",
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1629",
       "agency": "FAA",
       "identifier": "FAA-2026-4558",
       "date": "2026-08-06",
       "deadline": null,
-      "summary": "Comment from American Chemistry Council",
+      "summary": "Comment from Karin L",
       "score": 80,
       "domains": [
         "air"
@@ -1670,8 +1670,8 @@
       "extra": {
         "docket_total_comments": 1669
       },
-      "first_seen": "2026-10-17T20:15:06.287154+00:00",
-      "is_new": false
+      "first_seen": "2026-10-18T15:30:29.276726+00:00",
+      "is_new": true
     },
     {
       "id": "Federal Register:2026-15659",
@@ -5087,7 +5087,7 @@
   ],
   "stats": {
     "total": 183,
-    "new": 0,
+    "new": 1,
     "by_category": {
       "regulatory": 109,
       "procurement": 60,
