@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-19T12:23:19.172791+00:00",
-  "generated_human": "2026-10-19 12:23 UTC",
+  "generated_at": "2026-10-19T22:04:34.891504+00:00",
+  "generated_human": "2026-10-19 22:04 UTC",
   "demo": false,
   "items": [
     {
@@ -46,15 +46,15 @@
       "is_new": false
     },
     {
-      "id": "FCC ECFS:26110081962",
+      "id": "FCC ECFS:26110082363",
       "source": "FCC ECFS",
       "category": "regulatory",
       "type": "Comment",
-      "title": "Theodora Scarato, Director of Wireless and EMF Program at Environmental Health Sciences: COMMENT (FCC 26-74)",
-      "url": "https://www.fcc.gov/ecfs/document/26110081962/1",
+      "title": "Kevin Mottus, Outreach Director at California Brain Tumor Association: COMMENT (FCC 26-74)",
+      "url": "https://www.fcc.gov/ecfs/document/26110082363/1",
       "agency": "FCC",
       "identifier": "FCC 26-74",
-      "date": "2026-10-16",
+      "date": "2026-10-19",
       "deadline": null,
       "summary": "",
       "score": 80,
@@ -71,8 +71,37 @@
       "extra": {
         "proceeding": "26-74"
       },
-      "first_seen": "2026-10-19T03:37:43.618452+00:00",
-      "is_new": false
+      "first_seen": "2026-10-19T22:04:34.891504+00:00",
+      "is_new": true
+    },
+    {
+      "id": "FCC ECFS:26110082087",
+      "source": "FCC ECFS",
+      "category": "regulatory",
+      "type": "Comment",
+      "title": "Theodora Scarato, Director of Wireless and EMF Program at Environmental Health Sciences: COMMENT (FCC 26-74)",
+      "url": "https://www.fcc.gov/ecfs/document/26110082087/1",
+      "agency": "FCC",
+      "identifier": "FCC 26-74",
+      "date": "2026-10-19",
+      "deadline": null,
+      "summary": "",
+      "score": 80,
+      "domains": [
+        "air",
+        "spectrum",
+        "supply-chain"
+      ],
+      "matched_terms": [],
+      "watchlist": {
+        "key": "gn-26-74",
+        "label": "GN 26-74 (Unleashing American Drone Dominance)"
+      },
+      "extra": {
+        "proceeding": "26-74"
+      },
+      "first_seen": "2026-10-19T22:04:34.891504+00:00",
+      "is_new": true
     },
     {
       "id": "FCC ECFS:26110081760",
@@ -1644,17 +1673,17 @@
       "is_new": false
     },
     {
-      "id": "Regulations.gov:FAA-2026-4558-1630",
+      "id": "Regulations.gov:FAA-2026-4558-1629",
       "source": "Regulations.gov",
       "category": "regulatory",
       "type": "Comment",
-      "title": "Comment on Designation – Restrict the Operation of Unmanned Aircraft in Close Proximity  to a Fixed Site Facility: Comment from American Chemistry Council",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1630",
+      "title": "Comment on Designation – Restrict the Operation of Unmanned Aircraft in Close Proximity  to a Fixed Site Facility: Comment from Karin L",
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1629",
       "agency": "FAA",
       "identifier": "FAA-2026-4558",
       "date": "2026-08-06",
       "deadline": null,
-      "summary": "Comment from American Chemistry Council",
+      "summary": "Comment from Karin L",
       "score": 80,
       "domains": [
         "air"
@@ -1670,8 +1699,8 @@
       "extra": {
         "docket_total_comments": 1669
       },
-      "first_seen": "2026-10-18T20:14:31.746616+00:00",
-      "is_new": false
+      "first_seen": "2026-10-19T22:04:34.891504+00:00",
+      "is_new": true
     },
     {
       "id": "Federal Register:2026-15659",
@@ -4461,30 +4490,6 @@
       "is_new": false
     },
     {
-      "id": "Regulations.gov:FAA-2026-12509-0001",
-      "source": "Regulations.gov",
-      "category": "regulatory",
-      "type": "Document",
-      "title": "Blaes Drone Service, LLC - Petition",
-      "url": "https://www.regulations.gov/document/FAA-2026-12509-0001",
-      "agency": "FAA",
-      "identifier": "FAA-2026-12509",
-      "date": "2026-09-28",
-      "deadline": null,
-      "summary": "Blaes Drone Service, LLC - Petition",
-      "score": 20,
-      "domains": [
-        "air"
-      ],
-      "matched_terms": [
-        "drone"
-      ],
-      "watchlist": null,
-      "extra": {},
-      "first_seen": "2026-09-28T13:08:26.866893+00:00",
-      "is_new": false
-    },
-    {
       "id": "Regulations.gov:FAA-2026-12516-0001",
       "source": "Regulations.gov",
       "category": "regulatory",
@@ -4506,6 +4511,30 @@
       "watchlist": null,
       "extra": {},
       "first_seen": "2026-09-28T23:00:58.398729+00:00",
+      "is_new": false
+    },
+    {
+      "id": "Regulations.gov:FAA-2026-12509-0001",
+      "source": "Regulations.gov",
+      "category": "regulatory",
+      "type": "Document",
+      "title": "Blaes Drone Service, LLC - Petition",
+      "url": "https://www.regulations.gov/document/FAA-2026-12509-0001",
+      "agency": "FAA",
+      "identifier": "FAA-2026-12509",
+      "date": "2026-09-28",
+      "deadline": null,
+      "summary": "Blaes Drone Service, LLC - Petition",
+      "score": 20,
+      "domains": [
+        "air"
+      ],
+      "matched_terms": [
+        "drone"
+      ],
+      "watchlist": null,
+      "extra": {},
+      "first_seen": "2026-09-28T13:08:26.866893+00:00",
       "is_new": false
     },
     {
@@ -4640,30 +4669,6 @@
       "date": "2026-09-21",
       "deadline": null,
       "summary": "TexAg Drone Solutions - Request for Extension",
-      "score": 20,
-      "domains": [
-        "air"
-      ],
-      "matched_terms": [
-        "drone"
-      ],
-      "watchlist": null,
-      "extra": {},
-      "first_seen": "2026-09-21T21:46:45.831085+00:00",
-      "is_new": false
-    },
-    {
-      "id": "Regulations.gov:FAA-2026-4798-0003",
-      "source": "Regulations.gov",
-      "category": "regulatory",
-      "type": "Document",
-      "title": "County Line AG Drone Services LLC - Petition",
-      "url": "https://www.regulations.gov/document/FAA-2026-4798-0003",
-      "agency": "FAA",
-      "identifier": "FAA-2026-4798",
-      "date": "2026-09-21",
-      "deadline": null,
-      "summary": "County Line AG Drone Services LLC - Petition",
       "score": 20,
       "domains": [
         "air"
@@ -5051,8 +5056,8 @@
     {
       "name": "Regulations.gov",
       "status": "ok",
-      "detail": "47 kept",
-      "count": 47
+      "detail": "46 kept",
+      "count": 46
     },
     {
       "name": "FCC ECFS",
@@ -5087,7 +5092,7 @@
   ],
   "stats": {
     "total": 183,
-    "new": 0,
+    "new": 3,
     "by_category": {
       "regulatory": 109,
       "procurement": 60,
@@ -5096,15 +5101,15 @@
     },
     "by_domain": {
       "air": 143,
-      "supply-chain": 68,
+      "supply-chain": 69,
       "defense": 16,
       "ground": 10,
-      "spectrum": 5
+      "spectrum": 6
     },
     "by_source": {
       "USAspending": 60,
-      "FCC ECFS": 50,
-      "Regulations.gov": 35,
+      "FCC ECFS": 51,
+      "Regulations.gov": 34,
       "Federal Register": 24,
       "CourtListener": 10,
       "Congress.gov": 4
@@ -5160,8 +5165,8 @@
         "supply-chain"
       ],
       "deadline": null,
-      "count": 4,
-      "latest": "2026-10-16"
+      "count": 5,
+      "latest": "2026-10-19"
     },
     {
       "key": "dji-cadc-1260h",
