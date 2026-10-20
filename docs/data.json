@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-20T16:28:46.446765+00:00",
-  "generated_human": "2026-10-20 16:28 UTC",
+  "generated_at": "2026-10-20T21:20:47.154416+00:00",
+  "generated_human": "2026-10-20 21:20 UTC",
   "demo": false,
   "items": [
     {
@@ -46,6 +46,64 @@
       "is_new": false
     },
     {
+      "id": "FCC ECFS:26110082711",
+      "source": "FCC ECFS",
+      "category": "regulatory",
+      "type": "Comment",
+      "title": "Kevin Mottus, Outreach Director CA Brain Tumor Assn.: COMMENT (FCC 26-74)",
+      "url": "https://www.fcc.gov/ecfs/document/26110082711/1",
+      "agency": "FCC",
+      "identifier": "FCC 26-74",
+      "date": "2026-10-20",
+      "deadline": null,
+      "summary": "",
+      "score": 80,
+      "domains": [
+        "air",
+        "spectrum",
+        "supply-chain"
+      ],
+      "matched_terms": [],
+      "watchlist": {
+        "key": "gn-26-74",
+        "label": "GN 26-74 (Unleashing American Drone Dominance)"
+      },
+      "extra": {
+        "proceeding": "26-74"
+      },
+      "first_seen": "2026-10-20T21:20:47.154416+00:00",
+      "is_new": true
+    },
+    {
+      "id": "FCC ECFS:26110082660",
+      "source": "FCC ECFS",
+      "category": "regulatory",
+      "type": "Comment",
+      "title": "Kevin Mottus, Outreach Director at California Brain Tumor Association: COMMENT (FCC 26-74)",
+      "url": "https://www.fcc.gov/ecfs/document/26110082660/1",
+      "agency": "FCC",
+      "identifier": "FCC 26-74",
+      "date": "2026-10-20",
+      "deadline": null,
+      "summary": "",
+      "score": 80,
+      "domains": [
+        "air",
+        "spectrum",
+        "supply-chain"
+      ],
+      "matched_terms": [],
+      "watchlist": {
+        "key": "gn-26-74",
+        "label": "GN 26-74 (Unleashing American Drone Dominance)"
+      },
+      "extra": {
+        "proceeding": "26-74"
+      },
+      "first_seen": "2026-10-20T21:20:47.154416+00:00",
+      "is_new": true
+    },
+    {
       "id": "FCC ECFS:26110082502",
       "source": "FCC ECFS",
       "category": "regulatory",
@@ -72,36 +130,7 @@
         "proceeding": "26-74"
       },
       "first_seen": "2026-10-20T16:28:46.446765+00:00",
-      "is_new": true
-    },
-    {
-      "id": "FCC ECFS:26110082523",
-      "source": "FCC ECFS",
-      "category": "regulatory",
-      "type": "Comment",
-      "title": "Kevin Mottus, Outreach Director at California Brain Tumor Association: COMMENT (FCC 26-74)",
-      "url": "https://www.fcc.gov/ecfs/document/26110082523/1",
-      "agency": "FCC",
-      "identifier": "FCC 26-74",
-      "date": "2026-10-20",
-      "deadline": null,
-      "summary": "",
-      "score": 80,
-      "domains": [
-        "air",
-        "spectrum",
-        "supply-chain"
-      ],
-      "matched_terms": [],
-      "watchlist": {
-        "key": "gn-26-74",
-        "label": "GN 26-74 (Unleashing American Drone Dominance)"
-      },
-      "extra": {
-        "proceeding": "26-74"
-      },
-      "first_seen": "2026-10-20T16:28:46.446765+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:26110081760",
@@ -1673,17 +1702,17 @@
       "is_new": false
     },
     {
-      "id": "Regulations.gov:FAA-2026-4558-1629",
+      "id": "Regulations.gov:FAA-2026-4558-1630",
       "source": "Regulations.gov",
       "category": "regulatory",
       "type": "Comment",
-      "title": "Comment on Designation – Restrict the Operation of Unmanned Aircraft in Close Proximity  to a Fixed Site Facility: Comment from Karin L",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1629",
+      "title": "Comment on Designation – Restrict the Operation of Unmanned Aircraft in Close Proximity  to a Fixed Site Facility: Comment from American Chemistry Council",
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1630",
       "agency": "FAA",
       "identifier": "FAA-2026-4558",
       "date": "2026-08-06",
       "deadline": null,
-      "summary": "Comment from Karin L",
+      "summary": "Comment from American Chemistry Council",
       "score": 80,
       "domains": [
         "air"
@@ -1699,7 +1728,7 @@
       "extra": {
         "docket_total_comments": 1669
       },
-      "first_seen": "2026-10-20T16:28:46.446765+00:00",
+      "first_seen": "2026-10-20T21:20:47.154416+00:00",
       "is_new": true
     },
     {
@@ -4094,7 +4123,7 @@
       "watchlist": null,
       "extra": {},
       "first_seen": "2026-10-20T16:28:46.446765+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "Federal Register:2026-21053",
@@ -4486,30 +4515,6 @@
       "is_new": false
     },
     {
-      "id": "Regulations.gov:FAA-2026-12511-0001",
-      "source": "Regulations.gov",
-      "category": "regulatory",
-      "type": "Document",
-      "title": "Rourke Ag Drone Solutions, LLC - Petition",
-      "url": "https://www.regulations.gov/document/FAA-2026-12511-0001",
-      "agency": "FAA",
-      "identifier": "FAA-2026-12511",
-      "date": "2026-09-28",
-      "deadline": null,
-      "summary": "Rourke Ag Drone Solutions, LLC - Petition",
-      "score": 20,
-      "domains": [
-        "air"
-      ],
-      "matched_terms": [
-        "drone"
-      ],
-      "watchlist": null,
-      "extra": {},
-      "first_seen": "2026-09-28T13:08:26.866893+00:00",
-      "is_new": false
-    },
-    {
       "id": "Regulations.gov:FAA-2026-12516-0001",
       "source": "Regulations.gov",
       "category": "regulatory",
@@ -4531,6 +4536,30 @@
       "watchlist": null,
       "extra": {},
       "first_seen": "2026-09-28T23:00:58.398729+00:00",
+      "is_new": false
+    },
+    {
+      "id": "Regulations.gov:FAA-2026-12511-0001",
+      "source": "Regulations.gov",
+      "category": "regulatory",
+      "type": "Document",
+      "title": "Rourke Ag Drone Solutions, LLC - Petition",
+      "url": "https://www.regulations.gov/document/FAA-2026-12511-0001",
+      "agency": "FAA",
+      "identifier": "FAA-2026-12511",
+      "date": "2026-09-28",
+      "deadline": null,
+      "summary": "Rourke Ag Drone Solutions, LLC - Petition",
+      "score": 20,
+      "domains": [
+        "air"
+      ],
+      "matched_terms": [
+        "drone"
+      ],
+      "watchlist": null,
+      "extra": {},
+      "first_seen": "2026-09-28T13:08:26.866893+00:00",
       "is_new": false
     },
     {
@@ -5111,24 +5140,24 @@
     }
   ],
   "stats": {
-    "total": 184,
-    "new": 4,
+    "total": 185,
+    "new": 3,
     "by_category": {
-      "regulatory": 110,
+      "regulatory": 111,
       "procurement": 60,
       "litigation": 10,
       "legislative": 4
     },
     "by_domain": {
-      "air": 143,
-      "supply-chain": 69,
+      "air": 144,
+      "supply-chain": 70,
       "defense": 16,
       "ground": 10,
-      "spectrum": 6
+      "spectrum": 7
     },
     "by_source": {
       "USAspending": 60,
-      "FCC ECFS": 51,
+      "FCC ECFS": 52,
       "Regulations.gov": 35,
       "Federal Register": 24,
       "CourtListener": 10,
@@ -5185,7 +5214,7 @@
         "supply-chain"
       ],
       "deadline": null,
-      "count": 5,
+      "count": 6,
       "latest": "2026-10-20"
     },
     {
