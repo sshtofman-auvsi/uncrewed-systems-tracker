@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-19T22:04:34.891504+00:00",
-  "generated_human": "2026-10-19 22:04 UTC",
+  "generated_at": "2026-10-20T03:48:46.920207+00:00",
+  "generated_human": "2026-10-20 03:48 UTC",
   "demo": false,
   "items": [
     {
@@ -72,7 +72,7 @@
         "proceeding": "26-74"
       },
       "first_seen": "2026-10-19T22:04:34.891504+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:26110082087",
@@ -101,7 +101,7 @@
         "proceeding": "26-74"
       },
       "first_seen": "2026-10-19T22:04:34.891504+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:26110081760",
@@ -1673,17 +1673,17 @@
       "is_new": false
     },
     {
-      "id": "Regulations.gov:FAA-2026-4558-1629",
+      "id": "Regulations.gov:FAA-2026-4558-1630",
       "source": "Regulations.gov",
       "category": "regulatory",
       "type": "Comment",
-      "title": "Comment on Designation – Restrict the Operation of Unmanned Aircraft in Close Proximity  to a Fixed Site Facility: Comment from Karin L",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1629",
+      "title": "Comment on Designation – Restrict the Operation of Unmanned Aircraft in Close Proximity  to a Fixed Site Facility: Comment from American Chemistry Council",
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1630",
       "agency": "FAA",
       "identifier": "FAA-2026-4558",
       "date": "2026-08-06",
       "deadline": null,
-      "summary": "Comment from Karin L",
+      "summary": "Comment from American Chemistry Council",
       "score": 80,
       "domains": [
         "air"
@@ -1699,7 +1699,7 @@
       "extra": {
         "docket_total_comments": 1669
       },
-      "first_seen": "2026-10-19T22:04:34.891504+00:00",
+      "first_seen": "2026-10-20T03:48:46.920207+00:00",
       "is_new": true
     },
     {
@@ -3520,33 +3520,6 @@
       "is_new": false
     },
     {
-      "id": "USAspending:693KA923C00012",
-      "source": "USAspending",
-      "category": "procurement",
-      "type": "Award",
-      "title": "I3 FEDERAL LLC: EVALUATION OF HAZARDS POSED BY LITHIUM-BATTERY POWERED UNMANNED AIRCRAFT SYSTEMS AND OTHER DANGEROUS GOODS INTEGRATED IN",
-      "url": "https://www.usaspending.gov/award/CONT_AWD_693KA923C00012_6920_-NONE-_-NONE-",
-      "agency": "Department of Transportation",
-      "identifier": "693KA923C00012",
-      "date": "2023-09-11",
-      "deadline": null,
-      "summary": "EVALUATION OF HAZARDS POSED BY LITHIUM-BATTERY POWERED UNMANNED AIRCRAFT SYSTEMS AND OTHER DANGEROUS GOODS INTEGRATED INTO THE DESIGN.",
-      "score": 30,
-      "domains": [
-        "air"
-      ],
-      "matched_terms": [
-        "unmanned aircraft"
-      ],
-      "watchlist": null,
-      "extra": {
-        "amount": 3612061.55,
-        "award_type": "DEFINITIVE CONTRACT"
-      },
-      "first_seen": "2026-10-17T03:21:12.826031+00:00",
-      "is_new": false
-    },
-    {
       "id": "USAspending:FA462523C0025",
       "source": "USAspending",
       "category": "procurement",
@@ -3764,6 +3737,29 @@
       },
       "first_seen": "2026-07-30T08:28:48.549293+00:00",
       "is_new": false
+    },
+    {
+      "id": "USAspending:FA868922F2400",
+      "source": "USAspending",
+      "category": "procurement",
+      "type": "Award",
+      "title": "GENERAL ATOMICS AERONAUTICAL SYSTEMS, INC.: MQ-9 REAPER 2022 UNITED STATES MARINE CORPS PRODUCTION BUY",
+      "url": "https://www.usaspending.gov/award/CONT_AWD_FA868922F2400_9700_FA868920D2020_9700",
+      "agency": "Department of Defense",
+      "identifier": "FA868922F2400",
+      "date": "2022-05-24",
+      "deadline": null,
+      "summary": "MQ-9 REAPER 2022 UNITED STATES MARINE CORPS PRODUCTION BUY",
+      "score": 30,
+      "domains": [],
+      "matched_terms": [],
+      "watchlist": null,
+      "extra": {
+        "amount": 128050591.0,
+        "award_type": "DELIVERY ORDER"
+      },
+      "first_seen": "2026-10-20T03:48:46.920207+00:00",
+      "is_new": true
     },
     {
       "id": "USAspending:FA807522F0011",
@@ -5092,7 +5088,7 @@
   ],
   "stats": {
     "total": 183,
-    "new": 3,
+    "new": 2,
     "by_category": {
       "regulatory": 109,
       "procurement": 60,
@@ -5100,7 +5096,7 @@
       "legislative": 4
     },
     "by_domain": {
-      "air": 143,
+      "air": 142,
       "supply-chain": 69,
       "defense": 16,
       "ground": 10,
@@ -5299,7 +5295,7 @@
   "deadlines": [
     {
       "deadline": "2026-10-27",
-      "days": 8,
+      "days": 7,
       "title": "60-Day Notice of Proposed Information Collection: Information Collection Request (ICR) for the Drone Infrastructure Inspection Grant (DIIG) Program",
       "identifier": "Docket No. DOT-OST-2026-3367",
       "category": "regulatory",
@@ -5308,7 +5304,7 @@
     },
     {
       "deadline": "2026-11-02",
-      "days": 14,
+      "days": 13,
       "title": "Agency Information Collection Activities; Proposed eCollection eComments Requested; Revision of a Previously Approved Collection; Title-SAFER SKIES State, Local, Tribal, and Territorial Counter-UAS Information Collection",
       "identifier": "OMB Number 1110-0090",
       "category": "regulatory",
