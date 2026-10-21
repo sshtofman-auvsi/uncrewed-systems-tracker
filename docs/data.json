@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-21T03:41:12.185126+00:00",
-  "generated_human": "2026-10-21 03:41 UTC",
+  "generated_at": "2026-10-21T11:19:11.099953+00:00",
+  "generated_human": "2026-10-21 11:19 UTC",
   "demo": false,
   "items": [
     {
@@ -3043,7 +3043,7 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-10-21T03:41:12.185126+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:FA868923F2650",
@@ -3158,7 +3158,7 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-10-21T03:41:12.185126+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:19AQMM26C0257",
@@ -3830,7 +3830,7 @@
         "award_type": "DEFINITIVE CONTRACT"
       },
       "first_seen": "2026-10-21T03:41:12.185126+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:N0001919C0008",
@@ -5133,7 +5133,7 @@
   ],
   "stats": {
     "total": 185,
-    "new": 3,
+    "new": 0,
     "by_category": {
       "regulatory": 111,
       "procurement": 60,
