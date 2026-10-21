@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-21T11:19:11.099953+00:00",
-  "generated_human": "2026-10-21 11:19 UTC",
+  "generated_at": "2026-10-21T16:46:09.109275+00:00",
+  "generated_human": "2026-10-21 16:46 UTC",
   "demo": false,
   "items": [
     {
@@ -46,15 +46,15 @@
       "is_new": false
     },
     {
-      "id": "FCC ECFS:26110082711",
+      "id": "FCC ECFS:26110082727",
       "source": "FCC ECFS",
       "category": "regulatory",
       "type": "Comment",
       "title": "Kevin Mottus, Outreach Director CA Brain Tumor Assn.: COMMENT (FCC 26-74)",
-      "url": "https://www.fcc.gov/ecfs/document/26110082711/1",
+      "url": "https://www.fcc.gov/ecfs/document/26110082727/1",
       "agency": "FCC",
       "identifier": "FCC 26-74",
-      "date": "2026-10-20",
+      "date": "2026-10-21",
       "deadline": null,
       "summary": "",
       "score": 80,
@@ -71,48 +71,19 @@
       "extra": {
         "proceeding": "26-74"
       },
-      "first_seen": "2026-10-20T21:20:47.154416+00:00",
-      "is_new": false
+      "first_seen": "2026-10-21T16:46:09.109275+00:00",
+      "is_new": true
     },
     {
-      "id": "FCC ECFS:26110082660",
-      "source": "FCC ECFS",
-      "category": "regulatory",
-      "type": "Comment",
-      "title": "Kevin Mottus, Outreach Director at California Brain Tumor Association: COMMENT (FCC 26-74)",
-      "url": "https://www.fcc.gov/ecfs/document/26110082660/1",
-      "agency": "FCC",
-      "identifier": "FCC 26-74",
-      "date": "2026-10-20",
-      "deadline": null,
-      "summary": "",
-      "score": 80,
-      "domains": [
-        "air",
-        "spectrum",
-        "supply-chain"
-      ],
-      "matched_terms": [],
-      "watchlist": {
-        "key": "gn-26-74",
-        "label": "GN 26-74 (Unleashing American Drone Dominance)"
-      },
-      "extra": {
-        "proceeding": "26-74"
-      },
-      "first_seen": "2026-10-20T21:20:47.154416+00:00",
-      "is_new": false
-    },
-    {
-      "id": "FCC ECFS:26110082502",
+      "id": "FCC ECFS:26110082921",
       "source": "FCC ECFS",
       "category": "regulatory",
       "type": "Comment",
       "title": "Kevin Mottus, Outreach Director at CA Brain Tumor Assn.: COMMENT (FCC 26-74)",
-      "url": "https://www.fcc.gov/ecfs/document/26110082502/1",
+      "url": "https://www.fcc.gov/ecfs/document/26110082921/1",
       "agency": "FCC",
       "identifier": "FCC 26-74",
-      "date": "2026-10-20",
+      "date": "2026-10-21",
       "deadline": null,
       "summary": "",
       "score": 80,
@@ -129,8 +100,66 @@
       "extra": {
         "proceeding": "26-74"
       },
-      "first_seen": "2026-10-20T16:28:46.446765+00:00",
-      "is_new": false
+      "first_seen": "2026-10-21T16:46:09.109275+00:00",
+      "is_new": true
+    },
+    {
+      "id": "FCC ECFS:26110082917",
+      "source": "FCC ECFS",
+      "category": "regulatory",
+      "type": "Comment",
+      "title": "Kevin Mottus, Outreach Director at California Brain Tumor Association: COMMENT (FCC 26-74)",
+      "url": "https://www.fcc.gov/ecfs/document/26110082917/1",
+      "agency": "FCC",
+      "identifier": "FCC 26-74",
+      "date": "2026-10-21",
+      "deadline": null,
+      "summary": "",
+      "score": 80,
+      "domains": [
+        "air",
+        "spectrum",
+        "supply-chain"
+      ],
+      "matched_terms": [],
+      "watchlist": {
+        "key": "gn-26-74",
+        "label": "GN 26-74 (Unleashing American Drone Dominance)"
+      },
+      "extra": {
+        "proceeding": "26-74"
+      },
+      "first_seen": "2026-10-21T16:46:09.109275+00:00",
+      "is_new": true
+    },
+    {
+      "id": "FCC ECFS:26110082754",
+      "source": "FCC ECFS",
+      "category": "regulatory",
+      "type": "Notice",
+      "title": "Correctional Leaders Association: NOTICE OF EXPARTE (FCC 26-74)",
+      "url": "https://www.fcc.gov/ecfs/document/26110082754/1",
+      "agency": "FCC",
+      "identifier": "FCC 26-74",
+      "date": "2026-10-21",
+      "deadline": null,
+      "summary": "",
+      "score": 80,
+      "domains": [
+        "air",
+        "spectrum",
+        "supply-chain"
+      ],
+      "matched_terms": [],
+      "watchlist": {
+        "key": "gn-26-74",
+        "label": "GN 26-74 (Unleashing American Drone Dominance)"
+      },
+      "extra": {
+        "proceeding": "26-74"
+      },
+      "first_seen": "2026-10-21T16:46:09.109275+00:00",
+      "is_new": true
     },
     {
       "id": "FCC ECFS:26110081760",
@@ -4094,6 +4123,54 @@
       "is_new": false
     },
     {
+      "id": "Regulations.gov:FAA-2026-13762-0001",
+      "source": "Regulations.gov",
+      "category": "regulatory",
+      "type": "Document",
+      "title": "ThermaFlight Drone Services LLC - Exemption/Rulemaking",
+      "url": "https://www.regulations.gov/document/FAA-2026-13762-0001",
+      "agency": "FAA",
+      "identifier": "FAA-2026-13762",
+      "date": "2026-10-21",
+      "deadline": null,
+      "summary": "ThermaFlight Drone Services LLC - Exemption/Rulemaking",
+      "score": 20,
+      "domains": [
+        "air"
+      ],
+      "matched_terms": [
+        "drone"
+      ],
+      "watchlist": null,
+      "extra": {},
+      "first_seen": "2026-10-21T16:46:09.109275+00:00",
+      "is_new": true
+    },
+    {
+      "id": "Regulations.gov:FAA-2024-0879-0004",
+      "source": "Regulations.gov",
+      "category": "regulatory",
+      "type": "Document",
+      "title": "Agra Drone Solutions LLC - Request for Renewal",
+      "url": "https://www.regulations.gov/document/FAA-2024-0879-0004",
+      "agency": "FAA",
+      "identifier": "FAA-2024-0879",
+      "date": "2026-10-21",
+      "deadline": null,
+      "summary": "Agra Drone Solutions LLC - Request for Renewal",
+      "score": 20,
+      "domains": [
+        "air"
+      ],
+      "matched_terms": [
+        "drone"
+      ],
+      "watchlist": null,
+      "extra": {},
+      "first_seen": "2026-10-21T16:46:09.109275+00:00",
+      "is_new": true
+    },
+    {
       "id": "Regulations.gov:FAA-2024-1332-0004",
       "source": "Regulations.gov",
       "category": "regulatory",
@@ -4699,30 +4776,6 @@
       "is_new": false
     },
     {
-      "id": "Regulations.gov:FAA-2024-1075-0004",
-      "source": "Regulations.gov",
-      "category": "regulatory",
-      "type": "Document",
-      "title": "TexAg Drone Solutions - Request for Extension",
-      "url": "https://www.regulations.gov/document/FAA-2024-1075-0004",
-      "agency": "FAA",
-      "identifier": "FAA-2024-1075",
-      "date": "2026-09-21",
-      "deadline": null,
-      "summary": "TexAg Drone Solutions - Request for Extension",
-      "score": 20,
-      "domains": [
-        "air"
-      ],
-      "matched_terms": [
-        "drone"
-      ],
-      "watchlist": null,
-      "extra": {},
-      "first_seen": "2026-09-21T21:46:45.831085+00:00",
-      "is_new": false
-    },
-    {
       "id": "Federal Register:2026-18996",
       "source": "Federal Register",
       "category": "regulatory",
@@ -5097,8 +5150,8 @@
     {
       "name": "Regulations.gov",
       "status": "ok",
-      "detail": "47 kept",
-      "count": 47
+      "detail": "48 kept",
+      "count": 48
     },
     {
       "name": "FCC ECFS",
@@ -5132,25 +5185,25 @@
     }
   ],
   "stats": {
-    "total": 185,
-    "new": 0,
+    "total": 187,
+    "new": 6,
     "by_category": {
-      "regulatory": 111,
+      "regulatory": 113,
       "procurement": 60,
       "litigation": 10,
       "legislative": 4
     },
     "by_domain": {
-      "air": 143,
-      "supply-chain": 70,
+      "air": 145,
+      "supply-chain": 71,
       "defense": 15,
       "ground": 10,
-      "spectrum": 7
+      "spectrum": 8
     },
     "by_source": {
       "USAspending": 60,
-      "FCC ECFS": 52,
-      "Regulations.gov": 35,
+      "FCC ECFS": 53,
+      "Regulations.gov": 36,
       "Federal Register": 24,
       "CourtListener": 10,
       "Congress.gov": 4
@@ -5183,6 +5236,20 @@
       "latest": "2026-10-15"
     },
     {
+      "key": "gn-26-74",
+      "label": "GN 26-74 (Unleashing American Drone Dominance)",
+      "category": "regulatory",
+      "agency": "FCC",
+      "domain": [
+        "air",
+        "spectrum",
+        "supply-chain"
+      ],
+      "deadline": null,
+      "count": 7,
+      "latest": "2026-10-21"
+    },
+    {
       "key": "dji-ca9",
       "label": "DJI petition (9th Circuit, 26-1029)",
       "category": "litigation",
@@ -5194,20 +5261,6 @@
       "deadline": null,
       "count": 7,
       "latest": "2026-03-11"
-    },
-    {
-      "key": "gn-26-74",
-      "label": "GN 26-74 (Unleashing American Drone Dominance)",
-      "category": "regulatory",
-      "agency": "FCC",
-      "domain": [
-        "air",
-        "spectrum",
-        "supply-chain"
-      ],
-      "deadline": null,
-      "count": 6,
-      "latest": "2026-10-20"
     },
     {
       "key": "dji-cadc-1260h",
