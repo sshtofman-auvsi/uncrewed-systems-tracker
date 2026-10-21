@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-20T21:20:47.154416+00:00",
-  "generated_human": "2026-10-20 21:20 UTC",
+  "generated_at": "2026-10-21T03:41:12.185126+00:00",
+  "generated_human": "2026-10-21 03:41 UTC",
   "demo": false,
   "items": [
     {
@@ -72,7 +72,7 @@
         "proceeding": "26-74"
       },
       "first_seen": "2026-10-20T21:20:47.154416+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:26110082660",
@@ -101,7 +101,7 @@
         "proceeding": "26-74"
       },
       "first_seen": "2026-10-20T21:20:47.154416+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:26110082502",
@@ -1729,7 +1729,7 @@
         "docket_total_comments": 1669
       },
       "first_seen": "2026-10-20T21:20:47.154416+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "Federal Register:2026-15659",
@@ -2314,37 +2314,6 @@
         "award_type": "DEFINITIVE CONTRACT"
       },
       "first_seen": "2026-09-01T11:15:06.324377+00:00",
-      "is_new": false
-    },
-    {
-      "id": "USAspending:70RSAT26FR0000009",
-      "source": "USAspending",
-      "category": "procurement",
-      "type": "Award",
-      "title": "THE MITRE CORPORATION: THE PURPOSE OF THIS REQUISITION IS TO COMMIT $750,000.00 FOR A NEW TASK ORDER UNDER 70RSAT20D00000001 FOR UNMANNED AIRCR",
-      "url": "https://www.usaspending.gov/award/CONT_AWD_70RSAT26FR0000009_7001_70RSAT26D00000001_7001",
-      "agency": "Department of Homeland Security",
-      "identifier": "70RSAT26FR0000009",
-      "date": "2026-03-24",
-      "deadline": null,
-      "summary": "THE PURPOSE OF THIS REQUISITION IS TO COMMIT $750,000.00 FOR A NEW TASK ORDER UNDER 70RSAT20D00000001 FOR UNMANNED AIRCRAFT SYSTEMS (UAS) AND COUNTER-UNMANNED AIRCRAFT SYSTEMS (C-UAS), PROVIDES DHS WITH DATA-DRIVEN INSIGHTS, OPERATIONAL RECOMMENDATIO",
-      "score": 66,
-      "domains": [
-        "air",
-        "defense"
-      ],
-      "matched_terms": [
-        "unmanned aircraft",
-        "uas",
-        "c-uas",
-        "counter-unmanned"
-      ],
-      "watchlist": null,
-      "extra": {
-        "amount": 3676836.0,
-        "award_type": "DELIVERY ORDER"
-      },
-      "first_seen": "2026-10-15T03:34:56.068510+00:00",
       "is_new": false
     },
     {
@@ -3004,29 +2973,6 @@
       "is_new": false
     },
     {
-      "id": "USAspending:W900KK26FA112",
-      "source": "USAspending",
-      "category": "procurement",
-      "type": "Award",
-      "title": "KRATOS UNMANNED AERIAL SYSTEMS, INC: TO PROVIDE ACCREDITED, THREAT REPRESENTATIVE UNMANNED AERIAL TARGET SYSTEMS FOR USE IN SENSOR PRESENTATIONS OR LIVE FIRE",
-      "url": "https://www.usaspending.gov/award/CONT_AWD_W900KK26FA112_9700_W900KK23D0015_9700",
-      "agency": "Department of Defense",
-      "identifier": "W900KK26FA112",
-      "date": "2026-06-24",
-      "deadline": null,
-      "summary": "TO PROVIDE ACCREDITED, THREAT REPRESENTATIVE UNMANNED AERIAL TARGET SYSTEMS FOR USE IN SENSOR PRESENTATIONS OR LIVE FIRE TRACKING AND ENGAGEMENT FOR WEAPONS SYSTEMS TESTING.",
-      "score": 30,
-      "domains": [],
-      "matched_terms": [],
-      "watchlist": null,
-      "extra": {
-        "amount": 8310622.6,
-        "award_type": "DELIVERY ORDER"
-      },
-      "first_seen": "2026-09-22T03:43:52.430962+00:00",
-      "is_new": false
-    },
-    {
       "id": "USAspending:N0001926F1093",
       "source": "USAspending",
       "category": "procurement",
@@ -3075,6 +3021,29 @@
       },
       "first_seen": "2026-10-13T13:43:26.235128+00:00",
       "is_new": false
+    },
+    {
+      "id": "USAspending:FA868926FB001",
+      "source": "USAspending",
+      "category": "procurement",
+      "type": "Award",
+      "title": "GENERAL ATOMICS AERONAUTICAL SYSTEMS, INC.: QATAR MQ-9B GREEN AC PURCHASE",
+      "url": "https://www.usaspending.gov/award/CONT_AWD_FA868926FB001_9700_FA868925DB001_9700",
+      "agency": "Department of Defense",
+      "identifier": "FA868926FB001",
+      "date": "2026-05-26",
+      "deadline": null,
+      "summary": "QATAR MQ-9B GREEN AC PURCHASE",
+      "score": 30,
+      "domains": [],
+      "matched_terms": [],
+      "watchlist": null,
+      "extra": {
+        "amount": 81930834.59,
+        "award_type": "DELIVERY ORDER"
+      },
+      "first_seen": "2026-10-21T03:41:12.185126+00:00",
+      "is_new": true
     },
     {
       "id": "USAspending:FA868923F2650",
@@ -3169,6 +3138,29 @@
       "is_new": false
     },
     {
+      "id": "USAspending:W15P7T26F0084",
+      "source": "USAspending",
+      "category": "procurement",
+      "type": "Award",
+      "title": "LEIDOS, INC.: PROCURE VOYAGER",
+      "url": "https://www.usaspending.gov/award/CONT_AWD_W15P7T26F0084_9700_W15P7T23D0003_9700",
+      "agency": "Department of Defense",
+      "identifier": "W15P7T26F0084",
+      "date": "2026-03-27",
+      "deadline": null,
+      "summary": "PROCURE VOYAGER",
+      "score": 30,
+      "domains": [],
+      "matched_terms": [],
+      "watchlist": null,
+      "extra": {
+        "amount": 43701700.0,
+        "award_type": "DELIVERY ORDER"
+      },
+      "first_seen": "2026-10-21T03:41:12.185126+00:00",
+      "is_new": true
+    },
+    {
       "id": "USAspending:19AQMM26C0257",
       "source": "USAspending",
       "category": "procurement",
@@ -3235,7 +3227,7 @@
       ],
       "watchlist": null,
       "extra": {
-        "amount": 11460965.76,
+        "amount": 12495750.76,
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-10-15T10:59:06.327334+00:00",
@@ -3308,29 +3300,6 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-09-27T04:07:11.193056+00:00",
-      "is_new": false
-    },
-    {
-      "id": "USAspending:FA868925FB009",
-      "source": "USAspending",
-      "category": "procurement",
-      "type": "Award",
-      "title": "GENERAL ATOMICS AERONAUTICAL SYSTEMS, INC.: PLEO RETROFIT PH IV FOLLOW-ON",
-      "url": "https://www.usaspending.gov/award/CONT_AWD_FA868925FB009_9700_FA868920D2020_9700",
-      "agency": "Department of Defense",
-      "identifier": "FA868925FB009",
-      "date": "2025-09-09",
-      "deadline": null,
-      "summary": "PLEO RETROFIT PH IV FOLLOW-ON",
-      "score": 30,
-      "domains": [],
-      "matched_terms": [],
-      "watchlist": null,
-      "extra": {
-        "amount": 9989587.0,
-        "award_type": "DELIVERY ORDER"
-      },
-      "first_seen": "2026-09-22T03:43:52.430962+00:00",
       "is_new": false
     },
     {
@@ -3839,6 +3808,29 @@
       },
       "first_seen": "2026-09-12T03:32:55.496723+00:00",
       "is_new": false
+    },
+    {
+      "id": "USAspending:FA868920C2013",
+      "source": "USAspending",
+      "category": "procurement",
+      "type": "Award",
+      "title": "GENERAL ATOMICS AERONAUTICAL SYSTEMS, INC.: BELGIUM MQ-9B SKYGUARDIAN",
+      "url": "https://www.usaspending.gov/award/CONT_AWD_FA868920C2013_9700_-NONE-_-NONE-",
+      "agency": "Department of Defense",
+      "identifier": "FA868920C2013",
+      "date": "2020-08-14",
+      "deadline": null,
+      "summary": "BELGIUM MQ-9B SKYGUARDIAN",
+      "score": 30,
+      "domains": [],
+      "matched_terms": [],
+      "watchlist": null,
+      "extra": {
+        "amount": 229638616.36,
+        "award_type": "DEFINITIVE CONTRACT"
+      },
+      "first_seen": "2026-10-21T03:41:12.185126+00:00",
+      "is_new": true
     },
     {
       "id": "USAspending:N0001919C0008",
@@ -5149,9 +5141,9 @@
       "legislative": 4
     },
     "by_domain": {
-      "air": 144,
+      "air": 143,
       "supply-chain": 70,
-      "defense": 16,
+      "defense": 15,
       "ground": 10,
       "spectrum": 7
     },
@@ -5348,7 +5340,7 @@
   "deadlines": [
     {
       "deadline": "2026-10-27",
-      "days": 7,
+      "days": 6,
       "title": "60-Day Notice of Proposed Information Collection: Information Collection Request (ICR) for the Drone Infrastructure Inspection Grant (DIIG) Program",
       "identifier": "Docket No. DOT-OST-2026-3367",
       "category": "regulatory",
@@ -5357,7 +5349,7 @@
     },
     {
       "deadline": "2026-11-02",
-      "days": 13,
+      "days": 12,
       "title": "Agency Information Collection Activities; Proposed eCollection eComments Requested; Revision of a Previously Approved Collection; Title-SAFER SKIES State, Local, Tribal, and Territorial Counter-UAS Information Collection",
       "identifier": "OMB Number 1110-0090",
       "category": "regulatory",
