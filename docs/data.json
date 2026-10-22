@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-21T21:20:53.553786+00:00",
-  "generated_human": "2026-10-21 21:20 UTC",
+  "generated_at": "2026-10-22T03:38:47.152385+00:00",
+  "generated_human": "2026-10-22 03:38 UTC",
   "demo": false,
   "items": [
     {
@@ -72,7 +72,7 @@
         "proceeding": "26-74"
       },
       "first_seen": "2026-10-21T21:20:53.553786+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:26110082727",
@@ -1700,7 +1700,7 @@
         "docket_total_comments": 1669
       },
       "first_seen": "2026-10-21T21:20:53.553786+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "Federal Register:2026-15659",
@@ -2439,36 +2439,6 @@
       "is_new": false
     },
     {
-      "id": "USAspending:70Z02325F71100013",
-      "source": "USAspending",
-      "category": "procurement",
-      "type": "Award",
-      "title": "ARETE CONSULTING LLC: SUBJECT MATTER EXPERTISE SERVICES TO ESTABLISH NEW ROBOTICS AND AUTONOMOUS SYSTEMS DOMAIN FOR \"DRONE\" AND COUNTER-UNMANN",
-      "url": "https://www.usaspending.gov/award/CONT_AWD_70Z02325F71100013_7008_47QRCA25DA145_4732",
-      "agency": "Department of Homeland Security",
-      "identifier": "70Z02325F71100013",
-      "date": "2025-09-22",
-      "deadline": null,
-      "summary": "SUBJECT MATTER EXPERTISE SERVICES TO ESTABLISH NEW ROBOTICS AND AUTONOMOUS SYSTEMS DOMAIN FOR \"DRONE\" AND COUNTER-UNMANNED AUTONOMOUS SYSTEMS.",
-      "score": 46,
-      "domains": [
-        "air",
-        "defense"
-      ],
-      "matched_terms": [
-        "drone",
-        "counter-unmanned",
-        "autonomous systems"
-      ],
-      "watchlist": null,
-      "extra": {
-        "amount": 4432225.82,
-        "award_type": "DELIVERY ORDER"
-      },
-      "first_seen": "2026-10-15T03:34:56.068510+00:00",
-      "is_new": false
-    },
-    {
       "id": "USAspending:70T05026F6116N004",
       "source": "USAspending",
       "category": "procurement",
@@ -2944,29 +2914,6 @@
       "is_new": false
     },
     {
-      "id": "USAspending:N0001926F1093",
-      "source": "USAspending",
-      "category": "procurement",
-      "type": "Award",
-      "title": "NORTHROP GRUMMAN SYSTEMS CORPORATION: MB2 AND B7 RETROFIT MATERIAL KITS AND INSTALLATIONS.",
-      "url": "https://www.usaspending.gov/award/CONT_AWD_N0001926F1093_9700_N0001925G0003_9700",
-      "agency": "Department of Defense",
-      "identifier": "N0001926F1093",
-      "date": "2026-06-23",
-      "deadline": null,
-      "summary": "MB2 AND B7 RETROFIT MATERIAL KITS AND INSTALLATIONS.",
-      "score": 30,
-      "domains": [],
-      "matched_terms": [],
-      "watchlist": null,
-      "extra": {
-        "amount": 23399824.0,
-        "award_type": "DELIVERY ORDER"
-      },
-      "first_seen": "2026-09-23T03:43:59.432845+00:00",
-      "is_new": false
-    },
-    {
       "id": "USAspending:W58RGZ26F0334",
       "source": "USAspending",
       "category": "procurement",
@@ -3274,6 +3221,29 @@
       "is_new": false
     },
     {
+      "id": "USAspending:FA868925FB010",
+      "source": "USAspending",
+      "category": "procurement",
+      "type": "Award",
+      "title": "GENERAL ATOMICS AERONAUTICAL SYSTEMS, INC.: IRIS DELIVERY ORDER (DO) 1 FOR INDIA MQ-9B FMS",
+      "url": "https://www.usaspending.gov/award/CONT_AWD_FA868925FB010_9700_FA868925DB001_9700",
+      "agency": "Department of Defense",
+      "identifier": "FA868925FB010",
+      "date": "2025-09-09",
+      "deadline": null,
+      "summary": "IRIS DELIVERY ORDER (DO) 1 FOR INDIA MQ-9B FMS",
+      "score": 30,
+      "domains": [],
+      "matched_terms": [],
+      "watchlist": null,
+      "extra": {
+        "amount": 467543429.98,
+        "award_type": "DELIVERY ORDER"
+      },
+      "first_seen": "2026-10-22T03:38:47.152385+00:00",
+      "is_new": true
+    },
+    {
       "id": "USAspending:N0016425FJ608",
       "source": "USAspending",
       "category": "procurement",
@@ -3299,6 +3269,29 @@
       },
       "first_seen": "2026-09-30T12:03:15.744794+00:00",
       "is_new": false
+    },
+    {
+      "id": "USAspending:W900KK25FA096",
+      "source": "USAspending",
+      "category": "procurement",
+      "type": "Award",
+      "title": "KRATOS UNMANNED AERIAL SYSTEMS, INC: TO PROVIDE ACCREDITED, THREAT REPRESENTATIVE UNMANNED AERIAL TARGET SYSTEMS FOR USE IN SENSOR PRESENTATIONS OR LIVE FIRE",
+      "url": "https://www.usaspending.gov/award/CONT_AWD_W900KK25FA096_9700_W900KK23D0015_9700",
+      "agency": "Department of Defense",
+      "identifier": "W900KK25FA096",
+      "date": "2025-07-01",
+      "deadline": null,
+      "summary": "TO PROVIDE ACCREDITED, THREAT REPRESENTATIVE UNMANNED AERIAL TARGET SYSTEMS FOR USE IN SENSOR PRESENTATIONS OR LIVE FIRE TRACKING AND ENGAGEMENT FOR WEAPON SYSTEMS TESTING.",
+      "score": 30,
+      "domains": [],
+      "matched_terms": [],
+      "watchlist": null,
+      "extra": {
+        "amount": 6252872.44,
+        "award_type": "DELIVERY ORDER"
+      },
+      "first_seen": "2026-10-22T03:38:47.152385+00:00",
+      "is_new": true
     },
     {
       "id": "USAspending:N0016425CJR94",
@@ -3436,7 +3429,7 @@
       "matched_terms": [],
       "watchlist": null,
       "extra": {
-        "amount": 771562679.0,
+        "amount": 792477741.0,
         "award_type": "DEFINITIVE CONTRACT"
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
@@ -4110,7 +4103,7 @@
       "watchlist": null,
       "extra": {},
       "first_seen": "2026-10-21T21:20:53.553786+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "Regulations.gov:FAA-2026-13865-0001",
@@ -4134,7 +4127,7 @@
       "watchlist": null,
       "extra": {},
       "first_seen": "2026-10-21T21:20:53.553786+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "Regulations.gov:FAA-2024-0879-0004",
@@ -5104,7 +5097,7 @@
     {
       "name": "Congress.gov",
       "status": "ok",
-      "detail": "4 kept",
+      "detail": "4 kept; 1 query error(s)",
       "count": 4
     },
     {
@@ -5128,7 +5121,7 @@
   ],
   "stats": {
     "total": 185,
-    "new": 4,
+    "new": 2,
     "by_category": {
       "regulatory": 111,
       "procurement": 60,
@@ -5136,9 +5129,9 @@
       "legislative": 4
     },
     "by_domain": {
-      "air": 143,
+      "air": 142,
       "supply-chain": 69,
-      "defense": 15,
+      "defense": 14,
       "ground": 10,
       "spectrum": 6
     },
@@ -5335,7 +5328,7 @@
   "deadlines": [
     {
       "deadline": "2026-10-27",
-      "days": 6,
+      "days": 5,
       "title": "60-Day Notice of Proposed Information Collection: Information Collection Request (ICR) for the Drone Infrastructure Inspection Grant (DIIG) Program",
       "identifier": "Docket No. DOT-OST-2026-3367",
       "category": "regulatory",
@@ -5344,7 +5337,7 @@
     },
     {
       "deadline": "2026-11-02",
-      "days": 12,
+      "days": 11,
       "title": "Agency Information Collection Activities; Proposed eCollection eComments Requested; Revision of a Previously Approved Collection; Title-SAFER SKIES State, Local, Tribal, and Territorial Counter-UAS Information Collection",
       "identifier": "OMB Number 1110-0090",
       "category": "regulatory",
