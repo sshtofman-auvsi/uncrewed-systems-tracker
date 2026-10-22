@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-22T03:38:47.152385+00:00",
-  "generated_human": "2026-10-22 03:38 UTC",
+  "generated_at": "2026-10-22T11:18:28.968209+00:00",
+  "generated_human": "2026-10-22 11:18 UTC",
   "demo": false,
   "items": [
     {
@@ -3241,7 +3241,7 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-10-22T03:38:47.152385+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:N0016425FJ608",
@@ -3291,7 +3291,7 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-10-22T03:38:47.152385+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:N0016425CJR94",
@@ -5097,7 +5097,7 @@
     {
       "name": "Congress.gov",
       "status": "ok",
-      "detail": "4 kept; 1 query error(s)",
+      "detail": "4 kept",
       "count": 4
     },
     {
@@ -5121,7 +5121,7 @@
   ],
   "stats": {
     "total": 185,
-    "new": 2,
+    "new": 0,
     "by_category": {
       "regulatory": 111,
       "procurement": 60,
