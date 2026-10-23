@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-23T11:09:29.676407+00:00",
-  "generated_human": "2026-10-23 11:09 UTC",
+  "generated_at": "2026-10-23T16:37:13.171759+00:00",
+  "generated_human": "2026-10-23 16:37 UTC",
   "demo": false,
   "items": [
     {
@@ -44,6 +44,35 @@
       },
       "first_seen": "2026-07-03T10:17:16.264437+00:00",
       "is_new": false
+    },
+    {
+      "id": "FCC ECFS:26110083570",
+      "source": "FCC ECFS",
+      "category": "regulatory",
+      "type": "Comment",
+      "title": "Theodora Scarato: COMMENT (FCC 26-74)",
+      "url": "https://www.fcc.gov/ecfs/document/26110083570/1",
+      "agency": "FCC",
+      "identifier": "FCC 26-74",
+      "date": "2026-10-23",
+      "deadline": null,
+      "summary": "",
+      "score": 80,
+      "domains": [
+        "air",
+        "spectrum",
+        "supply-chain"
+      ],
+      "matched_terms": [],
+      "watchlist": {
+        "key": "gn-26-74",
+        "label": "GN 26-74 (Unleashing American Drone Dominance)"
+      },
+      "extra": {
+        "proceeding": "26-74"
+      },
+      "first_seen": "2026-10-23T16:37:13.171759+00:00",
+      "is_new": true
     },
     {
       "id": "FCC ECFS:26110083192",
@@ -4069,6 +4098,30 @@
       "is_new": false
     },
     {
+      "id": "Regulations.gov:FAA-2023-2264-0008",
+      "source": "Regulations.gov",
+      "category": "regulatory",
+      "type": "Document",
+      "title": "Harvest Wise Drone Solutions, LLC - Petition for Renewal",
+      "url": "https://www.regulations.gov/document/FAA-2023-2264-0008",
+      "agency": "FAA",
+      "identifier": "FAA-2023-2264",
+      "date": "2026-10-23",
+      "deadline": null,
+      "summary": "Harvest Wise Drone Solutions, LLC - Petition for Renewal",
+      "score": 20,
+      "domains": [
+        "air"
+      ],
+      "matched_terms": [
+        "drone"
+      ],
+      "watchlist": null,
+      "extra": {},
+      "first_seen": "2026-10-23T16:37:13.171759+00:00",
+      "is_new": true
+    },
+    {
       "id": "Regulations.gov:FAA-2026-13960-0001",
       "source": "Regulations.gov",
       "category": "regulatory",
@@ -4722,30 +4775,6 @@
       "is_new": false
     },
     {
-      "id": "Regulations.gov:FAA-2024-1961-0004",
-      "source": "Regulations.gov",
-      "category": "regulatory",
-      "type": "Document",
-      "title": "Ohio Drone Aerial Application LLC - Request for Extension",
-      "url": "https://www.regulations.gov/document/FAA-2024-1961-0004",
-      "agency": "FAA",
-      "identifier": "FAA-2024-1961",
-      "date": "2026-09-24",
-      "deadline": null,
-      "summary": "Ohio Drone Aerial Application LLC - Request for Extension",
-      "score": 20,
-      "domains": [
-        "air"
-      ],
-      "matched_terms": [
-        "drone"
-      ],
-      "watchlist": null,
-      "extra": {},
-      "first_seen": "2026-09-24T16:40:00.791852+00:00",
-      "is_new": false
-    },
-    {
       "id": "Federal Register:2026-18996",
       "source": "Federal Register",
       "category": "regulatory",
@@ -5053,30 +5082,6 @@
       },
       "first_seen": "2026-06-30T11:30:42.242282+00:00",
       "is_new": false
-    },
-    {
-      "id": "Regulations.gov:FAA-2026-12641-0001",
-      "source": "Regulations.gov",
-      "category": "regulatory",
-      "type": "Document",
-      "title": "Strata UAV LLC - Petition",
-      "url": "https://www.regulations.gov/document/FAA-2026-12641-0001",
-      "agency": "FAA",
-      "identifier": "FAA-2026-12641",
-      "date": "2026-10-01",
-      "deadline": null,
-      "summary": "Strata UAV LLC - Petition",
-      "score": 18,
-      "domains": [
-        "air"
-      ],
-      "matched_terms": [
-        "uav"
-      ],
-      "watchlist": null,
-      "extra": {},
-      "first_seen": "2026-10-01T12:38:20.031203+00:00",
-      "is_new": false
     }
   ],
   "sources": [
@@ -5089,8 +5094,8 @@
     {
       "name": "Regulations.gov",
       "status": "ok",
-      "detail": "49 kept",
-      "count": 49
+      "detail": "48 kept",
+      "count": 48
     },
     {
       "name": "FCC ECFS",
@@ -5125,7 +5130,7 @@
   ],
   "stats": {
     "total": 186,
-    "new": 0,
+    "new": 2,
     "by_category": {
       "regulatory": 112,
       "procurement": 60,
@@ -5134,15 +5139,15 @@
     },
     "by_domain": {
       "air": 140,
-      "supply-chain": 70,
+      "supply-chain": 71,
       "defense": 13,
       "ground": 10,
-      "spectrum": 7
+      "spectrum": 8
     },
     "by_source": {
       "USAspending": 60,
-      "FCC ECFS": 52,
-      "Regulations.gov": 37,
+      "FCC ECFS": 53,
+      "Regulations.gov": 36,
       "Federal Register": 23,
       "CourtListener": 10,
       "Congress.gov": 4
@@ -5175,6 +5180,20 @@
       "latest": "2026-10-15"
     },
     {
+      "key": "gn-26-74",
+      "label": "GN 26-74 (Unleashing American Drone Dominance)",
+      "category": "regulatory",
+      "agency": "FCC",
+      "domain": [
+        "air",
+        "spectrum",
+        "supply-chain"
+      ],
+      "deadline": null,
+      "count": 7,
+      "latest": "2026-10-23"
+    },
+    {
       "key": "dji-ca9",
       "label": "DJI petition (9th Circuit, 26-1029)",
       "category": "litigation",
@@ -5186,20 +5205,6 @@
       "deadline": null,
       "count": 7,
       "latest": "2026-03-11"
-    },
-    {
-      "key": "gn-26-74",
-      "label": "GN 26-74 (Unleashing American Drone Dominance)",
-      "category": "regulatory",
-      "agency": "FCC",
-      "domain": [
-        "air",
-        "spectrum",
-        "supply-chain"
-      ],
-      "deadline": null,
-      "count": 6,
-      "latest": "2026-10-22"
     },
     {
       "key": "dji-cadc-1260h",
