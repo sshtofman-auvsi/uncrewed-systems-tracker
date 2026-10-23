@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-23T03:43:37.649109+00:00",
-  "generated_human": "2026-10-23 03:43 UTC",
+  "generated_at": "2026-10-23T11:09:29.676407+00:00",
+  "generated_human": "2026-10-23 11:09 UTC",
   "demo": false,
   "items": [
     {
@@ -1729,7 +1729,7 @@
         "docket_total_comments": 1669
       },
       "first_seen": "2026-10-23T03:43:37.649109+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "Federal Register:2026-15659",
@@ -2876,7 +2876,7 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-10-23T03:43:37.649109+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:W58RGZ26F0334",
@@ -3187,7 +3187,7 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-10-23T03:43:37.649109+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:N0001925F0323",
@@ -3210,7 +3210,7 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-10-23T03:43:37.649109+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:N0016425FJ608",
@@ -3448,7 +3448,7 @@
         "award_type": "DEFINITIVE CONTRACT"
       },
       "first_seen": "2026-10-23T03:43:37.649109+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:W58RGZ24C0021",
@@ -3494,7 +3494,7 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-10-23T03:43:37.649109+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:693KA823F00244",
@@ -3828,7 +3828,7 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-10-23T03:43:37.649109+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:FA862018F2366",
@@ -5125,7 +5125,7 @@
   ],
   "stats": {
     "total": 186,
-    "new": 7,
+    "new": 0,
     "by_category": {
       "regulatory": 112,
       "procurement": 60,
