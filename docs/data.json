@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-23T16:37:13.171759+00:00",
-  "generated_human": "2026-10-23 16:37 UTC",
+  "generated_at": "2026-10-23T21:06:12.219859+00:00",
+  "generated_human": "2026-10-23 21:06 UTC",
   "demo": false,
   "items": [
     {
@@ -72,15 +72,15 @@
         "proceeding": "26-74"
       },
       "first_seen": "2026-10-23T16:37:13.171759+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
-      "id": "FCC ECFS:26110083192",
+      "id": "FCC ECFS:26110083175",
       "source": "FCC ECFS",
       "category": "regulatory",
       "type": "Comment",
       "title": "Kevin Mottus, Outreach Director CA Brain Tumor Assn.: COMMENT (FCC 26-74)",
-      "url": "https://www.fcc.gov/ecfs/document/26110083192/1",
+      "url": "https://www.fcc.gov/ecfs/document/26110083175/1",
       "agency": "FCC",
       "identifier": "FCC 26-74",
       "date": "2026-10-22",
@@ -100,16 +100,16 @@
       "extra": {
         "proceeding": "26-74"
       },
-      "first_seen": "2026-10-22T16:46:10.136800+00:00",
-      "is_new": false
+      "first_seen": "2026-10-23T21:06:12.219859+00:00",
+      "is_new": true
     },
     {
-      "id": "FCC ECFS:26110083217",
+      "id": "FCC ECFS:26110083221",
       "source": "FCC ECFS",
       "category": "regulatory",
       "type": "Comment",
       "title": "Kevin Mottus, Outreach Director at CA Brain Tumor Assn.: COMMENT (FCC 26-74)",
-      "url": "https://www.fcc.gov/ecfs/document/26110083217/1",
+      "url": "https://www.fcc.gov/ecfs/document/26110083221/1",
       "agency": "FCC",
       "identifier": "FCC 26-74",
       "date": "2026-10-22",
@@ -129,16 +129,16 @@
       "extra": {
         "proceeding": "26-74"
       },
-      "first_seen": "2026-10-22T16:46:10.136800+00:00",
-      "is_new": false
+      "first_seen": "2026-10-23T21:06:12.219859+00:00",
+      "is_new": true
     },
     {
-      "id": "FCC ECFS:26110083243",
+      "id": "FCC ECFS:26110083247",
       "source": "FCC ECFS",
       "category": "regulatory",
       "type": "Comment",
       "title": "Kevin Mottus, Outreach Director at California Brain Tumor Association: COMMENT (FCC 26-74)",
-      "url": "https://www.fcc.gov/ecfs/document/26110083243/1",
+      "url": "https://www.fcc.gov/ecfs/document/26110083247/1",
       "agency": "FCC",
       "identifier": "FCC 26-74",
       "date": "2026-10-22",
@@ -158,8 +158,8 @@
       "extra": {
         "proceeding": "26-74"
       },
-      "first_seen": "2026-10-22T16:46:10.136800+00:00",
-      "is_new": false
+      "first_seen": "2026-10-23T21:06:12.219859+00:00",
+      "is_new": true
     },
     {
       "id": "FCC ECFS:26110081760",
@@ -4119,7 +4119,7 @@
       "watchlist": null,
       "extra": {},
       "first_seen": "2026-10-23T16:37:13.171759+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "Regulations.gov:FAA-2026-13960-0001",
@@ -5130,7 +5130,7 @@
   ],
   "stats": {
     "total": 186,
-    "new": 2,
+    "new": 3,
     "by_category": {
       "regulatory": 112,
       "procurement": 60,
