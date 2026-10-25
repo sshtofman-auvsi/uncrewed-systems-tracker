@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-24T20:22:28.260758+00:00",
-  "generated_human": "2026-10-24 20:22 UTC",
+  "generated_at": "2026-10-25T03:35:15.072211+00:00",
+  "generated_human": "2026-10-25 03:35 UTC",
   "demo": false,
   "items": [
     {
@@ -1731,17 +1731,17 @@
       "is_new": false
     },
     {
-      "id": "Regulations.gov:FAA-2026-4558-1629",
+      "id": "Regulations.gov:FAA-2026-4558-1630",
       "source": "Regulations.gov",
       "category": "regulatory",
       "type": "Comment",
-      "title": "Comment on Designation – Restrict the Operation of Unmanned Aircraft in Close Proximity  to a Fixed Site Facility: Comment from Karin L",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1629",
+      "title": "Comment on Designation – Restrict the Operation of Unmanned Aircraft in Close Proximity  to a Fixed Site Facility: Comment from American Chemistry Council",
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1630",
       "agency": "FAA",
       "identifier": "FAA-2026-4558",
       "date": "2026-08-06",
       "deadline": null,
-      "summary": "Comment from Karin L",
+      "summary": "Comment from American Chemistry Council",
       "score": 80,
       "domains": [
         "air"
@@ -1757,7 +1757,7 @@
       "extra": {
         "docket_total_comments": 1669
       },
-      "first_seen": "2026-10-24T20:22:28.260758+00:00",
+      "first_seen": "2026-10-25T03:35:15.072211+00:00",
       "is_new": true
     },
     {
@@ -2754,6 +2754,35 @@
       "is_new": false
     },
     {
+      "id": "USAspending:W56KGU25C0009",
+      "source": "USAspending",
+      "category": "procurement",
+      "type": "Award",
+      "title": "VIRGINIA POLYTECHNIC INSTITUTE & STATE UNIVERSITY: BROAD AGENCY ANNOUNCEMENT FOR VIRGINIA TECH WITHIN AN EXISTING COUNTER UAS (CUAS) SOFTWARE",
+      "url": "https://www.usaspending.gov/award/CONT_AWD_W56KGU25C0009_9700_-NONE-_-NONE-",
+      "agency": "Department of Defense",
+      "identifier": "W56KGU25C0009",
+      "date": "2025-03-18",
+      "deadline": null,
+      "summary": "BROAD AGENCY ANNOUNCEMENT FOR VIRGINIA TECH WITHIN AN EXISTING COUNTER UAS (CUAS) SOFTWARE",
+      "score": 34,
+      "domains": [
+        "air",
+        "defense"
+      ],
+      "matched_terms": [
+        "uas",
+        "counter uas"
+      ],
+      "watchlist": null,
+      "extra": {
+        "amount": 4666000.0,
+        "award_type": "DEFINITIVE CONTRACT"
+      },
+      "first_seen": "2026-10-25T03:35:15.072211+00:00",
+      "is_new": true
+    },
+    {
       "id": "USAspending:0003",
       "source": "USAspending",
       "category": "procurement",
@@ -3097,29 +3126,6 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-10-15T10:59:06.327334+00:00",
-      "is_new": false
-    },
-    {
-      "id": "USAspending:N0001925F2571",
-      "source": "USAspending",
-      "category": "procurement",
-      "type": "Award",
-      "title": "INSITU, INC.: THE PURPOSE OF THIS TASK ORDER IS TO PROCURE EQUIPMENT AND SERVICES FOR FMS CASE PB-P-LFI TO SUPPORT THE ESTABLISHMENT O",
-      "url": "https://www.usaspending.gov/award/CONT_AWD_N0001925F2571_9700_N0001922D0038_9700",
-      "agency": "Department of Defense",
-      "identifier": "N0001925F2571",
-      "date": "2026-01-01",
-      "deadline": null,
-      "summary": "THE PURPOSE OF THIS TASK ORDER IS TO PROCURE EQUIPMENT AND SERVICES FOR FMS CASE PB-P-LFI TO SUPPORT THE ESTABLISHMENT OF A SECOND LAND SITE.",
-      "score": 30,
-      "domains": [],
-      "matched_terms": [],
-      "watchlist": null,
-      "extra": {
-        "amount": 5793516.07,
-        "award_type": "DELIVERY ORDER"
-      },
-      "first_seen": "2026-09-26T03:56:32.861219+00:00",
       "is_new": false
     },
     {
@@ -3526,6 +3532,33 @@
       "is_new": false
     },
     {
+      "id": "USAspending:FA462523C0025",
+      "source": "USAspending",
+      "category": "procurement",
+      "type": "Award",
+      "title": "ASYLON INC: SMALL BUSINESS INNOVATION AND RESEARCH ADVANCING DRONE TECHNOLOGY FOR STRATFI SBIR PHASE II",
+      "url": "https://www.usaspending.gov/award/CONT_AWD_FA462523C0025_9700_-NONE-_-NONE-",
+      "agency": "Department of Defense",
+      "identifier": "FA462523C0025",
+      "date": "2023-09-01",
+      "deadline": null,
+      "summary": "SMALL BUSINESS INNOVATION AND RESEARCH ADVANCING DRONE TECHNOLOGY FOR STRATFI SBIR PHASE II",
+      "score": 30,
+      "domains": [
+        "air"
+      ],
+      "matched_terms": [
+        "drone"
+      ],
+      "watchlist": null,
+      "extra": {
+        "amount": 4599818.86,
+        "award_type": "DEFINITIVE CONTRACT"
+      },
+      "first_seen": "2026-10-25T03:35:15.072211+00:00",
+      "is_new": true
+    },
+    {
       "id": "USAspending:693KA823F00244",
       "source": "USAspending",
       "category": "procurement",
@@ -3596,29 +3629,6 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-10-08T04:57:17.010885+00:00",
-      "is_new": false
-    },
-    {
-      "id": "USAspending:N0001923F2501",
-      "source": "USAspending",
-      "category": "procurement",
-      "type": "Award",
-      "title": "NORTHROP GRUMMAN SYSTEMS CORPORATION: SAA SRR PHASE 0C",
-      "url": "https://www.usaspending.gov/award/CONT_AWD_N0001923F2501_9700_N0001920G0005_9700",
-      "agency": "Department of Defense",
-      "identifier": "N0001923F2501",
-      "date": "2023-05-02",
-      "deadline": null,
-      "summary": "SAA SRR PHASE 0C",
-      "score": 30,
-      "domains": [],
-      "matched_terms": [],
-      "watchlist": null,
-      "extra": {
-        "amount": 30422301.37,
-        "award_type": "DELIVERY ORDER"
-      },
-      "first_seen": "2026-09-26T03:56:32.861219+00:00",
       "is_new": false
     },
     {
@@ -4066,35 +4076,6 @@
         ]
       },
       "first_seen": "2026-07-31T08:51:48.417697+00:00",
-      "is_new": false
-    },
-    {
-      "id": "Federal Register:2026-12980",
-      "source": "Federal Register",
-      "category": "regulatory",
-      "type": "NPRM",
-      "title": "ADS-Equipped Vehicle Safety, Transparency, and Evaluation Program; Withdrawal",
-      "url": "https://www.federalregister.gov/documents/2026/06/26/2026-12980/ads-equipped-vehicle-safety-transparency-and-evaluation-program-withdrawal",
-      "agency": "Transportation Department, National Highway Traffic Safety Administration",
-      "identifier": "Docket No. NHTSA-2024-0100",
-      "date": "2026-06-26",
-      "deadline": null,
-      "summary": "This action withdraws the notice of proposed rulemaking (NPRM) published in the Federal Register on January 15, 2025, which proposed to establish the Automated Driving System-Equipped Vehicle Safety, Transparency, and Evaluation Program (AV STEP). The proposal would have created a voluntary program for vehicle manufacturers, developers of Automated Driving Systems (ADS), and fleet operators or system integrators of such vehicles. Based on its reevaluation of the proposal, consideration of the comments received, and subsequent progress on other ADS initiatives, NHTSA is withdrawing the rulemaki",
-      "score": 21,
-      "domains": [
-        "ground"
-      ],
-      "matched_terms": [
-        "automated driving system"
-      ],
-      "watchlist": null,
-      "extra": {
-        "comment_url": null,
-        "dockets": [
-          "Docket No. NHTSA-2024-0100"
-        ]
-      },
-      "first_seen": "2026-06-26T11:19:55.120727+00:00",
       "is_new": false
     },
     {
@@ -5088,8 +5069,8 @@
     {
       "name": "Federal Register",
       "status": "ok",
-      "detail": "24 kept",
-      "count": 24
+      "detail": "23 kept",
+      "count": 23
     },
     {
       "name": "Regulations.gov",
@@ -5129,26 +5110,26 @@
     }
   ],
   "stats": {
-    "total": 186,
-    "new": 1,
+    "total": 185,
+    "new": 3,
     "by_category": {
-      "regulatory": 112,
+      "regulatory": 111,
       "procurement": 60,
       "litigation": 10,
       "legislative": 4
     },
     "by_domain": {
-      "air": 140,
+      "air": 142,
       "supply-chain": 71,
-      "defense": 13,
-      "ground": 10,
+      "defense": 14,
+      "ground": 9,
       "spectrum": 8
     },
     "by_source": {
       "USAspending": 60,
       "FCC ECFS": 53,
       "Regulations.gov": 36,
-      "Federal Register": 23,
+      "Federal Register": 22,
       "CourtListener": 10,
       "Congress.gov": 4
     }
@@ -5337,7 +5318,7 @@
   "deadlines": [
     {
       "deadline": "2026-10-27",
-      "days": 3,
+      "days": 2,
       "title": "60-Day Notice of Proposed Information Collection: Information Collection Request (ICR) for the Drone Infrastructure Inspection Grant (DIIG) Program",
       "identifier": "Docket No. DOT-OST-2026-3367",
       "category": "regulatory",
@@ -5346,7 +5327,7 @@
     },
     {
       "deadline": "2026-11-02",
-      "days": 9,
+      "days": 8,
       "title": "Agency Information Collection Activities; Proposed eCollection eComments Requested; Revision of a Previously Approved Collection; Title-SAFER SKIES State, Local, Tribal, and Territorial Counter-UAS Information Collection",
       "identifier": "OMB Number 1110-0090",
       "category": "regulatory",
