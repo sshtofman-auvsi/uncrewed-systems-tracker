@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-27T11:44:13.488978+00:00",
-  "generated_human": "2026-10-27 11:44 UTC",
+  "generated_at": "2026-10-27T17:37:01.443817+00:00",
+  "generated_human": "2026-10-27 17:37 UTC",
   "demo": false,
   "items": [
     {
@@ -44,6 +44,35 @@
       },
       "first_seen": "2026-07-03T10:17:16.264437+00:00",
       "is_new": false
+    },
+    {
+      "id": "FCC ECFS:26110083740",
+      "source": "FCC ECFS",
+      "category": "regulatory",
+      "type": "Notice",
+      "title": "Swarm Defense Technologies: NOTICE OF EXPARTE (FCC 26-74)",
+      "url": "https://www.fcc.gov/ecfs/document/26110083740/1",
+      "agency": "FCC",
+      "identifier": "FCC 26-74",
+      "date": "2026-10-27",
+      "deadline": null,
+      "summary": "",
+      "score": 80,
+      "domains": [
+        "air",
+        "spectrum",
+        "supply-chain"
+      ],
+      "matched_terms": [],
+      "watchlist": {
+        "key": "gn-26-74",
+        "label": "GN 26-74 (Unleashing American Drone Dominance)"
+      },
+      "extra": {
+        "proceeding": "26-74"
+      },
+      "first_seen": "2026-10-27T17:37:01.443817+00:00",
+      "is_new": true
     },
     {
       "id": "FCC ECFS:26110083691",
@@ -1760,17 +1789,17 @@
       "is_new": false
     },
     {
-      "id": "Regulations.gov:FAA-2026-4558-1629",
+      "id": "Regulations.gov:FAA-2026-4558-1630",
       "source": "Regulations.gov",
       "category": "regulatory",
       "type": "Comment",
-      "title": "Comment on Designation – Restrict the Operation of Unmanned Aircraft in Close Proximity  to a Fixed Site Facility: Comment from Karin L",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1629",
+      "title": "Comment on Designation – Restrict the Operation of Unmanned Aircraft in Close Proximity  to a Fixed Site Facility: Comment from American Chemistry Council",
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1630",
       "agency": "FAA",
       "identifier": "FAA-2026-4558",
       "date": "2026-08-06",
       "deadline": null,
-      "summary": "Comment from Karin L",
+      "summary": "Comment from American Chemistry Council",
       "score": 80,
       "domains": [
         "air"
@@ -1786,7 +1815,7 @@
       "extra": {
         "docket_total_comments": 1669
       },
-      "first_seen": "2026-10-27T11:44:13.488978+00:00",
+      "first_seen": "2026-10-27T17:37:01.443817+00:00",
       "is_new": true
     },
     {
@@ -2133,6 +2162,86 @@
       "extra": {},
       "first_seen": "2026-09-01T04:00:06.000510+00:00",
       "is_new": false
+    },
+    {
+      "id": "CourtListener:72380208",
+      "source": "CourtListener",
+      "category": "litigation",
+      "type": "Court Docket",
+      "title": "Anthropic PBC v. United States Department of War",
+      "url": "https://www.courtlistener.com/docket/72380208/anthropic-pbc-v-united-states-department-of-war/",
+      "agency": "COURT OF APPEALS FOR THE D.C. CIRCUIT",
+      "identifier": "26-1049",
+      "date": "2026-03-09",
+      "deadline": null,
+      "summary": "Anthropic PBC v. United States Department of War",
+      "score": 70,
+      "domains": [
+        "supply-chain",
+        "air"
+      ],
+      "matched_terms": [],
+      "watchlist": {
+        "key": "dji-cadc-1260h",
+        "label": "DJI 1260H appeal (D.C. Circuit)"
+      },
+      "extra": {},
+      "first_seen": "2026-10-27T17:37:01.443817+00:00",
+      "is_new": true
+    },
+    {
+      "id": "CourtListener:71665018",
+      "source": "CourtListener",
+      "category": "litigation",
+      "type": "Court Docket",
+      "title": "SZ DJI Technology Co., Ltd. v. DOD",
+      "url": "https://www.courtlistener.com/docket/71665018/sz-dji-technology-co-ltd-v-dod/",
+      "agency": "COURT OF APPEALS FOR THE D.C. CIRCUIT",
+      "identifier": "25-5367",
+      "date": "2025-10-16",
+      "deadline": null,
+      "summary": "2899 Other Statutes APA/Review Agency",
+      "score": 70,
+      "domains": [
+        "supply-chain",
+        "air"
+      ],
+      "matched_terms": [
+        "dji"
+      ],
+      "watchlist": {
+        "key": "dji-cadc-1260h",
+        "label": "DJI 1260H appeal (D.C. Circuit)"
+      },
+      "extra": {},
+      "first_seen": "2026-10-27T17:37:01.443817+00:00",
+      "is_new": true
+    },
+    {
+      "id": "CourtListener:70808134",
+      "source": "CourtListener",
+      "category": "litigation",
+      "type": "Court Docket",
+      "title": "Hesai Technology Co., Ltd v. DOD",
+      "url": "https://www.courtlistener.com/docket/70808134/hesai-technology-co-ltd-v-dod/",
+      "agency": "COURT OF APPEALS FOR THE D.C. CIRCUIT",
+      "identifier": "25-5256",
+      "date": "2025-07-16",
+      "deadline": null,
+      "summary": "2899 Other Statutes APA/Review Agency",
+      "score": 70,
+      "domains": [
+        "supply-chain",
+        "air"
+      ],
+      "matched_terms": [],
+      "watchlist": {
+        "key": "dji-cadc-1260h",
+        "label": "DJI 1260H appeal (D.C. Circuit)"
+      },
+      "extra": {},
+      "first_seen": "2026-10-27T17:37:01.443817+00:00",
+      "is_new": true
     },
     {
       "id": "CourtListener:69153875",
@@ -4976,8 +5085,8 @@
     {
       "name": "CourtListener",
       "status": "ok",
-      "detail": "7 kept; 1 query error(s)",
-      "count": 7
+      "detail": "10 kept",
+      "count": 10
     },
     {
       "name": "USAspending",
@@ -4987,27 +5096,27 @@
     }
   ],
   "stats": {
-    "total": 180,
-    "new": 1,
+    "total": 184,
+    "new": 5,
     "by_category": {
-      "regulatory": 109,
+      "regulatory": 110,
       "procurement": 60,
-      "litigation": 7,
+      "litigation": 10,
       "legislative": 4
     },
     "by_domain": {
-      "air": 137,
-      "supply-chain": 69,
+      "air": 141,
+      "supply-chain": 73,
       "defense": 14,
-      "spectrum": 9,
+      "spectrum": 10,
       "ground": 9
     },
     "by_source": {
       "USAspending": 60,
-      "FCC ECFS": 54,
+      "FCC ECFS": 55,
       "Regulations.gov": 33,
       "Federal Register": 22,
-      "CourtListener": 7,
+      "CourtListener": 10,
       "Congress.gov": 4
     }
   },
@@ -5048,8 +5157,8 @@
         "supply-chain"
       ],
       "deadline": null,
-      "count": 8,
-      "latest": "2026-10-26"
+      "count": 9,
+      "latest": "2026-10-27"
     },
     {
       "key": "dji-ca9",
@@ -5063,6 +5172,19 @@
       "deadline": null,
       "count": 7,
       "latest": "2026-03-11"
+    },
+    {
+      "key": "dji-cadc-1260h",
+      "label": "DJI 1260H appeal (D.C. Circuit)",
+      "category": "litigation",
+      "agency": "",
+      "domain": [
+        "supply-chain",
+        "air"
+      ],
+      "deadline": null,
+      "count": 3,
+      "latest": "2026-03-09"
     },
     {
       "key": "bvlos-part-108",
@@ -5173,19 +5295,6 @@
       "agency": "",
       "domain": [
         "defense"
-      ],
-      "deadline": null,
-      "count": 0,
-      "latest": ""
-    },
-    {
-      "key": "dji-cadc-1260h",
-      "label": "DJI 1260H appeal (D.C. Circuit)",
-      "category": "litigation",
-      "agency": "",
-      "domain": [
-        "supply-chain",
-        "air"
       ],
       "deadline": null,
       "count": 0,
