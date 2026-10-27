@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-26T22:22:50.630622+00:00",
-  "generated_human": "2026-10-26 22:22 UTC",
+  "generated_at": "2026-10-27T04:03:35.785334+00:00",
+  "generated_human": "2026-10-27 04:03 UTC",
   "demo": false,
   "items": [
     {
@@ -72,7 +72,7 @@
         "proceeding": "26-74"
       },
       "first_seen": "2026-10-26T22:22:50.630622+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:26110083570",
@@ -130,7 +130,7 @@
         "proceeding": "26-74"
       },
       "first_seen": "2026-10-26T22:22:50.630622+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:26110083217",
@@ -159,7 +159,7 @@
         "proceeding": "26-74"
       },
       "first_seen": "2026-10-26T22:22:50.630622+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:26110083243",
@@ -188,7 +188,7 @@
         "proceeding": "26-74"
       },
       "first_seen": "2026-10-26T22:22:50.630622+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:26110081760",
@@ -4105,7 +4105,7 @@
       "watchlist": null,
       "extra": {},
       "first_seen": "2026-10-26T22:22:50.630622+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "Regulations.gov:FAA-2026-14134-0001",
@@ -4129,7 +4129,7 @@
       "watchlist": null,
       "extra": {},
       "first_seen": "2026-10-26T22:22:50.630622+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "Regulations.gov:FAA-2024-2650-0004",
@@ -4153,7 +4153,7 @@
       "watchlist": null,
       "extra": {},
       "first_seen": "2026-10-26T22:22:50.630622+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "Regulations.gov:FAA-2023-2264-0008",
@@ -5068,7 +5068,7 @@
   ],
   "stats": {
     "total": 183,
-    "new": 7,
+    "new": 0,
     "by_category": {
       "regulatory": 109,
       "procurement": 60,
@@ -5275,7 +5275,7 @@
   "deadlines": [
     {
       "deadline": "2026-10-27",
-      "days": 1,
+      "days": 0,
       "title": "60-Day Notice of Proposed Information Collection: Information Collection Request (ICR) for the Drone Infrastructure Inspection Grant (DIIG) Program",
       "identifier": "Docket No. DOT-OST-2026-3367",
       "category": "regulatory",
@@ -5284,7 +5284,7 @@
     },
     {
       "deadline": "2026-11-02",
-      "days": 7,
+      "days": 6,
       "title": "Agency Information Collection Activities; Proposed eCollection eComments Requested; Revision of a Previously Approved Collection; Title-SAFER SKIES State, Local, Tribal, and Territorial Counter-UAS Information Collection",
       "identifier": "OMB Number 1110-0090",
       "category": "regulatory",
