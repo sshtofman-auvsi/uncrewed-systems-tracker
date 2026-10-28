@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-27T21:54:02.265746+00:00",
-  "generated_human": "2026-10-27 21:54 UTC",
+  "generated_at": "2026-10-28T04:28:26.112817+00:00",
+  "generated_human": "2026-10-28 04:28 UTC",
   "demo": false,
   "items": [
     {
@@ -1789,17 +1789,17 @@
       "is_new": false
     },
     {
-      "id": "Regulations.gov:FAA-2026-4558-1629",
+      "id": "Regulations.gov:FAA-2026-4558-1630",
       "source": "Regulations.gov",
       "category": "regulatory",
       "type": "Comment",
-      "title": "Comment on Designation – Restrict the Operation of Unmanned Aircraft in Close Proximity  to a Fixed Site Facility: Comment from Karin L",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1629",
+      "title": "Comment on Designation – Restrict the Operation of Unmanned Aircraft in Close Proximity  to a Fixed Site Facility: Comment from American Chemistry Council",
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1630",
       "agency": "FAA",
       "identifier": "FAA-2026-4558",
       "date": "2026-08-06",
       "deadline": null,
-      "summary": "Comment from Karin L",
+      "summary": "Comment from American Chemistry Council",
       "score": 80,
       "domains": [
         "air"
@@ -1815,7 +1815,7 @@
       "extra": {
         "docket_total_comments": 1669
       },
-      "first_seen": "2026-10-27T21:54:02.265746+00:00",
+      "first_seen": "2026-10-28T04:28:26.112817+00:00",
       "is_new": true
     },
     {
@@ -4849,7 +4849,7 @@
       ],
       "watchlist": null,
       "extra": {
-        "comment_url": "http://www.regulations.gov/commenton/DOT-OST-2026-3367-0001",
+        "comment_url": null,
         "dockets": [
           "Docket No. DOT-OST-2026-3367"
         ]
@@ -5073,7 +5073,7 @@
     {
       "name": "Congress.gov",
       "status": "ok",
-      "detail": "4 kept",
+      "detail": "4 kept; 1 query error(s)",
       "count": 4
     },
     {
@@ -5303,17 +5303,8 @@
   ],
   "deadlines": [
     {
-      "deadline": "2026-10-27",
-      "days": 0,
-      "title": "60-Day Notice of Proposed Information Collection: Information Collection Request (ICR) for the Drone Infrastructure Inspection Grant (DIIG) Program",
-      "identifier": "Docket No. DOT-OST-2026-3367",
-      "category": "regulatory",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/09/01/2026-17776/60-day-notice-of-proposed-information-collection-information-collection-request-icr-for-the-drone"
-    },
-    {
       "deadline": "2026-11-02",
-      "days": 6,
+      "days": 5,
       "title": "Agency Information Collection Activities; Proposed eCollection eComments Requested; Revision of a Previously Approved Collection; Title-SAFER SKIES State, Local, Tribal, and Territorial Counter-UAS Information Collection",
       "identifier": "OMB Number 1110-0090",
       "category": "regulatory",
