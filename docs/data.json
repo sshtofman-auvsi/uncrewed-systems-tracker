@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-28T04:28:26.112817+00:00",
-  "generated_human": "2026-10-28 04:28 UTC",
+  "generated_at": "2026-10-28T12:16:46.900965+00:00",
+  "generated_human": "2026-10-28 12:16 UTC",
   "demo": false,
   "items": [
     {
@@ -1816,7 +1816,7 @@
         "docket_total_comments": 1669
       },
       "first_seen": "2026-10-28T04:28:26.112817+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "Federal Register:2026-15659",
@@ -5073,7 +5073,7 @@
     {
       "name": "Congress.gov",
       "status": "ok",
-      "detail": "4 kept; 1 query error(s)",
+      "detail": "4 kept",
       "count": 4
     },
     {
@@ -5097,7 +5097,7 @@
   ],
   "stats": {
     "total": 184,
-    "new": 1,
+    "new": 0,
     "by_category": {
       "regulatory": 110,
       "procurement": 60,
