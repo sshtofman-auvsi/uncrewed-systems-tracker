@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-29T22:31:24.722757+00:00",
-  "generated_human": "2026-10-29 22:31 UTC",
+  "generated_at": "2026-10-30T04:45:01.690764+00:00",
+  "generated_human": "2026-10-30 04:45 UTC",
   "demo": false,
   "items": [
     {
@@ -72,7 +72,7 @@
         "proceeding": "26-74"
       },
       "first_seen": "2026-10-29T22:31:24.722757+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:26110083740",
@@ -1818,17 +1818,17 @@
       "is_new": false
     },
     {
-      "id": "Regulations.gov:FAA-2026-4558-1630",
+      "id": "Regulations.gov:FAA-2026-4558-1629",
       "source": "Regulations.gov",
       "category": "regulatory",
       "type": "Comment",
-      "title": "Comment on Designation – Restrict the Operation of Unmanned Aircraft in Close Proximity  to a Fixed Site Facility: Comment from American Chemistry Council",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1630",
+      "title": "Comment on Designation – Restrict the Operation of Unmanned Aircraft in Close Proximity  to a Fixed Site Facility: Comment from Karin L",
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1629",
       "agency": "FAA",
       "identifier": "FAA-2026-4558",
       "date": "2026-08-06",
       "deadline": null,
-      "summary": "Comment from American Chemistry Council",
+      "summary": "Comment from Karin L",
       "score": 80,
       "domains": [
         "air"
@@ -1844,7 +1844,7 @@
       "extra": {
         "docket_total_comments": 1669
       },
-      "first_seen": "2026-10-29T22:31:24.722757+00:00",
+      "first_seen": "2026-10-30T04:45:01.690764+00:00",
       "is_new": true
     },
     {
@@ -2429,35 +2429,6 @@
       "is_new": false
     },
     {
-      "id": "USAspending:W91CRB26FA251",
-      "source": "USAspending",
-      "category": "procurement",
-      "type": "Award",
-      "title": "NEROS, INC.: DELIVERY ORDER 1 FOR PURPOSE-BUILT ATTRITABLE SYSTEM (PBAS) TO INCLUDE SMALL UNMANNED AIRCRAFT SYSTEMS (SUAS) ARCHER WIT",
-      "url": "https://www.usaspending.gov/award/CONT_AWD_W91CRB26FA251_9700_W91CRB26DA011_9700",
-      "agency": "Department of Defense",
-      "identifier": "W91CRB26FA251",
-      "date": "2026-07-01",
-      "deadline": null,
-      "summary": "DELIVERY ORDER 1 FOR PURPOSE-BUILT ATTRITABLE SYSTEM (PBAS) TO INCLUDE SMALL UNMANNED AIRCRAFT SYSTEMS (SUAS) ARCHER WITH NEROS, INC.",
-      "score": 50,
-      "domains": [
-        "air"
-      ],
-      "matched_terms": [
-        "unmanned aircraft",
-        "suas",
-        "small unmanned"
-      ],
-      "watchlist": null,
-      "extra": {
-        "amount": 17452800.03,
-        "award_type": "DELIVERY ORDER"
-      },
-      "first_seen": "2026-10-01T04:36:48.139375+00:00",
-      "is_new": false
-    },
-    {
       "id": "Federal Register:2026-15417",
       "source": "Federal Register",
       "category": "regulatory",
@@ -2485,6 +2456,36 @@
       },
       "first_seen": "2026-07-30T08:28:48.549293+00:00",
       "is_new": false
+    },
+    {
+      "id": "USAspending:70Z02325F71100013",
+      "source": "USAspending",
+      "category": "procurement",
+      "type": "Award",
+      "title": "ARETE CONSULTING LLC: SUBJECT MATTER EXPERTISE SERVICES TO ESTABLISH NEW ROBOTICS AND AUTONOMOUS SYSTEMS DOMAIN FOR \"DRONE\" AND COUNTER-UNMANN",
+      "url": "https://www.usaspending.gov/award/CONT_AWD_70Z02325F71100013_7008_47QRCA25DA145_4732",
+      "agency": "Department of Homeland Security",
+      "identifier": "70Z02325F71100013",
+      "date": "2025-09-22",
+      "deadline": null,
+      "summary": "SUBJECT MATTER EXPERTISE SERVICES TO ESTABLISH NEW ROBOTICS AND AUTONOMOUS SYSTEMS DOMAIN FOR \"DRONE\" AND COUNTER-UNMANNED AUTONOMOUS SYSTEMS.",
+      "score": 46,
+      "domains": [
+        "air",
+        "defense"
+      ],
+      "matched_terms": [
+        "drone",
+        "counter-unmanned",
+        "autonomous systems"
+      ],
+      "watchlist": null,
+      "extra": {
+        "amount": 4432225.82,
+        "award_type": "DELIVERY ORDER"
+      },
+      "first_seen": "2026-10-30T04:45:01.690764+00:00",
+      "is_new": true
     },
     {
       "id": "USAspending:70T05026F6116N004",
@@ -2745,35 +2746,6 @@
       "is_new": false
     },
     {
-      "id": "USAspending:697DCK26F00540",
-      "source": "USAspending",
-      "category": "procurement",
-      "type": "Award",
-      "title": "UNIVERSITY OF OKLAHOMA: MAINTAINING SAFETY AND EFFICIENCY OF THE NAS WITH THE INTEGRATION OF COUNTER UAS TECHNOLOGIES RESEARCH PROGRAM",
-      "url": "https://www.usaspending.gov/award/CONT_AWD_697DCK26F00540_6920_697DCK25D00032_6920",
-      "agency": "Department of Transportation",
-      "identifier": "697DCK26F00540",
-      "date": "2026-07-01",
-      "deadline": null,
-      "summary": "MAINTAINING SAFETY AND EFFICIENCY OF THE NAS WITH THE INTEGRATION OF COUNTER UAS TECHNOLOGIES RESEARCH PROGRAM",
-      "score": 34,
-      "domains": [
-        "air",
-        "defense"
-      ],
-      "matched_terms": [
-        "uas",
-        "counter uas"
-      ],
-      "watchlist": null,
-      "extra": {
-        "amount": 10000000.0,
-        "award_type": "DELIVERY ORDER"
-      },
-      "first_seen": "2026-07-03T10:17:16.264437+00:00",
-      "is_new": false
-    },
-    {
       "id": "USAspending:W56KGU25C0009",
       "source": "USAspending",
       "category": "procurement",
@@ -2831,6 +2803,29 @@
       },
       "first_seen": "2026-08-14T13:07:51.036627+00:00",
       "is_new": false
+    },
+    {
+      "id": "USAspending:W900KK26FA132",
+      "source": "USAspending",
+      "category": "procurement",
+      "type": "Award",
+      "title": "KRATOS UNMANNED AERIAL SYSTEMS, INC: TO PROVIDE ACCREDITED, THREAT REPRESENTATIVE UNMANNED AERIAL TARGET SYSTEMS FOR USE IN SENSOR PRESENTATIONS OR LIVE FIRE",
+      "url": "https://www.usaspending.gov/award/CONT_AWD_W900KK26FA132_9700_W900KK23D0015_9700",
+      "agency": "Department of Defense",
+      "identifier": "W900KK26FA132",
+      "date": "2026-07-31",
+      "deadline": null,
+      "summary": "TO PROVIDE ACCREDITED, THREAT REPRESENTATIVE UNMANNED AERIAL TARGET SYSTEMS FOR USE IN SENSOR PRESENTATIONS OR LIVE FIRE TRACKING AND ENGAGEMENT FOR WEAPONS SYSTEMS TESTING.",
+      "score": 30,
+      "domains": [],
+      "matched_terms": [],
+      "watchlist": null,
+      "extra": {
+        "amount": 4355142.0,
+        "award_type": "DELIVERY ORDER"
+      },
+      "first_seen": "2026-10-30T04:45:01.690764+00:00",
+      "is_new": true
     },
     {
       "id": "USAspending:89233126FNA400803",
@@ -4785,7 +4780,7 @@
   ],
   "stats": {
     "total": 172,
-    "new": 2,
+    "new": 3,
     "by_category": {
       "regulatory": 98,
       "procurement": 60,
@@ -4793,7 +4788,7 @@
       "legislative": 4
     },
     "by_domain": {
-      "air": 128,
+      "air": 127,
       "supply-chain": 74,
       "defense": 14,
       "spectrum": 11,
@@ -4992,7 +4987,7 @@
   "deadlines": [
     {
       "deadline": "2026-11-02",
-      "days": 4,
+      "days": 3,
       "title": "Agency Information Collection Activities; Proposed eCollection eComments Requested; Revision of a Previously Approved Collection; Title-SAFER SKIES State, Local, Tribal, and Territorial Counter-UAS Information Collection",
       "identifier": "OMB Number 1110-0090",
       "category": "regulatory",
