@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-30T22:01:37.867140+00:00",
-  "generated_human": "2026-10-30 22:01 UTC",
+  "generated_at": "2026-10-31T04:29:16.558253+00:00",
+  "generated_human": "2026-10-31 04:29 UTC",
   "demo": false,
   "items": [
     {
@@ -72,7 +72,7 @@
         "proceeding": "26-74"
       },
       "first_seen": "2026-10-30T22:01:37.867140+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:102971940266",
@@ -1874,7 +1874,7 @@
         "docket_total_comments": 1669
       },
       "first_seen": "2026-10-30T22:01:37.867140+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "Federal Register:2026-15659",
@@ -2398,6 +2398,37 @@
       "is_new": false
     },
     {
+      "id": "USAspending:70RSAT26FR0000009",
+      "source": "USAspending",
+      "category": "procurement",
+      "type": "Award",
+      "title": "THE MITRE CORPORATION: THE PURPOSE OF THIS REQUISITION IS TO COMMIT $750,000.00 FOR A NEW TASK ORDER UNDER 70RSAT20D00000001 FOR UNMANNED AIRCR",
+      "url": "https://www.usaspending.gov/award/CONT_AWD_70RSAT26FR0000009_7001_70RSAT26D00000001_7001",
+      "agency": "Department of Homeland Security",
+      "identifier": "70RSAT26FR0000009",
+      "date": "2026-03-24",
+      "deadline": null,
+      "summary": "THE PURPOSE OF THIS REQUISITION IS TO COMMIT $750,000.00 FOR A NEW TASK ORDER UNDER 70RSAT20D00000001 FOR UNMANNED AIRCRAFT SYSTEMS (UAS) AND COUNTER-UNMANNED AIRCRAFT SYSTEMS (C-UAS), PROVIDES DHS WITH DATA-DRIVEN INSIGHTS, OPERATIONAL RECOMMENDATIO",
+      "score": 66,
+      "domains": [
+        "air",
+        "defense"
+      ],
+      "matched_terms": [
+        "unmanned aircraft",
+        "uas",
+        "c-uas",
+        "counter-unmanned"
+      ],
+      "watchlist": null,
+      "extra": {
+        "amount": 3676836.0,
+        "award_type": "DELIVERY ORDER"
+      },
+      "first_seen": "2026-10-31T04:29:16.558253+00:00",
+      "is_new": true
+    },
+    {
       "id": "USAspending:HQ072724F1610",
       "source": "USAspending",
       "category": "procurement",
@@ -2743,35 +2774,6 @@
       "watchlist": null,
       "extra": {},
       "first_seen": "2026-07-07T19:18:20.451500+00:00",
-      "is_new": false
-    },
-    {
-      "id": "USAspending:W912CH26FA117",
-      "source": "USAspending",
-      "category": "procurement",
-      "type": "Award",
-      "title": "AEROVIRONMENT, INC: THIS EFFORT IS FOCUSED ON PROVIDING OPERATIONAL UTILITY OF THESE SYSTEMS FOR USE BY DEPARTMENT OF WAR (DOW) PERSONNEL FO",
-      "url": "https://www.usaspending.gov/award/CONT_AWD_W912CH26FA117_9700_W912CH26DA073_9700",
-      "agency": "Department of Defense",
-      "identifier": "W912CH26FA117",
-      "date": "2026-07-02",
-      "deadline": null,
-      "summary": "THIS EFFORT IS FOCUSED ON PROVIDING OPERATIONAL UTILITY OF THESE SYSTEMS FOR USE BY DEPARTMENT OF WAR (DOW) PERSONNEL FOR FORCE PROTECTION, BASE DEFENSE, AND COUNTER-UAS OPERATIONS.",
-      "score": 34,
-      "domains": [
-        "air",
-        "defense"
-      ],
-      "matched_terms": [
-        "uas",
-        "counter-uas"
-      ],
-      "watchlist": null,
-      "extra": {
-        "amount": 80564538.0,
-        "award_type": "DELIVERY ORDER"
-      },
-      "first_seen": "2026-10-03T04:11:35.129854+00:00",
       "is_new": false
     },
     {
@@ -3189,6 +3191,29 @@
       },
       "first_seen": "2026-08-20T06:48:21.807830+00:00",
       "is_new": false
+    },
+    {
+      "id": "USAspending:89233126FNA400749",
+      "source": "USAspending",
+      "category": "procurement",
+      "type": "Award",
+      "title": "ANDURIL INDUSTRIES, INC.: PROCURE THE BASE YEAR COSTS WITH BASE YEAR OPERATIONS AND SUSTAINMENT, AND 5-YEAR OPERATIONS AND SUSTAINMENT SUPPORT WIT",
+      "url": "https://www.usaspending.gov/award/CONT_AWD_89233126FNA400749_8900_89233126DNA000072_8900",
+      "agency": "Department of Energy",
+      "identifier": "89233126FNA400749",
+      "date": "2025-11-18",
+      "deadline": null,
+      "summary": "PROCURE THE BASE YEAR COSTS WITH BASE YEAR OPERATIONS AND SUSTAINMENT, AND 5-YEAR OPERATIONS AND SUSTAINMENT SUPPORT WITH OPTIONS. Y12 SITE. PROVIDING A COUNTER UNCREWED AIRCRAFT SYSTEM (CUAS) PLATFORM FOR THE NATIONAL NUCLEAR SECURITY ADMINISTRATION",
+      "score": 30,
+      "domains": [],
+      "matched_terms": [],
+      "watchlist": null,
+      "extra": {
+        "amount": 11340702.0,
+        "award_type": "DELIVERY ORDER"
+      },
+      "first_seen": "2026-10-31T04:29:16.558253+00:00",
+      "is_new": true
     },
     {
       "id": "USAspending:19AQMM25F1638",
@@ -3717,33 +3742,6 @@
       "is_new": false
     },
     {
-      "id": "USAspending:FA862222F8449",
-      "source": "USAspending",
-      "category": "procurement",
-      "type": "Award",
-      "title": "SUMARIA SYSTEMS, LLC: SCAT 1 ENGINEERING PROFESSIONAL AND ADMINISTRATIVE SUPPORT SERVICES (EPASS) FOR INTELLIGENCE SURVEILLANCE RECONNAISSANCE",
-      "url": "https://www.usaspending.gov/award/CONT_AWD_FA862222F8449_9700_GS00Q14OADS732_4732",
-      "agency": "Department of Defense",
-      "identifier": "FA862222F8449",
-      "date": "2022-06-01",
-      "deadline": null,
-      "summary": "SCAT 1 ENGINEERING PROFESSIONAL AND ADMINISTRATIVE SUPPORT SERVICES (EPASS) FOR INTELLIGENCE SURVEILLANCE RECONNAISSANCE/SPECIAL OPERATIONS FORCES (ISR/SOF) DIRECTORATE MEDIUM ALTITUDE UNMANNED AIRCRAFT SYSTEMS (MAUAS) DIVISION (AFLCMC/WII)",
-      "score": 30,
-      "domains": [
-        "air"
-      ],
-      "matched_terms": [
-        "unmanned aircraft"
-      ],
-      "watchlist": null,
-      "extra": {
-        "amount": 219719870.93,
-        "award_type": "DELIVERY ORDER"
-      },
-      "first_seen": "2026-07-30T08:28:48.549293+00:00",
-      "is_new": false
-    },
-    {
       "id": "USAspending:FA868922F2400",
       "source": "USAspending",
       "category": "procurement",
@@ -3981,32 +3979,6 @@
       "is_new": false
     },
     {
-      "id": "Regulations.gov:FBI-2026-0001-0001",
-      "source": "Regulations.gov",
-      "category": "regulatory",
-      "type": "Final Rule",
-      "title": "Public Inspection Version - Counter-UAS Authority for State, Local, Tribal, and Territorial Law Enforcement and Correctional Agencies",
-      "url": "https://www.regulations.gov/document/FBI-2026-0001-0001",
-      "agency": "FBI",
-      "identifier": "FBI-2026-0001",
-      "date": "2026-07-02",
-      "deadline": null,
-      "summary": "Public Inspection Version - Counter-UAS Authority for State, Local, Tribal, and Territorial Law Enforcement and Correctional Agencies",
-      "score": 28,
-      "domains": [
-        "air",
-        "defense"
-      ],
-      "matched_terms": [
-        "uas",
-        "counter-uas"
-      ],
-      "watchlist": null,
-      "extra": {},
-      "first_seen": "2026-07-02T18:19:03.065344+00:00",
-      "is_new": false
-    },
-    {
       "id": "Federal Register:2026-20734",
       "source": "Federal Register",
       "category": "regulatory",
@@ -4115,7 +4087,7 @@
       "watchlist": null,
       "extra": {},
       "first_seen": "2026-10-30T22:01:37.867140+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "Regulations.gov:FAA-2026-14129-0001",
@@ -4773,8 +4745,8 @@
     {
       "name": "Regulations.gov",
       "status": "ok",
-      "detail": "35 kept",
-      "count": 35
+      "detail": "34 kept",
+      "count": 34
     },
     {
       "name": "FCC ECFS",
@@ -4808,25 +4780,25 @@
     }
   ],
   "stats": {
-    "total": 173,
-    "new": 3,
+    "total": 172,
+    "new": 2,
     "by_category": {
-      "regulatory": 99,
+      "regulatory": 98,
       "procurement": 60,
       "litigation": 10,
       "legislative": 4
     },
     "by_domain": {
-      "air": 128,
+      "air": 126,
       "supply-chain": 75,
-      "defense": 14,
+      "defense": 13,
       "spectrum": 12,
       "ground": 9
     },
     "by_source": {
       "USAspending": 60,
       "FCC ECFS": 57,
-      "Regulations.gov": 23,
+      "Regulations.gov": 22,
       "Federal Register": 19,
       "CourtListener": 10,
       "Congress.gov": 4
@@ -5016,7 +4988,7 @@
   "deadlines": [
     {
       "deadline": "2026-11-02",
-      "days": 3,
+      "days": 2,
       "title": "Agency Information Collection Activities; Proposed eCollection eComments Requested; Revision of a Previously Approved Collection; Title-SAFER SKIES State, Local, Tribal, and Territorial Counter-UAS Information Collection",
       "identifier": "OMB Number 1110-0090",
       "category": "regulatory",
