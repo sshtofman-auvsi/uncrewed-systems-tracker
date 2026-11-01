@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-31T21:06:50.005050+00:00",
-  "generated_human": "2026-10-31 21:06 UTC",
+  "generated_at": "2026-11-01T04:49:42.195620+00:00",
+  "generated_human": "2026-11-01 04:49 UTC",
   "demo": false,
   "items": [
     {
@@ -1847,17 +1847,17 @@
       "is_new": false
     },
     {
-      "id": "Regulations.gov:FAA-2026-4558-1629",
+      "id": "Regulations.gov:FAA-2026-4558-1630",
       "source": "Regulations.gov",
       "category": "regulatory",
       "type": "Comment",
-      "title": "Comment on Designation – Restrict the Operation of Unmanned Aircraft in Close Proximity  to a Fixed Site Facility: Comment from Karin L",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1629",
+      "title": "Comment on Designation – Restrict the Operation of Unmanned Aircraft in Close Proximity  to a Fixed Site Facility: Comment from American Chemistry Council",
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1630",
       "agency": "FAA",
       "identifier": "FAA-2026-4558",
       "date": "2026-08-06",
       "deadline": null,
-      "summary": "Comment from Karin L",
+      "summary": "Comment from American Chemistry Council",
       "score": 80,
       "domains": [
         "air"
@@ -1873,7 +1873,7 @@
       "extra": {
         "docket_total_comments": 1669
       },
-      "first_seen": "2026-10-31T21:06:50.005050+00:00",
+      "first_seen": "2026-11-01T04:49:42.195620+00:00",
       "is_new": true
     },
     {
@@ -4988,7 +4988,7 @@
   "deadlines": [
     {
       "deadline": "2026-11-02",
-      "days": 2,
+      "days": 1,
       "title": "Agency Information Collection Activities; Proposed eCollection eComments Requested; Revision of a Previously Approved Collection; Title-SAFER SKIES State, Local, Tribal, and Territorial Counter-UAS Information Collection",
       "identifier": "OMB Number 1110-0090",
       "category": "regulatory",
