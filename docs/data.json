@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-01T21:46:50.065165+00:00",
-  "generated_human": "2026-11-01 21:46 UTC",
+  "generated_at": "2026-11-02T04:50:34.886540+00:00",
+  "generated_human": "2026-11-02 04:50 UTC",
   "demo": false,
   "items": [
     {
@@ -1874,7 +1874,7 @@
         "docket_total_comments": 1669
       },
       "first_seen": "2026-11-01T21:46:50.065165+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "Federal Register:2026-15659",
@@ -4781,7 +4781,7 @@
   ],
   "stats": {
     "total": 172,
-    "new": 1,
+    "new": 0,
     "by_category": {
       "regulatory": 98,
       "procurement": 60,
@@ -4988,7 +4988,7 @@
   "deadlines": [
     {
       "deadline": "2026-11-02",
-      "days": 1,
+      "days": 0,
       "title": "Agency Information Collection Activities; Proposed eCollection eComments Requested; Revision of a Previously Approved Collection; Title-SAFER SKIES State, Local, Tribal, and Territorial Counter-UAS Information Collection",
       "identifier": "OMB Number 1110-0090",
       "category": "regulatory",
