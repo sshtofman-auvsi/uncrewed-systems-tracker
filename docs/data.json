@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-03T13:45:53.188777+00:00",
-  "generated_human": "2026-11-03 13:45 UTC",
+  "generated_at": "2026-11-03T22:58:47.018243+00:00",
+  "generated_human": "2026-11-03 22:58 UTC",
   "demo": false,
   "items": [
     {
@@ -73,13 +73,13 @@
         "label": "BVLOS / Part 108 NPRM"
       },
       "extra": {
-        "comment_url": null,
+        "comment_url": "http://www.regulations.gov/commenton/DOT-OST-2026-3862-0001",
         "dockets": [
           "Docket No. DOT-OST-2026-3862"
         ]
       },
       "first_seen": "2026-11-03T13:45:53.188777+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:26110083929",
@@ -4424,17 +4424,17 @@
       "is_new": false
     },
     {
-      "id": "Regulations.gov:FAA-2023-1622-0007",
+      "id": "Regulations.gov:FAA-2021-0114-0006",
       "source": "Regulations.gov",
       "category": "regulatory",
       "type": "Document",
-      "title": "Black Dog Drone Company Inc. - Petition for Amendment",
-      "url": "https://www.regulations.gov/document/FAA-2023-1622-0007",
+      "title": "HawkEye Spray Drone Applications LLC - Request for Renewal",
+      "url": "https://www.regulations.gov/document/FAA-2021-0114-0006",
       "agency": "FAA",
-      "identifier": "FAA-2023-1622",
+      "identifier": "FAA-2021-0114",
       "date": "2026-10-15",
       "deadline": null,
-      "summary": "Black Dog Drone Company Inc. - Petition for Amendment",
+      "summary": "HawkEye Spray Drone Applications LLC - Request for Renewal",
       "score": 20,
       "domains": [
         "air"
@@ -4448,17 +4448,17 @@
       "is_new": false
     },
     {
-      "id": "Regulations.gov:FAA-2021-0114-0006",
+      "id": "Regulations.gov:FAA-2023-1622-0007",
       "source": "Regulations.gov",
       "category": "regulatory",
       "type": "Document",
-      "title": "HawkEye Spray Drone Applications LLC - Request for Renewal",
-      "url": "https://www.regulations.gov/document/FAA-2021-0114-0006",
+      "title": "Black Dog Drone Company Inc. - Petition for Amendment",
+      "url": "https://www.regulations.gov/document/FAA-2023-1622-0007",
       "agency": "FAA",
-      "identifier": "FAA-2021-0114",
+      "identifier": "FAA-2023-1622",
       "date": "2026-10-15",
       "deadline": null,
-      "summary": "HawkEye Spray Drone Applications LLC - Request for Renewal",
+      "summary": "Black Dog Drone Company Inc. - Petition for Amendment",
       "score": 20,
       "domains": [
         "air"
@@ -4798,7 +4798,7 @@
   ],
   "stats": {
     "total": 172,
-    "new": 1,
+    "new": 0,
     "by_category": {
       "regulatory": 98,
       "procurement": 60,
