@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-02T14:57:30.325385+00:00",
-  "generated_human": "2026-11-02 14:57 UTC",
+  "generated_at": "2026-11-03T00:39:08.940975+00:00",
+  "generated_human": "2026-11-03 00:39 UTC",
   "demo": false,
   "items": [
     {
@@ -44,6 +44,35 @@
       },
       "first_seen": "2026-07-03T10:17:16.264437+00:00",
       "is_new": false
+    },
+    {
+      "id": "FCC ECFS:26110083929",
+      "source": "FCC ECFS",
+      "category": "regulatory",
+      "type": "Notice",
+      "title": "GPS Innovation Alliance: NOTICE OF EXPARTE (FCC 26-74)",
+      "url": "https://www.fcc.gov/ecfs/document/26110083929/1",
+      "agency": "FCC",
+      "identifier": "FCC 26-74",
+      "date": "2026-11-02",
+      "deadline": null,
+      "summary": "",
+      "score": 80,
+      "domains": [
+        "air",
+        "spectrum",
+        "supply-chain"
+      ],
+      "matched_terms": [],
+      "watchlist": {
+        "key": "gn-26-74",
+        "label": "GN 26-74 (Unleashing American Drone Dominance)"
+      },
+      "extra": {
+        "proceeding": "26-74"
+      },
+      "first_seen": "2026-11-03T00:39:08.940975+00:00",
+      "is_new": true
     },
     {
       "id": "FCC ECFS:10302034325725",
@@ -1874,7 +1903,7 @@
         "docket_total_comments": 1669
       },
       "first_seen": "2026-11-02T14:57:30.325385+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "Federal Register:2026-15659",
@@ -4407,30 +4436,6 @@
       "is_new": false
     },
     {
-      "id": "Regulations.gov:FAA-2024-1546-0015",
-      "source": "Regulations.gov",
-      "category": "regulatory",
-      "type": "Document",
-      "title": "Great Lakes Drone Solutions LLC - Response to Request for Information",
-      "url": "https://www.regulations.gov/document/FAA-2024-1546-0015",
-      "agency": "FAA",
-      "identifier": "FAA-2024-1546",
-      "date": "2026-10-14",
-      "deadline": null,
-      "summary": "Great Lakes Drone Solutions LLC - Response to Request for Information",
-      "score": 20,
-      "domains": [
-        "air"
-      ],
-      "matched_terms": [
-        "drone"
-      ],
-      "watchlist": null,
-      "extra": {},
-      "first_seen": "2026-10-14T21:22:52.723254+00:00",
-      "is_new": false
-    },
-    {
       "id": "Federal Register:2026-18996",
       "source": "Federal Register",
       "category": "regulatory",
@@ -4721,8 +4726,8 @@
     {
       "name": "Regulations.gov",
       "status": "ok",
-      "detail": "33 kept",
-      "count": 33
+      "detail": "32 kept",
+      "count": 32
     },
     {
       "name": "FCC ECFS",
@@ -4766,15 +4771,15 @@
     },
     "by_domain": {
       "air": 125,
-      "supply-chain": 75,
+      "supply-chain": 76,
       "defense": 13,
-      "spectrum": 12,
+      "spectrum": 13,
       "ground": 9
     },
     "by_source": {
       "USAspending": 60,
-      "FCC ECFS": 57,
-      "Regulations.gov": 21,
+      "FCC ECFS": 58,
+      "Regulations.gov": 20,
       "Federal Register": 19,
       "CourtListener": 10,
       "Congress.gov": 4
@@ -4817,8 +4822,8 @@
         "supply-chain"
       ],
       "deadline": null,
-      "count": 11,
-      "latest": "2026-10-30"
+      "count": 12,
+      "latest": "2026-11-02"
     },
     {
       "key": "dji-ca9",
@@ -4961,17 +4966,7 @@
       "latest": ""
     }
   ],
-  "deadlines": [
-    {
-      "deadline": "2026-11-02",
-      "days": 0,
-      "title": "Agency Information Collection Activities; Proposed eCollection eComments Requested; Revision of a Previously Approved Collection; Title-SAFER SKIES State, Local, Tribal, and Territorial Counter-UAS Information Collection",
-      "identifier": "OMB Number 1110-0090",
-      "category": "regulatory",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/09/01/2026-17853/agency-information-collection-activities-proposed-ecollection-ecomments-requested-revision-of-a"
-    }
-  ],
+  "deadlines": [],
   "domain_labels": {
     "air": "Air",
     "ground": "Ground",
