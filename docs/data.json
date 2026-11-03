@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-03T00:39:08.940975+00:00",
-  "generated_human": "2026-11-03 00:39 UTC",
+  "generated_at": "2026-11-03T13:45:53.188777+00:00",
+  "generated_human": "2026-11-03 13:45 UTC",
   "demo": false,
   "items": [
     {
@@ -46,6 +46,42 @@
       "is_new": false
     },
     {
+      "id": "Federal Register:2026-22436",
+      "source": "Federal Register",
+      "category": "regulatory",
+      "type": "Notice",
+      "title": "Privacy Act of 1974; System of Records",
+      "url": "https://www.federalregister.gov/documents/2026/11/03/2026-22436/privacy-act-of-1974-system-of-records",
+      "agency": "Transportation Department",
+      "identifier": "Docket No. DOT-OST-2026-3862",
+      "date": "2026-11-03",
+      "deadline": "2026-12-03",
+      "summary": "In accordance with the Privacy Act of 1974, the United States Department of Transportation (DOT) proposes a new system of records titled, \"Department of Transportation, Federal Aviation Administration DOT/FAA 860, Unmanned Aircraft System Beyond Visual Line of Sight Operations--Parts 108/146.\" This system of records allows the FAA to collect, use, and maintain information from operators, manufacturers and Automated Data Service Providers (ADSPs), to the extent the operator, manufacturer or ADSP is an individual, when requesting authorizations to conduct or support certain beyond visual line of",
+      "score": 80,
+      "domains": [
+        "air"
+      ],
+      "matched_terms": [
+        "unmanned aircraft",
+        "unmanned aircraft system",
+        "beyond visual line of sight",
+        "national airspace",
+        "airspace"
+      ],
+      "watchlist": {
+        "key": "bvlos-part-108",
+        "label": "BVLOS / Part 108 NPRM"
+      },
+      "extra": {
+        "comment_url": null,
+        "dockets": [
+          "Docket No. DOT-OST-2026-3862"
+        ]
+      },
+      "first_seen": "2026-11-03T13:45:53.188777+00:00",
+      "is_new": true
+    },
+    {
       "id": "FCC ECFS:26110083929",
       "source": "FCC ECFS",
       "category": "regulatory",
@@ -72,7 +108,7 @@
         "proceeding": "26-74"
       },
       "first_seen": "2026-11-03T00:39:08.940975+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:10302034325725",
@@ -4720,8 +4756,8 @@
     {
       "name": "Federal Register",
       "status": "ok",
-      "detail": "20 kept",
-      "count": 20
+      "detail": "21 kept",
+      "count": 21
     },
     {
       "name": "Regulations.gov",
@@ -4761,16 +4797,16 @@
     }
   ],
   "stats": {
-    "total": 171,
+    "total": 172,
     "new": 1,
     "by_category": {
-      "regulatory": 97,
+      "regulatory": 98,
       "procurement": 60,
       "litigation": 10,
       "legislative": 4
     },
     "by_domain": {
-      "air": 125,
+      "air": 126,
       "supply-chain": 76,
       "defense": 13,
       "spectrum": 13,
@@ -4779,8 +4815,8 @@
     "by_source": {
       "USAspending": 60,
       "FCC ECFS": 58,
+      "Federal Register": 20,
       "Regulations.gov": 20,
-      "Federal Register": 19,
       "CourtListener": 10,
       "Congress.gov": 4
     }
@@ -4810,6 +4846,18 @@
       "deadline": "2026-08-28",
       "count": 50,
       "latest": "2026-10-15"
+    },
+    {
+      "key": "bvlos-part-108",
+      "label": "BVLOS / Part 108 NPRM",
+      "category": "regulatory",
+      "agency": "FAA",
+      "domain": [
+        "air"
+      ],
+      "deadline": "2026-12-03",
+      "count": 3,
+      "latest": "2026-11-03"
     },
     {
       "key": "gn-26-74",
@@ -4850,18 +4898,6 @@
       "deadline": null,
       "count": 3,
       "latest": "2026-03-09"
-    },
-    {
-      "key": "bvlos-part-108",
-      "label": "BVLOS / Part 108 NPRM",
-      "category": "regulatory",
-      "agency": "FAA",
-      "domain": [
-        "air"
-      ],
-      "deadline": null,
-      "count": 2,
-      "latest": "2026-09-04"
     },
     {
       "key": "safer-skies",
@@ -4966,7 +5002,17 @@
       "latest": ""
     }
   ],
-  "deadlines": [],
+  "deadlines": [
+    {
+      "deadline": "2026-12-03",
+      "days": 30,
+      "title": "Privacy Act of 1974; System of Records",
+      "identifier": "Docket No. DOT-OST-2026-3862",
+      "category": "regulatory",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/11/03/2026-22436/privacy-act-of-1974-system-of-records"
+    }
+  ],
   "domain_labels": {
     "air": "Air",
     "ground": "Ground",
