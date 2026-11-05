@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-05T05:31:53.090220+00:00",
-  "generated_human": "2026-11-05 05:31 UTC",
+  "generated_at": "2026-11-05T14:08:57.216388+00:00",
+  "generated_human": "2026-11-05 14:08 UTC",
   "demo": false,
   "items": [
     {
@@ -1870,17 +1870,17 @@
       "is_new": false
     },
     {
-      "id": "Regulations.gov:FAA-2026-4558-1630",
+      "id": "Regulations.gov:FAA-2026-4558-1629",
       "source": "Regulations.gov",
       "category": "regulatory",
       "type": "Comment",
-      "title": "Comment on Designation – Restrict the Operation of Unmanned Aircraft in Close Proximity  to a Fixed Site Facility: Comment from American Chemistry Council",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1630",
+      "title": "Comment on Designation – Restrict the Operation of Unmanned Aircraft in Close Proximity  to a Fixed Site Facility: Comment from Karin L",
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1629",
       "agency": "FAA",
       "identifier": "FAA-2026-4558",
       "date": "2026-08-06",
       "deadline": null,
-      "summary": "Comment from American Chemistry Council",
+      "summary": "Comment from Karin L",
       "score": 80,
       "domains": [
         "air"
@@ -1896,8 +1896,8 @@
       "extra": {
         "docket_total_comments": 1669
       },
-      "first_seen": "2026-11-04T05:10:55.333668+00:00",
-      "is_new": false
+      "first_seen": "2026-11-05T14:08:57.216388+00:00",
+      "is_new": true
     },
     {
       "id": "Federal Register:2026-15659",
@@ -2936,7 +2936,7 @@
         "award_type": "PURCHASE ORDER"
       },
       "first_seen": "2026-11-05T05:31:53.090220+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:80NM0026F7025",
@@ -3577,7 +3577,7 @@
         "award_type": "DEFINITIVE CONTRACT"
       },
       "first_seen": "2026-11-05T05:31:53.090220+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:693KA823F00244",
@@ -4240,30 +4240,6 @@
       "is_new": false
     },
     {
-      "id": "Regulations.gov:FAA-2026-13865-0001",
-      "source": "Regulations.gov",
-      "category": "regulatory",
-      "type": "Document",
-      "title": "APEX PRECISION DRONE SERVICES LLC - Petition",
-      "url": "https://www.regulations.gov/document/FAA-2026-13865-0001",
-      "agency": "FAA",
-      "identifier": "FAA-2026-13865",
-      "date": "2026-10-21",
-      "deadline": null,
-      "summary": "APEX PRECISION DRONE SERVICES LLC - Petition",
-      "score": 20,
-      "domains": [
-        "air"
-      ],
-      "matched_terms": [
-        "drone"
-      ],
-      "watchlist": null,
-      "extra": {},
-      "first_seen": "2026-10-21T21:20:53.553786+00:00",
-      "is_new": false
-    },
-    {
       "id": "Regulations.gov:FAA-2024-0879-0004",
       "source": "Regulations.gov",
       "category": "regulatory",
@@ -4285,6 +4261,30 @@
       "watchlist": null,
       "extra": {},
       "first_seen": "2026-10-21T16:46:09.109275+00:00",
+      "is_new": false
+    },
+    {
+      "id": "Regulations.gov:FAA-2026-13865-0001",
+      "source": "Regulations.gov",
+      "category": "regulatory",
+      "type": "Document",
+      "title": "APEX PRECISION DRONE SERVICES LLC - Petition",
+      "url": "https://www.regulations.gov/document/FAA-2026-13865-0001",
+      "agency": "FAA",
+      "identifier": "FAA-2026-13865",
+      "date": "2026-10-21",
+      "deadline": null,
+      "summary": "APEX PRECISION DRONE SERVICES LLC - Petition",
+      "score": 20,
+      "domains": [
+        "air"
+      ],
+      "matched_terms": [
+        "drone"
+      ],
+      "watchlist": null,
+      "extra": {},
+      "first_seen": "2026-10-21T21:20:53.553786+00:00",
       "is_new": false
     },
     {
@@ -4662,7 +4662,7 @@
   ],
   "stats": {
     "total": 168,
-    "new": 2,
+    "new": 1,
     "by_category": {
       "regulatory": 94,
       "procurement": 60,
