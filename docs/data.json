@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-04T23:18:49.468978+00:00",
-  "generated_human": "2026-11-04 23:18 UTC",
+  "generated_at": "2026-11-05T05:31:53.090220+00:00",
+  "generated_human": "2026-11-05 05:31 UTC",
   "demo": false,
   "items": [
     {
@@ -2059,7 +2059,7 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-11-04T23:18:49.468978+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "CourtListener:72313063",
@@ -2149,7 +2149,7 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-11-04T23:18:49.468978+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "Regulations.gov:BIS-2025-0059-0143",
@@ -2539,35 +2539,6 @@
       "is_new": false
     },
     {
-      "id": "USAspending:FA807521F0077",
-      "source": "USAspending",
-      "category": "procurement",
-      "type": "Award",
-      "title": "CACI, INC. - FEDERAL: COUNTER UNMANNED AIRCRAFT SYSTEMS RESEARCH, DEVELOPMENT, AND SUSTAINMENT FOR THE DIGITAL INTEGRATION SUPPORT CELL AND NA",
-      "url": "https://www.usaspending.gov/award/CONT_AWD_FA807521F0077_9700_FA807518D0006_9700",
-      "agency": "Department of Defense",
-      "identifier": "FA807521F0077",
-      "date": "2021-09-27",
-      "deadline": null,
-      "summary": "COUNTER UNMANNED AIRCRAFT SYSTEMS RESEARCH, DEVELOPMENT, AND SUSTAINMENT FOR THE DIGITAL INTEGRATION SUPPORT CELL AND NAVAL SURFACE WARFARE CENTER, CRANE DIVISION",
-      "score": 38,
-      "domains": [
-        "air",
-        "defense"
-      ],
-      "matched_terms": [
-        "unmanned aircraft",
-        "counter unmanned"
-      ],
-      "watchlist": null,
-      "extra": {
-        "amount": 81355601.96,
-        "award_type": "DELIVERY ORDER"
-      },
-      "first_seen": "2026-10-08T04:57:17.010885+00:00",
-      "is_new": false
-    },
-    {
       "id": "USAspending:W58RGZ19C0027",
       "source": "USAspending",
       "category": "procurement",
@@ -2621,7 +2592,7 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-11-04T23:18:49.468978+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:FA807523F0009",
@@ -2796,7 +2767,7 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-11-04T23:18:49.468978+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:W58RGZ26F0365",
@@ -2869,29 +2840,6 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-11-04T23:18:49.468978+00:00",
-      "is_new": true
-    },
-    {
-      "id": "USAspending:W58RGZ26F0356",
-      "source": "USAspending",
-      "category": "procurement",
-      "type": "Award",
-      "title": "PLATFORM SYSTEMS, INCORPORATED: THIS AWARD CONSISTS OF 90 DAYS OF TECHNICAL, SUPPLY, AND MAINTENANCE SUPPORT. THIS ORDER IS AGAINST BOA W58RGZ-26-G-0055",
-      "url": "https://www.usaspending.gov/award/CONT_AWD_W58RGZ26F0356_9700_W58RGZ26G0055_9700",
-      "agency": "Department of Defense",
-      "identifier": "W58RGZ26F0356",
-      "date": "2026-07-07",
-      "deadline": null,
-      "summary": "THIS AWARD CONSISTS OF 90 DAYS OF TECHNICAL, SUPPLY, AND MAINTENANCE SUPPORT. THIS ORDER IS AGAINST BOA W58RGZ-26-G-0055.",
-      "score": 30,
-      "domains": [],
-      "matched_terms": [],
-      "watchlist": null,
-      "extra": {
-        "amount": 7126766.0,
-        "award_type": "DELIVERY ORDER"
-      },
-      "first_seen": "2026-11-04T05:10:55.333668+00:00",
       "is_new": false
     },
     {
@@ -2968,6 +2916,29 @@
       "is_new": false
     },
     {
+      "id": "USAspending:FA862926PB003",
+      "source": "USAspending",
+      "category": "procurement",
+      "type": "Award",
+      "title": "AEROVIRONMENT, INC: ACC/A3J-MIPR-TACP ACC HURRICANE ORDER",
+      "url": "https://www.usaspending.gov/award/CONT_AWD_FA862926PB003_9700_-NONE-_-NONE-",
+      "agency": "Department of Defense",
+      "identifier": "FA862926PB003",
+      "date": "2026-04-29",
+      "deadline": null,
+      "summary": "ACC/A3J-MIPR-TACP ACC HURRICANE ORDER",
+      "score": 30,
+      "domains": [],
+      "matched_terms": [],
+      "watchlist": null,
+      "extra": {
+        "amount": 4451223.0,
+        "award_type": "PURCHASE ORDER"
+      },
+      "first_seen": "2026-11-05T05:31:53.090220+00:00",
+      "is_new": true
+    },
+    {
       "id": "USAspending:80NM0026F7025",
       "source": "USAspending",
       "category": "procurement",
@@ -3011,7 +2982,7 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-11-04T23:18:49.468978+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:W15P7T26F0090",
@@ -3034,7 +3005,7 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-11-04T23:18:49.468978+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:W15P7T26F0084",
@@ -3057,7 +3028,7 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-11-04T23:18:49.468978+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:W58RGZ26F0223",
@@ -3176,7 +3147,7 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-11-04T23:18:49.468978+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:89233126FNA400749",
@@ -3199,7 +3170,7 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-11-04T23:18:49.468978+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:19AQMM25F1638",
@@ -3418,7 +3389,7 @@
         "award_type": "DEFINITIVE CONTRACT"
       },
       "first_seen": "2026-11-04T23:18:49.468978+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:N0001924F0328",
@@ -3580,6 +3551,33 @@
       },
       "first_seen": "2026-10-23T03:43:37.649109+00:00",
       "is_new": false
+    },
+    {
+      "id": "USAspending:FA462523C0025",
+      "source": "USAspending",
+      "category": "procurement",
+      "type": "Award",
+      "title": "ASYLON INC: SMALL BUSINESS INNOVATION AND RESEARCH ADVANCING DRONE TECHNOLOGY FOR STRATFI SBIR PHASE II",
+      "url": "https://www.usaspending.gov/award/CONT_AWD_FA462523C0025_9700_-NONE-_-NONE-",
+      "agency": "Department of Defense",
+      "identifier": "FA462523C0025",
+      "date": "2023-09-01",
+      "deadline": null,
+      "summary": "SMALL BUSINESS INNOVATION AND RESEARCH ADVANCING DRONE TECHNOLOGY FOR STRATFI SBIR PHASE II",
+      "score": 30,
+      "domains": [
+        "air"
+      ],
+      "matched_terms": [
+        "drone"
+      ],
+      "watchlist": null,
+      "extra": {
+        "amount": 4599818.86,
+        "award_type": "DEFINITIVE CONTRACT"
+      },
+      "first_seen": "2026-11-05T05:31:53.090220+00:00",
+      "is_new": true
     },
     {
       "id": "USAspending:693KA823F00244",
@@ -4047,7 +4045,7 @@
       "watchlist": null,
       "extra": {},
       "first_seen": "2026-11-04T23:18:49.468978+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "Regulations.gov:FAA-2024-1717-0010",
@@ -4664,7 +4662,7 @@
   ],
   "stats": {
     "total": 168,
-    "new": 12,
+    "new": 2,
     "by_category": {
       "regulatory": 94,
       "procurement": 60,
@@ -4676,7 +4674,7 @@
       "supply-chain": 76,
       "spectrum": 12,
       "ground": 9,
-      "defense": 8
+      "defense": 7
     },
     "by_source": {
       "USAspending": 60,
@@ -4871,7 +4869,7 @@
   "deadlines": [
     {
       "deadline": "2026-12-03",
-      "days": 29,
+      "days": 28,
       "title": "Privacy Act of 1974; System of Records",
       "identifier": "Docket No. DOT-OST-2026-3862",
       "category": "regulatory",
@@ -4880,7 +4878,7 @@
     },
     {
       "deadline": "2026-12-04",
-      "days": 30,
+      "days": 29,
       "title": "Agency Information Collection Activities; Proposed eCollection eComments Requested; SAFER SKIES State, Local, Tribal, and Territorial Counter-UAS Information Collection",
       "identifier": "OMB Number 1110-0090",
       "category": "regulatory",
