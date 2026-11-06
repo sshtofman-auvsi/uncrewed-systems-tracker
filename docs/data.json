@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-06T05:30:23.912777+00:00",
-  "generated_human": "2026-11-06 05:30 UTC",
+  "generated_at": "2026-11-06T13:51:58.480350+00:00",
+  "generated_human": "2026-11-06 13:51 UTC",
   "demo": false,
   "items": [
     {
@@ -1897,7 +1897,7 @@
         "docket_total_comments": 1669
       },
       "first_seen": "2026-11-06T05:30:23.912777+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "Federal Register:2026-15659",
@@ -2210,7 +2210,7 @@
       },
       "extra": {},
       "first_seen": "2026-11-06T05:30:23.912777+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "CourtListener:72502129",
@@ -2565,7 +2565,7 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-11-06T05:30:23.912777+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:70T05026F6116N004",
@@ -2796,7 +2796,7 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-11-06T05:30:23.912777+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "Federal Register:2026-16628",
@@ -2849,7 +2849,7 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-11-06T05:30:23.912777+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:89233126FNA400803",
@@ -4702,7 +4702,7 @@
   ],
   "stats": {
     "total": 169,
-    "new": 5,
+    "new": 0,
     "by_category": {
       "regulatory": 94,
       "procurement": 60,
