@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-05T14:08:57.216388+00:00",
-  "generated_human": "2026-11-05 14:08 UTC",
+  "generated_at": "2026-11-06T05:30:23.912777+00:00",
+  "generated_human": "2026-11-06 05:30 UTC",
   "demo": false,
   "items": [
     {
@@ -1870,17 +1870,17 @@
       "is_new": false
     },
     {
-      "id": "Regulations.gov:FAA-2026-4558-1629",
+      "id": "Regulations.gov:FAA-2026-4558-1630",
       "source": "Regulations.gov",
       "category": "regulatory",
       "type": "Comment",
-      "title": "Comment on Designation – Restrict the Operation of Unmanned Aircraft in Close Proximity  to a Fixed Site Facility: Comment from Karin L",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1629",
+      "title": "Comment on Designation – Restrict the Operation of Unmanned Aircraft in Close Proximity  to a Fixed Site Facility: Comment from American Chemistry Council",
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1630",
       "agency": "FAA",
       "identifier": "FAA-2026-4558",
       "date": "2026-08-06",
       "deadline": null,
-      "summary": "Comment from Karin L",
+      "summary": "Comment from American Chemistry Council",
       "score": 80,
       "domains": [
         "air"
@@ -1896,7 +1896,7 @@
       "extra": {
         "docket_total_comments": 1669
       },
-      "first_seen": "2026-11-05T14:08:57.216388+00:00",
+      "first_seen": "2026-11-06T05:30:23.912777+00:00",
       "is_new": true
     },
     {
@@ -2183,6 +2183,34 @@
       },
       "first_seen": "2026-07-21T19:24:58.161416+00:00",
       "is_new": false
+    },
+    {
+      "id": "CourtListener:75075868",
+      "source": "CourtListener",
+      "category": "litigation",
+      "type": "Court Docket",
+      "title": "SZ DJI Technology Co., Ltd., et al. v. Federal Communications Commission, et al.",
+      "url": "https://www.courtlistener.com/docket/75075868/sz-dji-technology-co-ltd-et-al-v-federal-communications-commission/",
+      "agency": "COURT OF APPEALS FOR THE NINTH CIRCUIT",
+      "identifier": "26-7367",
+      "date": "2026-11-04",
+      "deadline": null,
+      "summary": "SZ DJI Technology Co., Ltd., et al. v. Federal Communications Commission, et al.",
+      "score": 70,
+      "domains": [
+        "supply-chain",
+        "air"
+      ],
+      "matched_terms": [
+        "dji"
+      ],
+      "watchlist": {
+        "key": "dji-ca9",
+        "label": "DJI petition (9th Circuit, 26-1029)"
+      },
+      "extra": {},
+      "first_seen": "2026-11-06T05:30:23.912777+00:00",
+      "is_new": true
     },
     {
       "id": "CourtListener:72502129",
@@ -2510,6 +2538,36 @@
       "is_new": false
     },
     {
+      "id": "USAspending:70Z02325F71100013",
+      "source": "USAspending",
+      "category": "procurement",
+      "type": "Award",
+      "title": "ARETE CONSULTING LLC: SUBJECT MATTER EXPERTISE SERVICES TO ESTABLISH NEW ROBOTICS AND AUTONOMOUS SYSTEMS DOMAIN FOR \"DRONE\" AND COUNTER-UNMANN",
+      "url": "https://www.usaspending.gov/award/CONT_AWD_70Z02325F71100013_7008_47QRCA25DA145_4732",
+      "agency": "Department of Homeland Security",
+      "identifier": "70Z02325F71100013",
+      "date": "2025-09-22",
+      "deadline": null,
+      "summary": "SUBJECT MATTER EXPERTISE SERVICES TO ESTABLISH NEW ROBOTICS AND AUTONOMOUS SYSTEMS DOMAIN FOR \"DRONE\" AND COUNTER-UNMANNED AUTONOMOUS SYSTEMS.",
+      "score": 46,
+      "domains": [
+        "air",
+        "defense"
+      ],
+      "matched_terms": [
+        "drone",
+        "counter-unmanned",
+        "autonomous systems"
+      ],
+      "watchlist": null,
+      "extra": {
+        "amount": 4432225.82,
+        "award_type": "DELIVERY ORDER"
+      },
+      "first_seen": "2026-11-06T05:30:23.912777+00:00",
+      "is_new": true
+    },
+    {
       "id": "USAspending:70T05026F6116N004",
       "source": "USAspending",
       "category": "procurement",
@@ -2713,6 +2771,34 @@
       "is_new": false
     },
     {
+      "id": "USAspending:W31P4Q24FE001",
+      "source": "USAspending",
+      "category": "procurement",
+      "type": "Award",
+      "title": "THE TOLLIVER GROUP, INC: LOGISTICS SUPPORT TO THE UNMANNED AIRCRAFT SYSTEMS (UAS) PROJECT OFFICE",
+      "url": "https://www.usaspending.gov/award/CONT_AWD_W31P4Q24FE001_9700_GS00F0013W_4730",
+      "agency": "Department of Defense",
+      "identifier": "W31P4Q24FE001",
+      "date": "2023-11-30",
+      "deadline": null,
+      "summary": "LOGISTICS SUPPORT TO THE UNMANNED AIRCRAFT SYSTEMS (UAS) PROJECT OFFICE",
+      "score": 34,
+      "domains": [
+        "air"
+      ],
+      "matched_terms": [
+        "unmanned aircraft",
+        "uas"
+      ],
+      "watchlist": null,
+      "extra": {
+        "amount": 83629399.09,
+        "award_type": "DELIVERY ORDER"
+      },
+      "first_seen": "2026-11-06T05:30:23.912777+00:00",
+      "is_new": true
+    },
+    {
       "id": "Federal Register:2026-16628",
       "source": "Federal Register",
       "category": "regulatory",
@@ -2741,6 +2827,29 @@
       },
       "first_seen": "2026-08-14T13:07:51.036627+00:00",
       "is_new": false
+    },
+    {
+      "id": "USAspending:W900KK26FA132",
+      "source": "USAspending",
+      "category": "procurement",
+      "type": "Award",
+      "title": "KRATOS UNMANNED AERIAL SYSTEMS, INC: TO PROVIDE ACCREDITED, THREAT REPRESENTATIVE UNMANNED AERIAL TARGET SYSTEMS FOR USE IN SENSOR PRESENTATIONS OR LIVE FIRE",
+      "url": "https://www.usaspending.gov/award/CONT_AWD_W900KK26FA132_9700_W900KK23D0015_9700",
+      "agency": "Department of Defense",
+      "identifier": "W900KK26FA132",
+      "date": "2026-07-31",
+      "deadline": null,
+      "summary": "TO PROVIDE ACCREDITED, THREAT REPRESENTATIVE UNMANNED AERIAL TARGET SYSTEMS FOR USE IN SENSOR PRESENTATIONS OR LIVE FIRE TRACKING AND ENGAGEMENT FOR WEAPONS SYSTEMS TESTING.",
+      "score": 30,
+      "domains": [],
+      "matched_terms": [],
+      "watchlist": null,
+      "extra": {
+        "amount": 4355142.0,
+        "award_type": "DELIVERY ORDER"
+      },
+      "first_seen": "2026-11-06T05:30:23.912777+00:00",
+      "is_new": true
     },
     {
       "id": "USAspending:89233126FNA400803",
@@ -2817,29 +2926,6 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-10-10T04:44:51.808814+00:00",
-      "is_new": false
-    },
-    {
-      "id": "USAspending:FA862926FB057",
-      "source": "USAspending",
-      "category": "procurement",
-      "type": "Award",
-      "title": "ANDURIL INDUSTRIES, INC.: THE CONTRACTOR MUST EXECUTE ALL REQUIREMENTS OF THIS DELIVERY ORDER IN ACCORDANCE WITH THE SOW ATTACHED TO BASIC CONTRAC",
-      "url": "https://www.usaspending.gov/award/CONT_AWD_FA862926FB057_9700_FA862926DB002_9700",
-      "agency": "Department of Defense",
-      "identifier": "FA862926FB057",
-      "date": "2026-07-09",
-      "deadline": null,
-      "summary": "THE CONTRACTOR MUST EXECUTE ALL REQUIREMENTS OF THIS DELIVERY ORDER IN ACCORDANCE WITH THE SOW ATTACHED TO BASIC CONTRACT FA8629-26-D-B002.",
-      "score": 30,
-      "domains": [],
-      "matched_terms": [],
-      "watchlist": null,
-      "extra": {
-        "amount": 11836752.0,
-        "award_type": "DELIVERY ORDER"
-      },
-      "first_seen": "2026-11-04T23:18:49.468978+00:00",
       "is_new": false
     },
     {
@@ -2979,29 +3065,6 @@
       "watchlist": null,
       "extra": {
         "amount": 256964904.0,
-        "award_type": "DELIVERY ORDER"
-      },
-      "first_seen": "2026-11-04T23:18:49.468978+00:00",
-      "is_new": false
-    },
-    {
-      "id": "USAspending:W15P7T26F0090",
-      "source": "USAspending",
-      "category": "procurement",
-      "type": "Award",
-      "title": "LEIDOS, INC.: PROCURE TACTICAL EDGE COMPUTER KIT AND MOUNT KIT",
-      "url": "https://www.usaspending.gov/award/CONT_AWD_W15P7T26F0090_9700_W15P7T23D0003_9700",
-      "agency": "Department of Defense",
-      "identifier": "W15P7T26F0090",
-      "date": "2026-04-03",
-      "deadline": null,
-      "summary": "PROCURE TACTICAL EDGE COMPUTER KIT AND MOUNT KIT",
-      "score": 30,
-      "domains": [],
-      "matched_terms": [],
-      "watchlist": null,
-      "extra": {
-        "amount": 10654900.0,
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-11-04T23:18:49.468978+00:00",
@@ -3627,29 +3690,6 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-10-09T04:59:25.163485+00:00",
-      "is_new": false
-    },
-    {
-      "id": "USAspending:FA868923F2250",
-      "source": "USAspending",
-      "category": "procurement",
-      "type": "Award",
-      "title": "GENERAL ATOMICS AERONAUTICAL SYSTEMS, INC.: MQ-9 REAPER PROLIFERATED LOW EARTH ORBIT (PLEO)",
-      "url": "https://www.usaspending.gov/award/CONT_AWD_FA868923F2250_9700_FA868920D2020_9700",
-      "agency": "Department of Defense",
-      "identifier": "FA868923F2250",
-      "date": "2023-06-10",
-      "deadline": null,
-      "summary": "MQ-9 REAPER PROLIFERATED LOW EARTH ORBIT (PLEO)",
-      "score": 30,
-      "domains": [],
-      "matched_terms": [],
-      "watchlist": null,
-      "extra": {
-        "amount": 42319998.96,
-        "award_type": "DELIVERY ORDER"
-      },
-      "first_seen": "2026-10-08T04:57:17.010885+00:00",
       "is_new": false
     },
     {
@@ -4650,8 +4690,8 @@
     {
       "name": "CourtListener",
       "status": "ok",
-      "detail": "10 kept",
-      "count": 10
+      "detail": "11 kept",
+      "count": 11
     },
     {
       "name": "USAspending",
@@ -4661,27 +4701,27 @@
     }
   ],
   "stats": {
-    "total": 168,
-    "new": 1,
+    "total": 169,
+    "new": 5,
     "by_category": {
       "regulatory": 94,
       "procurement": 60,
-      "litigation": 10,
+      "litigation": 11,
       "legislative": 4
     },
     "by_domain": {
-      "air": 121,
-      "supply-chain": 76,
+      "air": 124,
+      "supply-chain": 77,
       "spectrum": 12,
       "ground": 9,
-      "defense": 7
+      "defense": 8
     },
     "by_source": {
       "USAspending": 60,
       "FCC ECFS": 58,
       "Federal Register": 18,
       "Regulations.gov": 18,
-      "CourtListener": 10,
+      "CourtListener": 11,
       "Congress.gov": 4
     }
   },
@@ -4747,8 +4787,8 @@
         "air"
       ],
       "deadline": null,
-      "count": 7,
-      "latest": "2026-03-11"
+      "count": 8,
+      "latest": "2026-11-04"
     },
     {
       "key": "dji-cadc-1260h",
@@ -4869,7 +4909,7 @@
   "deadlines": [
     {
       "deadline": "2026-12-03",
-      "days": 28,
+      "days": 27,
       "title": "Privacy Act of 1974; System of Records",
       "identifier": "Docket No. DOT-OST-2026-3862",
       "category": "regulatory",
@@ -4878,7 +4918,7 @@
     },
     {
       "deadline": "2026-12-04",
-      "days": 29,
+      "days": 28,
       "title": "Agency Information Collection Activities; Proposed eCollection eComments Requested; SAFER SKIES State, Local, Tribal, and Territorial Counter-UAS Information Collection",
       "identifier": "OMB Number 1110-0090",
       "category": "regulatory",
