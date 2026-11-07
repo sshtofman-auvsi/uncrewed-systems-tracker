@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-06T22:51:46.502874+00:00",
-  "generated_human": "2026-11-06 22:51 UTC",
+  "generated_at": "2026-11-07T04:58:46.981673+00:00",
+  "generated_human": "2026-11-07 04:58 UTC",
   "demo": false,
   "items": [
     {
@@ -415,6 +415,35 @@
       },
       "first_seen": "2026-10-02T21:55:35.822740+00:00",
       "is_new": false
+    },
+    {
+      "id": "Congress.gov:119-s-4429",
+      "source": "Congress.gov",
+      "category": "legislative",
+      "type": "Bill",
+      "title": "S. 4429: Connected Vehicle Security Act of 2026",
+      "url": "https://www.congress.gov/bill/119th-congress/senate-bill/4429",
+      "agency": "Congress",
+      "identifier": "S. 4429",
+      "date": "2026-09-22",
+      "deadline": null,
+      "summary": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 671.",
+      "score": 80,
+      "domains": [
+        "ground",
+        "supply-chain"
+      ],
+      "matched_terms": [
+        "connected vehicle",
+        "connected vehicle security act"
+      ],
+      "watchlist": {
+        "key": "connected-vehicle",
+        "label": "S. 4429 Connected Vehicle Security Act"
+      },
+      "extra": {},
+      "first_seen": "2026-11-07T04:58:46.981673+00:00",
+      "is_new": true
     },
     {
       "id": "FCC ECFS:26110076515",
@@ -1841,17 +1870,17 @@
       "is_new": false
     },
     {
-      "id": "Regulations.gov:FAA-2026-4558-1629",
+      "id": "Regulations.gov:FAA-2026-4558-1630",
       "source": "Regulations.gov",
       "category": "regulatory",
       "type": "Comment",
-      "title": "Comment on Designation – Restrict the Operation of Unmanned Aircraft in Close Proximity  to a Fixed Site Facility: Comment from Karin L",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1629",
+      "title": "Comment on Designation – Restrict the Operation of Unmanned Aircraft in Close Proximity  to a Fixed Site Facility: Comment from American Chemistry Council",
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1630",
       "agency": "FAA",
       "identifier": "FAA-2026-4558",
       "date": "2026-08-06",
       "deadline": null,
-      "summary": "Comment from Karin L",
+      "summary": "Comment from American Chemistry Council",
       "score": 80,
       "domains": [
         "air"
@@ -1867,7 +1896,7 @@
       "extra": {
         "docket_total_comments": 1669
       },
-      "first_seen": "2026-11-06T22:51:46.502874+00:00",
+      "first_seen": "2026-11-07T04:58:46.981673+00:00",
       "is_new": true
     },
     {
@@ -2060,6 +2089,34 @@
       "extra": {},
       "first_seen": "2026-09-01T04:00:06.000510+00:00",
       "is_new": false
+    },
+    {
+      "id": "Congress.gov:119-s-3481",
+      "source": "Congress.gov",
+      "category": "legislative",
+      "type": "Bill",
+      "title": "S. 3481: SAFER SKIES Act",
+      "url": "https://www.congress.gov/bill/119th-congress/senate-bill/3481",
+      "agency": "Congress",
+      "identifier": "S. 3481",
+      "date": "2025-12-15",
+      "deadline": null,
+      "summary": "Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
+      "score": 80,
+      "domains": [
+        "air",
+        "defense"
+      ],
+      "matched_terms": [
+        "safer skies act"
+      ],
+      "watchlist": {
+        "key": "safer-skies",
+        "label": "Safer Skies Act (C-UAS)"
+      },
+      "extra": {},
+      "first_seen": "2026-11-07T04:58:46.981673+00:00",
+      "is_new": true
     },
     {
       "id": "USAspending:6973GH25F01296",
@@ -2390,6 +2447,37 @@
       "extra": {},
       "first_seen": "2026-09-01T04:00:06.000510+00:00",
       "is_new": false
+    },
+    {
+      "id": "USAspending:70RSAT26FR0000009",
+      "source": "USAspending",
+      "category": "procurement",
+      "type": "Award",
+      "title": "THE MITRE CORPORATION: THE PURPOSE OF THIS REQUISITION IS TO COMMIT $750,000.00 FOR A NEW TASK ORDER UNDER 70RSAT20D00000001 FOR UNMANNED AIRCR",
+      "url": "https://www.usaspending.gov/award/CONT_AWD_70RSAT26FR0000009_7001_70RSAT26D00000001_7001",
+      "agency": "Department of Homeland Security",
+      "identifier": "70RSAT26FR0000009",
+      "date": "2026-03-24",
+      "deadline": null,
+      "summary": "THE PURPOSE OF THIS REQUISITION IS TO COMMIT $750,000.00 FOR A NEW TASK ORDER UNDER 70RSAT20D00000001 FOR UNMANNED AIRCRAFT SYSTEMS (UAS) AND COUNTER-UNMANNED AIRCRAFT SYSTEMS (C-UAS), PROVIDES DHS WITH DATA-DRIVEN INSIGHTS, OPERATIONAL RECOMMENDATIO",
+      "score": 66,
+      "domains": [
+        "air",
+        "defense"
+      ],
+      "matched_terms": [
+        "unmanned aircraft",
+        "uas",
+        "c-uas",
+        "counter-unmanned"
+      ],
+      "watchlist": null,
+      "extra": {
+        "amount": 3676836.0,
+        "award_type": "DELIVERY ORDER"
+      },
+      "first_seen": "2026-11-07T04:58:46.981673+00:00",
+      "is_new": true
     },
     {
       "id": "USAspending:HQ072724F1610",
@@ -3559,6 +3647,33 @@
       "is_new": false
     },
     {
+      "id": "USAspending:693KA923C00012",
+      "source": "USAspending",
+      "category": "procurement",
+      "type": "Award",
+      "title": "I3 FEDERAL LLC: EVALUATION OF HAZARDS POSED BY LITHIUM-BATTERY POWERED UNMANNED AIRCRAFT SYSTEMS AND OTHER DANGEROUS GOODS INTEGRATED IN",
+      "url": "https://www.usaspending.gov/award/CONT_AWD_693KA923C00012_6920_-NONE-_-NONE-",
+      "agency": "Department of Transportation",
+      "identifier": "693KA923C00012",
+      "date": "2023-09-11",
+      "deadline": null,
+      "summary": "EVALUATION OF HAZARDS POSED BY LITHIUM-BATTERY POWERED UNMANNED AIRCRAFT SYSTEMS AND OTHER DANGEROUS GOODS INTEGRATED INTO THE DESIGN.",
+      "score": 30,
+      "domains": [
+        "air"
+      ],
+      "matched_terms": [
+        "unmanned aircraft"
+      ],
+      "watchlist": null,
+      "extra": {
+        "amount": 3612061.55,
+        "award_type": "DEFINITIVE CONTRACT"
+      },
+      "first_seen": "2026-11-07T04:58:46.981673+00:00",
+      "is_new": true
+    },
+    {
       "id": "USAspending:FA462523C0025",
       "source": "USAspending",
       "category": "procurement",
@@ -3610,29 +3725,6 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": false
-    },
-    {
-      "id": "USAspending:FA868923F2850",
-      "source": "USAspending",
-      "category": "procurement",
-      "type": "Award",
-      "title": "GENERAL ATOMICS AERONAUTICAL SYSTEMS, INC.: MQ-9 REAPER FOREIGN MILITARY SALES (FMS) ITALY MID LIFE MODERNIZATION LOT 2",
-      "url": "https://www.usaspending.gov/award/CONT_AWD_FA868923F2850_9700_FA868920D2020_9700",
-      "agency": "Department of Defense",
-      "identifier": "FA868923F2850",
-      "date": "2023-07-14",
-      "deadline": null,
-      "summary": "MQ-9 REAPER FOREIGN MILITARY SALES (FMS) ITALY MID LIFE MODERNIZATION LOT 2",
-      "score": 30,
-      "domains": [],
-      "matched_terms": [],
-      "watchlist": null,
-      "extra": {
-        "amount": 80637544.72,
-        "award_type": "DELIVERY ORDER"
-      },
-      "first_seen": "2026-10-09T04:59:25.163485+00:00",
       "is_new": false
     },
     {
@@ -3848,29 +3940,6 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-10-23T03:43:37.649109+00:00",
-      "is_new": false
-    },
-    {
-      "id": "USAspending:FA862018F2366",
-      "source": "USAspending",
-      "category": "procurement",
-      "type": "Award",
-      "title": "GENERAL ATOMICS AERONAUTICAL SYSTEMS, INC.: LASER SMALL DIAMETER BOMB",
-      "url": "https://www.usaspending.gov/award/CONT_AWD_FA862018F2366_9700_FA862015G4040_9700",
-      "agency": "Department of Defense",
-      "identifier": "FA862018F2366",
-      "date": "2017-11-30",
-      "deadline": null,
-      "summary": "LASER SMALL DIAMETER BOMB",
-      "score": 30,
-      "domains": [],
-      "matched_terms": [],
-      "watchlist": null,
-      "extra": {
-        "amount": 23536752.38,
-        "award_type": "DELIVERY ORDER"
-      },
-      "first_seen": "2026-10-09T04:59:25.163485+00:00",
       "is_new": false
     },
     {
@@ -4597,8 +4666,8 @@
     {
       "name": "Congress.gov",
       "status": "ok",
-      "detail": "2 kept; 3 query error(s)",
-      "count": 2
+      "detail": "4 kept",
+      "count": 4
     },
     {
       "name": "SAM.gov",
@@ -4620,20 +4689,20 @@
     }
   ],
   "stats": {
-    "total": 166,
-    "new": 1,
+    "total": 168,
+    "new": 5,
     "by_category": {
       "regulatory": 93,
       "procurement": 60,
       "litigation": 11,
-      "legislative": 2
+      "legislative": 4
     },
     "by_domain": {
-      "air": 122,
-      "supply-chain": 76,
+      "air": 125,
+      "supply-chain": 77,
       "spectrum": 12,
-      "ground": 8,
-      "defense": 7
+      "ground": 9,
+      "defense": 9
     },
     "by_source": {
       "USAspending": 60,
@@ -4641,7 +4710,7 @@
       "Federal Register": 18,
       "Regulations.gov": 17,
       "CourtListener": 11,
-      "Congress.gov": 2
+      "Congress.gov": 4
     }
   },
   "watchlist": [
@@ -4762,6 +4831,32 @@
       "latest": "2026-05-22"
     },
     {
+      "key": "safer-skies",
+      "label": "Safer Skies Act (C-UAS)",
+      "category": "legislative",
+      "agency": "",
+      "domain": [
+        "defense",
+        "air"
+      ],
+      "deadline": null,
+      "count": 1,
+      "latest": "2025-12-15"
+    },
+    {
+      "key": "connected-vehicle",
+      "label": "S. 4429 Connected Vehicle Security Act",
+      "category": "legislative",
+      "agency": "",
+      "domain": [
+        "ground",
+        "supply-chain"
+      ],
+      "deadline": null,
+      "count": 1,
+      "latest": "2026-09-22"
+    },
+    {
       "key": "ustr-301",
       "label": "USTR Section 301 (Drone Investigation)",
       "category": "regulatory",
@@ -4775,38 +4870,12 @@
       "latest": ""
     },
     {
-      "key": "safer-skies",
-      "label": "Safer Skies Act (C-UAS)",
-      "category": "legislative",
-      "agency": "",
-      "domain": [
-        "defense",
-        "air"
-      ],
-      "deadline": null,
-      "count": 0,
-      "latest": ""
-    },
-    {
       "key": "ndaa",
       "label": "NDAA (UAS provisions)",
       "category": "legislative",
       "agency": "",
       "domain": [
         "defense"
-      ],
-      "deadline": null,
-      "count": 0,
-      "latest": ""
-    },
-    {
-      "key": "connected-vehicle",
-      "label": "S. 4429 Connected Vehicle Security Act",
-      "category": "legislative",
-      "agency": "",
-      "domain": [
-        "ground",
-        "supply-chain"
       ],
       "deadline": null,
       "count": 0,
@@ -4828,7 +4897,7 @@
   "deadlines": [
     {
       "deadline": "2026-12-03",
-      "days": 27,
+      "days": 26,
       "title": "Privacy Act of 1974; System of Records",
       "identifier": "Docket No. DOT-OST-2026-3862",
       "category": "regulatory",
@@ -4837,7 +4906,7 @@
     },
     {
       "deadline": "2026-12-04",
-      "days": 28,
+      "days": 27,
       "title": "Agency Information Collection Activities; Proposed eCollection eComments Requested; SAFER SKIES State, Local, Tribal, and Territorial Counter-UAS Information Collection",
       "identifier": "OMB Number 1110-0090",
       "category": "regulatory",
