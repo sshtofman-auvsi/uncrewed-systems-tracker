@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-07T12:36:11.385735+00:00",
-  "generated_human": "2026-11-07 12:36 UTC",
+  "generated_at": "2026-11-07T21:36:41.319730+00:00",
+  "generated_human": "2026-11-07 21:36 UTC",
   "demo": false,
   "items": [
     {
@@ -1035,34 +1035,6 @@
       "is_new": false
     },
     {
-      "id": "Congress.gov:119-hr-9129",
-      "source": "Congress.gov",
-      "category": "legislative",
-      "type": "Bill",
-      "title": "H.R. 9129: GUARD Act of 2026",
-      "url": "https://www.congress.gov/bill/119th-congress/house-bill/9129",
-      "agency": "Congress",
-      "identifier": "H.R. 9129",
-      "date": "2026-09-01",
-      "deadline": null,
-      "summary": "Forwarded by Subcommittee to Full Committee by Voice Vote.",
-      "score": 80,
-      "domains": [
-        "ground",
-        "supply-chain"
-      ],
-      "matched_terms": [
-        "h.r. 9129"
-      ],
-      "watchlist": {
-        "key": "guard-act",
-        "label": "GUARD Act of 2026 (H.R. 9129, robotics on FCC Covered List)"
-      },
-      "extra": {},
-      "first_seen": "2026-08-08T06:54:40.460991+00:00",
-      "is_new": false
-    },
-    {
       "id": "FCC ECFS:26110073604",
       "source": "FCC ECFS",
       "category": "regulatory",
@@ -1870,17 +1842,17 @@
       "is_new": false
     },
     {
-      "id": "Regulations.gov:FAA-2026-4558-1630",
+      "id": "Regulations.gov:FAA-2026-4558-1629",
       "source": "Regulations.gov",
       "category": "regulatory",
       "type": "Comment",
-      "title": "Comment on Designation – Restrict the Operation of Unmanned Aircraft in Close Proximity  to a Fixed Site Facility: Comment from American Chemistry Council",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1630",
+      "title": "Comment on Designation – Restrict the Operation of Unmanned Aircraft in Close Proximity  to a Fixed Site Facility: Comment from Karin L",
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1629",
       "agency": "FAA",
       "identifier": "FAA-2026-4558",
       "date": "2026-08-06",
       "deadline": null,
-      "summary": "Comment from American Chemistry Council",
+      "summary": "Comment from Karin L",
       "score": 80,
       "domains": [
         "air"
@@ -1896,8 +1868,8 @@
       "extra": {
         "docket_total_comments": 1669
       },
-      "first_seen": "2026-11-07T04:58:46.981673+00:00",
-      "is_new": false
+      "first_seen": "2026-11-07T21:36:41.319730+00:00",
+      "is_new": true
     },
     {
       "id": "Federal Register:2026-15659",
@@ -2088,34 +2060,6 @@
       },
       "extra": {},
       "first_seen": "2026-09-01T04:00:06.000510+00:00",
-      "is_new": false
-    },
-    {
-      "id": "Congress.gov:119-s-3481",
-      "source": "Congress.gov",
-      "category": "legislative",
-      "type": "Bill",
-      "title": "S. 3481: SAFER SKIES Act",
-      "url": "https://www.congress.gov/bill/119th-congress/senate-bill/3481",
-      "agency": "Congress",
-      "identifier": "S. 3481",
-      "date": "2025-12-15",
-      "deadline": null,
-      "summary": "Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
-      "score": 80,
-      "domains": [
-        "air",
-        "defense"
-      ],
-      "matched_terms": [
-        "safer skies act"
-      ],
-      "watchlist": {
-        "key": "safer-skies",
-        "label": "Safer Skies Act (C-UAS)"
-      },
-      "extra": {},
-      "first_seen": "2026-11-07T04:58:46.981673+00:00",
       "is_new": false
     },
     {
@@ -4666,8 +4610,8 @@
     {
       "name": "Congress.gov",
       "status": "ok",
-      "detail": "4 kept",
-      "count": 4
+      "detail": "2 kept; 3 query error(s)",
+      "count": 2
     },
     {
       "name": "SAM.gov",
@@ -4689,20 +4633,20 @@
     }
   ],
   "stats": {
-    "total": 168,
-    "new": 0,
+    "total": 166,
+    "new": 1,
     "by_category": {
       "regulatory": 93,
       "procurement": 60,
       "litigation": 11,
-      "legislative": 4
+      "legislative": 2
     },
     "by_domain": {
-      "air": 125,
-      "supply-chain": 77,
+      "air": 124,
+      "supply-chain": 76,
       "spectrum": 12,
-      "ground": 9,
-      "defense": 9
+      "ground": 8,
+      "defense": 8
     },
     "by_source": {
       "USAspending": 60,
@@ -4710,7 +4654,7 @@
       "Federal Register": 18,
       "Regulations.gov": 17,
       "CourtListener": 11,
-      "Congress.gov": 4
+      "Congress.gov": 2
     }
   },
   "watchlist": [
@@ -4805,19 +4749,6 @@
       "latest": "2025-08-08"
     },
     {
-      "key": "guard-act",
-      "label": "GUARD Act of 2026 (H.R. 9129, robotics on FCC Covered List)",
-      "category": "legislative",
-      "agency": "",
-      "domain": [
-        "ground",
-        "supply-chain"
-      ],
-      "deadline": null,
-      "count": 1,
-      "latest": "2026-09-01"
-    },
-    {
       "key": "build-america-250",
       "label": "BUILD America 250 Act (Sec. 6009 LiDAR)",
       "category": "legislative",
@@ -4829,19 +4760,6 @@
       "deadline": null,
       "count": 1,
       "latest": "2026-05-22"
-    },
-    {
-      "key": "safer-skies",
-      "label": "Safer Skies Act (C-UAS)",
-      "category": "legislative",
-      "agency": "",
-      "domain": [
-        "defense",
-        "air"
-      ],
-      "deadline": null,
-      "count": 1,
-      "latest": "2025-12-15"
     },
     {
       "key": "connected-vehicle",
@@ -4863,6 +4781,32 @@
       "agency": "USTR",
       "domain": [
         "supply-chain",
+        "air"
+      ],
+      "deadline": null,
+      "count": 0,
+      "latest": ""
+    },
+    {
+      "key": "guard-act",
+      "label": "GUARD Act of 2026 (H.R. 9129, robotics on FCC Covered List)",
+      "category": "legislative",
+      "agency": "",
+      "domain": [
+        "ground",
+        "supply-chain"
+      ],
+      "deadline": null,
+      "count": 0,
+      "latest": ""
+    },
+    {
+      "key": "safer-skies",
+      "label": "Safer Skies Act (C-UAS)",
+      "category": "legislative",
+      "agency": "",
+      "domain": [
+        "defense",
         "air"
       ],
       "deadline": null,
