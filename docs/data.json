@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-07T21:36:41.319730+00:00",
-  "generated_human": "2026-11-07 21:36 UTC",
+  "generated_at": "2026-11-08T05:02:27.010501+00:00",
+  "generated_human": "2026-11-08 05:02 UTC",
   "demo": false,
   "items": [
     {
@@ -414,35 +414,6 @@
         "proceeding": "26-22"
       },
       "first_seen": "2026-10-02T21:55:35.822740+00:00",
-      "is_new": false
-    },
-    {
-      "id": "Congress.gov:119-s-4429",
-      "source": "Congress.gov",
-      "category": "legislative",
-      "type": "Bill",
-      "title": "S. 4429: Connected Vehicle Security Act of 2026",
-      "url": "https://www.congress.gov/bill/119th-congress/senate-bill/4429",
-      "agency": "Congress",
-      "identifier": "S. 4429",
-      "date": "2026-09-22",
-      "deadline": null,
-      "summary": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 671.",
-      "score": 80,
-      "domains": [
-        "ground",
-        "supply-chain"
-      ],
-      "matched_terms": [
-        "connected vehicle",
-        "connected vehicle security act"
-      ],
-      "watchlist": {
-        "key": "connected-vehicle",
-        "label": "S. 4429 Connected Vehicle Security Act"
-      },
-      "extra": {},
-      "first_seen": "2026-11-07T04:58:46.981673+00:00",
       "is_new": false
     },
     {
@@ -1033,6 +1004,34 @@
       },
       "first_seen": "2026-09-01T16:12:41.977744+00:00",
       "is_new": false
+    },
+    {
+      "id": "Congress.gov:119-hr-9129",
+      "source": "Congress.gov",
+      "category": "legislative",
+      "type": "Bill",
+      "title": "H.R. 9129: GUARD Act of 2026",
+      "url": "https://www.congress.gov/bill/119th-congress/house-bill/9129",
+      "agency": "Congress",
+      "identifier": "H.R. 9129",
+      "date": "2026-09-01",
+      "deadline": null,
+      "summary": "Forwarded by Subcommittee to Full Committee by Voice Vote.",
+      "score": 80,
+      "domains": [
+        "ground",
+        "supply-chain"
+      ],
+      "matched_terms": [
+        "h.r. 9129"
+      ],
+      "watchlist": {
+        "key": "guard-act",
+        "label": "GUARD Act of 2026 (H.R. 9129, robotics on FCC Covered List)"
+      },
+      "extra": {},
+      "first_seen": "2026-11-08T05:02:27.010501+00:00",
+      "is_new": true
     },
     {
       "id": "FCC ECFS:26110073604",
@@ -1869,7 +1868,7 @@
         "docket_total_comments": 1669
       },
       "first_seen": "2026-11-07T21:36:41.319730+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "Federal Register:2026-15659",
@@ -2543,6 +2542,35 @@
       "is_new": false
     },
     {
+      "id": "USAspending:70T05026F7500N003",
+      "source": "USAspending",
+      "category": "procurement",
+      "type": "Award",
+      "title": "RELI GROUP INC: COUNTER-UNMANNED AIRCRAFT SYSTEMS ENTERPRISE PROGRAM MANAGEMENT AND TECHNICAL SUPPORT SERVICES",
+      "url": "https://www.usaspending.gov/award/CONT_AWD_70T05026F7500N003_7013_70T05024A7503N002_7013",
+      "agency": "Department of Homeland Security",
+      "identifier": "70T05026F7500N003",
+      "date": "2026-09-30",
+      "deadline": null,
+      "summary": "COUNTER-UNMANNED AIRCRAFT SYSTEMS ENTERPRISE PROGRAM MANAGEMENT AND TECHNICAL SUPPORT SERVICES",
+      "score": 38,
+      "domains": [
+        "air",
+        "defense"
+      ],
+      "matched_terms": [
+        "unmanned aircraft",
+        "counter-unmanned"
+      ],
+      "watchlist": null,
+      "extra": {
+        "amount": 3548464.0,
+        "award_type": "BPA CALL"
+      },
+      "first_seen": "2026-11-08T05:02:27.010501+00:00",
+      "is_new": true
+    },
+    {
       "id": "USAspending:70T05026F6116N004",
       "source": "USAspending",
       "category": "procurement",
@@ -2746,6 +2774,34 @@
       "is_new": false
     },
     {
+      "id": "USAspending:693KA824F00073",
+      "source": "USAspending",
+      "category": "procurement",
+      "type": "Award",
+      "title": "LS TECHNOLOGIES LLC: TORFP 2354 - UNMANNED AIRCRAFT SYSTEMS (UAS) TRAFFIC MANAGEMENT (UTM) SYSTEMS ENGINEERING",
+      "url": "https://www.usaspending.gov/award/CONT_AWD_693KA824F00073_6920_693KA822D00027_6920",
+      "agency": "Department of Transportation",
+      "identifier": "693KA824F00073",
+      "date": "2024-01-22",
+      "deadline": null,
+      "summary": "TORFP 2354 - UNMANNED AIRCRAFT SYSTEMS (UAS) TRAFFIC MANAGEMENT (UTM) SYSTEMS ENGINEERING",
+      "score": 34,
+      "domains": [
+        "air"
+      ],
+      "matched_terms": [
+        "unmanned aircraft",
+        "uas"
+      ],
+      "watchlist": null,
+      "extra": {
+        "amount": 2804623.45,
+        "award_type": "DELIVERY ORDER"
+      },
+      "first_seen": "2026-11-08T05:02:27.010501+00:00",
+      "is_new": true
+    },
+    {
       "id": "USAspending:W31P4Q24FE001",
       "source": "USAspending",
       "category": "procurement",
@@ -2878,29 +2934,6 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-11-04T05:10:55.333668+00:00",
-      "is_new": false
-    },
-    {
-      "id": "USAspending:FA228026F0012",
-      "source": "USAspending",
-      "category": "procurement",
-      "type": "Award",
-      "title": "URBAN SKY THEORY INC: WALLABEE MICRO-BALLOON (MHAB) ISR SYSTEM",
-      "url": "https://www.usaspending.gov/award/CONT_AWD_FA228026F0012_9700_FA228025D0002_9700",
-      "agency": "Department of Defense",
-      "identifier": "FA228026F0012",
-      "date": "2026-07-10",
-      "deadline": null,
-      "summary": "WALLABEE MICRO-BALLOON (MHAB) ISR SYSTEM",
-      "score": 30,
-      "domains": [],
-      "matched_terms": [],
-      "watchlist": null,
-      "extra": {
-        "amount": 11299090.0,
-        "award_type": "DELIVERY ORDER"
-      },
-      "first_seen": "2026-10-10T04:44:51.808814+00:00",
       "is_new": false
     },
     {
@@ -3453,6 +3486,29 @@
       "is_new": false
     },
     {
+      "id": "USAspending:19AQMM26F0930",
+      "source": "USAspending",
+      "category": "procurement",
+      "type": "Award",
+      "title": "BERRY AVIATION, INC.: INL BOGOTA COUNTERUAS - DETECT AND DEFEAT PROJECT",
+      "url": "https://www.usaspending.gov/award/CONT_AWD_19AQMM26F0930_1900_19AQMM22D0045_1900",
+      "agency": "Department of State",
+      "identifier": "19AQMM26F0930",
+      "date": "2024-09-16",
+      "deadline": null,
+      "summary": "INL BOGOTA COUNTERUAS - DETECT AND DEFEAT PROJECT",
+      "score": 30,
+      "domains": [],
+      "matched_terms": [],
+      "watchlist": null,
+      "extra": {
+        "amount": 2999721.92,
+        "award_type": "DELIVERY ORDER"
+      },
+      "first_seen": "2026-11-08T05:02:27.010501+00:00",
+      "is_new": true
+    },
+    {
       "id": "USAspending:N0001424C1324",
       "source": "USAspending",
       "category": "procurement",
@@ -3615,33 +3671,6 @@
         "award_type": "DEFINITIVE CONTRACT"
       },
       "first_seen": "2026-11-07T04:58:46.981673+00:00",
-      "is_new": false
-    },
-    {
-      "id": "USAspending:FA462523C0025",
-      "source": "USAspending",
-      "category": "procurement",
-      "type": "Award",
-      "title": "ASYLON INC: SMALL BUSINESS INNOVATION AND RESEARCH ADVANCING DRONE TECHNOLOGY FOR STRATFI SBIR PHASE II",
-      "url": "https://www.usaspending.gov/award/CONT_AWD_FA462523C0025_9700_-NONE-_-NONE-",
-      "agency": "Department of Defense",
-      "identifier": "FA462523C0025",
-      "date": "2023-09-01",
-      "deadline": null,
-      "summary": "SMALL BUSINESS INNOVATION AND RESEARCH ADVANCING DRONE TECHNOLOGY FOR STRATFI SBIR PHASE II",
-      "score": 30,
-      "domains": [
-        "air"
-      ],
-      "matched_terms": [
-        "drone"
-      ],
-      "watchlist": null,
-      "extra": {
-        "amount": 4599818.86,
-        "award_type": "DEFINITIVE CONTRACT"
-      },
-      "first_seen": "2026-11-05T05:31:53.090220+00:00",
       "is_new": false
     },
     {
@@ -3907,29 +3936,6 @@
         "award_type": "DEFINITIVE CONTRACT"
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": false
-    },
-    {
-      "id": "USAspending:FA867810C0100",
-      "source": "USAspending",
-      "category": "procurement",
-      "type": "Award",
-      "title": "THE BOEING COMPANY: QF-16 FULL SCALE AERIAL TARGET (FSAT)",
-      "url": "https://www.usaspending.gov/award/CONT_AWD_FA867810C0100_9700_-NONE-_-NONE-",
-      "agency": "Department of Defense",
-      "identifier": "FA867810C0100",
-      "date": "2010-03-08",
-      "deadline": null,
-      "summary": "QF-16 FULL SCALE AERIAL TARGET (FSAT)",
-      "score": 30,
-      "domains": [],
-      "matched_terms": [],
-      "watchlist": null,
-      "extra": {
-        "amount": 329846037.78,
-        "award_type": "DEFINITIVE CONTRACT"
-      },
-      "first_seen": "2026-10-29T04:44:39.416861+00:00",
       "is_new": false
     },
     {
@@ -4557,43 +4563,14 @@
       },
       "first_seen": "2026-08-18T06:43:25.448189+00:00",
       "is_new": false
-    },
-    {
-      "id": "Federal Register:2026-13966",
-      "source": "Federal Register",
-      "category": "regulatory",
-      "type": "Final Rule",
-      "title": "Safety Zone; St. Clair River, Port Huron, MI",
-      "url": "https://www.federalregister.gov/documents/2026/07/10/2026-13966/safety-zone-st-clair-river-port-huron-mi",
-      "agency": "Homeland Security Department, Coast Guard",
-      "identifier": "Docket Number USCG-2026-0879",
-      "date": "2026-07-10",
-      "deadline": null,
-      "summary": "The Coast Guard is establishing a temporary safety zone for navigable waters of the St. Clair River within a 420-foot radius of Desmond Landing in the St. Clair River, Port Huron, MI. The safety zone is needed to protect personnel, vessels, and the marine environment from potential hazards during a drone show event. Entry of vessels or persons into this zone is prohibited unless specifically authorized by the Captain of the Port Detroit or their designated representative.",
-      "score": 20,
-      "domains": [
-        "air"
-      ],
-      "matched_terms": [
-        "drone"
-      ],
-      "watchlist": null,
-      "extra": {
-        "comment_url": null,
-        "dockets": [
-          "Docket Number USCG-2026-0879"
-        ]
-      },
-      "first_seen": "2026-07-10T11:23:52.007909+00:00",
-      "is_new": false
     }
   ],
   "sources": [
     {
       "name": "Federal Register",
       "status": "ok",
-      "detail": "20 kept",
-      "count": 20
+      "detail": "19 kept",
+      "count": 19
     },
     {
       "name": "Regulations.gov",
@@ -4633,10 +4610,10 @@
     }
   ],
   "stats": {
-    "total": 166,
-    "new": 1,
+    "total": 165,
+    "new": 4,
     "by_category": {
-      "regulatory": 93,
+      "regulatory": 92,
       "procurement": 60,
       "litigation": 11,
       "legislative": 2
@@ -4645,13 +4622,13 @@
       "air": 124,
       "supply-chain": 76,
       "spectrum": 12,
-      "ground": 8,
-      "defense": 8
+      "defense": 9,
+      "ground": 8
     },
     "by_source": {
       "USAspending": 60,
       "FCC ECFS": 58,
-      "Federal Register": 18,
+      "Federal Register": 17,
       "Regulations.gov": 17,
       "CourtListener": 11,
       "Congress.gov": 2
@@ -4749,6 +4726,19 @@
       "latest": "2025-08-08"
     },
     {
+      "key": "guard-act",
+      "label": "GUARD Act of 2026 (H.R. 9129, robotics on FCC Covered List)",
+      "category": "legislative",
+      "agency": "",
+      "domain": [
+        "ground",
+        "supply-chain"
+      ],
+      "deadline": null,
+      "count": 1,
+      "latest": "2026-09-01"
+    },
+    {
       "key": "build-america-250",
       "label": "BUILD America 250 Act (Sec. 6009 LiDAR)",
       "category": "legislative",
@@ -4762,19 +4752,6 @@
       "latest": "2026-05-22"
     },
     {
-      "key": "connected-vehicle",
-      "label": "S. 4429 Connected Vehicle Security Act",
-      "category": "legislative",
-      "agency": "",
-      "domain": [
-        "ground",
-        "supply-chain"
-      ],
-      "deadline": null,
-      "count": 1,
-      "latest": "2026-09-22"
-    },
-    {
       "key": "ustr-301",
       "label": "USTR Section 301 (Drone Investigation)",
       "category": "regulatory",
@@ -4782,19 +4759,6 @@
       "domain": [
         "supply-chain",
         "air"
-      ],
-      "deadline": null,
-      "count": 0,
-      "latest": ""
-    },
-    {
-      "key": "guard-act",
-      "label": "GUARD Act of 2026 (H.R. 9129, robotics on FCC Covered List)",
-      "category": "legislative",
-      "agency": "",
-      "domain": [
-        "ground",
-        "supply-chain"
       ],
       "deadline": null,
       "count": 0,
@@ -4826,6 +4790,19 @@
       "latest": ""
     },
     {
+      "key": "connected-vehicle",
+      "label": "S. 4429 Connected Vehicle Security Act",
+      "category": "legislative",
+      "agency": "",
+      "domain": [
+        "ground",
+        "supply-chain"
+      ],
+      "deadline": null,
+      "count": 0,
+      "latest": ""
+    },
+    {
       "key": "obbba-90005",
       "label": "OBBBA Sec. 90005 (C-UAS grants)",
       "category": "legislative",
@@ -4841,7 +4818,7 @@
   "deadlines": [
     {
       "deadline": "2026-12-03",
-      "days": 26,
+      "days": 25,
       "title": "Privacy Act of 1974; System of Records",
       "identifier": "Docket No. DOT-OST-2026-3862",
       "category": "regulatory",
@@ -4850,7 +4827,7 @@
     },
     {
       "deadline": "2026-12-04",
-      "days": 27,
+      "days": 26,
       "title": "Agency Information Collection Activities; Proposed eCollection eComments Requested; SAFER SKIES State, Local, Tribal, and Territorial Counter-UAS Information Collection",
       "identifier": "OMB Number 1110-0090",
       "category": "regulatory",
