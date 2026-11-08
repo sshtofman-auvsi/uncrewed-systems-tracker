@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-08T05:02:27.010501+00:00",
-  "generated_human": "2026-11-08 05:02 UTC",
+  "generated_at": "2026-11-08T12:54:38.878972+00:00",
+  "generated_human": "2026-11-08 12:54 UTC",
   "demo": false,
   "items": [
     {
@@ -415,6 +415,35 @@
       },
       "first_seen": "2026-10-02T21:55:35.822740+00:00",
       "is_new": false
+    },
+    {
+      "id": "Congress.gov:119-s-4429",
+      "source": "Congress.gov",
+      "category": "legislative",
+      "type": "Bill",
+      "title": "S. 4429: Connected Vehicle Security Act of 2026",
+      "url": "https://www.congress.gov/bill/119th-congress/senate-bill/4429",
+      "agency": "Congress",
+      "identifier": "S. 4429",
+      "date": "2026-09-22",
+      "deadline": null,
+      "summary": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 671.",
+      "score": 80,
+      "domains": [
+        "ground",
+        "supply-chain"
+      ],
+      "matched_terms": [
+        "connected vehicle",
+        "connected vehicle security act"
+      ],
+      "watchlist": {
+        "key": "connected-vehicle",
+        "label": "S. 4429 Connected Vehicle Security Act"
+      },
+      "extra": {},
+      "first_seen": "2026-11-08T12:54:38.878972+00:00",
+      "is_new": true
     },
     {
       "id": "FCC ECFS:26110076515",
@@ -1031,7 +1060,7 @@
       },
       "extra": {},
       "first_seen": "2026-11-08T05:02:27.010501+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:26110073604",
@@ -1841,17 +1870,17 @@
       "is_new": false
     },
     {
-      "id": "Regulations.gov:FAA-2026-4558-1629",
+      "id": "Regulations.gov:FAA-2026-4558-1630",
       "source": "Regulations.gov",
       "category": "regulatory",
       "type": "Comment",
-      "title": "Comment on Designation – Restrict the Operation of Unmanned Aircraft in Close Proximity  to a Fixed Site Facility: Comment from Karin L",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1629",
+      "title": "Comment on Designation – Restrict the Operation of Unmanned Aircraft in Close Proximity  to a Fixed Site Facility: Comment from American Chemistry Council",
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1630",
       "agency": "FAA",
       "identifier": "FAA-2026-4558",
       "date": "2026-08-06",
       "deadline": null,
-      "summary": "Comment from Karin L",
+      "summary": "Comment from American Chemistry Council",
       "score": 80,
       "domains": [
         "air"
@@ -1867,8 +1896,8 @@
       "extra": {
         "docket_total_comments": 1669
       },
-      "first_seen": "2026-11-07T21:36:41.319730+00:00",
-      "is_new": false
+      "first_seen": "2026-11-08T12:54:38.878972+00:00",
+      "is_new": true
     },
     {
       "id": "Federal Register:2026-15659",
@@ -2060,6 +2089,34 @@
       "extra": {},
       "first_seen": "2026-09-01T04:00:06.000510+00:00",
       "is_new": false
+    },
+    {
+      "id": "Congress.gov:119-s-3481",
+      "source": "Congress.gov",
+      "category": "legislative",
+      "type": "Bill",
+      "title": "S. 3481: SAFER SKIES Act",
+      "url": "https://www.congress.gov/bill/119th-congress/senate-bill/3481",
+      "agency": "Congress",
+      "identifier": "S. 3481",
+      "date": "2025-12-15",
+      "deadline": null,
+      "summary": "Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
+      "score": 80,
+      "domains": [
+        "air",
+        "defense"
+      ],
+      "matched_terms": [
+        "safer skies act"
+      ],
+      "watchlist": {
+        "key": "safer-skies",
+        "label": "Safer Skies Act (C-UAS)"
+      },
+      "extra": {},
+      "first_seen": "2026-11-08T12:54:38.878972+00:00",
+      "is_new": true
     },
     {
       "id": "USAspending:6973GH25F01296",
@@ -2568,7 +2625,7 @@
         "award_type": "BPA CALL"
       },
       "first_seen": "2026-11-08T05:02:27.010501+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:70T05026F6116N004",
@@ -2799,7 +2856,7 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-11-08T05:02:27.010501+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:W31P4Q24FE001",
@@ -3506,7 +3563,7 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-11-08T05:02:27.010501+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:N0001424C1324",
@@ -4587,8 +4644,8 @@
     {
       "name": "Congress.gov",
       "status": "ok",
-      "detail": "2 kept; 3 query error(s)",
-      "count": 2
+      "detail": "4 kept",
+      "count": 4
     },
     {
       "name": "SAM.gov",
@@ -4610,20 +4667,20 @@
     }
   ],
   "stats": {
-    "total": 165,
-    "new": 4,
+    "total": 167,
+    "new": 3,
     "by_category": {
       "regulatory": 92,
       "procurement": 60,
       "litigation": 11,
-      "legislative": 2
+      "legislative": 4
     },
     "by_domain": {
-      "air": 124,
-      "supply-chain": 76,
+      "air": 125,
+      "supply-chain": 77,
       "spectrum": 12,
-      "defense": 9,
-      "ground": 8
+      "defense": 10,
+      "ground": 9
     },
     "by_source": {
       "USAspending": 60,
@@ -4631,7 +4688,7 @@
       "Federal Register": 17,
       "Regulations.gov": 17,
       "CourtListener": 11,
-      "Congress.gov": 2
+      "Congress.gov": 4
     }
   },
   "watchlist": [
@@ -4752,6 +4809,32 @@
       "latest": "2026-05-22"
     },
     {
+      "key": "safer-skies",
+      "label": "Safer Skies Act (C-UAS)",
+      "category": "legislative",
+      "agency": "",
+      "domain": [
+        "defense",
+        "air"
+      ],
+      "deadline": null,
+      "count": 1,
+      "latest": "2025-12-15"
+    },
+    {
+      "key": "connected-vehicle",
+      "label": "S. 4429 Connected Vehicle Security Act",
+      "category": "legislative",
+      "agency": "",
+      "domain": [
+        "ground",
+        "supply-chain"
+      ],
+      "deadline": null,
+      "count": 1,
+      "latest": "2026-09-22"
+    },
+    {
       "key": "ustr-301",
       "label": "USTR Section 301 (Drone Investigation)",
       "category": "regulatory",
@@ -4765,38 +4848,12 @@
       "latest": ""
     },
     {
-      "key": "safer-skies",
-      "label": "Safer Skies Act (C-UAS)",
-      "category": "legislative",
-      "agency": "",
-      "domain": [
-        "defense",
-        "air"
-      ],
-      "deadline": null,
-      "count": 0,
-      "latest": ""
-    },
-    {
       "key": "ndaa",
       "label": "NDAA (UAS provisions)",
       "category": "legislative",
       "agency": "",
       "domain": [
         "defense"
-      ],
-      "deadline": null,
-      "count": 0,
-      "latest": ""
-    },
-    {
-      "key": "connected-vehicle",
-      "label": "S. 4429 Connected Vehicle Security Act",
-      "category": "legislative",
-      "agency": "",
-      "domain": [
-        "ground",
-        "supply-chain"
       ],
       "deadline": null,
       "count": 0,
