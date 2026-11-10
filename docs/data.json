@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-10T14:31:38.033098+00:00",
-  "generated_human": "2026-11-10 14:31 UTC",
+  "generated_at": "2026-11-10T22:57:55.441177+00:00",
+  "generated_human": "2026-11-10 22:57 UTC",
   "demo": false,
   "items": [
     {
@@ -33,6 +33,38 @@
       "is_new": false
     },
     {
+      "id": "FCC ECFS:26110084211",
+      "source": "FCC ECFS",
+      "category": "regulatory",
+      "type": "Comment",
+      "title": "Haris M Islam: COMMENT (FCC 26-22)",
+      "url": "https://www.fcc.gov/ecfs/search/search-filings/filing/26110084211",
+      "agency": "FCC",
+      "identifier": "FCC 26-22",
+      "date": "2026-11-09",
+      "deadline": null,
+      "summary": "I strongly oppose the proposed FCC ban on DJI drones and urge the Commission to reject this overreach. DJI products are the industry standard for small businesses, farmers, public safety agencies, and hobbyists across the United States. Fire departments, search-and-rescue teams, and law enforcement rely on these drones because they are reliable, affordable, and easy to deploy—banning them would cr",
+      "score": 80,
+      "domains": [
+        "air",
+        "supply-chain"
+      ],
+      "matched_terms": [
+        "dji",
+        "public safety",
+        "26-22"
+      ],
+      "watchlist": {
+        "key": "et-26-22",
+        "label": "ET 26-22 / DA-26-592 (DJI Security Assessment — comment by Aug 28, 2026)"
+      },
+      "extra": {
+        "proceeding": "26-22"
+      },
+      "first_seen": "2026-11-10T01:17:41.671836+00:00",
+      "is_new": false
+    },
+    {
       "id": "FCC ECFS:26110084204",
       "source": "FCC ECFS",
       "category": "regulatory",
@@ -53,38 +85,6 @@
         "drone",
         "part 107",
         "dji",
-        "26-22"
-      ],
-      "watchlist": {
-        "key": "et-26-22",
-        "label": "ET 26-22 / DA-26-592 (DJI Security Assessment — comment by Aug 28, 2026)"
-      },
-      "extra": {
-        "proceeding": "26-22"
-      },
-      "first_seen": "2026-11-10T01:17:41.671836+00:00",
-      "is_new": false
-    },
-    {
-      "id": "FCC ECFS:26110084211",
-      "source": "FCC ECFS",
-      "category": "regulatory",
-      "type": "Comment",
-      "title": "Haris M Islam: COMMENT (FCC 26-22)",
-      "url": "https://www.fcc.gov/ecfs/search/search-filings/filing/26110084211",
-      "agency": "FCC",
-      "identifier": "FCC 26-22",
-      "date": "2026-11-09",
-      "deadline": null,
-      "summary": "I strongly oppose the proposed FCC ban on DJI drones and urge the Commission to reject this overreach. DJI products are the industry standard for small businesses, farmers, public safety agencies, and hobbyists across the United States. Fire departments, search-and-rescue teams, and law enforcement rely on these drones because they are reliable, affordable, and easy to deploy—banning them would cr",
-      "score": 80,
-      "domains": [
-        "air",
-        "supply-chain"
-      ],
-      "matched_terms": [
-        "dji",
-        "public safety",
         "26-22"
       ],
       "watchlist": {
@@ -1908,17 +1908,17 @@
       "is_new": false
     },
     {
-      "id": "Regulations.gov:FAA-2026-4558-1629",
+      "id": "Regulations.gov:FAA-2026-4558-1630",
       "source": "Regulations.gov",
       "category": "regulatory",
       "type": "Comment",
-      "title": "Comment on Designation – Restrict the Operation of Unmanned Aircraft in Close Proximity  to a Fixed Site Facility: Comment from Karin L",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1629",
+      "title": "Comment on Designation – Restrict the Operation of Unmanned Aircraft in Close Proximity  to a Fixed Site Facility: Comment from American Chemistry Council",
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1630",
       "agency": "FAA",
       "identifier": "FAA-2026-4558",
       "date": "2026-08-06",
       "deadline": null,
-      "summary": "Comment from Karin L",
+      "summary": "Comment from American Chemistry Council",
       "score": 80,
       "domains": [
         "air"
@@ -1934,8 +1934,8 @@
       "extra": {
         "docket_total_comments": 1669
       },
-      "first_seen": "2026-11-09T15:27:42.662760+00:00",
-      "is_new": false
+      "first_seen": "2026-11-10T22:57:55.441177+00:00",
+      "is_new": true
     },
     {
       "id": "Federal Register:2026-15659",
@@ -4060,17 +4060,41 @@
         ]
       },
       "first_seen": "2026-11-10T14:31:38.033098+00:00",
+      "is_new": false
+    },
+    {
+      "id": "Regulations.gov:FAA-2024-0025-0024",
+      "source": "Regulations.gov",
+      "category": "regulatory",
+      "type": "Supporting Material",
+      "title": "U.S. DOT/FAA - Inspection Programs for Single-Engine Turbine-Powered Airplanes and Unmanned Aircraft; and Miscellaneous Maintenance-Related Updates - Final Rule - Regulatory Impact Analysis (April 2026)",
+      "url": "https://www.regulations.gov/document/FAA-2024-0025-0024",
+      "agency": "FAA",
+      "identifier": "FAA-2024-0025",
+      "date": "2026-11-10",
+      "deadline": null,
+      "summary": "U.S. DOT/FAA - Inspection Programs for Single-Engine Turbine-Powered Airplanes and Unmanned Aircraft; and Miscellaneous Maintenance-Related Updates - Final Rule - Regulatory Impact Analysis (April 2026)",
+      "score": 22,
+      "domains": [
+        "air"
+      ],
+      "matched_terms": [
+        "unmanned aircraft"
+      ],
+      "watchlist": null,
+      "extra": {},
+      "first_seen": "2026-11-10T22:57:55.441177+00:00",
       "is_new": true
     },
     {
-      "id": "Regulations.gov:FAA_FRDOC_0001-28607",
+      "id": "Regulations.gov:FAA-2024-0025-0023",
       "source": "Regulations.gov",
       "category": "regulatory",
       "type": "Final Rule",
       "title": "Inspection Programs for Single-Engine Turbine-Powered Airplanes and Unmanned Aircraft; and Miscellaneous Maintenance-Related Updates",
-      "url": "https://www.regulations.gov/document/FAA_FRDOC_0001-28607",
+      "url": "https://www.regulations.gov/document/FAA-2024-0025-0023",
       "agency": "FAA",
-      "identifier": "FAA_FRDOC_0001",
+      "identifier": "FAA-2024-0025",
       "date": "2026-11-10",
       "deadline": null,
       "summary": "Inspection Programs for Single-Engine Turbine-Powered Airplanes and Unmanned Aircraft; and Miscellaneous Maintenance-Related Updates",
@@ -4083,7 +4107,7 @@
       ],
       "watchlist": null,
       "extra": {},
-      "first_seen": "2026-11-10T14:31:38.033098+00:00",
+      "first_seen": "2026-11-10T22:57:55.441177+00:00",
       "is_new": true
     },
     {
@@ -4172,6 +4196,78 @@
       },
       "first_seen": "2026-07-31T08:51:48.417697+00:00",
       "is_new": false
+    },
+    {
+      "id": "Regulations.gov:FAA-2026-14787-0001",
+      "source": "Regulations.gov",
+      "category": "regulatory",
+      "type": "Document",
+      "title": "Texas Precision Drone Works, LLC - Petition",
+      "url": "https://www.regulations.gov/document/FAA-2026-14787-0001",
+      "agency": "FAA",
+      "identifier": "FAA-2026-14787",
+      "date": "2026-11-10",
+      "deadline": null,
+      "summary": "Texas Precision Drone Works, LLC - Petition",
+      "score": 20,
+      "domains": [
+        "air"
+      ],
+      "matched_terms": [
+        "drone"
+      ],
+      "watchlist": null,
+      "extra": {},
+      "first_seen": "2026-11-10T22:57:55.441177+00:00",
+      "is_new": true
+    },
+    {
+      "id": "Regulations.gov:FAA-2026-14788-0001",
+      "source": "Regulations.gov",
+      "category": "regulatory",
+      "type": "Document",
+      "title": "Davidson Drone Services, LLC - Petition",
+      "url": "https://www.regulations.gov/document/FAA-2026-14788-0001",
+      "agency": "FAA",
+      "identifier": "FAA-2026-14788",
+      "date": "2026-11-10",
+      "deadline": null,
+      "summary": "Davidson Drone Services, LLC - Petition",
+      "score": 20,
+      "domains": [
+        "air"
+      ],
+      "matched_terms": [
+        "drone"
+      ],
+      "watchlist": null,
+      "extra": {},
+      "first_seen": "2026-11-10T22:57:55.441177+00:00",
+      "is_new": true
+    },
+    {
+      "id": "Regulations.gov:FAA-2024-2230-0004",
+      "source": "Regulations.gov",
+      "category": "regulatory",
+      "type": "Document",
+      "title": "Wirz Drone LLC - Petition for Extension",
+      "url": "https://www.regulations.gov/document/FAA-2024-2230-0004",
+      "agency": "FAA",
+      "identifier": "FAA-2024-2230",
+      "date": "2026-11-10",
+      "deadline": null,
+      "summary": "Wirz Drone LLC - Petition for Extension",
+      "score": 20,
+      "domains": [
+        "air"
+      ],
+      "matched_terms": [
+        "drone"
+      ],
+      "watchlist": null,
+      "extra": {},
+      "first_seen": "2026-11-10T22:57:55.441177+00:00",
+      "is_new": true
     },
     {
       "id": "Regulations.gov:FAA-2026-14687-0001",
@@ -4771,8 +4867,8 @@
     {
       "name": "Regulations.gov",
       "status": "ok",
-      "detail": "32 kept",
-      "count": 32
+      "detail": "36 kept",
+      "count": 36
     },
     {
       "name": "FCC ECFS",
@@ -4783,7 +4879,7 @@
     {
       "name": "Congress.gov",
       "status": "ok",
-      "detail": "4 kept; 1 query error(s)",
+      "detail": "4 kept",
       "count": 4
     },
     {
@@ -4806,16 +4902,16 @@
     }
   ],
   "stats": {
-    "total": 172,
-    "new": 2,
+    "total": 176,
+    "new": 6,
     "by_category": {
-      "regulatory": 97,
+      "regulatory": 101,
       "procurement": 60,
       "litigation": 11,
       "legislative": 4
     },
     "by_domain": {
-      "air": 130,
+      "air": 134,
       "supply-chain": 78,
       "spectrum": 13,
       "defense": 10,
@@ -4824,7 +4920,7 @@
     "by_source": {
       "USAspending": 60,
       "FCC ECFS": 59,
-      "Regulations.gov": 20,
+      "Regulations.gov": 24,
       "Federal Register": 18,
       "CourtListener": 11,
       "Congress.gov": 4
