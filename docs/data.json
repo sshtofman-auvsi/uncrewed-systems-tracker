@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-10T01:17:41.671836+00:00",
-  "generated_human": "2026-11-10 01:17 UTC",
+  "generated_at": "2026-11-10T14:31:38.033098+00:00",
+  "generated_human": "2026-11-10 14:31 UTC",
   "demo": false,
   "items": [
     {
@@ -30,7 +30,7 @@
         "proceeding": "26-74"
       },
       "first_seen": "2026-11-10T01:17:41.671836+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:26110084204",
@@ -63,7 +63,7 @@
         "proceeding": "26-22"
       },
       "first_seen": "2026-11-10T01:17:41.671836+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:26110084211",
@@ -95,7 +95,7 @@
         "proceeding": "26-22"
       },
       "first_seen": "2026-11-10T01:17:41.671836+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "Federal Register:2026-22436",
@@ -4034,6 +4034,59 @@
       "is_new": false
     },
     {
+      "id": "Federal Register:2026-22953",
+      "source": "Federal Register",
+      "category": "regulatory",
+      "type": "Final Rule",
+      "title": "Inspection Programs for Single-Engine Turbine-Powered Airplanes and Unmanned Aircraft; and Miscellaneous Maintenance-Related Updates",
+      "url": "https://www.federalregister.gov/documents/2026/11/10/2026-22953/inspection-programs-for-single-engine-turbine-powered-airplanes-and-unmanned-aircraft-and",
+      "agency": "Transportation Department, Federal Aviation Administration",
+      "identifier": "Docket No.: FAA-2024-0025 Amdt. Nos. 91-385, 125-78, 135-150, 137-18, and 145-34",
+      "date": "2026-11-10",
+      "deadline": null,
+      "summary": "The final rule updates the maintenance inspection requirements for single-engine turbine-powered airplanes and unmanned aircraft. Aircraft owners and operators now have more inspection program options to choose from and more relaxed mechanical reliability reporting requirements. It also clarifies various maintenance-related regulations. This final rule relieves aircraft owners, operators, maintenance providers, and FAA of certain workload burdens by facilitating a more efficient workload for these individuals without compromising aviation safety.",
+      "score": 22,
+      "domains": [
+        "air"
+      ],
+      "matched_terms": [
+        "unmanned aircraft"
+      ],
+      "watchlist": null,
+      "extra": {
+        "comment_url": null,
+        "dockets": [
+          "Docket No.: FAA-2024-0025 Amdt. Nos. 91-385, 125-78, 135-150, 137-18, and 145-34"
+        ]
+      },
+      "first_seen": "2026-11-10T14:31:38.033098+00:00",
+      "is_new": true
+    },
+    {
+      "id": "Regulations.gov:FAA_FRDOC_0001-28607",
+      "source": "Regulations.gov",
+      "category": "regulatory",
+      "type": "Final Rule",
+      "title": "Inspection Programs for Single-Engine Turbine-Powered Airplanes and Unmanned Aircraft; and Miscellaneous Maintenance-Related Updates",
+      "url": "https://www.regulations.gov/document/FAA_FRDOC_0001-28607",
+      "agency": "FAA",
+      "identifier": "FAA_FRDOC_0001",
+      "date": "2026-11-10",
+      "deadline": null,
+      "summary": "Inspection Programs for Single-Engine Turbine-Powered Airplanes and Unmanned Aircraft; and Miscellaneous Maintenance-Related Updates",
+      "score": 22,
+      "domains": [
+        "air"
+      ],
+      "matched_terms": [
+        "unmanned aircraft"
+      ],
+      "watchlist": null,
+      "extra": {},
+      "first_seen": "2026-11-10T14:31:38.033098+00:00",
+      "is_new": true
+    },
+    {
       "id": "Federal Register:2026-20734",
       "source": "Federal Register",
       "category": "regulatory",
@@ -4145,6 +4198,30 @@
       "is_new": false
     },
     {
+      "id": "Regulations.gov:FAA-2023-2180-0009",
+      "source": "Regulations.gov",
+      "category": "regulatory",
+      "type": "Document",
+      "title": "Agra Agricultural Drone Solutions, LLC - Petition",
+      "url": "https://www.regulations.gov/document/FAA-2023-2180-0009",
+      "agency": "FAA",
+      "identifier": "FAA-2023-2180",
+      "date": "2026-11-09",
+      "deadline": null,
+      "summary": "Agra Agricultural Drone Solutions, LLC - Petition",
+      "score": 20,
+      "domains": [
+        "air"
+      ],
+      "matched_terms": [
+        "drone"
+      ],
+      "watchlist": null,
+      "extra": {},
+      "first_seen": "2026-11-10T01:17:41.671836+00:00",
+      "is_new": false
+    },
+    {
       "id": "Regulations.gov:FAA-2007-0001-1019",
       "source": "Regulations.gov",
       "category": "regulatory",
@@ -4167,30 +4244,6 @@
       "extra": {},
       "first_seen": "2026-11-09T15:27:42.662760+00:00",
       "is_new": false
-    },
-    {
-      "id": "Regulations.gov:FAA-2023-2180-0009",
-      "source": "Regulations.gov",
-      "category": "regulatory",
-      "type": "Document",
-      "title": "Agra Agricultural Drone Solutions, LLC - Petition",
-      "url": "https://www.regulations.gov/document/FAA-2023-2180-0009",
-      "agency": "FAA",
-      "identifier": "FAA-2023-2180",
-      "date": "2026-11-09",
-      "deadline": null,
-      "summary": "Agra Agricultural Drone Solutions, LLC - Petition",
-      "score": 20,
-      "domains": [
-        "air"
-      ],
-      "matched_terms": [
-        "drone"
-      ],
-      "watchlist": null,
-      "extra": {},
-      "first_seen": "2026-11-10T01:17:41.671836+00:00",
-      "is_new": true
     },
     {
       "id": "Regulations.gov:FAA-2026-14456-0001",
@@ -4712,14 +4765,14 @@
     {
       "name": "Federal Register",
       "status": "ok",
-      "detail": "19 kept",
-      "count": 19
+      "detail": "20 kept",
+      "count": 20
     },
     {
       "name": "Regulations.gov",
       "status": "ok",
-      "detail": "31 kept",
-      "count": 31
+      "detail": "32 kept",
+      "count": 32
     },
     {
       "name": "FCC ECFS",
@@ -4753,16 +4806,16 @@
     }
   ],
   "stats": {
-    "total": 170,
-    "new": 4,
+    "total": 172,
+    "new": 2,
     "by_category": {
-      "regulatory": 95,
+      "regulatory": 97,
       "procurement": 60,
       "litigation": 11,
       "legislative": 4
     },
     "by_domain": {
-      "air": 128,
+      "air": 130,
       "supply-chain": 78,
       "spectrum": 13,
       "defense": 10,
@@ -4771,8 +4824,8 @@
     "by_source": {
       "USAspending": 60,
       "FCC ECFS": 59,
-      "Regulations.gov": 19,
-      "Federal Register": 17,
+      "Regulations.gov": 20,
+      "Federal Register": 18,
       "CourtListener": 11,
       "Congress.gov": 4
     }
