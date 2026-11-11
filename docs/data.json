@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-11T05:02:02.405386+00:00",
-  "generated_human": "2026-11-11 05:02 UTC",
+  "generated_at": "2026-11-11T13:42:17.681346+00:00",
+  "generated_human": "2026-11-11 13:42 UTC",
   "demo": false,
   "items": [
     {
@@ -2604,7 +2604,7 @@
         "award_type": "BPA CALL"
       },
       "first_seen": "2026-11-11T05:02:02.405386+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "Federal Register:2026-15417",
@@ -2750,7 +2750,7 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-11-11T05:02:02.405386+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:692M1522F00222",
@@ -2778,7 +2778,7 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-11-11T05:02:02.405386+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:W58RGZ19C0027",
@@ -3065,7 +3065,7 @@
         "award_type": "DEFINITIVE CONTRACT"
       },
       "first_seen": "2026-11-11T05:02:02.405386+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:W900KK26FA132",
@@ -3230,7 +3230,7 @@
         "award_type": "DEFINITIVE CONTRACT"
       },
       "first_seen": "2026-11-11T05:02:02.405386+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:W15P7T26F0084",
@@ -4916,7 +4916,7 @@
   ],
   "stats": {
     "total": 176,
-    "new": 5,
+    "new": 0,
     "by_category": {
       "regulatory": 101,
       "procurement": 60,
