@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-10T22:57:55.441177+00:00",
-  "generated_human": "2026-11-10 22:57 UTC",
+  "generated_at": "2026-11-11T05:02:02.405386+00:00",
+  "generated_human": "2026-11-11 05:02 UTC",
   "demo": false,
   "items": [
     {
@@ -1935,7 +1935,7 @@
         "docket_total_comments": 1669
       },
       "first_seen": "2026-11-10T22:57:55.441177+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "Federal Register:2026-15659",
@@ -2032,7 +2032,7 @@
         "label": "GN 26-74 (Unleashing American Drone Dominance)"
       },
       "extra": {
-        "amount": 74008047.68,
+        "amount": 37004023.84,
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-10-09T04:59:25.163485+00:00",
@@ -2093,7 +2093,7 @@
         "label": "GN 26-74 (Unleashing American Drone Dominance)"
       },
       "extra": {
-        "amount": 40079332.36,
+        "amount": 20039666.18,
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-11-04T23:18:49.468978+00:00",
@@ -2578,6 +2578,35 @@
       "is_new": false
     },
     {
+      "id": "USAspending:70CMSD26FC0000037",
+      "source": "USAspending",
+      "category": "procurement",
+      "type": "Award",
+      "title": "ATLANTIC DIVING SUPPLY, INC.: THIS AWARD PROCURES SMALL UNMANNED AIRCRAFT SYSTEM WHICH PROVIDES HOMELAND SECURITY INVESTIGATION PERSONNEL WITH AERIAL",
+      "url": "https://www.usaspending.gov/award/CONT_AWD_70CMSD26FC0000037_7012_70B02C24A00000030_7014",
+      "agency": "Department of Homeland Security",
+      "identifier": "70CMSD26FC0000037",
+      "date": "2026-08-28",
+      "deadline": null,
+      "summary": "THIS AWARD PROCURES SMALL UNMANNED AIRCRAFT SYSTEM WHICH PROVIDES HOMELAND SECURITY INVESTIGATION PERSONNEL WITH AERIAL CAPABILITIES WHEN CONDUCTING LAW ENFORCEMENT INVESTIGATIONS NATIONWIDE.",
+      "score": 52,
+      "domains": [
+        "air"
+      ],
+      "matched_terms": [
+        "unmanned aircraft",
+        "unmanned aircraft system",
+        "small unmanned"
+      ],
+      "watchlist": null,
+      "extra": {
+        "amount": 1892000.0,
+        "award_type": "BPA CALL"
+      },
+      "first_seen": "2026-11-11T05:02:02.405386+00:00",
+      "is_new": true
+    },
+    {
       "id": "Federal Register:2026-15417",
       "source": "Federal Register",
       "category": "regulatory",
@@ -2695,6 +2724,63 @@
       "is_new": false
     },
     {
+      "id": "USAspending:W31P4Q26F0148",
+      "source": "USAspending",
+      "category": "procurement",
+      "type": "Award",
+      "title": "SRC INC: COUNTER-UNMANNED AIRCRAFT SYSTEMS AND SUSTAINMENT SPARES.",
+      "url": "https://www.usaspending.gov/award/CONT_AWD_W31P4Q26F0148_9700_W31P4Q20D0032_9700",
+      "agency": "Department of Defense",
+      "identifier": "W31P4Q26F0148",
+      "date": "2026-08-11",
+      "deadline": null,
+      "summary": "COUNTER-UNMANNED AIRCRAFT SYSTEMS AND SUSTAINMENT SPARES.",
+      "score": 38,
+      "domains": [
+        "air",
+        "defense"
+      ],
+      "matched_terms": [
+        "unmanned aircraft",
+        "counter-unmanned"
+      ],
+      "watchlist": null,
+      "extra": {
+        "amount": 47777820.52,
+        "award_type": "DELIVERY ORDER"
+      },
+      "first_seen": "2026-11-11T05:02:02.405386+00:00",
+      "is_new": true
+    },
+    {
+      "id": "USAspending:692M1522F00222",
+      "source": "USAspending",
+      "category": "procurement",
+      "type": "Award",
+      "title": "GENERAL DYNAMICS INFORMATION TECHNOLOGY, INC.: UNMANNED AIRCRAFT SYSTEM PLATFORM SERVICES.",
+      "url": "https://www.usaspending.gov/award/CONT_AWD_692M1522F00222_6920_692M1522D00005_6920",
+      "agency": "Department of Transportation",
+      "identifier": "692M1522F00222",
+      "date": "2022-09-26",
+      "deadline": null,
+      "summary": "UNMANNED AIRCRAFT SYSTEM PLATFORM SERVICES.",
+      "score": 38,
+      "domains": [
+        "air"
+      ],
+      "matched_terms": [
+        "unmanned aircraft",
+        "unmanned aircraft system"
+      ],
+      "watchlist": null,
+      "extra": {
+        "amount": 2256928.07,
+        "award_type": "DELIVERY ORDER"
+      },
+      "first_seen": "2026-11-11T05:02:02.405386+00:00",
+      "is_new": true
+    },
+    {
       "id": "USAspending:W58RGZ19C0027",
       "source": "USAspending",
       "category": "procurement",
@@ -2716,7 +2802,7 @@
       ],
       "watchlist": null,
       "extra": {
-        "amount": 3792314138.22,
+        "amount": 1896157069.11,
         "award_type": "DEFINITIVE CONTRACT"
       },
       "first_seen": "2026-10-14T03:53:13.506208+00:00",
@@ -2862,7 +2948,7 @@
       ],
       "watchlist": null,
       "extra": {
-        "amount": 9332000.0,
+        "amount": 4666000.0,
         "award_type": "DEFINITIVE CONTRACT"
       },
       "first_seen": "2026-10-25T03:35:15.072211+00:00",
@@ -2901,13 +2987,13 @@
       "source": "USAspending",
       "category": "procurement",
       "type": "Award",
-      "title": "THE TOLLIVER GROUP, INC: LOGISTICS SUPPORT TO THE UNMANNED AIRCRAFT SYSTEMS (UAS) PROJECT OFFICE",
+      "title": "THE TOLLIVER GROUP, INC: LOGISTICS SUPPORT TO THE UNMANNED AIRCRAFT SYSTEMS (UAS) PROJECT OFFICE.",
       "url": "https://www.usaspending.gov/award/CONT_AWD_W31P4Q24FE001_9700_GS00F0013W_4730",
       "agency": "Department of Defense",
       "identifier": "W31P4Q24FE001",
       "date": "2023-11-30",
       "deadline": null,
-      "summary": "LOGISTICS SUPPORT TO THE UNMANNED AIRCRAFT SYSTEMS (UAS) PROJECT OFFICE",
+      "summary": "LOGISTICS SUPPORT TO THE UNMANNED AIRCRAFT SYSTEMS (UAS) PROJECT OFFICE.",
       "score": 34,
       "domains": [
         "air"
@@ -2918,7 +3004,7 @@
       ],
       "watchlist": null,
       "extra": {
-        "amount": 83629399.09,
+        "amount": 41814896.0,
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-11-06T05:30:23.912777+00:00",
@@ -2955,6 +3041,33 @@
       "is_new": false
     },
     {
+      "id": "USAspending:19AQMM26C0675",
+      "source": "USAspending",
+      "category": "procurement",
+      "type": "Award",
+      "title": "HYLIO INC: UAS SYSTEMS, SPARE PARTS, AND SUPPORT.",
+      "url": "https://www.usaspending.gov/award/CONT_AWD_19AQMM26C0675_1900_-NONE-_-NONE-",
+      "agency": "Department of State",
+      "identifier": "19AQMM26C0675",
+      "date": "2026-08-07",
+      "deadline": null,
+      "summary": "UAS SYSTEMS, SPARE PARTS, AND SUPPORT.",
+      "score": 30,
+      "domains": [
+        "air"
+      ],
+      "matched_terms": [
+        "uas"
+      ],
+      "watchlist": null,
+      "extra": {
+        "amount": 2800995.8,
+        "award_type": "DEFINITIVE CONTRACT"
+      },
+      "first_seen": "2026-11-11T05:02:02.405386+00:00",
+      "is_new": true
+    },
+    {
       "id": "USAspending:W900KK26FA132",
       "source": "USAspending",
       "category": "procurement",
@@ -2975,33 +3088,6 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-11-06T05:30:23.912777+00:00",
-      "is_new": false
-    },
-    {
-      "id": "USAspending:89233126FNA400803",
-      "source": "USAspending",
-      "category": "procurement",
-      "type": "Award",
-      "title": "ANDURIL INDUSTRIES, INC.: THE TASK ORDER INCLUDES THE BASE YEAR TO INCLUDE OPERATIONS AND SUSTAINMENT. THE EFFORT SUPPORTS DEFENSE NUCLEAR SECURIT",
-      "url": "https://www.usaspending.gov/award/CONT_AWD_89233126FNA400803_8900_89233126DNA000072_8900",
-      "agency": "Department of Energy",
-      "identifier": "89233126FNA400803",
-      "date": "2026-07-28",
-      "deadline": null,
-      "summary": "THE TASK ORDER INCLUDES THE BASE YEAR TO INCLUDE OPERATIONS AND SUSTAINMENT. THE EFFORT SUPPORTS DEFENSE NUCLEAR SECURITY (DNS/NA-70) IN THE DESIGN, DEVELOPMENT, INTEGRATION, TESTING, DEPLOYMENT, AND SUSTAINMENT OF COLLABORATIVE AUTONOMOUS SYSTEMS FO",
-      "score": 30,
-      "domains": [
-        "defense"
-      ],
-      "matched_terms": [
-        "autonomous systems"
-      ],
-      "watchlist": null,
-      "extra": {
-        "amount": 5769619.0,
-        "award_type": "DELIVERY ORDER"
-      },
-      "first_seen": "2026-11-04T23:18:49.468978+00:00",
       "is_new": false
     },
     {
@@ -3055,33 +3141,6 @@
       "is_new": false
     },
     {
-      "id": "USAspending:W58RGZ26F0334",
-      "source": "USAspending",
-      "category": "procurement",
-      "type": "Award",
-      "title": "AEROVIRONMENT, INC: AWARD IN SUPPORT OF TUAS BATTALION RECONNAISSANCE UAV REQUIREMENT.",
-      "url": "https://www.usaspending.gov/award/CONT_AWD_W58RGZ26F0334_9700_W58RGZ26G0005_9700",
-      "agency": "Department of Defense",
-      "identifier": "W58RGZ26F0334",
-      "date": "2026-06-03",
-      "deadline": null,
-      "summary": "AWARD IN SUPPORT OF TUAS BATTALION RECONNAISSANCE UAV REQUIREMENT.",
-      "score": 30,
-      "domains": [
-        "air"
-      ],
-      "matched_terms": [
-        "uav"
-      ],
-      "watchlist": null,
-      "extra": {
-        "amount": 234612463.02,
-        "award_type": "DELIVERY ORDER"
-      },
-      "first_seen": "2026-10-13T13:43:26.235128+00:00",
-      "is_new": false
-    },
-    {
       "id": "USAspending:FA868926FB001",
       "source": "USAspending",
       "category": "procurement",
@@ -3102,29 +3161,6 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-10-21T03:41:12.185126+00:00",
-      "is_new": false
-    },
-    {
-      "id": "USAspending:FA862926PB003",
-      "source": "USAspending",
-      "category": "procurement",
-      "type": "Award",
-      "title": "AEROVIRONMENT, INC: ACC/A3J-MIPR-TACP ACC HURRICANE ORDER",
-      "url": "https://www.usaspending.gov/award/CONT_AWD_FA862926PB003_9700_-NONE-_-NONE-",
-      "agency": "Department of Defense",
-      "identifier": "FA862926PB003",
-      "date": "2026-04-29",
-      "deadline": null,
-      "summary": "ACC/A3J-MIPR-TACP ACC HURRICANE ORDER",
-      "score": 30,
-      "domains": [],
-      "matched_terms": [],
-      "watchlist": null,
-      "extra": {
-        "amount": 4451223.0,
-        "award_type": "PURCHASE ORDER"
-      },
-      "first_seen": "2026-11-05T05:31:53.090220+00:00",
       "is_new": false
     },
     {
@@ -3167,11 +3203,34 @@
       "matched_terms": [],
       "watchlist": null,
       "extra": {
-        "amount": 256964904.0,
+        "amount": 128482452.0,
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-11-04T23:18:49.468978+00:00",
       "is_new": false
+    },
+    {
+      "id": "USAspending:W912CH26CA014",
+      "source": "USAspending",
+      "category": "procurement",
+      "type": "Award",
+      "title": "DRONESHIELD LLC: PROCUREMENT OF 24 IMMEDIATE RESPONSE KITS.",
+      "url": "https://www.usaspending.gov/award/CONT_AWD_W912CH26CA014_9700_-NONE-_-NONE-",
+      "agency": "Department of Defense",
+      "identifier": "W912CH26CA014",
+      "date": "2026-04-01",
+      "deadline": null,
+      "summary": "PROCUREMENT OF 24 IMMEDIATE RESPONSE KITS.",
+      "score": 30,
+      "domains": [],
+      "matched_terms": [],
+      "watchlist": null,
+      "extra": {
+        "amount": 2334400.0,
+        "award_type": "DEFINITIVE CONTRACT"
+      },
+      "first_seen": "2026-11-11T05:02:02.405386+00:00",
+      "is_new": true
     },
     {
       "id": "USAspending:W15P7T26F0084",
@@ -3190,7 +3249,7 @@
       "matched_terms": [],
       "watchlist": null,
       "extra": {
-        "amount": 87403400.0,
+        "amount": 43701700.0,
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-11-04T23:18:49.468978+00:00",
@@ -3213,7 +3272,7 @@
       "matched_terms": [],
       "watchlist": null,
       "extra": {
-        "amount": 26368257.36,
+        "amount": 13212868.3,
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-11-04T05:10:55.333668+00:00",
@@ -3643,33 +3702,10 @@
       "matched_terms": [],
       "watchlist": null,
       "extra": {
-        "amount": 1589229845.0,
+        "amount": 796752104.0,
         "award_type": "DEFINITIVE CONTRACT"
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": false
-    },
-    {
-      "id": "USAspending:FA868924F2451",
-      "source": "USAspending",
-      "category": "procurement",
-      "type": "Award",
-      "title": "GENERAL ATOMICS AERONAUTICAL SYSTEMS, INC.: MQ-9 REAPER JOINT UNION OPERATIONAL NEED PROLIFERLATED LOW EARTH ORBIT PHASE II",
-      "url": "https://www.usaspending.gov/award/CONT_AWD_FA868924F2451_9700_FA868920D2020_9700",
-      "agency": "Department of Defense",
-      "identifier": "FA868924F2451",
-      "date": "2024-04-22",
-      "deadline": null,
-      "summary": "MQ-9 REAPER JOINT UNION OPERATIONAL NEED PROLIFERLATED LOW EARTH ORBIT PHASE II",
-      "score": 30,
-      "domains": [],
-      "matched_terms": [],
-      "watchlist": null,
-      "extra": {
-        "amount": 94766490.59,
-        "award_type": "DELIVERY ORDER"
-      },
-      "first_seen": "2026-10-13T13:43:26.235128+00:00",
       "is_new": false
     },
     {
@@ -3712,7 +3748,7 @@
       "matched_terms": [],
       "watchlist": null,
       "extra": {
-        "amount": 847948552.3,
+        "amount": 423974276.15,
         "award_type": "DEFINITIVE CONTRACT"
       },
       "first_seen": "2026-09-10T03:29:54.958940+00:00",
@@ -3793,29 +3829,6 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": false
-    },
-    {
-      "id": "USAspending:FA868923C2018",
-      "source": "USAspending",
-      "category": "procurement",
-      "type": "Award",
-      "title": "GENERAL ATOMICS AERONAUTICAL SYSTEMS, INC.: MQ-9B PRODUCTION FMS TAIWAN",
-      "url": "https://www.usaspending.gov/award/CONT_AWD_FA868923C2018_9700_-NONE-_-NONE-",
-      "agency": "Department of Defense",
-      "identifier": "FA868923C2018",
-      "date": "2023-04-28",
-      "deadline": null,
-      "summary": "MQ-9B PRODUCTION FMS TAIWAN",
-      "score": 30,
-      "domains": [],
-      "matched_terms": [],
-      "watchlist": null,
-      "extra": {
-        "amount": 471430334.17,
-        "award_type": "DEFINITIVE CONTRACT"
-      },
-      "first_seen": "2026-10-13T13:43:26.235128+00:00",
       "is_new": false
     },
     {
@@ -3912,7 +3925,7 @@
       ],
       "watchlist": null,
       "extra": {
-        "amount": 8646110.2,
+        "amount": 4170510.21,
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-11-04T05:10:55.333668+00:00",
@@ -4084,7 +4097,7 @@
       "watchlist": null,
       "extra": {},
       "first_seen": "2026-11-10T22:57:55.441177+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "Regulations.gov:FAA-2024-0025-0023",
@@ -4108,7 +4121,7 @@
       "watchlist": null,
       "extra": {},
       "first_seen": "2026-11-10T22:57:55.441177+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "Federal Register:2026-20734",
@@ -4219,7 +4232,7 @@
       "watchlist": null,
       "extra": {},
       "first_seen": "2026-11-10T22:57:55.441177+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "Regulations.gov:FAA-2026-14788-0001",
@@ -4243,7 +4256,7 @@
       "watchlist": null,
       "extra": {},
       "first_seen": "2026-11-10T22:57:55.441177+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "Regulations.gov:FAA-2024-2230-0004",
@@ -4267,7 +4280,7 @@
       "watchlist": null,
       "extra": {},
       "first_seen": "2026-11-10T22:57:55.441177+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "Regulations.gov:FAA-2026-14687-0001",
@@ -4903,7 +4916,7 @@
   ],
   "stats": {
     "total": 176,
-    "new": 6,
+    "new": 5,
     "by_category": {
       "regulatory": 101,
       "procurement": 60,
@@ -4911,7 +4924,7 @@
       "legislative": 4
     },
     "by_domain": {
-      "air": 134,
+      "air": 137,
       "supply-chain": 78,
       "spectrum": 13,
       "defense": 10,
@@ -5110,7 +5123,7 @@
   "deadlines": [
     {
       "deadline": "2026-12-03",
-      "days": 23,
+      "days": 22,
       "title": "Privacy Act of 1974; System of Records",
       "identifier": "Docket No. DOT-OST-2026-3862",
       "category": "regulatory",
@@ -5119,7 +5132,7 @@
     },
     {
       "deadline": "2026-12-04",
-      "days": 24,
+      "days": 23,
       "title": "Agency Information Collection Activities; Proposed eCollection eComments Requested; SAFER SKIES State, Local, Tribal, and Territorial Counter-UAS Information Collection",
       "identifier": "OMB Number 1110-0090",
       "category": "regulatory",
