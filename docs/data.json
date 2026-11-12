@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-11T13:42:17.681346+00:00",
-  "generated_human": "2026-11-11 13:42 UTC",
+  "generated_at": "2026-11-12T00:09:48.695588+00:00",
+  "generated_human": "2026-11-12 00:09 UTC",
   "demo": false,
   "items": [
     {
@@ -1908,17 +1908,17 @@
       "is_new": false
     },
     {
-      "id": "Regulations.gov:FAA-2026-4558-1630",
+      "id": "Regulations.gov:FAA-2026-4558-1629",
       "source": "Regulations.gov",
       "category": "regulatory",
       "type": "Comment",
-      "title": "Comment on Designation – Restrict the Operation of Unmanned Aircraft in Close Proximity  to a Fixed Site Facility: Comment from American Chemistry Council",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1630",
+      "title": "Comment on Designation – Restrict the Operation of Unmanned Aircraft in Close Proximity  to a Fixed Site Facility: Comment from Karin L",
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1629",
       "agency": "FAA",
       "identifier": "FAA-2026-4558",
       "date": "2026-08-06",
       "deadline": null,
-      "summary": "Comment from American Chemistry Council",
+      "summary": "Comment from Karin L",
       "score": 80,
       "domains": [
         "air"
@@ -1934,8 +1934,8 @@
       "extra": {
         "docket_total_comments": 1669
       },
-      "first_seen": "2026-11-10T22:57:55.441177+00:00",
-      "is_new": false
+      "first_seen": "2026-11-12T00:09:48.695588+00:00",
+      "is_new": true
     },
     {
       "id": "Federal Register:2026-15659",
@@ -2355,6 +2355,32 @@
       "extra": {},
       "first_seen": "2026-10-27T17:37:01.443817+00:00",
       "is_new": false
+    },
+    {
+      "id": "CourtListener:73245454",
+      "source": "CourtListener",
+      "category": "litigation",
+      "type": "Court Docket",
+      "title": "Wolstenholme v. Riot Games, Inc.",
+      "url": "https://www.courtlistener.com/docket/73245454/wolstenholme-v-riot-games-inc/",
+      "agency": "COURT OF APPEALS FOR THE NINTH CIRCUIT",
+      "identifier": "25-3163",
+      "date": "2025-05-16",
+      "deadline": null,
+      "summary": "Wolstenholme v. Riot Games, Inc.",
+      "score": 70,
+      "domains": [
+        "supply-chain",
+        "air"
+      ],
+      "matched_terms": [],
+      "watchlist": {
+        "key": "dji-ca9",
+        "label": "DJI petition (9th Circuit, 26-1029)"
+      },
+      "extra": {},
+      "first_seen": "2026-11-12T00:09:48.695588+00:00",
+      "is_new": true
     },
     {
       "id": "CourtListener:69153875",
@@ -2781,34 +2807,6 @@
       "is_new": false
     },
     {
-      "id": "USAspending:W58RGZ19C0027",
-      "source": "USAspending",
-      "category": "procurement",
-      "type": "Award",
-      "title": "GENERAL ATOMICS AERONAUTICAL SYSTEMS, INC.: REQUIREMENT IS FOR THE PROCUREMENT OF PERFORMANCE BASED LOGISTICS SUPPORT SERVICES FOR THE MQ-1C GRAY EAGLE UNMANNED AIR",
-      "url": "https://www.usaspending.gov/award/CONT_AWD_W58RGZ19C0027_9700_-NONE-_-NONE-",
-      "agency": "Department of Defense",
-      "identifier": "W58RGZ19C0027",
-      "date": "2019-04-24",
-      "deadline": null,
-      "summary": "REQUIREMENT IS FOR THE PROCUREMENT OF PERFORMANCE BASED LOGISTICS SUPPORT SERVICES FOR THE MQ-1C GRAY EAGLE UNMANNED AIRCRAFT SYSTEM.",
-      "score": 38,
-      "domains": [
-        "air"
-      ],
-      "matched_terms": [
-        "unmanned aircraft",
-        "unmanned aircraft system"
-      ],
-      "watchlist": null,
-      "extra": {
-        "amount": 1896157069.11,
-        "award_type": "DEFINITIVE CONTRACT"
-      },
-      "first_seen": "2026-10-14T03:53:13.506208+00:00",
-      "is_new": false
-    },
-    {
       "id": "USAspending:692M1523F00178",
       "source": "USAspending",
       "category": "procurement",
@@ -2834,34 +2832,6 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-11-04T23:18:49.468978+00:00",
-      "is_new": false
-    },
-    {
-      "id": "USAspending:FA807523F0009",
-      "source": "USAspending",
-      "category": "procurement",
-      "type": "Award",
-      "title": "NAVAL SYSTEMS, INC.: SMALL UNMANNED AIRCRAFT SYSTEMS AND ENABLING TECHNOLOGIES ANALYSIS FOR NAVAL SURFACE WARFARE CENTER, PANAMA CITY DIVISIO",
-      "url": "https://www.usaspending.gov/award/CONT_AWD_FA807523F0009_9700_FA807519D0025_9700",
-      "agency": "Department of Defense",
-      "identifier": "FA807523F0009",
-      "date": "2022-12-21",
-      "deadline": null,
-      "summary": "SMALL UNMANNED AIRCRAFT SYSTEMS AND ENABLING TECHNOLOGIES ANALYSIS FOR NAVAL SURFACE WARFARE CENTER, PANAMA CITY DIVISION",
-      "score": 36,
-      "domains": [
-        "air"
-      ],
-      "matched_terms": [
-        "unmanned aircraft",
-        "small unmanned"
-      ],
-      "watchlist": null,
-      "extra": {
-        "amount": 12360801.42,
-        "award_type": "DELIVERY ORDER"
-      },
-      "first_seen": "2026-10-14T03:53:13.506208+00:00",
       "is_new": false
     },
     {
@@ -2924,6 +2894,34 @@
       },
       "first_seen": "2026-11-04T13:54:42.431514+00:00",
       "is_new": false
+    },
+    {
+      "id": "USAspending:692M1526F00097",
+      "source": "USAspending",
+      "category": "procurement",
+      "type": "Award",
+      "title": "GENERAL DYNAMICS INFORMATION TECHNOLOGY, INC.: UNMANNED AIRCRAFT SYSTEMS (UAS) FOR NAS INSPECTIONS",
+      "url": "https://www.usaspending.gov/award/CONT_AWD_692M1526F00097_6920_692M1522D00005_6920",
+      "agency": "Department of Transportation",
+      "identifier": "692M1526F00097",
+      "date": "2026-07-29",
+      "deadline": null,
+      "summary": "UNMANNED AIRCRAFT SYSTEMS (UAS) FOR NAS INSPECTIONS",
+      "score": 34,
+      "domains": [
+        "air"
+      ],
+      "matched_terms": [
+        "unmanned aircraft",
+        "uas"
+      ],
+      "watchlist": null,
+      "extra": {
+        "amount": 1799448.0,
+        "award_type": "DELIVERY ORDER"
+      },
+      "first_seen": "2026-11-12T00:09:48.695588+00:00",
+      "is_new": true
     },
     {
       "id": "USAspending:W56KGU25C0009",
@@ -3521,6 +3519,33 @@
       "is_new": false
     },
     {
+      "id": "USAspending:FA864925P0490",
+      "source": "USAspending",
+      "category": "procurement",
+      "type": "Award",
+      "title": "EXCLAIM IP, LLC: OPERATIONAL DOMINANCE THROUGH RESILIENT UNMANNED AERIAL SYSTEM: PASSIVE THERMAL AND ELECTROMAGNETIC PULSE PROTECTION FOR",
+      "url": "https://www.usaspending.gov/award/CONT_AWD_FA864925P0490_9700_-NONE-_-NONE-",
+      "agency": "Department of Defense",
+      "identifier": "FA864925P0490",
+      "date": "2025-08-21",
+      "deadline": null,
+      "summary": "OPERATIONAL DOMINANCE THROUGH RESILIENT UNMANNED AERIAL SYSTEM: PASSIVE THERMAL AND ELECTROMAGNETIC PULSE PROTECTION FOR MISSION-CRITICAL DRONE SYSTEMS",
+      "score": 30,
+      "domains": [
+        "air"
+      ],
+      "matched_terms": [
+        "drone"
+      ],
+      "watchlist": null,
+      "extra": {
+        "amount": 1799136.0,
+        "award_type": "PURCHASE ORDER"
+      },
+      "first_seen": "2026-11-12T00:09:48.695588+00:00",
+      "is_new": true
+    },
+    {
       "id": "USAspending:W900KK25FA096",
       "source": "USAspending",
       "category": "procurement",
@@ -3732,29 +3757,6 @@
       "is_new": false
     },
     {
-      "id": "USAspending:W58RGZ24C0021",
-      "source": "USAspending",
-      "category": "procurement",
-      "type": "Award",
-      "title": "GENERAL ATOMICS AERONAUTICAL SYSTEMS, INC.: PRODUCTION READY TEST ASSET UNDEFINITIZED CONTRACT ACTION",
-      "url": "https://www.usaspending.gov/award/CONT_AWD_W58RGZ24C0021_9700_-NONE-_-NONE-",
-      "agency": "Department of Defense",
-      "identifier": "W58RGZ24C0021",
-      "date": "2023-12-01",
-      "deadline": null,
-      "summary": "PRODUCTION READY TEST ASSET UNDEFINITIZED CONTRACT ACTION",
-      "score": 30,
-      "domains": [],
-      "matched_terms": [],
-      "watchlist": null,
-      "extra": {
-        "amount": 423974276.15,
-        "award_type": "DEFINITIVE CONTRACT"
-      },
-      "first_seen": "2026-09-10T03:29:54.958940+00:00",
-      "is_new": false
-    },
-    {
       "id": "USAspending:W900KK23F0112",
       "source": "USAspending",
       "category": "procurement",
@@ -3930,6 +3932,33 @@
       },
       "first_seen": "2026-11-04T05:10:55.333668+00:00",
       "is_new": false
+    },
+    {
+      "id": "USAspending:70RSAT21FR0000032",
+      "source": "USAspending",
+      "category": "procurement",
+      "type": "Award",
+      "title": "THE MITRE CORPORATION: THE PURPOSE OF DHS TASK ORDER 70RSAT21FR0000032 IS TO PROCURE THE AIR DOMAIN AWARENESS OF MANNED AND UNMANNED AIRCRAFT P",
+      "url": "https://www.usaspending.gov/award/CONT_AWD_70RSAT21FR0000032_7001_70RSAT20D00000001_7001",
+      "agency": "Department of Homeland Security",
+      "identifier": "70RSAT21FR0000032",
+      "date": "2021-03-29",
+      "deadline": null,
+      "summary": "THE PURPOSE OF DHS TASK ORDER 70RSAT21FR0000032 IS TO PROCURE THE AIR DOMAIN AWARENESS OF MANNED AND UNMANNED AIRCRAFT PROGRAM.",
+      "score": 30,
+      "domains": [
+        "air"
+      ],
+      "matched_terms": [
+        "unmanned aircraft"
+      ],
+      "watchlist": null,
+      "extra": {
+        "amount": 1789091.71,
+        "award_type": "DELIVERY ORDER"
+      },
+      "first_seen": "2026-11-12T00:09:48.695588+00:00",
+      "is_new": true
     },
     {
       "id": "USAspending:692M1521F00018",
@@ -4904,8 +4933,8 @@
     {
       "name": "CourtListener",
       "status": "ok",
-      "detail": "11 kept",
-      "count": 11
+      "detail": "12 kept",
+      "count": 12
     },
     {
       "name": "USAspending",
@@ -4915,17 +4944,17 @@
     }
   ],
   "stats": {
-    "total": 176,
-    "new": 0,
+    "total": 177,
+    "new": 5,
     "by_category": {
       "regulatory": 101,
       "procurement": 60,
-      "litigation": 11,
+      "litigation": 12,
       "legislative": 4
     },
     "by_domain": {
-      "air": 137,
-      "supply-chain": 78,
+      "air": 139,
+      "supply-chain": 79,
       "spectrum": 13,
       "defense": 10,
       "ground": 9
@@ -4935,7 +4964,7 @@
       "FCC ECFS": 59,
       "Regulations.gov": 24,
       "Federal Register": 18,
-      "CourtListener": 11,
+      "CourtListener": 12,
       "Congress.gov": 4
     }
   },
@@ -5001,7 +5030,7 @@
         "air"
       ],
       "deadline": null,
-      "count": 8,
+      "count": 9,
       "latest": "2026-11-04"
     },
     {
@@ -5123,7 +5152,7 @@
   "deadlines": [
     {
       "deadline": "2026-12-03",
-      "days": 22,
+      "days": 21,
       "title": "Privacy Act of 1974; System of Records",
       "identifier": "Docket No. DOT-OST-2026-3862",
       "category": "regulatory",
@@ -5132,7 +5161,7 @@
     },
     {
       "deadline": "2026-12-04",
-      "days": 23,
+      "days": 22,
       "title": "Agency Information Collection Activities; Proposed eCollection eComments Requested; SAFER SKIES State, Local, Tribal, and Territorial Counter-UAS Information Collection",
       "identifier": "OMB Number 1110-0090",
       "category": "regulatory",
