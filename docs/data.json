@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-12T00:09:48.695588+00:00",
-  "generated_human": "2026-11-12 00:09 UTC",
+  "generated_at": "2026-11-12T14:48:16.525396+00:00",
+  "generated_human": "2026-11-12 14:48 UTC",
   "demo": false,
   "items": [
     {
@@ -1935,7 +1935,7 @@
         "docket_total_comments": 1669
       },
       "first_seen": "2026-11-12T00:09:48.695588+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "Federal Register:2026-15659",
@@ -2380,7 +2380,7 @@
       },
       "extra": {},
       "first_seen": "2026-11-12T00:09:48.695588+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "CourtListener:69153875",
@@ -2921,7 +2921,7 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-11-12T00:09:48.695588+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:W56KGU25C0009",
@@ -3007,6 +3007,34 @@
       },
       "first_seen": "2026-11-06T05:30:23.912777+00:00",
       "is_new": false
+    },
+    {
+      "id": "USAspending:693KA823F00183",
+      "source": "USAspending",
+      "category": "procurement",
+      "type": "Award",
+      "title": "CROWN INNOVATIONS, INC.: TORFP 2222 ATO MISSION SUPPORT SERVICES UAS & ADVANCED AIR MOBILITY",
+      "url": "https://www.usaspending.gov/award/CONT_AWD_693KA823F00183_6920_693KA822D00021_6920",
+      "agency": "Department of Transportation",
+      "identifier": "693KA823F00183",
+      "date": "2023-06-14",
+      "deadline": null,
+      "summary": "TORFP 2222 ATO MISSION SUPPORT SERVICES UAS & ADVANCED AIR MOBILITY",
+      "score": 34,
+      "domains": [
+        "air"
+      ],
+      "matched_terms": [
+        "uas",
+        "advanced air mobility"
+      ],
+      "watchlist": null,
+      "extra": {
+        "amount": 2733952.54,
+        "award_type": "DELIVERY ORDER"
+      },
+      "first_seen": "2026-11-12T14:48:16.525396+00:00",
+      "is_new": true
     },
     {
       "id": "Federal Register:2026-16628",
@@ -3543,7 +3571,7 @@
         "award_type": "PURCHASE ORDER"
       },
       "first_seen": "2026-11-12T00:09:48.695588+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:W900KK25FA096",
@@ -3932,33 +3960,6 @@
       },
       "first_seen": "2026-11-04T05:10:55.333668+00:00",
       "is_new": false
-    },
-    {
-      "id": "USAspending:70RSAT21FR0000032",
-      "source": "USAspending",
-      "category": "procurement",
-      "type": "Award",
-      "title": "THE MITRE CORPORATION: THE PURPOSE OF DHS TASK ORDER 70RSAT21FR0000032 IS TO PROCURE THE AIR DOMAIN AWARENESS OF MANNED AND UNMANNED AIRCRAFT P",
-      "url": "https://www.usaspending.gov/award/CONT_AWD_70RSAT21FR0000032_7001_70RSAT20D00000001_7001",
-      "agency": "Department of Homeland Security",
-      "identifier": "70RSAT21FR0000032",
-      "date": "2021-03-29",
-      "deadline": null,
-      "summary": "THE PURPOSE OF DHS TASK ORDER 70RSAT21FR0000032 IS TO PROCURE THE AIR DOMAIN AWARENESS OF MANNED AND UNMANNED AIRCRAFT PROGRAM.",
-      "score": 30,
-      "domains": [
-        "air"
-      ],
-      "matched_terms": [
-        "unmanned aircraft"
-      ],
-      "watchlist": null,
-      "extra": {
-        "amount": 1789091.71,
-        "award_type": "DELIVERY ORDER"
-      },
-      "first_seen": "2026-11-12T00:09:48.695588+00:00",
-      "is_new": true
     },
     {
       "id": "USAspending:692M1521F00018",
@@ -4648,30 +4649,6 @@
       "is_new": false
     },
     {
-      "id": "Regulations.gov:FAA-2024-1332-0004",
-      "source": "Regulations.gov",
-      "category": "regulatory",
-      "type": "Document",
-      "title": "Sailor Drone Systems LLC - Request for Extension and Amendment",
-      "url": "https://www.regulations.gov/document/FAA-2024-1332-0004",
-      "agency": "FAA",
-      "identifier": "FAA-2024-1332",
-      "date": "2026-10-20",
-      "deadline": null,
-      "summary": "Sailor Drone Systems LLC - Request for Extension and Amendment",
-      "score": 20,
-      "domains": [
-        "air"
-      ],
-      "matched_terms": [
-        "drone"
-      ],
-      "watchlist": null,
-      "extra": {},
-      "first_seen": "2026-10-20T16:28:46.446765+00:00",
-      "is_new": false
-    },
-    {
       "id": "Federal Register:2026-21053",
       "source": "Federal Register",
       "category": "regulatory",
@@ -4909,8 +4886,8 @@
     {
       "name": "Regulations.gov",
       "status": "ok",
-      "detail": "36 kept",
-      "count": 36
+      "detail": "35 kept",
+      "count": 35
     },
     {
       "name": "FCC ECFS",
@@ -4944,16 +4921,16 @@
     }
   ],
   "stats": {
-    "total": 177,
-    "new": 5,
+    "total": 176,
+    "new": 1,
     "by_category": {
-      "regulatory": 101,
+      "regulatory": 100,
       "procurement": 60,
       "litigation": 12,
       "legislative": 4
     },
     "by_domain": {
-      "air": 139,
+      "air": 138,
       "supply-chain": 79,
       "spectrum": 13,
       "defense": 10,
@@ -4962,7 +4939,7 @@
     "by_source": {
       "USAspending": 60,
       "FCC ECFS": 59,
-      "Regulations.gov": 24,
+      "Regulations.gov": 23,
       "Federal Register": 18,
       "CourtListener": 12,
       "Congress.gov": 4
