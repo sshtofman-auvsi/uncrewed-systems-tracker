@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-13T05:29:08.354070+00:00",
-  "generated_human": "2026-11-13 05:29 UTC",
+  "generated_at": "2026-11-13T14:03:50.024078+00:00",
+  "generated_human": "2026-11-13 14:03 UTC",
   "demo": false,
   "items": [
     {
@@ -1937,17 +1937,17 @@
       "is_new": false
     },
     {
-      "id": "Regulations.gov:FAA-2026-4558-1629",
+      "id": "Regulations.gov:FAA-2026-4558-1630",
       "source": "Regulations.gov",
       "category": "regulatory",
       "type": "Comment",
-      "title": "Comment on Designation – Restrict the Operation of Unmanned Aircraft in Close Proximity  to a Fixed Site Facility: Comment from Karin L",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1629",
+      "title": "Comment on Designation – Restrict the Operation of Unmanned Aircraft in Close Proximity  to a Fixed Site Facility: Comment from American Chemistry Council",
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1630",
       "agency": "FAA",
       "identifier": "FAA-2026-4558",
       "date": "2026-08-06",
       "deadline": null,
-      "summary": "Comment from Karin L",
+      "summary": "Comment from American Chemistry Council",
       "score": 80,
       "domains": [
         "air"
@@ -1963,8 +1963,8 @@
       "extra": {
         "docket_total_comments": 1669
       },
-      "first_seen": "2026-11-12T00:09:48.695588+00:00",
-      "is_new": false
+      "first_seen": "2026-11-13T14:03:50.024078+00:00",
+      "is_new": true
     },
     {
       "id": "Federal Register:2026-15659",
@@ -2685,7 +2685,7 @@
         "award_type": "DEFINITIVE CONTRACT"
       },
       "first_seen": "2026-11-13T05:29:08.354070+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:70Z02325F71100013",
@@ -3113,7 +3113,7 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-11-13T05:29:08.354070+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:1202SA26K9803",
@@ -3140,7 +3140,7 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-11-13T05:29:08.354070+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:19AQMM26C0675",
@@ -3240,7 +3240,7 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-11-13T05:29:08.354070+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:W900KK26FA112",
@@ -4008,7 +4008,7 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-11-13T05:29:08.354070+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:692M1521F00018",
@@ -4972,7 +4972,7 @@
   ],
   "stats": {
     "total": 178,
-    "new": 5,
+    "new": 1,
     "by_category": {
       "regulatory": 102,
       "procurement": 60,
