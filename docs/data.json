@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-12T23:16:51.136954+00:00",
-  "generated_human": "2026-11-12 23:16 UTC",
+  "generated_at": "2026-11-13T05:29:08.354070+00:00",
+  "generated_human": "2026-11-13 05:29 UTC",
   "demo": false,
   "items": [
     {
@@ -30,7 +30,7 @@
         "proceeding": "26-74"
       },
       "first_seen": "2026-11-12T23:16:51.136954+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:26110084412",
@@ -59,7 +59,7 @@
         "proceeding": "26-74"
       },
       "first_seen": "2026-11-12T23:16:51.136954+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:26110084404",
@@ -88,7 +88,7 @@
         "proceeding": "26-74"
       },
       "first_seen": "2026-11-12T23:16:51.136954+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:26110084204",
@@ -2096,39 +2096,6 @@
       "is_new": false
     },
     {
-      "id": "USAspending:W58RGZ26F0226",
-      "source": "USAspending",
-      "category": "procurement",
-      "type": "Award",
-      "title": "MISTRAL INC: IN SUPPORT OF EXECUTIVE ORDER- UNLEASHING DRONE DOMINANCE, THE ARMY CONTRACTING COMMAND-REDSTONE ARSENAL ESTABLISHED THE",
-      "url": "https://www.usaspending.gov/award/CONT_AWD_W58RGZ26F0226_9700_W58RGZ26G0026_9700",
-      "agency": "Department of Defense",
-      "identifier": "W58RGZ26F0226",
-      "date": "2026-04-02",
-      "deadline": null,
-      "summary": "IN SUPPORT OF EXECUTIVE ORDER- UNLEASHING DRONE DOMINANCE, THE ARMY CONTRACTING COMMAND-REDSTONE ARSENAL ESTABLISHED THE BASIC ORDERING AGREEMENT TO PROCURE DRONES AND DRONE DOMINANT COMPONENTS.",
-      "score": 80,
-      "domains": [
-        "air",
-        "spectrum",
-        "supply-chain"
-      ],
-      "matched_terms": [
-        "drone",
-        "drone dominance"
-      ],
-      "watchlist": {
-        "key": "gn-26-74",
-        "label": "GN 26-74 (Unleashing American Drone Dominance)"
-      },
-      "extra": {
-        "amount": 20039666.18,
-        "award_type": "DELIVERY ORDER"
-      },
-      "first_seen": "2026-11-04T23:18:49.468978+00:00",
-      "is_new": false
-    },
-    {
       "id": "CourtListener:72313063",
       "source": "CourtListener",
       "category": "litigation",
@@ -2691,6 +2658,36 @@
       "is_new": false
     },
     {
+      "id": "USAspending:15DDHQ25C00000022",
+      "source": "USAspending",
+      "category": "procurement",
+      "type": "Award",
+      "title": "SKYCOPE C-UAS TECHNOLOGIES INC: PURCHASE OF 16 SKYEYE LONG RANGE DRONE DETECTION SYSTEMS",
+      "url": "https://www.usaspending.gov/award/CONT_AWD_15DDHQ25C00000022_1524_-NONE-_-NONE-",
+      "agency": "Department of Justice",
+      "identifier": "15DDHQ25C00000022",
+      "date": "2025-09-15",
+      "deadline": null,
+      "summary": "PURCHASE OF 16 SKYEYE LONG RANGE DRONE DETECTION SYSTEMS",
+      "score": 48,
+      "domains": [
+        "air",
+        "defense"
+      ],
+      "matched_terms": [
+        "uas",
+        "drone",
+        "c-uas"
+      ],
+      "watchlist": null,
+      "extra": {
+        "amount": 1650000.0,
+        "award_type": "DEFINITIVE CONTRACT"
+      },
+      "first_seen": "2026-11-13T05:29:08.354070+00:00",
+      "is_new": true
+    },
+    {
       "id": "USAspending:70Z02325F71100013",
       "source": "USAspending",
       "category": "procurement",
@@ -3096,6 +3093,56 @@
       "is_new": false
     },
     {
+      "id": "USAspending:15F06726F0001351",
+      "source": "USAspending",
+      "category": "procurement",
+      "type": "Award",
+      "title": "W S DARLEY & CO: TACTICAL EQUIPMENT DELIVERY ORDER.",
+      "url": "https://www.usaspending.gov/award/CONT_AWD_15F06726F0001351_1549_15F06725D0000763_1549",
+      "agency": "Department of Justice",
+      "identifier": "15F06726F0001351",
+      "date": "2026-09-15",
+      "deadline": null,
+      "summary": "TACTICAL EQUIPMENT DELIVERY ORDER.",
+      "score": 30,
+      "domains": [],
+      "matched_terms": [],
+      "watchlist": null,
+      "extra": {
+        "amount": 1706394.61,
+        "award_type": "DELIVERY ORDER"
+      },
+      "first_seen": "2026-11-13T05:29:08.354070+00:00",
+      "is_new": true
+    },
+    {
+      "id": "USAspending:1202SA26K9803",
+      "source": "USAspending",
+      "category": "procurement",
+      "type": "Award",
+      "title": "DRONE AMPLIFIED INC: ONE IGNIS III MINI WITH LYNX CAMERA",
+      "url": "https://www.usaspending.gov/award/CONT_AWD_1202SA26K9803_12C2_1202SA26T9800_12C2",
+      "agency": "Department of Agriculture",
+      "identifier": "1202SA26K9803",
+      "date": "2026-08-17",
+      "deadline": null,
+      "summary": "ONE IGNIS III MINI WITH LYNX CAMERA",
+      "score": 30,
+      "domains": [
+        "air"
+      ],
+      "matched_terms": [
+        "drone"
+      ],
+      "watchlist": null,
+      "extra": {
+        "amount": 1539442.76,
+        "award_type": "DELIVERY ORDER"
+      },
+      "first_seen": "2026-11-13T05:29:08.354070+00:00",
+      "is_new": true
+    },
+    {
       "id": "USAspending:19AQMM26C0675",
       "source": "USAspending",
       "category": "procurement",
@@ -3171,6 +3218,29 @@
       },
       "first_seen": "2026-11-04T05:10:55.333668+00:00",
       "is_new": false
+    },
+    {
+      "id": "USAspending:W900KK26FA127",
+      "source": "USAspending",
+      "category": "procurement",
+      "type": "Award",
+      "title": "GRIFFON AEROSPACE, INC.: DELIVERY ORDER (DO) #86 UNDER THE AIR DEFENSE ARTILLERY TARGETS (ADA-T) CONTRACT W900KK22D0010 TO PROVIDE HARDWARE TO RE",
+      "url": "https://www.usaspending.gov/award/CONT_AWD_W900KK26FA127_9700_W900KK22D0010_9700",
+      "agency": "Department of Defense",
+      "identifier": "W900KK26FA127",
+      "date": "2026-07-20",
+      "deadline": null,
+      "summary": "DELIVERY ORDER (DO) #86 UNDER THE AIR DEFENSE ARTILLERY TARGETS (ADA-T) CONTRACT W900KK22D0010 TO PROVIDE HARDWARE TO REPLACE PDM TTS ITEMS USED IN PREVIOUS MISSIONS AND TO OBTAIN HARDWARE FOR SUPPORT OF UPCOMING MISSIONS.",
+      "score": 30,
+      "domains": [],
+      "matched_terms": [],
+      "watchlist": null,
+      "extra": {
+        "amount": 1642586.0,
+        "award_type": "DELIVERY ORDER"
+      },
+      "first_seen": "2026-11-13T05:29:08.354070+00:00",
+      "is_new": true
     },
     {
       "id": "USAspending:W900KK26FA112",
@@ -3672,56 +3742,6 @@
       "is_new": false
     },
     {
-      "id": "USAspending:FA239424CB050",
-      "source": "USAspending",
-      "category": "procurement",
-      "type": "Award",
-      "title": "CYTEC ENGINEERED MATERIALS, INC.: COMPOSITES FOR ADVANCED AIR MOBILITY (CAAM)",
-      "url": "https://www.usaspending.gov/award/CONT_AWD_FA239424CB050_9700_-NONE-_-NONE-",
-      "agency": "Department of Defense",
-      "identifier": "FA239424CB050",
-      "date": "2024-09-30",
-      "deadline": null,
-      "summary": "COMPOSITES FOR ADVANCED AIR MOBILITY (CAAM)",
-      "score": 30,
-      "domains": [
-        "air"
-      ],
-      "matched_terms": [
-        "advanced air mobility"
-      ],
-      "watchlist": null,
-      "extra": {
-        "amount": 15065877.0,
-        "award_type": "DEFINITIVE CONTRACT"
-      },
-      "first_seen": "2026-11-04T23:18:49.468978+00:00",
-      "is_new": false
-    },
-    {
-      "id": "USAspending:N0001924F0328",
-      "source": "USAspending",
-      "category": "procurement",
-      "type": "Award",
-      "title": "INSITU, INC.: THE PURPOSE OF THIS DELIVERY ORDER IS TO PROCURE INITIAL SCANEAGLE HARDWARE AND SERVICES IN SUPPORT OF A FUTURE SITE FOR",
-      "url": "https://www.usaspending.gov/award/CONT_AWD_N0001924F0328_9700_N0001922D0038_9700",
-      "agency": "Department of Defense",
-      "identifier": "N0001924F0328",
-      "date": "2024-09-30",
-      "deadline": null,
-      "summary": "THE PURPOSE OF THIS DELIVERY ORDER IS TO PROCURE INITIAL SCANEAGLE HARDWARE AND SERVICES IN SUPPORT OF A FUTURE SITE FOR FMS BULGARIA, BU-P-LBJ.",
-      "score": 30,
-      "domains": [],
-      "matched_terms": [],
-      "watchlist": null,
-      "extra": {
-        "amount": 8884356.65,
-        "award_type": "DELIVERY ORDER"
-      },
-      "first_seen": "2026-09-26T03:56:32.861219+00:00",
-      "is_new": false
-    },
-    {
       "id": "USAspending:19AQMM26F0930",
       "source": "USAspending",
       "category": "procurement",
@@ -3937,33 +3957,6 @@
       "is_new": false
     },
     {
-      "id": "USAspending:FA807522F0011",
-      "source": "USAspending",
-      "category": "procurement",
-      "type": "Award",
-      "title": "MANTECH TSG-2 JOINT VENTURE: UNMANNED AIRCRAFT SYSTEMS ENGINEERING AND ANALYSIS FOR NAVAL AIR SYSTEMS COMMAND AND NAVAL SURFACE WARFARE CENTER, CRANE",
-      "url": "https://www.usaspending.gov/award/CONT_AWD_FA807522F0011_9700_FA807518D0011_9700",
-      "agency": "Department of Defense",
-      "identifier": "FA807522F0011",
-      "date": "2021-12-09",
-      "deadline": null,
-      "summary": "UNMANNED AIRCRAFT SYSTEMS ENGINEERING AND ANALYSIS FOR NAVAL AIR SYSTEMS COMMAND AND NAVAL SURFACE WARFARE CENTER, CRANE DIVISION",
-      "score": 30,
-      "domains": [
-        "air"
-      ],
-      "matched_terms": [
-        "unmanned aircraft"
-      ],
-      "watchlist": null,
-      "extra": {
-        "amount": 101056498.72,
-        "award_type": "DELIVERY ORDER"
-      },
-      "first_seen": "2026-06-22T17:58:20.979820+00:00",
-      "is_new": false
-    },
-    {
       "id": "USAspending:W31P4Q21F0254",
       "source": "USAspending",
       "category": "procurement",
@@ -3989,6 +3982,33 @@
       },
       "first_seen": "2026-11-04T05:10:55.333668+00:00",
       "is_new": false
+    },
+    {
+      "id": "USAspending:70RSAT21FR0000032",
+      "source": "USAspending",
+      "category": "procurement",
+      "type": "Award",
+      "title": "THE MITRE CORPORATION: THE PURPOSE OF DHS TASK ORDER 70RSAT21FR0000032 IS TO PROCURE THE AIR DOMAIN AWARENESS OF MANNED AND UNMANNED AIRCRAFT P",
+      "url": "https://www.usaspending.gov/award/CONT_AWD_70RSAT21FR0000032_7001_70RSAT20D00000001_7001",
+      "agency": "Department of Homeland Security",
+      "identifier": "70RSAT21FR0000032",
+      "date": "2021-03-29",
+      "deadline": null,
+      "summary": "THE PURPOSE OF DHS TASK ORDER 70RSAT21FR0000032 IS TO PROCURE THE AIR DOMAIN AWARENESS OF MANNED AND UNMANNED AIRCRAFT PROGRAM.",
+      "score": 30,
+      "domains": [
+        "air"
+      ],
+      "matched_terms": [
+        "unmanned aircraft"
+      ],
+      "watchlist": null,
+      "extra": {
+        "amount": 1789091.71,
+        "award_type": "DELIVERY ORDER"
+      },
+      "first_seen": "2026-11-13T05:29:08.354070+00:00",
+      "is_new": true
     },
     {
       "id": "USAspending:692M1521F00018",
@@ -4034,29 +4054,6 @@
         "award_type": "DEFINITIVE CONTRACT"
       },
       "first_seen": "2026-10-21T03:41:12.185126+00:00",
-      "is_new": false
-    },
-    {
-      "id": "USAspending:N0001919C0008",
-      "source": "USAspending",
-      "category": "procurement",
-      "type": "Award",
-      "title": "NORTHROP GRUMMAN SYSTEMS CORPORATION: MQ-4C TRITON LRIP LOT 5 LONG LEAD ITEMS TO SUPPORT U.S. NAVY AND COOPERATIVE PARTNER AUSTRALIA.",
-      "url": "https://www.usaspending.gov/award/CONT_AWD_N0001919C0008_9700_-NONE-_-NONE-",
-      "agency": "Department of Defense",
-      "identifier": "N0001919C0008",
-      "date": "2019-05-29",
-      "deadline": null,
-      "summary": "MQ-4C TRITON LRIP LOT 5 LONG LEAD ITEMS TO SUPPORT U.S. NAVY AND COOPERATIVE PARTNER AUSTRALIA.",
-      "score": 30,
-      "domains": [],
-      "matched_terms": [],
-      "watchlist": null,
-      "extra": {
-        "amount": 1810662428.42,
-        "award_type": "DEFINITIVE CONTRACT"
-      },
-      "first_seen": "2026-09-26T03:56:32.861219+00:00",
       "is_new": false
     },
     {
@@ -4291,7 +4288,7 @@
       "watchlist": null,
       "extra": {},
       "first_seen": "2026-11-12T23:16:51.136954+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "Regulations.gov:FAA-2026-14787-0001",
@@ -4975,7 +4972,7 @@
   ],
   "stats": {
     "total": 178,
-    "new": 4,
+    "new": 5,
     "by_category": {
       "regulatory": 102,
       "procurement": 60,
@@ -4984,9 +4981,9 @@
     },
     "by_domain": {
       "air": 140,
-      "supply-chain": 80,
-      "spectrum": 14,
-      "defense": 10,
+      "supply-chain": 79,
+      "spectrum": 13,
+      "defense": 11,
       "ground": 9
     },
     "by_source": {
@@ -5047,7 +5044,7 @@
         "supply-chain"
       ],
       "deadline": null,
-      "count": 14,
+      "count": 13,
       "latest": "2026-11-12"
     },
     {
@@ -5182,7 +5179,7 @@
   "deadlines": [
     {
       "deadline": "2026-12-03",
-      "days": 21,
+      "days": 20,
       "title": "Privacy Act of 1974; System of Records",
       "identifier": "Docket No. DOT-OST-2026-3862",
       "category": "regulatory",
@@ -5191,7 +5188,7 @@
     },
     {
       "deadline": "2026-12-04",
-      "days": 22,
+      "days": 21,
       "title": "Agency Information Collection Activities; Proposed eCollection eComments Requested; SAFER SKIES State, Local, Tribal, and Territorial Counter-UAS Information Collection",
       "identifier": "OMB Number 1110-0090",
       "category": "regulatory",
