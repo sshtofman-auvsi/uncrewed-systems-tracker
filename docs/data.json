@@ -1,8 +1,103 @@
 {
-  "generated_at": "2026-11-13T14:03:50.024078+00:00",
-  "generated_human": "2026-11-13 14:03 UTC",
+  "generated_at": "2026-11-13T23:19:58.091612+00:00",
+  "generated_human": "2026-11-13 23:19 UTC",
   "demo": false,
   "items": [
+    {
+      "id": "FCC ECFS:26110084600",
+      "source": "FCC ECFS",
+      "category": "regulatory",
+      "type": "Notice",
+      "title": "Correctional Leaders Association: NOTICE OF EXPARTE (FCC 26-74)",
+      "url": "https://www.fcc.gov/ecfs/document/26110084600/1",
+      "agency": "FCC",
+      "identifier": "FCC 26-74",
+      "date": "2026-11-13",
+      "deadline": null,
+      "summary": "",
+      "score": 80,
+      "domains": [
+        "air",
+        "spectrum",
+        "supply-chain"
+      ],
+      "matched_terms": [],
+      "watchlist": {
+        "key": "gn-26-74",
+        "label": "GN 26-74 (Unleashing American Drone Dominance)"
+      },
+      "extra": {
+        "proceeding": "26-74"
+      },
+      "first_seen": "2026-11-13T23:19:58.091612+00:00",
+      "is_new": true
+    },
+    {
+      "id": "FCC ECFS:26110084611",
+      "source": "FCC ECFS",
+      "category": "regulatory",
+      "type": "Comment",
+      "title": "Daniel Hadley: COMMENT (FCC 26-22)",
+      "url": "https://www.fcc.gov/ecfs/search/search-filings/filing/26110084611",
+      "agency": "FCC",
+      "identifier": "FCC 26-22",
+      "date": "2026-11-13",
+      "deadline": null,
+      "summary": "Dear Commissioners,\nI am writing as a FAA Part 107 certified commercial drone pilot based in North Vernon, IN to urge the Commission to grant DJI's Petition for Reconsideration and remove DJI from the Covered List.\nIn my everyday work, I rely on DJI's latest drones like the air 3s and more specifically the matrice 4e/4t to capture real estate coverage and perform inspections.\nPlacing DJI on the Co",
+      "score": 80,
+      "domains": [
+        "air",
+        "supply-chain"
+      ],
+      "matched_terms": [
+        "drone",
+        "part 107",
+        "covered list",
+        "dji",
+        "26-22"
+      ],
+      "watchlist": {
+        "key": "et-26-22",
+        "label": "ET 26-22 / DA-26-592 (DJI Security Assessment — comment by Aug 28, 2026)"
+      },
+      "extra": {
+        "proceeding": "26-22"
+      },
+      "first_seen": "2026-11-13T23:19:58.091612+00:00",
+      "is_new": true
+    },
+    {
+      "id": "FCC ECFS:26110084588",
+      "source": "FCC ECFS",
+      "category": "regulatory",
+      "type": "Comment",
+      "title": "Joe Machos: COMMENT (FCC 26-22)",
+      "url": "https://www.fcc.gov/ecfs/search/search-filings/filing/26110084588",
+      "agency": "FCC",
+      "identifier": "FCC 26-22",
+      "date": "2026-11-13",
+      "deadline": null,
+      "summary": "Dji is the apple of the drone industry, there’s no other company in the USA or elsewhere that can come close to their products.  Banning their products over unsubstantiated claims only hurts Americans.  Especially when the vast majority of other drone manufacturers are Chinese too.",
+      "score": 80,
+      "domains": [
+        "air",
+        "supply-chain"
+      ],
+      "matched_terms": [
+        "drone",
+        "dji",
+        "26-22"
+      ],
+      "watchlist": {
+        "key": "et-26-22",
+        "label": "ET 26-22 / DA-26-592 (DJI Security Assessment — comment by Aug 28, 2026)"
+      },
+      "extra": {
+        "proceeding": "26-22"
+      },
+      "first_seen": "2026-11-13T23:19:58.091612+00:00",
+      "is_new": true
+    },
     {
       "id": "FCC ECFS:26110084518",
       "source": "FCC ECFS",
@@ -1881,73 +1976,17 @@
       "is_new": false
     },
     {
-      "id": "FCC ECFS:26110073295",
-      "source": "FCC ECFS",
-      "category": "regulatory",
-      "type": "Comment",
-      "title": "Collins Asset Management Corp. DBA DroneXperts: COMMENT (FCC 26-22)",
-      "url": "https://www.fcc.gov/ecfs/document/26110073295/1",
-      "agency": "FCC",
-      "identifier": "FCC 26-22",
-      "date": "2026-08-27",
-      "deadline": null,
-      "summary": "",
-      "score": 80,
-      "domains": [
-        "supply-chain",
-        "air"
-      ],
-      "matched_terms": [],
-      "watchlist": {
-        "key": "et-26-22",
-        "label": "ET 26-22 / DA-26-592 (DJI Security Assessment — comment by Aug 28, 2026)"
-      },
-      "extra": {
-        "proceeding": "26-22"
-      },
-      "first_seen": "2026-08-27T21:55:00.171100+00:00",
-      "is_new": false
-    },
-    {
-      "id": "FCC ECFS:26110073317",
-      "source": "FCC ECFS",
-      "category": "regulatory",
-      "type": "Reply Comment",
-      "title": "Chris Giacomini, Spokane County Sheriff's Office, 1100 W Mallon Ave, Spokane, WA, 99260: REPLY TO OPPOSITION TO PETITION FOR RECONSIDERATION (FCC 26-22)",
-      "url": "https://www.fcc.gov/ecfs/document/26110073317/1",
-      "agency": "FCC",
-      "identifier": "FCC 26-22",
-      "date": "2026-08-27",
-      "deadline": null,
-      "summary": "",
-      "score": 80,
-      "domains": [
-        "supply-chain",
-        "air"
-      ],
-      "matched_terms": [],
-      "watchlist": {
-        "key": "et-26-22",
-        "label": "ET 26-22 / DA-26-592 (DJI Security Assessment — comment by Aug 28, 2026)"
-      },
-      "extra": {
-        "proceeding": "26-22"
-      },
-      "first_seen": "2026-08-27T21:55:00.171100+00:00",
-      "is_new": false
-    },
-    {
-      "id": "Regulations.gov:FAA-2026-4558-1630",
+      "id": "Regulations.gov:FAA-2026-4558-1629",
       "source": "Regulations.gov",
       "category": "regulatory",
       "type": "Comment",
-      "title": "Comment on Designation – Restrict the Operation of Unmanned Aircraft in Close Proximity  to a Fixed Site Facility: Comment from American Chemistry Council",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1630",
+      "title": "Comment on Designation – Restrict the Operation of Unmanned Aircraft in Close Proximity  to a Fixed Site Facility: Comment from Karin L",
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1629",
       "agency": "FAA",
       "identifier": "FAA-2026-4558",
       "date": "2026-08-06",
       "deadline": null,
-      "summary": "Comment from American Chemistry Council",
+      "summary": "Comment from Karin L",
       "score": 80,
       "domains": [
         "air"
@@ -1963,7 +2002,7 @@
       "extra": {
         "docket_total_comments": 1669
       },
-      "first_seen": "2026-11-13T14:03:50.024078+00:00",
+      "first_seen": "2026-11-13T23:19:58.091612+00:00",
       "is_new": true
     },
     {
@@ -4675,30 +4714,6 @@
       "is_new": false
     },
     {
-      "id": "Regulations.gov:FAA-2026-13865-0001",
-      "source": "Regulations.gov",
-      "category": "regulatory",
-      "type": "Document",
-      "title": "APEX PRECISION DRONE SERVICES LLC - Petition",
-      "url": "https://www.regulations.gov/document/FAA-2026-13865-0001",
-      "agency": "FAA",
-      "identifier": "FAA-2026-13865",
-      "date": "2026-10-21",
-      "deadline": null,
-      "summary": "APEX PRECISION DRONE SERVICES LLC - Petition",
-      "score": 20,
-      "domains": [
-        "air"
-      ],
-      "matched_terms": [
-        "drone"
-      ],
-      "watchlist": null,
-      "extra": {},
-      "first_seen": "2026-10-21T21:20:53.553786+00:00",
-      "is_new": false
-    },
-    {
       "id": "Federal Register:2026-21053",
       "source": "Federal Register",
       "category": "regulatory",
@@ -4936,8 +4951,8 @@
     {
       "name": "Regulations.gov",
       "status": "ok",
-      "detail": "36 kept",
-      "count": 36
+      "detail": "35 kept",
+      "count": 35
     },
     {
       "name": "FCC ECFS",
@@ -4972,7 +4987,7 @@
   ],
   "stats": {
     "total": 178,
-    "new": 1,
+    "new": 4,
     "by_category": {
       "regulatory": 102,
       "procurement": 60,
@@ -4981,15 +4996,15 @@
     },
     "by_domain": {
       "air": 140,
-      "supply-chain": 79,
-      "spectrum": 13,
+      "supply-chain": 80,
+      "spectrum": 14,
       "defense": 11,
       "ground": 9
     },
     "by_source": {
-      "FCC ECFS": 60,
+      "FCC ECFS": 61,
       "USAspending": 60,
-      "Regulations.gov": 24,
+      "Regulations.gov": 23,
       "Federal Register": 18,
       "CourtListener": 12,
       "Congress.gov": 4
@@ -5019,7 +5034,7 @@
       ],
       "deadline": "2026-08-28",
       "count": 50,
-      "latest": "2026-11-09"
+      "latest": "2026-11-13"
     },
     {
       "key": "bvlos-part-108",
@@ -5044,8 +5059,8 @@
         "supply-chain"
       ],
       "deadline": null,
-      "count": 13,
-      "latest": "2026-11-12"
+      "count": 14,
+      "latest": "2026-11-13"
     },
     {
       "key": "dji-ca9",
