@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-13T23:19:58.091612+00:00",
-  "generated_human": "2026-11-13 23:19 UTC",
+  "generated_at": "2026-11-14T05:19:20.791133+00:00",
+  "generated_human": "2026-11-14 05:19 UTC",
   "demo": false,
   "items": [
     {
@@ -30,7 +30,7 @@
         "proceeding": "26-74"
       },
       "first_seen": "2026-11-13T23:19:58.091612+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:26110084611",
@@ -64,7 +64,7 @@
         "proceeding": "26-22"
       },
       "first_seen": "2026-11-13T23:19:58.091612+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:26110084588",
@@ -96,7 +96,7 @@
         "proceeding": "26-22"
       },
       "first_seen": "2026-11-13T23:19:58.091612+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:26110084518",
@@ -1976,17 +1976,17 @@
       "is_new": false
     },
     {
-      "id": "Regulations.gov:FAA-2026-4558-1629",
+      "id": "Regulations.gov:FAA-2026-4558-1630",
       "source": "Regulations.gov",
       "category": "regulatory",
       "type": "Comment",
-      "title": "Comment on Designation – Restrict the Operation of Unmanned Aircraft in Close Proximity  to a Fixed Site Facility: Comment from Karin L",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1629",
+      "title": "Comment on Designation – Restrict the Operation of Unmanned Aircraft in Close Proximity  to a Fixed Site Facility: Comment from American Chemistry Council",
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1630",
       "agency": "FAA",
       "identifier": "FAA-2026-4558",
       "date": "2026-08-06",
       "deadline": null,
-      "summary": "Comment from Karin L",
+      "summary": "Comment from American Chemistry Council",
       "score": 80,
       "domains": [
         "air"
@@ -2002,7 +2002,7 @@
       "extra": {
         "docket_total_comments": 1669
       },
-      "first_seen": "2026-11-13T23:19:58.091612+00:00",
+      "first_seen": "2026-11-14T05:19:20.791133+00:00",
       "is_new": true
     },
     {
@@ -2579,66 +2579,6 @@
       "is_new": false
     },
     {
-      "id": "USAspending:HQ072724F1610",
-      "source": "USAspending",
-      "category": "procurement",
-      "type": "Award",
-      "title": "RAYTHEON COMPANY: THE ADVANCED TECHNOLOGY SUPPORT PROGRAM (ATSP) CONTRACT ACQUIRES PROGRESSIVE MICROELECTRONIC CAPABILITY SOLUTIONS FOR AD",
-      "url": "https://www.usaspending.gov/award/CONT_AWD_HQ072724F1610_9700_HQ072716D0006_9700",
-      "agency": "Department of Defense",
-      "identifier": "HQ072724F1610",
-      "date": "2024-08-27",
-      "deadline": null,
-      "summary": "THE ADVANCED TECHNOLOGY SUPPORT PROGRAM (ATSP) CONTRACT ACQUIRES PROGRESSIVE MICROELECTRONIC CAPABILITY SOLUTIONS FOR ADVANCED TECHNOLOGY MAINTAINABILITY OF THE MICROELECTRONICS-BASED COUNTER UNMANNED AIRCRAFT SYSTEM",
-      "score": 54,
-      "domains": [
-        "air",
-        "defense"
-      ],
-      "matched_terms": [
-        "unmanned aircraft",
-        "unmanned aircraft system",
-        "counter unmanned"
-      ],
-      "watchlist": null,
-      "extra": {
-        "amount": 216902654.0,
-        "award_type": "DELIVERY ORDER"
-      },
-      "first_seen": "2026-10-16T03:30:55.684796+00:00",
-      "is_new": false
-    },
-    {
-      "id": "USAspending:HQ072723F1601",
-      "source": "USAspending",
-      "category": "procurement",
-      "type": "Award",
-      "title": "RAYTHEON COMPANY: THIS TASK IS TO ANALYZE, INTEGRATE, MODIFY, PROCURE, AND DELIVER SOLUTIONS TO IMPROVE OPERATIONAL EFFECTIVENESS, ENHANCE",
-      "url": "https://www.usaspending.gov/award/CONT_AWD_HQ072723F1601_9700_HQ072716D0006_9700",
-      "agency": "Department of Defense",
-      "identifier": "HQ072723F1601",
-      "date": "2023-04-13",
-      "deadline": null,
-      "summary": "THIS TASK IS TO ANALYZE, INTEGRATE, MODIFY, PROCURE, AND DELIVER SOLUTIONS TO IMPROVE OPERATIONAL EFFECTIVENESS, ENHANCE PERFORMANCE FOR ENHANCED COYOTE BLOCK 2 AND COYOTE BLOCK 3 COUNTER UNMANNED AIRCRAFT SYSTEM SOLUTIONS.",
-      "score": 54,
-      "domains": [
-        "air",
-        "defense"
-      ],
-      "matched_terms": [
-        "unmanned aircraft",
-        "unmanned aircraft system",
-        "counter unmanned"
-      ],
-      "watchlist": null,
-      "extra": {
-        "amount": 253261774.0,
-        "award_type": "DELIVERY ORDER"
-      },
-      "first_seen": "2026-10-16T03:30:55.684796+00:00",
-      "is_new": false
-    },
-    {
       "id": "USAspending:70CMSD26FC0000037",
       "source": "USAspending",
       "category": "procurement",
@@ -2961,6 +2901,63 @@
       "is_new": false
     },
     {
+      "id": "USAspending:70T05026F6116N006",
+      "source": "USAspending",
+      "category": "procurement",
+      "type": "Award",
+      "title": "DEDRONE DEFENSE LLC: THIS SPLIT AWARD IS ISSUED UNDER THE EXISTING INDEFINITE DELIVERY, INDEFINITE QUANTITY (IDIQ) 70RDA226D00000001 CONTRACT",
+      "url": "https://www.usaspending.gov/award/CONT_AWD_70T05026F6116N006_7013_70RDA226D00000001_7001",
+      "agency": "Department of Homeland Security",
+      "identifier": "70T05026F6116N006",
+      "date": "2026-09-30",
+      "deadline": null,
+      "summary": "THIS SPLIT AWARD IS ISSUED UNDER THE EXISTING INDEFINITE DELIVERY, INDEFINITE QUANTITY (IDIQ) 70RDA226D00000001 CONTRACT TO OBTAIN FIXED-SITE AND PORTABLE COUNTER-UAS CAPABILITY CONSISTING OF A D-FEND ENFORCEAIR2 MITIGATION SYSTEM INTEGRATE.",
+      "score": 34,
+      "domains": [
+        "air",
+        "defense"
+      ],
+      "matched_terms": [
+        "uas",
+        "counter-uas"
+      ],
+      "watchlist": null,
+      "extra": {
+        "amount": 1412398.64,
+        "award_type": "DELIVERY ORDER"
+      },
+      "first_seen": "2026-11-14T05:19:20.791133+00:00",
+      "is_new": true
+    },
+    {
+      "id": "USAspending:697DCK26C00168",
+      "source": "USAspending",
+      "category": "procurement",
+      "type": "Award",
+      "title": "GENERAL ATOMICS AERONAUTICAL SYSTEMS, INC.: BAA CALL 001-2026 DEVELOPMENT OF NON-SYSTEM SPECIFIC TECHNOLOGY TO INTEGRATE UNMANNED AIRCRAFT SYSTEMS (UAS) INTO THE NA",
+      "url": "https://www.usaspending.gov/award/CONT_AWD_697DCK26C00168_6920_-NONE-_-NONE-",
+      "agency": "Department of Transportation",
+      "identifier": "697DCK26C00168",
+      "date": "2026-09-22",
+      "deadline": null,
+      "summary": "BAA CALL 001-2026 DEVELOPMENT OF NON-SYSTEM SPECIFIC TECHNOLOGY TO INTEGRATE UNMANNED AIRCRAFT SYSTEMS (UAS) INTO THE NAS",
+      "score": 34,
+      "domains": [
+        "air"
+      ],
+      "matched_terms": [
+        "unmanned aircraft",
+        "uas"
+      ],
+      "watchlist": null,
+      "extra": {
+        "amount": 1333200.7,
+        "award_type": "DEFINITIVE CONTRACT"
+      },
+      "first_seen": "2026-11-14T05:19:20.791133+00:00",
+      "is_new": true
+    },
+    {
       "id": "USAspending:692M1526F00097",
       "source": "USAspending",
       "category": "procurement",
@@ -3259,29 +3256,6 @@
       "is_new": false
     },
     {
-      "id": "USAspending:W900KK26FA127",
-      "source": "USAspending",
-      "category": "procurement",
-      "type": "Award",
-      "title": "GRIFFON AEROSPACE, INC.: DELIVERY ORDER (DO) #86 UNDER THE AIR DEFENSE ARTILLERY TARGETS (ADA-T) CONTRACT W900KK22D0010 TO PROVIDE HARDWARE TO RE",
-      "url": "https://www.usaspending.gov/award/CONT_AWD_W900KK26FA127_9700_W900KK22D0010_9700",
-      "agency": "Department of Defense",
-      "identifier": "W900KK26FA127",
-      "date": "2026-07-20",
-      "deadline": null,
-      "summary": "DELIVERY ORDER (DO) #86 UNDER THE AIR DEFENSE ARTILLERY TARGETS (ADA-T) CONTRACT W900KK22D0010 TO PROVIDE HARDWARE TO REPLACE PDM TTS ITEMS USED IN PREVIOUS MISSIONS AND TO OBTAIN HARDWARE FOR SUPPORT OF UPCOMING MISSIONS.",
-      "score": 30,
-      "domains": [],
-      "matched_terms": [],
-      "watchlist": null,
-      "extra": {
-        "amount": 1642586.0,
-        "award_type": "DELIVERY ORDER"
-      },
-      "first_seen": "2026-11-13T05:29:08.354070+00:00",
-      "is_new": false
-    },
-    {
       "id": "USAspending:W900KK26FA112",
       "source": "USAspending",
       "category": "procurement",
@@ -3303,6 +3277,34 @@
       },
       "first_seen": "2026-10-23T03:43:37.649109+00:00",
       "is_new": false
+    },
+    {
+      "id": "USAspending:140D0426F0680",
+      "source": "USAspending",
+      "category": "procurement",
+      "type": "Award",
+      "title": "OVERWATCH AERO LLC: EXCLUSIVE USE (EU) UNMANNED AIRCRAFT SYSTEMS (UAS) EMERGENCY FIRE FLIGHT SERVICES",
+      "url": "https://www.usaspending.gov/award/CONT_AWD_140D0426F0680_1406_140D0426D0056_1406",
+      "agency": "Department of the Interior",
+      "identifier": "140D0426F0680",
+      "date": "2026-06-15",
+      "deadline": null,
+      "summary": "EXCLUSIVE USE (EU) UNMANNED AIRCRAFT SYSTEMS (UAS) EMERGENCY FIRE FLIGHT SERVICES",
+      "score": 30,
+      "domains": [
+        "air"
+      ],
+      "matched_terms": [
+        "unmanned aircraft",
+        "uas"
+      ],
+      "watchlist": null,
+      "extra": {
+        "amount": 1395125.0,
+        "award_type": "DELIVERY ORDER"
+      },
+      "first_seen": "2026-11-14T05:19:20.791133+00:00",
+      "is_new": true
     },
     {
       "id": "USAspending:FA868926FB001",
@@ -3682,33 +3684,6 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-09-30T12:03:15.744794+00:00",
-      "is_new": false
-    },
-    {
-      "id": "USAspending:FA864925P0490",
-      "source": "USAspending",
-      "category": "procurement",
-      "type": "Award",
-      "title": "EXCLAIM IP, LLC: OPERATIONAL DOMINANCE THROUGH RESILIENT UNMANNED AERIAL SYSTEM: PASSIVE THERMAL AND ELECTROMAGNETIC PULSE PROTECTION FOR",
-      "url": "https://www.usaspending.gov/award/CONT_AWD_FA864925P0490_9700_-NONE-_-NONE-",
-      "agency": "Department of Defense",
-      "identifier": "FA864925P0490",
-      "date": "2025-08-21",
-      "deadline": null,
-      "summary": "OPERATIONAL DOMINANCE THROUGH RESILIENT UNMANNED AERIAL SYSTEM: PASSIVE THERMAL AND ELECTROMAGNETIC PULSE PROTECTION FOR MISSION-CRITICAL DRONE SYSTEMS",
-      "score": 30,
-      "domains": [
-        "air"
-      ],
-      "matched_terms": [
-        "drone"
-      ],
-      "watchlist": null,
-      "extra": {
-        "amount": 1799136.0,
-        "award_type": "PURCHASE ORDER"
-      },
-      "first_seen": "2026-11-12T00:09:48.695588+00:00",
       "is_new": false
     },
     {
@@ -4140,6 +4115,29 @@
       },
       "first_seen": "2026-06-22T17:58:20.979820+00:00",
       "is_new": false
+    },
+    {
+      "id": "USAspending:FA867810C0100",
+      "source": "USAspending",
+      "category": "procurement",
+      "type": "Award",
+      "title": "THE BOEING COMPANY: QF-16 FULL SCALE AERIAL TARGET (FSAT)",
+      "url": "https://www.usaspending.gov/award/CONT_AWD_FA867810C0100_9700_-NONE-_-NONE-",
+      "agency": "Department of Defense",
+      "identifier": "FA867810C0100",
+      "date": "2010-03-08",
+      "deadline": null,
+      "summary": "QF-16 FULL SCALE AERIAL TARGET (FSAT)",
+      "score": 30,
+      "domains": [],
+      "matched_terms": [],
+      "watchlist": null,
+      "extra": {
+        "amount": 329818476.89,
+        "award_type": "DEFINITIVE CONTRACT"
+      },
+      "first_seen": "2026-11-14T05:19:20.791133+00:00",
+      "is_new": true
     },
     {
       "id": "Federal Register:2026-22953",
@@ -4987,7 +4985,7 @@
   ],
   "stats": {
     "total": 178,
-    "new": 4,
+    "new": 5,
     "by_category": {
       "regulatory": 102,
       "procurement": 60,
@@ -4998,7 +4996,7 @@
       "air": 140,
       "supply-chain": 80,
       "spectrum": 14,
-      "defense": 11,
+      "defense": 10,
       "ground": 9
     },
     "by_source": {
@@ -5194,7 +5192,7 @@
   "deadlines": [
     {
       "deadline": "2026-12-03",
-      "days": 20,
+      "days": 19,
       "title": "Privacy Act of 1974; System of Records",
       "identifier": "Docket No. DOT-OST-2026-3862",
       "category": "regulatory",
@@ -5203,7 +5201,7 @@
     },
     {
       "deadline": "2026-12-04",
-      "days": 21,
+      "days": 20,
       "title": "Agency Information Collection Activities; Proposed eCollection eComments Requested; SAFER SKIES State, Local, Tribal, and Territorial Counter-UAS Information Collection",
       "identifier": "OMB Number 1110-0090",
       "category": "regulatory",
