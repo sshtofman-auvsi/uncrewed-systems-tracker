@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-14T13:05:51.417953+00:00",
-  "generated_human": "2026-11-14 13:05 UTC",
+  "generated_at": "2026-11-14T22:02:35.175561+00:00",
+  "generated_human": "2026-11-14 22:02 UTC",
   "demo": false,
   "items": [
     {
@@ -2003,7 +2003,7 @@
         "docket_total_comments": 1669
       },
       "first_seen": "2026-11-14T13:05:51.417953+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "Federal Register:2026-15659",
@@ -4985,7 +4985,7 @@
   ],
   "stats": {
     "total": 178,
-    "new": 1,
+    "new": 0,
     "by_category": {
       "regulatory": 102,
       "procurement": 60,
