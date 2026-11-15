@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-14T22:02:35.175561+00:00",
-  "generated_human": "2026-11-14 22:02 UTC",
+  "generated_at": "2026-11-15T05:15:16.212607+00:00",
+  "generated_human": "2026-11-15 05:15 UTC",
   "demo": false,
   "items": [
     {
@@ -2958,6 +2958,34 @@
       "is_new": false
     },
     {
+      "id": "USAspending:697DCK26C00206",
+      "source": "USAspending",
+      "category": "procurement",
+      "type": "Award",
+      "title": "LIGHTHOUSE AVIONICS INC.: BAA CALL 001A-2026 DEVELOPMENT OF NON-SYSTEM SPECIFIC TECHNOLOGY TO INTEGRATE UNMANNED AIRCRAFT SYSTEMS (UAS) INTO THE N",
+      "url": "https://www.usaspending.gov/award/CONT_AWD_697DCK26C00206_6920_-NONE-_-NONE-",
+      "agency": "Department of Transportation",
+      "identifier": "697DCK26C00206",
+      "date": "2026-09-16",
+      "deadline": null,
+      "summary": "BAA CALL 001A-2026 DEVELOPMENT OF NON-SYSTEM SPECIFIC TECHNOLOGY TO INTEGRATE UNMANNED AIRCRAFT SYSTEMS (UAS) INTO THE NAS",
+      "score": 34,
+      "domains": [
+        "air"
+      ],
+      "matched_terms": [
+        "unmanned aircraft",
+        "uas"
+      ],
+      "watchlist": null,
+      "extra": {
+        "amount": 1322361.06,
+        "award_type": "DEFINITIVE CONTRACT"
+      },
+      "first_seen": "2026-11-15T05:15:16.212607+00:00",
+      "is_new": true
+    },
+    {
       "id": "USAspending:692M1526F00097",
       "source": "USAspending",
       "category": "procurement",
@@ -2984,6 +3012,35 @@
       },
       "first_seen": "2026-11-12T00:09:48.695588+00:00",
       "is_new": false
+    },
+    {
+      "id": "USAspending:W912PB26FA525",
+      "source": "USAspending",
+      "category": "procurement",
+      "type": "Award",
+      "title": "GUL: COUNTER UAS AND ACCESSORIES.",
+      "url": "https://www.usaspending.gov/award/CONT_AWD_W912PB26FA525_9700_W912PB26AA003_9700",
+      "agency": "Department of Defense",
+      "identifier": "W912PB26FA525",
+      "date": "2026-07-20",
+      "deadline": null,
+      "summary": "COUNTER UAS AND ACCESSORIES.",
+      "score": 34,
+      "domains": [
+        "air",
+        "defense"
+      ],
+      "matched_terms": [
+        "uas",
+        "counter uas"
+      ],
+      "watchlist": null,
+      "extra": {
+        "amount": 1290800.0,
+        "award_type": "BPA CALL"
+      },
+      "first_seen": "2026-11-15T05:15:16.212607+00:00",
+      "is_new": true
     },
     {
       "id": "USAspending:W56KGU25C0009",
@@ -3660,33 +3717,6 @@
       "is_new": false
     },
     {
-      "id": "USAspending:N0016425FJ608",
-      "source": "USAspending",
-      "category": "procurement",
-      "type": "Award",
-      "title": "PLATFORM SYSTEMS, INCORPORATED: VANILLA UAS AND ASSOCIATED EQUIPMENT AND TRAINING",
-      "url": "https://www.usaspending.gov/award/CONT_AWD_N0016425FJ608_9700_N0016425GJR96_9700",
-      "agency": "Department of Defense",
-      "identifier": "N0016425FJ608",
-      "date": "2025-08-25",
-      "deadline": null,
-      "summary": "VANILLA UAS AND ASSOCIATED EQUIPMENT AND TRAINING",
-      "score": 30,
-      "domains": [
-        "air"
-      ],
-      "matched_terms": [
-        "uas"
-      ],
-      "watchlist": null,
-      "extra": {
-        "amount": 39596289.0,
-        "award_type": "DELIVERY ORDER"
-      },
-      "first_seen": "2026-09-30T12:03:15.744794+00:00",
-      "is_new": false
-    },
-    {
       "id": "USAspending:W900KK25FA096",
       "source": "USAspending",
       "category": "procurement",
@@ -3707,29 +3737,6 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-10-22T03:38:47.152385+00:00",
-      "is_new": false
-    },
-    {
-      "id": "USAspending:N0016425CJR94",
-      "source": "USAspending",
-      "category": "procurement",
-      "type": "Award",
-      "title": "ANDURIL INDUSTRIES, INC.: PRODUCTION AND DELIVERY OF ALTIUS 600M-V LOITERING MUNITIONS AND SUPPORTING HARDWARE",
-      "url": "https://www.usaspending.gov/award/CONT_AWD_N0016425CJR94_9700_-NONE-_-NONE-",
-      "agency": "Department of Defense",
-      "identifier": "N0016425CJR94",
-      "date": "2025-02-11",
-      "deadline": null,
-      "summary": "PRODUCTION AND DELIVERY OF ALTIUS 600M-V LOITERING MUNITIONS AND SUPPORTING HARDWARE",
-      "score": 30,
-      "domains": [],
-      "matched_terms": [],
-      "watchlist": null,
-      "extra": {
-        "amount": 93994917.0,
-        "award_type": "DEFINITIVE CONTRACT"
-      },
-      "first_seen": "2026-10-17T03:21:12.826031+00:00",
       "is_new": false
     },
     {
@@ -4985,7 +4992,7 @@
   ],
   "stats": {
     "total": 178,
-    "new": 0,
+    "new": 2,
     "by_category": {
       "regulatory": 102,
       "procurement": 60,
@@ -4993,10 +5000,10 @@
       "legislative": 4
     },
     "by_domain": {
-      "air": 140,
+      "air": 141,
       "supply-chain": 80,
       "spectrum": 14,
-      "defense": 10,
+      "defense": 11,
       "ground": 9
     },
     "by_source": {
@@ -5192,7 +5199,7 @@
   "deadlines": [
     {
       "deadline": "2026-12-03",
-      "days": 19,
+      "days": 18,
       "title": "Privacy Act of 1974; System of Records",
       "identifier": "Docket No. DOT-OST-2026-3862",
       "category": "regulatory",
@@ -5201,7 +5208,7 @@
     },
     {
       "deadline": "2026-12-04",
-      "days": 20,
+      "days": 19,
       "title": "Agency Information Collection Activities; Proposed eCollection eComments Requested; SAFER SKIES State, Local, Tribal, and Territorial Counter-UAS Information Collection",
       "identifier": "OMB Number 1110-0090",
       "category": "regulatory",
