@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-15T05:15:16.212607+00:00",
-  "generated_human": "2026-11-15 05:15 UTC",
+  "generated_at": "2026-11-15T13:34:22.157430+00:00",
+  "generated_human": "2026-11-15 13:34 UTC",
   "demo": false,
   "items": [
     {
@@ -2983,7 +2983,7 @@
         "award_type": "DEFINITIVE CONTRACT"
       },
       "first_seen": "2026-11-15T05:15:16.212607+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:692M1526F00097",
@@ -3040,7 +3040,7 @@
         "award_type": "BPA CALL"
       },
       "first_seen": "2026-11-15T05:15:16.212607+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:W56KGU25C0009",
@@ -4992,7 +4992,7 @@
   ],
   "stats": {
     "total": 178,
-    "new": 2,
+    "new": 0,
     "by_category": {
       "regulatory": 102,
       "procurement": 60,
