@@ -1,15 +1,72 @@
 {
-  "generated_at": "2026-11-16T15:02:00.576370+00:00",
-  "generated_human": "2026-11-16 15:02 UTC",
+  "generated_at": "2026-11-17T01:40:53.445480+00:00",
+  "generated_human": "2026-11-17 01:40 UTC",
   "demo": false,
   "items": [
     {
-      "id": "FCC ECFS:26110084600",
+      "id": "FCC ECFS:26110084648",
+      "source": "FCC ECFS",
+      "category": "regulatory",
+      "type": "Notice",
+      "title": "Space Exploration Holdings, LLC: NOTICE OF EXPARTE (FCC 26-74)",
+      "url": "https://www.fcc.gov/ecfs/document/26110084648/1",
+      "agency": "FCC",
+      "identifier": "FCC 26-74",
+      "date": "2026-11-16",
+      "deadline": null,
+      "summary": "",
+      "score": 80,
+      "domains": [
+        "air",
+        "spectrum",
+        "supply-chain"
+      ],
+      "matched_terms": [],
+      "watchlist": {
+        "key": "gn-26-74",
+        "label": "GN 26-74 (Unleashing American Drone Dominance)"
+      },
+      "extra": {
+        "proceeding": "26-74"
+      },
+      "first_seen": "2026-11-17T01:40:53.445480+00:00",
+      "is_new": true
+    },
+    {
+      "id": "FCC ECFS:1116029194328",
+      "source": "FCC ECFS",
+      "category": "regulatory",
+      "type": "Notice",
+      "title": "Public Safety & Homeland Security Bureau: PUBLIC NOTICE (FCC 26-22)",
+      "url": "https://docs.fcc.gov/public/attachments/DA-26-1239A1.pdf",
+      "agency": "FCC",
+      "identifier": "FCC 26-22",
+      "date": "2026-11-16",
+      "deadline": null,
+      "summary": "",
+      "score": 80,
+      "domains": [
+        "supply-chain",
+        "air"
+      ],
+      "matched_terms": [],
+      "watchlist": {
+        "key": "et-26-22",
+        "label": "ET 26-22 / DA-26-592 (DJI Security Assessment — comment by Aug 28, 2026)"
+      },
+      "extra": {
+        "proceeding": "26-22"
+      },
+      "first_seen": "2026-11-17T01:40:53.445480+00:00",
+      "is_new": true
+    },
+    {
+      "id": "FCC ECFS:26110084598",
       "source": "FCC ECFS",
       "category": "regulatory",
       "type": "Notice",
       "title": "Correctional Leaders Association: NOTICE OF EXPARTE (FCC 26-74)",
-      "url": "https://www.fcc.gov/ecfs/document/26110084600/1",
+      "url": "https://www.fcc.gov/ecfs/document/26110084598/1",
       "agency": "FCC",
       "identifier": "FCC 26-74",
       "date": "2026-11-13",
@@ -29,8 +86,8 @@
       "extra": {
         "proceeding": "26-74"
       },
-      "first_seen": "2026-11-13T23:19:58.091612+00:00",
-      "is_new": false
+      "first_seen": "2026-11-17T01:40:53.445480+00:00",
+      "is_new": true
     },
     {
       "id": "FCC ECFS:26110084611",
@@ -525,34 +582,6 @@
       "type": "LETTER",
       "title": "United States Senate: LETTER (FCC 26-22)",
       "url": "https://www.fcc.gov/ecfs/document/26110081760/1",
-      "agency": "FCC",
-      "identifier": "FCC 26-22",
-      "date": "2026-10-15",
-      "deadline": null,
-      "summary": "",
-      "score": 80,
-      "domains": [
-        "supply-chain",
-        "air"
-      ],
-      "matched_terms": [],
-      "watchlist": {
-        "key": "et-26-22",
-        "label": "ET 26-22 / DA-26-592 (DJI Security Assessment — comment by Aug 28, 2026)"
-      },
-      "extra": {
-        "proceeding": "26-22"
-      },
-      "first_seen": "2026-10-15T21:01:42.104822+00:00",
-      "is_new": false
-    },
-    {
-      "id": "FCC ECFS:1015283532788",
-      "source": "FCC ECFS",
-      "category": "regulatory",
-      "type": "Notice",
-      "title": "Public Safety & Homeland Security Bureau: PUBLIC NOTICE (FCC 26-22)",
-      "url": "https://docs.fcc.gov/public/attachments/DA-26-1112A1.pdf",
       "agency": "FCC",
       "identifier": "FCC 26-22",
       "date": "2026-10-15",
@@ -1948,45 +1977,17 @@
       "is_new": false
     },
     {
-      "id": "FCC ECFS:26110073482",
-      "source": "FCC ECFS",
-      "category": "regulatory",
-      "type": "Comment",
-      "title": "Damion rose: COMMENT (FCC 26-22)",
-      "url": "https://www.fcc.gov/ecfs/document/26110073482/1",
-      "agency": "FCC",
-      "identifier": "FCC 26-22",
-      "date": "2026-08-28",
-      "deadline": null,
-      "summary": "",
-      "score": 80,
-      "domains": [
-        "supply-chain",
-        "air"
-      ],
-      "matched_terms": [],
-      "watchlist": {
-        "key": "et-26-22",
-        "label": "ET 26-22 / DA-26-592 (DJI Security Assessment — comment by Aug 28, 2026)"
-      },
-      "extra": {
-        "proceeding": "26-22"
-      },
-      "first_seen": "2026-08-28T21:47:14.838038+00:00",
-      "is_new": false
-    },
-    {
-      "id": "Regulations.gov:FAA-2026-4558-1629",
+      "id": "Regulations.gov:FAA-2026-4558-1630",
       "source": "Regulations.gov",
       "category": "regulatory",
       "type": "Comment",
-      "title": "Comment on Designation – Restrict the Operation of Unmanned Aircraft in Close Proximity  to a Fixed Site Facility: Comment from Karin L",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1629",
+      "title": "Comment on Designation – Restrict the Operation of Unmanned Aircraft in Close Proximity  to a Fixed Site Facility: Comment from American Chemistry Council",
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1630",
       "agency": "FAA",
       "identifier": "FAA-2026-4558",
       "date": "2026-08-06",
       "deadline": null,
-      "summary": "Comment from Karin L",
+      "summary": "Comment from American Chemistry Council",
       "score": 80,
       "domains": [
         "air"
@@ -2002,8 +2003,8 @@
       "extra": {
         "docket_total_comments": 1669
       },
-      "first_seen": "2026-11-16T05:15:24.094638+00:00",
-      "is_new": false
+      "first_seen": "2026-11-17T01:40:53.445480+00:00",
+      "is_new": true
     },
     {
       "id": "Federal Register:2026-15659",
@@ -2104,7 +2105,7 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-11-16T15:02:00.576370+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "Congress.gov:119-hr-8870",
@@ -2222,7 +2223,7 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-11-16T15:02:00.576370+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "Regulations.gov:BIS-2025-0059-0143",
@@ -2576,7 +2577,7 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-11-16T15:02:00.576370+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:70CMSD26FC0000037",
@@ -2605,7 +2606,7 @@
         "award_type": "BPA CALL"
       },
       "first_seen": "2026-11-16T15:02:00.576370+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "Federal Register:2026-15417",
@@ -2664,7 +2665,7 @@
         "award_type": "DEFINITIVE CONTRACT"
       },
       "first_seen": "2026-11-16T15:02:00.576370+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:70Z02325F71100013",
@@ -2694,7 +2695,7 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-11-16T15:02:00.576370+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:70T05026F7500N003",
@@ -2723,7 +2724,7 @@
         "award_type": "BPA CALL"
       },
       "first_seen": "2026-11-16T15:02:00.576370+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:70T05026F6116N004",
@@ -2752,7 +2753,7 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-11-16T15:02:00.576370+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:W31P4Q26F0148",
@@ -2781,7 +2782,7 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-11-16T15:02:00.576370+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:692M1522F00222",
@@ -2809,7 +2810,7 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-11-16T15:02:00.576370+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:692M1523F00178",
@@ -2837,7 +2838,7 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-11-16T15:02:00.576370+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "Federal Register:2026-15483",
@@ -2927,7 +2928,7 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-11-16T15:02:00.576370+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:697DCK26C00168",
@@ -2955,7 +2956,7 @@
         "award_type": "DEFINITIVE CONTRACT"
       },
       "first_seen": "2026-11-16T15:02:00.576370+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:697DCK26C00206",
@@ -2983,7 +2984,7 @@
         "award_type": "DEFINITIVE CONTRACT"
       },
       "first_seen": "2026-11-16T15:02:00.576370+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:692M1526F00097",
@@ -3011,7 +3012,7 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-11-16T15:02:00.576370+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:W912PB26FA525",
@@ -3040,7 +3041,7 @@
         "award_type": "BPA CALL"
       },
       "first_seen": "2026-11-16T15:02:00.576370+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:W56KGU25C0009",
@@ -3069,7 +3070,7 @@
         "award_type": "DEFINITIVE CONTRACT"
       },
       "first_seen": "2026-11-16T15:02:00.576370+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:693KA824F00073",
@@ -3097,7 +3098,7 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-11-16T15:02:00.576370+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:W31P4Q24FE001",
@@ -3125,7 +3126,7 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-11-16T15:02:00.576370+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:693KA823F00183",
@@ -3153,7 +3154,7 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-11-16T15:02:00.576370+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "Federal Register:2026-16628",
@@ -3206,7 +3207,7 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-11-16T15:02:00.576370+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:1202SA26K9803",
@@ -3233,7 +3234,7 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-11-16T15:02:00.576370+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:19AQMM26C0675",
@@ -3260,7 +3261,7 @@
         "award_type": "DEFINITIVE CONTRACT"
       },
       "first_seen": "2026-11-16T15:02:00.576370+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:W900KK26FA132",
@@ -3283,7 +3284,7 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-11-16T15:02:00.576370+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:W58RGZ26F0365",
@@ -3310,7 +3311,7 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-11-16T15:02:00.576370+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:W900KK26FA112",
@@ -3333,7 +3334,7 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-11-16T15:02:00.576370+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:140D0426F0680",
@@ -3361,7 +3362,7 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-11-16T15:02:00.576370+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:FA868926FB001",
@@ -3384,7 +3385,7 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-11-16T15:02:00.576370+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:80NM0026F7025",
@@ -3407,7 +3408,7 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-11-16T15:02:00.576370+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:W15P7T26F0089",
@@ -3430,7 +3431,7 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-11-16T15:02:00.576370+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:W912CH26CA014",
@@ -3453,7 +3454,7 @@
         "award_type": "DEFINITIVE CONTRACT"
       },
       "first_seen": "2026-11-16T15:02:00.576370+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:W15P7T26F0084",
@@ -3476,7 +3477,7 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-11-16T15:02:00.576370+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:W58RGZ26F0223",
@@ -3499,7 +3500,7 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-11-16T15:02:00.576370+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:19AQMM26C0257",
@@ -3522,7 +3523,7 @@
         "award_type": "DEFINITIVE CONTRACT"
       },
       "first_seen": "2026-11-16T15:02:00.576370+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:19AQMM26C0264",
@@ -3545,7 +3546,7 @@
         "award_type": "DEFINITIVE CONTRACT"
       },
       "first_seen": "2026-11-16T15:02:00.576370+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:FA865022F2611",
@@ -3572,7 +3573,7 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-11-16T15:02:00.576370+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:89233126FNA400748",
@@ -3595,7 +3596,7 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-11-16T15:02:00.576370+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:89233126FNA400749",
@@ -3618,7 +3619,7 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-11-16T15:02:00.576370+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:19AQMM25F1638",
@@ -3641,7 +3642,7 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-11-16T15:02:00.576370+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:FA868925FB010",
@@ -3664,7 +3665,7 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-11-16T15:02:00.576370+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:N0001925F0971",
@@ -3691,7 +3692,7 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-11-16T15:02:00.576370+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:N0001925F0323",
@@ -3714,7 +3715,7 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-11-16T15:02:00.576370+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:W900KK25FA096",
@@ -3737,7 +3738,7 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-11-16T15:02:00.576370+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:19AQMM25F0189",
@@ -3760,7 +3761,7 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-11-16T15:02:00.576370+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:19AQMM26F0930",
@@ -3783,7 +3784,7 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-11-16T15:02:00.576370+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:N0001424C1324",
@@ -3806,7 +3807,7 @@
         "award_type": "DEFINITIVE CONTRACT"
       },
       "first_seen": "2026-11-16T15:02:00.576370+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:W58RGZ24C0031",
@@ -3829,7 +3830,7 @@
         "award_type": "DEFINITIVE CONTRACT"
       },
       "first_seen": "2026-11-16T15:02:00.576370+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:FA868924C2020",
@@ -3852,7 +3853,7 @@
         "award_type": "DEFINITIVE CONTRACT"
       },
       "first_seen": "2026-11-16T15:02:00.576370+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:W900KK23F0112",
@@ -3875,7 +3876,7 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-11-16T15:02:00.576370+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:693KA923C00012",
@@ -3902,7 +3903,7 @@
         "award_type": "DEFINITIVE CONTRACT"
       },
       "first_seen": "2026-11-16T15:02:00.576370+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:693KA823F00244",
@@ -3929,7 +3930,7 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-11-16T15:02:00.576370+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:N0001923F0319",
@@ -3952,7 +3953,7 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-11-16T15:02:00.576370+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:FA868922F2400",
@@ -3975,7 +3976,7 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-11-16T15:02:00.576370+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:W31P4Q21F0254",
@@ -4002,7 +4003,7 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-11-16T15:02:00.576370+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:70RSAT21FR0000032",
@@ -4029,7 +4030,7 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-11-16T15:02:00.576370+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:692M1521F00018",
@@ -4052,7 +4053,7 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-11-16T15:02:00.576370+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:FA868920C2013",
@@ -4075,7 +4076,7 @@
         "award_type": "DEFINITIVE CONTRACT"
       },
       "first_seen": "2026-11-16T15:02:00.576370+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:19AQMM18F4923",
@@ -4098,7 +4099,7 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-11-16T15:02:00.576370+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:NNG17FD73C",
@@ -4121,7 +4122,7 @@
         "award_type": "DEFINITIVE CONTRACT"
       },
       "first_seen": "2026-11-16T15:02:00.576370+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:FA867810C0100",
@@ -4144,7 +4145,7 @@
         "award_type": "DEFINITIVE CONTRACT"
       },
       "first_seen": "2026-11-16T15:02:00.576370+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "Federal Register:2026-22953",
@@ -4992,7 +4993,7 @@
   ],
   "stats": {
     "total": 178,
-    "new": 60,
+    "new": 4,
     "by_category": {
       "regulatory": 102,
       "procurement": 60,
@@ -5002,7 +5003,7 @@
     "by_domain": {
       "air": 141,
       "supply-chain": 80,
-      "spectrum": 14,
+      "spectrum": 15,
       "defense": 11,
       "ground": 9
     },
@@ -5038,8 +5039,8 @@
         "air"
       ],
       "deadline": "2026-08-28",
-      "count": 50,
-      "latest": "2026-11-13"
+      "count": 49,
+      "latest": "2026-11-16"
     },
     {
       "key": "bvlos-part-108",
@@ -5064,8 +5065,8 @@
         "supply-chain"
       ],
       "deadline": null,
-      "count": 14,
-      "latest": "2026-11-13"
+      "count": 15,
+      "latest": "2026-11-16"
     },
     {
       "key": "dji-ca9",
@@ -5199,7 +5200,7 @@
   "deadlines": [
     {
       "deadline": "2026-12-03",
-      "days": 17,
+      "days": 16,
       "title": "Privacy Act of 1974; System of Records",
       "identifier": "Docket No. DOT-OST-2026-3862",
       "category": "regulatory",
@@ -5208,7 +5209,7 @@
     },
     {
       "deadline": "2026-12-04",
-      "days": 18,
+      "days": 17,
       "title": "Agency Information Collection Activities; Proposed eCollection eComments Requested; SAFER SKIES State, Local, Tribal, and Territorial Counter-UAS Information Collection",
       "identifier": "OMB Number 1110-0090",
       "category": "regulatory",
