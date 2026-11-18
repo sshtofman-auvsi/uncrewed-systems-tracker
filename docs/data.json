@@ -1,8 +1,36 @@
 {
-  "generated_at": "2026-11-17T15:37:48.324232+00:00",
-  "generated_human": "2026-11-17 15:37 UTC",
+  "generated_at": "2026-11-18T00:39:19.615283+00:00",
+  "generated_human": "2026-11-18 00:39 UTC",
   "demo": false,
   "items": [
+    {
+      "id": "FCC ECFS:26110084738",
+      "source": "FCC ECFS",
+      "category": "regulatory",
+      "type": "OTHER",
+      "title": "Department of War: OTHER (FCC 26-22)",
+      "url": "https://www.fcc.gov/ecfs/document/26110084738/1",
+      "agency": "FCC",
+      "identifier": "FCC 26-22",
+      "date": "2026-11-17",
+      "deadline": null,
+      "summary": "",
+      "score": 80,
+      "domains": [
+        "supply-chain",
+        "air"
+      ],
+      "matched_terms": [],
+      "watchlist": {
+        "key": "et-26-22",
+        "label": "ET 26-22 / DA-26-592 (DJI Security Assessment — comment by Aug 28, 2026)"
+      },
+      "extra": {
+        "proceeding": "26-22"
+      },
+      "first_seen": "2026-11-18T00:39:19.615283+00:00",
+      "is_new": true
+    },
     {
       "id": "FCC ECFS:26110084648",
       "source": "FCC ECFS",
@@ -61,12 +89,12 @@
       "is_new": false
     },
     {
-      "id": "FCC ECFS:26110084598",
+      "id": "FCC ECFS:26110084600",
       "source": "FCC ECFS",
       "category": "regulatory",
       "type": "Notice",
       "title": "Correctional Leaders Association: NOTICE OF EXPARTE (FCC 26-74)",
-      "url": "https://www.fcc.gov/ecfs/document/26110084598/1",
+      "url": "https://www.fcc.gov/ecfs/document/26110084600/1",
       "agency": "FCC",
       "identifier": "FCC 26-74",
       "date": "2026-11-13",
@@ -86,8 +114,8 @@
       "extra": {
         "proceeding": "26-74"
       },
-      "first_seen": "2026-11-17T01:40:53.445480+00:00",
-      "is_new": false
+      "first_seen": "2026-11-18T00:39:19.615283+00:00",
+      "is_new": true
     },
     {
       "id": "FCC ECFS:26110084611",
@@ -489,12 +517,12 @@
       "is_new": false
     },
     {
-      "id": "FCC ECFS:26110083192",
+      "id": "FCC ECFS:26110083399",
       "source": "FCC ECFS",
       "category": "regulatory",
       "type": "Comment",
-      "title": "Kevin Mottus, Outreach Director CA Brain Tumor Assn.: COMMENT (FCC 26-74)",
-      "url": "https://www.fcc.gov/ecfs/document/26110083192/1",
+      "title": "Kevin Mottus, Outreach Director at CA Brain Tumor Assn.: COMMENT (FCC 26-74)",
+      "url": "https://www.fcc.gov/ecfs/document/26110083399/1",
       "agency": "FCC",
       "identifier": "FCC 26-74",
       "date": "2026-10-22",
@@ -514,16 +542,16 @@
       "extra": {
         "proceeding": "26-74"
       },
-      "first_seen": "2026-10-26T22:22:50.630622+00:00",
-      "is_new": false
+      "first_seen": "2026-11-18T00:39:19.615283+00:00",
+      "is_new": true
     },
     {
-      "id": "FCC ECFS:26110083217",
+      "id": "FCC ECFS:26110083192",
       "source": "FCC ECFS",
       "category": "regulatory",
       "type": "Comment",
-      "title": "Kevin Mottus, Outreach Director at CA Brain Tumor Assn.: COMMENT (FCC 26-74)",
-      "url": "https://www.fcc.gov/ecfs/document/26110083217/1",
+      "title": "Kevin Mottus, Outreach Director CA Brain Tumor Assn.: COMMENT (FCC 26-74)",
+      "url": "https://www.fcc.gov/ecfs/document/26110083192/1",
       "agency": "FCC",
       "identifier": "FCC 26-74",
       "date": "2026-10-22",
@@ -1949,34 +1977,6 @@
       "is_new": false
     },
     {
-      "id": "FCC ECFS:26110073480",
-      "source": "FCC ECFS",
-      "category": "regulatory",
-      "type": "Comment",
-      "title": "Marco Monteiro: COMMENT (FCC 26-22)",
-      "url": "https://www.fcc.gov/ecfs/document/26110073480/1",
-      "agency": "FCC",
-      "identifier": "FCC 26-22",
-      "date": "2026-08-28",
-      "deadline": null,
-      "summary": "",
-      "score": 80,
-      "domains": [
-        "supply-chain",
-        "air"
-      ],
-      "matched_terms": [],
-      "watchlist": {
-        "key": "et-26-22",
-        "label": "ET 26-22 / DA-26-592 (DJI Security Assessment — comment by Aug 28, 2026)"
-      },
-      "extra": {
-        "proceeding": "26-22"
-      },
-      "first_seen": "2026-08-28T21:47:14.838038+00:00",
-      "is_new": false
-    },
-    {
       "id": "Regulations.gov:FAA-2026-4558-1629",
       "source": "Regulations.gov",
       "category": "regulatory",
@@ -2004,7 +2004,7 @@
         "docket_total_comments": 1669
       },
       "first_seen": "2026-11-17T15:37:48.324232+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "Federal Register:2026-15659",
@@ -3015,35 +3015,6 @@
       "is_new": false
     },
     {
-      "id": "USAspending:W912PB26FA525",
-      "source": "USAspending",
-      "category": "procurement",
-      "type": "Award",
-      "title": "GUL: COUNTER UAS AND ACCESSORIES.",
-      "url": "https://www.usaspending.gov/award/CONT_AWD_W912PB26FA525_9700_W912PB26AA003_9700",
-      "agency": "Department of Defense",
-      "identifier": "W912PB26FA525",
-      "date": "2026-07-20",
-      "deadline": null,
-      "summary": "COUNTER UAS AND ACCESSORIES.",
-      "score": 34,
-      "domains": [
-        "air",
-        "defense"
-      ],
-      "matched_terms": [
-        "uas",
-        "counter uas"
-      ],
-      "watchlist": null,
-      "extra": {
-        "amount": 1290800.0,
-        "award_type": "BPA CALL"
-      },
-      "first_seen": "2026-11-16T15:02:00.576370+00:00",
-      "is_new": false
-    },
-    {
       "id": "USAspending:W56KGU25C0009",
       "source": "USAspending",
       "category": "procurement",
@@ -3434,29 +3405,6 @@
       "is_new": false
     },
     {
-      "id": "USAspending:W912CH26CA014",
-      "source": "USAspending",
-      "category": "procurement",
-      "type": "Award",
-      "title": "DRONESHIELD LLC: PROCUREMENT OF 24 IMMEDIATE RESPONSE KITS.",
-      "url": "https://www.usaspending.gov/award/CONT_AWD_W912CH26CA014_9700_-NONE-_-NONE-",
-      "agency": "Department of Defense",
-      "identifier": "W912CH26CA014",
-      "date": "2026-04-01",
-      "deadline": null,
-      "summary": "PROCUREMENT OF 24 IMMEDIATE RESPONSE KITS.",
-      "score": 30,
-      "domains": [],
-      "matched_terms": [],
-      "watchlist": null,
-      "extra": {
-        "amount": 2334400.0,
-        "award_type": "DEFINITIVE CONTRACT"
-      },
-      "first_seen": "2026-11-16T15:02:00.576370+00:00",
-      "is_new": false
-    },
-    {
       "id": "USAspending:W15P7T26F0084",
       "source": "USAspending",
       "category": "procurement",
@@ -3718,6 +3666,83 @@
       "is_new": false
     },
     {
+      "id": "USAspending:FA864925P0432",
+      "source": "USAspending",
+      "category": "procurement",
+      "type": "Award",
+      "title": "DARKFLITE INC.: ACCELERATING FRONTLINE SURVIVAL: A NEXT-GENERATION DRONE FOR RAPID MILITARY MEDICAL EMERGENCY RESPONSE",
+      "url": "https://www.usaspending.gov/award/CONT_AWD_FA864925P0432_9700_-NONE-_-NONE-",
+      "agency": "Department of Defense",
+      "identifier": "FA864925P0432",
+      "date": "2025-08-29",
+      "deadline": null,
+      "summary": "ACCELERATING FRONTLINE SURVIVAL: A NEXT-GENERATION DRONE FOR RAPID MILITARY MEDICAL EMERGENCY RESPONSE",
+      "score": 30,
+      "domains": [
+        "air"
+      ],
+      "matched_terms": [
+        "drone"
+      ],
+      "watchlist": null,
+      "extra": {
+        "amount": 1249911.0,
+        "award_type": "PURCHASE ORDER"
+      },
+      "first_seen": "2026-11-18T00:39:19.615283+00:00",
+      "is_new": true
+    },
+    {
+      "id": "USAspending:FA864925P0472",
+      "source": "USAspending",
+      "category": "procurement",
+      "type": "Award",
+      "title": "AIRSHARE SYSTEMS, INC.: OVERWATCH: COST-EFFECTIVE AND SAFE ANTI-DRONE SYSTEM",
+      "url": "https://www.usaspending.gov/award/CONT_AWD_FA864925P0472_9700_-NONE-_-NONE-",
+      "agency": "Department of Defense",
+      "identifier": "FA864925P0472",
+      "date": "2025-08-26",
+      "deadline": null,
+      "summary": "OVERWATCH: COST-EFFECTIVE AND SAFE ANTI-DRONE SYSTEM",
+      "score": 30,
+      "domains": [
+        "air"
+      ],
+      "matched_terms": [
+        "drone"
+      ],
+      "watchlist": null,
+      "extra": {
+        "amount": 1249953.0,
+        "award_type": "PURCHASE ORDER"
+      },
+      "first_seen": "2026-11-18T00:39:19.615283+00:00",
+      "is_new": true
+    },
+    {
+      "id": "USAspending:FA868925FB007",
+      "source": "USAspending",
+      "category": "procurement",
+      "type": "Award",
+      "title": "GENERAL ATOMICS AERONAUTICAL SYSTEMS, INC.: SITE SURVEY STUDY IN SUPPORT OF THE INDIA MQ-9B PROGRAM",
+      "url": "https://www.usaspending.gov/award/CONT_AWD_FA868925FB007_9700_FA868920D2020_9700",
+      "agency": "Department of Defense",
+      "identifier": "FA868925FB007",
+      "date": "2025-08-05",
+      "deadline": null,
+      "summary": "SITE SURVEY STUDY IN SUPPORT OF THE INDIA MQ-9B PROGRAM",
+      "score": 30,
+      "domains": [],
+      "matched_terms": [],
+      "watchlist": null,
+      "extra": {
+        "amount": 1265329.0,
+        "award_type": "DELIVERY ORDER"
+      },
+      "first_seen": "2026-11-18T00:39:19.615283+00:00",
+      "is_new": true
+    },
+    {
       "id": "USAspending:W900KK25FA096",
       "source": "USAspending",
       "category": "procurement",
@@ -3950,29 +3975,6 @@
       "watchlist": null,
       "extra": {
         "amount": 19757957.68,
-        "award_type": "DELIVERY ORDER"
-      },
-      "first_seen": "2026-11-16T15:02:00.576370+00:00",
-      "is_new": false
-    },
-    {
-      "id": "USAspending:FA868922F2400",
-      "source": "USAspending",
-      "category": "procurement",
-      "type": "Award",
-      "title": "GENERAL ATOMICS AERONAUTICAL SYSTEMS, INC.: MQ-9 REAPER 2022 UNITED STATES MARINE CORPS PRODUCTION BUY",
-      "url": "https://www.usaspending.gov/award/CONT_AWD_FA868922F2400_9700_FA868920D2020_9700",
-      "agency": "Department of Defense",
-      "identifier": "FA868922F2400",
-      "date": "2022-05-24",
-      "deadline": null,
-      "summary": "MQ-9 REAPER 2022 UNITED STATES MARINE CORPS PRODUCTION BUY",
-      "score": 30,
-      "domains": [],
-      "matched_terms": [],
-      "watchlist": null,
-      "extra": {
-        "amount": 128050591.0,
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-11-16T15:02:00.576370+00:00",
@@ -4312,6 +4314,54 @@
       "is_new": false
     },
     {
+      "id": "Regulations.gov:FAA-2024-2761-0004",
+      "source": "Regulations.gov",
+      "category": "regulatory",
+      "type": "Document",
+      "title": "Veray Drone Services - Petition for Extension",
+      "url": "https://www.regulations.gov/document/FAA-2024-2761-0004",
+      "agency": "FAA",
+      "identifier": "FAA-2024-2761",
+      "date": "2026-11-17",
+      "deadline": null,
+      "summary": "Veray Drone Services - Petition for Extension",
+      "score": 20,
+      "domains": [
+        "air"
+      ],
+      "matched_terms": [
+        "drone"
+      ],
+      "watchlist": null,
+      "extra": {},
+      "first_seen": "2026-11-18T00:39:19.615283+00:00",
+      "is_new": true
+    },
+    {
+      "id": "Regulations.gov:FAA-2024-1854-0004",
+      "source": "Regulations.gov",
+      "category": "regulatory",
+      "type": "Document",
+      "title": "Veray Drone Services - Petition for Extension",
+      "url": "https://www.regulations.gov/document/FAA-2024-1854-0004",
+      "agency": "FAA",
+      "identifier": "FAA-2024-1854",
+      "date": "2026-11-17",
+      "deadline": null,
+      "summary": "Veray Drone Services - Petition for Extension",
+      "score": 20,
+      "domains": [
+        "air"
+      ],
+      "matched_terms": [
+        "drone"
+      ],
+      "watchlist": null,
+      "extra": {},
+      "first_seen": "2026-11-18T00:39:19.615283+00:00",
+      "is_new": true
+    },
+    {
       "id": "Regulations.gov:FAA-2024-0181-0006",
       "source": "Regulations.gov",
       "category": "regulatory",
@@ -4648,54 +4698,6 @@
       "is_new": false
     },
     {
-      "id": "Regulations.gov:FAA-2026-13762-0001",
-      "source": "Regulations.gov",
-      "category": "regulatory",
-      "type": "Document",
-      "title": "ThermaFlight Drone Services LLC - Exemption/Rulemaking",
-      "url": "https://www.regulations.gov/document/FAA-2026-13762-0001",
-      "agency": "FAA",
-      "identifier": "FAA-2026-13762",
-      "date": "2026-10-21",
-      "deadline": null,
-      "summary": "ThermaFlight Drone Services LLC - Exemption/Rulemaking",
-      "score": 20,
-      "domains": [
-        "air"
-      ],
-      "matched_terms": [
-        "drone"
-      ],
-      "watchlist": null,
-      "extra": {},
-      "first_seen": "2026-10-21T16:46:09.109275+00:00",
-      "is_new": false
-    },
-    {
-      "id": "Regulations.gov:FAA-2026-13863-0001",
-      "source": "Regulations.gov",
-      "category": "regulatory",
-      "type": "Document",
-      "title": "HEATSEEKER THERMAL DRONE SOLUTIONS LLC - Petition",
-      "url": "https://www.regulations.gov/document/FAA-2026-13863-0001",
-      "agency": "FAA",
-      "identifier": "FAA-2026-13863",
-      "date": "2026-10-21",
-      "deadline": null,
-      "summary": "HEATSEEKER THERMAL DRONE SOLUTIONS LLC - Petition",
-      "score": 20,
-      "domains": [
-        "air"
-      ],
-      "matched_terms": [
-        "drone"
-      ],
-      "watchlist": null,
-      "extra": {},
-      "first_seen": "2026-10-21T21:20:53.553786+00:00",
-      "is_new": false
-    },
-    {
       "id": "Federal Register:2026-21053",
       "source": "Federal Register",
       "category": "regulatory",
@@ -4969,7 +4971,7 @@
   ],
   "stats": {
     "total": 177,
-    "new": 1,
+    "new": 8,
     "by_category": {
       "regulatory": 101,
       "procurement": 60,
@@ -4977,10 +4979,10 @@
       "legislative": 4
     },
     "by_domain": {
-      "air": 140,
+      "air": 141,
       "supply-chain": 80,
       "spectrum": 15,
-      "defense": 11,
+      "defense": 10,
       "ground": 9
     },
     "by_source": {
@@ -5016,7 +5018,7 @@
       ],
       "deadline": "2026-08-28",
       "count": 49,
-      "latest": "2026-11-16"
+      "latest": "2026-11-17"
     },
     {
       "key": "bvlos-part-108",
@@ -5176,7 +5178,7 @@
   "deadlines": [
     {
       "deadline": "2026-12-03",
-      "days": 16,
+      "days": 15,
       "title": "Privacy Act of 1974; System of Records",
       "identifier": "Docket No. DOT-OST-2026-3862",
       "category": "regulatory",
@@ -5185,7 +5187,7 @@
     },
     {
       "deadline": "2026-12-04",
-      "days": 17,
+      "days": 16,
       "title": "Agency Information Collection Activities; Proposed eCollection eComments Requested; SAFER SKIES State, Local, Tribal, and Territorial Counter-UAS Information Collection",
       "identifier": "OMB Number 1110-0090",
       "category": "regulatory",
