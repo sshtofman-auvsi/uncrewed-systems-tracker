@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-18T23:59:04.310953+00:00",
-  "generated_human": "2026-11-18 23:59 UTC",
+  "generated_at": "2026-11-19T07:05:32.477830+00:00",
+  "generated_human": "2026-11-19 07:05 UTC",
   "demo": false,
   "items": [
     {
@@ -587,41 +587,12 @@
       "is_new": false
     },
     {
-      "id": "FCC ECFS:26110083285",
-      "source": "FCC ECFS",
-      "category": "regulatory",
-      "type": "Comment",
-      "title": "Kevin Mottus, Outreach Director at California Brain Tumor Association: COMMENT (FCC 26-74)",
-      "url": "https://www.fcc.gov/ecfs/document/26110083285/1",
-      "agency": "FCC",
-      "identifier": "FCC 26-74",
-      "date": "2026-10-22",
-      "deadline": null,
-      "summary": "",
-      "score": 80,
-      "domains": [
-        "air",
-        "spectrum",
-        "supply-chain"
-      ],
-      "matched_terms": [],
-      "watchlist": {
-        "key": "gn-26-74",
-        "label": "GN 26-74 (Unleashing American Drone Dominance)"
-      },
-      "extra": {
-        "proceeding": "26-74"
-      },
-      "first_seen": "2026-11-18T15:14:58.662866+00:00",
-      "is_new": false
-    },
-    {
-      "id": "FCC ECFS:26110083338",
+      "id": "FCC ECFS:26110083192",
       "source": "FCC ECFS",
       "category": "regulatory",
       "type": "Comment",
       "title": "Kevin Mottus, Outreach Director CA Brain Tumor Assn.: COMMENT (FCC 26-74)",
-      "url": "https://www.fcc.gov/ecfs/document/26110083338/1",
+      "url": "https://www.fcc.gov/ecfs/document/26110083192/1",
       "agency": "FCC",
       "identifier": "FCC 26-74",
       "date": "2026-10-22",
@@ -641,8 +612,37 @@
       "extra": {
         "proceeding": "26-74"
       },
-      "first_seen": "2026-11-18T15:14:58.662866+00:00",
-      "is_new": false
+      "first_seen": "2026-11-19T07:05:32.477830+00:00",
+      "is_new": true
+    },
+    {
+      "id": "FCC ECFS:26110083243",
+      "source": "FCC ECFS",
+      "category": "regulatory",
+      "type": "Comment",
+      "title": "Kevin Mottus, Outreach Director at California Brain Tumor Association: COMMENT (FCC 26-74)",
+      "url": "https://www.fcc.gov/ecfs/document/26110083243/1",
+      "agency": "FCC",
+      "identifier": "FCC 26-74",
+      "date": "2026-10-22",
+      "deadline": null,
+      "summary": "",
+      "score": 80,
+      "domains": [
+        "air",
+        "spectrum",
+        "supply-chain"
+      ],
+      "matched_terms": [],
+      "watchlist": {
+        "key": "gn-26-74",
+        "label": "GN 26-74 (Unleashing American Drone Dominance)"
+      },
+      "extra": {
+        "proceeding": "26-74"
+      },
+      "first_seen": "2026-11-19T07:05:32.477830+00:00",
+      "is_new": true
     },
     {
       "id": "FCC ECFS:26110081760",
@@ -2018,17 +2018,17 @@
       "is_new": false
     },
     {
-      "id": "Regulations.gov:FAA-2026-4558-1630",
+      "id": "Regulations.gov:FAA-2026-4558-1629",
       "source": "Regulations.gov",
       "category": "regulatory",
       "type": "Comment",
-      "title": "Comment on Designation – Restrict the Operation of Unmanned Aircraft in Close Proximity  to a Fixed Site Facility: Comment from American Chemistry Council",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1630",
+      "title": "Comment on Designation – Restrict the Operation of Unmanned Aircraft in Close Proximity  to a Fixed Site Facility: Comment from Karin L",
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1629",
       "agency": "FAA",
       "identifier": "FAA-2026-4558",
       "date": "2026-08-06",
       "deadline": null,
-      "summary": "Comment from American Chemistry Council",
+      "summary": "Comment from Karin L",
       "score": 80,
       "domains": [
         "air"
@@ -2044,8 +2044,8 @@
       "extra": {
         "docket_total_comments": 1669
       },
-      "first_seen": "2026-11-18T15:14:58.662866+00:00",
-      "is_new": false
+      "first_seen": "2026-11-19T07:05:32.477830+00:00",
+      "is_new": true
     },
     {
       "id": "Federal Register:2026-15659",
@@ -2650,6 +2650,35 @@
       "is_new": false
     },
     {
+      "id": "USAspending:70RSAT26FR0000028",
+      "source": "USAspending",
+      "category": "procurement",
+      "type": "Award",
+      "title": "THE MITRE CORPORATION: FFRDC S&T CYBERSECURITY FOR SMALL UNMANNED AIRCRAFT SYSTEMS (SUAS) MISSIONS",
+      "url": "https://www.usaspending.gov/award/CONT_AWD_70RSAT26FR0000028_7001_70RSAT26D00000001_7001",
+      "agency": "Department of Homeland Security",
+      "identifier": "70RSAT26FR0000028",
+      "date": "2026-08-31",
+      "deadline": null,
+      "summary": "FFRDC S&T CYBERSECURITY FOR SMALL UNMANNED AIRCRAFT SYSTEMS (SUAS) MISSIONS",
+      "score": 50,
+      "domains": [
+        "air"
+      ],
+      "matched_terms": [
+        "unmanned aircraft",
+        "suas",
+        "small unmanned"
+      ],
+      "watchlist": null,
+      "extra": {
+        "amount": 1200000.0,
+        "award_type": "DELIVERY ORDER"
+      },
+      "first_seen": "2026-11-19T07:05:32.477830+00:00",
+      "is_new": true
+    },
+    {
       "id": "Federal Register:2026-15417",
       "source": "Federal Register",
       "category": "regulatory",
@@ -2882,6 +2911,34 @@
       "is_new": false
     },
     {
+      "id": "USAspending:70CMSD26P00000078",
+      "source": "USAspending",
+      "category": "procurement",
+      "type": "Award",
+      "title": "AUTERION GOVERNMENT SOLUTIONS INC: THIS ORDER PROVIDES SMALL UNMANNED AIRCRAFT SYSTEMS FOR SUPPORT IN HOMELAND SECURITY OPERATIONS AND INVESTIGATIONS.",
+      "url": "https://www.usaspending.gov/award/CONT_AWD_70CMSD26P00000078_7012_-NONE-_-NONE-",
+      "agency": "Department of Homeland Security",
+      "identifier": "70CMSD26P00000078",
+      "date": "2026-08-31",
+      "deadline": null,
+      "summary": "THIS ORDER PROVIDES SMALL UNMANNED AIRCRAFT SYSTEMS FOR SUPPORT IN HOMELAND SECURITY OPERATIONS AND INVESTIGATIONS.",
+      "score": 36,
+      "domains": [
+        "air"
+      ],
+      "matched_terms": [
+        "unmanned aircraft",
+        "small unmanned"
+      ],
+      "watchlist": null,
+      "extra": {
+        "amount": 1235350.0,
+        "award_type": "PURCHASE ORDER"
+      },
+      "first_seen": "2026-11-19T07:05:32.477830+00:00",
+      "is_new": true
+    },
+    {
       "id": "Federal Register:2026-15483",
       "source": "Federal Register",
       "category": "regulatory",
@@ -2998,6 +3055,34 @@
       },
       "first_seen": "2026-11-16T15:02:00.576370+00:00",
       "is_new": false
+    },
+    {
+      "id": "USAspending:697DCK26C00188",
+      "source": "USAspending",
+      "category": "procurement",
+      "type": "Award",
+      "title": "RESILIENX, INC.: BAA CALL 001A-2026 DEVELOPMENT OF NON-SYSTEM SPECIFIC TECHNOLOGY TO INTEGRATE UNMANNED AIRCRAFT SYSTEMS (UAS) INTO THE N",
+      "url": "https://www.usaspending.gov/award/CONT_AWD_697DCK26C00188_6920_-NONE-_-NONE-",
+      "agency": "Department of Transportation",
+      "identifier": "697DCK26C00188",
+      "date": "2026-09-18",
+      "deadline": null,
+      "summary": "BAA CALL 001A-2026 DEVELOPMENT OF NON-SYSTEM SPECIFIC TECHNOLOGY TO INTEGRATE UNMANNED AIRCRAFT SYSTEMS (UAS) INTO THE NAS",
+      "score": 34,
+      "domains": [
+        "air"
+      ],
+      "matched_terms": [
+        "unmanned aircraft",
+        "uas"
+      ],
+      "watchlist": null,
+      "extra": {
+        "amount": 1099926.54,
+        "award_type": "DEFINITIVE CONTRACT"
+      },
+      "first_seen": "2026-11-19T07:05:32.477830+00:00",
+      "is_new": true
     },
     {
       "id": "USAspending:697DCK26C00206",
@@ -3199,6 +3284,56 @@
       "is_new": false
     },
     {
+      "id": "USAspending:1605C126P00014",
+      "source": "USAspending",
+      "category": "procurement",
+      "type": "Award",
+      "title": "SKYDIO, INC: SKYDIO DRONES",
+      "url": "https://www.usaspending.gov/award/CONT_AWD_1605C126P00014_1605_-NONE-_-NONE-",
+      "agency": "Department of Labor",
+      "identifier": "1605C126P00014",
+      "date": "2026-09-25",
+      "deadline": null,
+      "summary": "SKYDIO DRONES",
+      "score": 30,
+      "domains": [],
+      "matched_terms": [],
+      "watchlist": null,
+      "extra": {
+        "amount": 1114985.91,
+        "award_type": "PURCHASE ORDER"
+      },
+      "first_seen": "2026-11-19T07:05:32.477830+00:00",
+      "is_new": true
+    },
+    {
+      "id": "USAspending:15A00026CAQA00266",
+      "source": "USAspending",
+      "category": "procurement",
+      "type": "Award",
+      "title": "ATLANTIC DIVING SUPPLY, INC.: EO 14398 - UNMANNED AIRCRAFT SYSTEMS - SKYDIO",
+      "url": "https://www.usaspending.gov/award/CONT_AWD_15A00026CAQA00266_1560_-NONE-_-NONE-",
+      "agency": "Department of Justice",
+      "identifier": "15A00026CAQA00266",
+      "date": "2026-09-18",
+      "deadline": null,
+      "summary": "EO 14398 - UNMANNED AIRCRAFT SYSTEMS - SKYDIO",
+      "score": 30,
+      "domains": [
+        "air"
+      ],
+      "matched_terms": [
+        "unmanned aircraft"
+      ],
+      "watchlist": null,
+      "extra": {
+        "amount": 1099366.7,
+        "award_type": "DEFINITIVE CONTRACT"
+      },
+      "first_seen": "2026-11-19T07:05:32.477830+00:00",
+      "is_new": true
+    },
+    {
       "id": "USAspending:15F06726F0001351",
       "source": "USAspending",
       "category": "procurement",
@@ -3271,29 +3406,6 @@
       "extra": {
         "amount": 2800995.8,
         "award_type": "DEFINITIVE CONTRACT"
-      },
-      "first_seen": "2026-11-16T15:02:00.576370+00:00",
-      "is_new": false
-    },
-    {
-      "id": "USAspending:W900KK26FA132",
-      "source": "USAspending",
-      "category": "procurement",
-      "type": "Award",
-      "title": "KRATOS UNMANNED AERIAL SYSTEMS, INC: TO PROVIDE ACCREDITED, THREAT REPRESENTATIVE UNMANNED AERIAL TARGET SYSTEMS FOR USE IN SENSOR PRESENTATIONS OR LIVE FIRE",
-      "url": "https://www.usaspending.gov/award/CONT_AWD_W900KK26FA132_9700_W900KK23D0015_9700",
-      "agency": "Department of Defense",
-      "identifier": "W900KK26FA132",
-      "date": "2026-07-31",
-      "deadline": null,
-      "summary": "TO PROVIDE ACCREDITED, THREAT REPRESENTATIVE UNMANNED AERIAL TARGET SYSTEMS FOR USE IN SENSOR PRESENTATIONS OR LIVE FIRE TRACKING AND ENGAGEMENT FOR WEAPONS SYSTEMS TESTING.",
-      "score": 30,
-      "domains": [],
-      "matched_terms": [],
-      "watchlist": null,
-      "extra": {
-        "amount": 4355142.0,
-        "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-11-16T15:02:00.576370+00:00",
       "is_new": false
@@ -3377,27 +3489,27 @@
       "is_new": false
     },
     {
-      "id": "USAspending:FA868926FB001",
+      "id": "USAspending:15F06726F0000269",
       "source": "USAspending",
       "category": "procurement",
       "type": "Award",
-      "title": "GENERAL ATOMICS AERONAUTICAL SYSTEMS, INC.: QATAR MQ-9B GREEN AC PURCHASE",
-      "url": "https://www.usaspending.gov/award/CONT_AWD_FA868926FB001_9700_FA868925DB001_9700",
-      "agency": "Department of Defense",
-      "identifier": "FA868926FB001",
-      "date": "2026-05-26",
+      "title": "ATLANTIC DIVING SUPPLY, INC.: TACTICAL EQUIPMENT",
+      "url": "https://www.usaspending.gov/award/CONT_AWD_15F06726F0000269_1549_15F06725D0000751_1549",
+      "agency": "Department of Justice",
+      "identifier": "15F06726F0000269",
+      "date": "2026-05-15",
       "deadline": null,
-      "summary": "QATAR MQ-9B GREEN AC PURCHASE",
+      "summary": "TACTICAL EQUIPMENT",
       "score": 30,
       "domains": [],
       "matched_terms": [],
       "watchlist": null,
       "extra": {
-        "amount": 81930834.59,
+        "amount": 1205744.98,
         "award_type": "DELIVERY ORDER"
       },
-      "first_seen": "2026-11-16T15:02:00.576370+00:00",
-      "is_new": false
+      "first_seen": "2026-11-19T07:05:32.477830+00:00",
+      "is_new": true
     },
     {
       "id": "USAspending:FA868923F2650",
@@ -3469,29 +3581,6 @@
       "is_new": false
     },
     {
-      "id": "USAspending:W15P7T26F0084",
-      "source": "USAspending",
-      "category": "procurement",
-      "type": "Award",
-      "title": "LEIDOS, INC.: PROCURE VOYAGER",
-      "url": "https://www.usaspending.gov/award/CONT_AWD_W15P7T26F0084_9700_W15P7T23D0003_9700",
-      "agency": "Department of Defense",
-      "identifier": "W15P7T26F0084",
-      "date": "2026-03-27",
-      "deadline": null,
-      "summary": "PROCURE VOYAGER",
-      "score": 30,
-      "domains": [],
-      "matched_terms": [],
-      "watchlist": null,
-      "extra": {
-        "amount": 43701700.0,
-        "award_type": "DELIVERY ORDER"
-      },
-      "first_seen": "2026-11-16T15:02:00.576370+00:00",
-      "is_new": false
-    },
-    {
       "id": "USAspending:W58RGZ26F0223",
       "source": "USAspending",
       "category": "procurement",
@@ -3556,33 +3645,6 @@
       "extra": {
         "amount": 14994135.0,
         "award_type": "DEFINITIVE CONTRACT"
-      },
-      "first_seen": "2026-11-16T15:02:00.576370+00:00",
-      "is_new": false
-    },
-    {
-      "id": "USAspending:FA865022F2611",
-      "source": "USAspending",
-      "category": "procurement",
-      "type": "Award",
-      "title": "DCS CORPORATION: TEAMING OF HUMANS AND UNMANNED NETWORKED DRONE RESEARCH",
-      "url": "https://www.usaspending.gov/award/CONT_AWD_FA865022F2611_9700_FA865021D2602_9700",
-      "agency": "Department of Defense",
-      "identifier": "FA865022F2611",
-      "date": "2026-02-16",
-      "deadline": null,
-      "summary": "TEAMING OF HUMANS AND UNMANNED NETWORKED DRONE RESEARCH",
-      "score": 30,
-      "domains": [
-        "air"
-      ],
-      "matched_terms": [
-        "drone"
-      ],
-      "watchlist": null,
-      "extra": {
-        "amount": 12495750.76,
-        "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-11-16T15:02:00.576370+00:00",
       "is_new": false
@@ -3730,33 +3792,6 @@
       "is_new": false
     },
     {
-      "id": "USAspending:FA864925P0472",
-      "source": "USAspending",
-      "category": "procurement",
-      "type": "Award",
-      "title": "AIRSHARE SYSTEMS, INC.: OVERWATCH: COST-EFFECTIVE AND SAFE ANTI-DRONE SYSTEM",
-      "url": "https://www.usaspending.gov/award/CONT_AWD_FA864925P0472_9700_-NONE-_-NONE-",
-      "agency": "Department of Defense",
-      "identifier": "FA864925P0472",
-      "date": "2025-08-26",
-      "deadline": null,
-      "summary": "OVERWATCH: COST-EFFECTIVE AND SAFE ANTI-DRONE SYSTEM",
-      "score": 30,
-      "domains": [
-        "air"
-      ],
-      "matched_terms": [
-        "drone"
-      ],
-      "watchlist": null,
-      "extra": {
-        "amount": 1249953.0,
-        "award_type": "PURCHASE ORDER"
-      },
-      "first_seen": "2026-11-18T00:39:19.615283+00:00",
-      "is_new": false
-    },
-    {
       "id": "USAspending:FA868925FB007",
       "source": "USAspending",
       "category": "procurement",
@@ -3801,6 +3836,29 @@
       },
       "first_seen": "2026-11-16T15:02:00.576370+00:00",
       "is_new": false
+    },
+    {
+      "id": "USAspending:N0001925F2142",
+      "source": "USAspending",
+      "category": "procurement",
+      "type": "Award",
+      "title": "INSITU, INC.: SCANEAGLE SPARES",
+      "url": "https://www.usaspending.gov/award/CONT_AWD_N0001925F2142_9700_N0001922D0038_9700",
+      "agency": "Department of Defense",
+      "identifier": "N0001925F2142",
+      "date": "2025-05-30",
+      "deadline": null,
+      "summary": "SCANEAGLE SPARES",
+      "score": 30,
+      "domains": [],
+      "matched_terms": [],
+      "watchlist": null,
+      "extra": {
+        "amount": 1111640.44,
+        "award_type": "DELIVERY ORDER"
+      },
+      "first_seen": "2026-11-19T07:05:32.477830+00:00",
+      "is_new": true
     },
     {
       "id": "USAspending:19AQMM25F0189",
@@ -3988,30 +4046,7 @@
       ],
       "watchlist": null,
       "extra": {
-        "amount": 9332784.33,
-        "award_type": "DELIVERY ORDER"
-      },
-      "first_seen": "2026-11-16T15:02:00.576370+00:00",
-      "is_new": false
-    },
-    {
-      "id": "USAspending:N0001923F0319",
-      "source": "USAspending",
-      "category": "procurement",
-      "type": "Award",
-      "title": "INSITU, INC.: RQ-21A AIR VEHICLES, TRAINING, SUPPORT EQUIPMENT, AND SPARES",
-      "url": "https://www.usaspending.gov/award/CONT_AWD_N0001923F0319_9700_N0001922D0038_9700",
-      "agency": "Department of Defense",
-      "identifier": "N0001923F0319",
-      "date": "2023-04-01",
-      "deadline": null,
-      "summary": "RQ-21A AIR VEHICLES, TRAINING, SUPPORT EQUIPMENT, AND SPARES",
-      "score": 30,
-      "domains": [],
-      "matched_terms": [],
-      "watchlist": null,
-      "extra": {
-        "amount": 19757957.68,
+        "amount": 9632784.33,
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-11-16T15:02:00.576370+00:00",
@@ -4090,29 +4125,6 @@
       "extra": {
         "amount": 23451581.88,
         "award_type": "DELIVERY ORDER"
-      },
-      "first_seen": "2026-11-16T15:02:00.576370+00:00",
-      "is_new": false
-    },
-    {
-      "id": "USAspending:FA868920C2013",
-      "source": "USAspending",
-      "category": "procurement",
-      "type": "Award",
-      "title": "GENERAL ATOMICS AERONAUTICAL SYSTEMS, INC.: BELGIUM MQ-9B SKYGUARDIAN",
-      "url": "https://www.usaspending.gov/award/CONT_AWD_FA868920C2013_9700_-NONE-_-NONE-",
-      "agency": "Department of Defense",
-      "identifier": "FA868920C2013",
-      "date": "2020-08-14",
-      "deadline": null,
-      "summary": "BELGIUM MQ-9B SKYGUARDIAN",
-      "score": 30,
-      "domains": [],
-      "matched_terms": [],
-      "watchlist": null,
-      "extra": {
-        "amount": 229638616.36,
-        "award_type": "DEFINITIVE CONTRACT"
       },
       "first_seen": "2026-11-16T15:02:00.576370+00:00",
       "is_new": false
@@ -4372,7 +4384,7 @@
       "watchlist": null,
       "extra": {},
       "first_seen": "2026-11-18T23:59:04.310953+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "Regulations.gov:FAA-2007-0001-1022",
@@ -4396,7 +4408,7 @@
       "watchlist": null,
       "extra": {},
       "first_seen": "2026-11-18T23:59:04.310953+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "Regulations.gov:FAA-2023-1831-0003",
@@ -4420,7 +4432,7 @@
       "watchlist": null,
       "extra": {},
       "first_seen": "2026-11-18T23:59:04.310953+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "Regulations.gov:FAA-2024-2761-0004",
@@ -5008,7 +5020,7 @@
   ],
   "stats": {
     "total": 178,
-    "new": 3,
+    "new": 10,
     "by_category": {
       "regulatory": 102,
       "procurement": 60,
@@ -5016,7 +5028,7 @@
       "legislative": 4
     },
     "by_domain": {
-      "air": 141,
+      "air": 143,
       "supply-chain": 81,
       "spectrum": 16,
       "defense": 11,
@@ -5215,7 +5227,7 @@
   "deadlines": [
     {
       "deadline": "2026-12-03",
-      "days": 15,
+      "days": 14,
       "title": "Privacy Act of 1974; System of Records",
       "identifier": "Docket No. DOT-OST-2026-3862",
       "category": "regulatory",
@@ -5224,7 +5236,7 @@
     },
     {
       "deadline": "2026-12-04",
-      "days": 16,
+      "days": 15,
       "title": "Agency Information Collection Activities; Proposed eCollection eComments Requested; SAFER SKIES State, Local, Tribal, and Territorial Counter-UAS Information Collection",
       "identifier": "OMB Number 1110-0090",
       "category": "regulatory",
