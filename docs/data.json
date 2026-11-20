@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-19T20:06:16.936137+00:00",
-  "generated_human": "2026-11-19 20:06 UTC",
+  "generated_at": "2026-11-20T06:04:08.501044+00:00",
+  "generated_human": "2026-11-20 06:04 UTC",
   "demo": false,
   "items": [
     {
@@ -43,6 +43,34 @@
       },
       "first_seen": "2026-11-18T15:14:58.662866+00:00",
       "is_new": false
+    },
+    {
+      "id": "Regulations.gov:USTR-2026-0497-0007",
+      "source": "Regulations.gov",
+      "category": "regulatory",
+      "type": "Supporting Material",
+      "title": "Russia's Implementation of Its WTO Commitments 10.14.26- Transcript",
+      "url": "https://www.regulations.gov/document/USTR-2026-0497-0007",
+      "agency": "USTR",
+      "identifier": "USTR-2026-0497",
+      "date": "2026-11-19",
+      "deadline": null,
+      "summary": "Russia's Implementation of Its WTO Commitments 10.14.26- Transcript",
+      "score": 80,
+      "domains": [
+        "air",
+        "supply-chain"
+      ],
+      "matched_terms": [
+        "ustr-2026"
+      ],
+      "watchlist": {
+        "key": "ustr-301",
+        "label": "USTR Section 301 (Drone Investigation)"
+      },
+      "extra": {},
+      "first_seen": "2026-11-20T06:04:08.501044+00:00",
+      "is_new": true
     },
     {
       "id": "FCC ECFS:26110084738",
@@ -587,41 +615,12 @@
       "is_new": false
     },
     {
-      "id": "FCC ECFS:26110083285",
-      "source": "FCC ECFS",
-      "category": "regulatory",
-      "type": "Comment",
-      "title": "Kevin Mottus, Outreach Director at California Brain Tumor Association: COMMENT (FCC 26-74)",
-      "url": "https://www.fcc.gov/ecfs/document/26110083285/1",
-      "agency": "FCC",
-      "identifier": "FCC 26-74",
-      "date": "2026-10-22",
-      "deadline": null,
-      "summary": "",
-      "score": 80,
-      "domains": [
-        "air",
-        "spectrum",
-        "supply-chain"
-      ],
-      "matched_terms": [],
-      "watchlist": {
-        "key": "gn-26-74",
-        "label": "GN 26-74 (Unleashing American Drone Dominance)"
-      },
-      "extra": {
-        "proceeding": "26-74"
-      },
-      "first_seen": "2026-11-19T20:06:16.936137+00:00",
-      "is_new": true
-    },
-    {
-      "id": "FCC ECFS:26110083338",
+      "id": "FCC ECFS:26110083192",
       "source": "FCC ECFS",
       "category": "regulatory",
       "type": "Comment",
       "title": "Kevin Mottus, Outreach Director CA Brain Tumor Assn.: COMMENT (FCC 26-74)",
-      "url": "https://www.fcc.gov/ecfs/document/26110083338/1",
+      "url": "https://www.fcc.gov/ecfs/document/26110083192/1",
       "agency": "FCC",
       "identifier": "FCC 26-74",
       "date": "2026-10-22",
@@ -641,7 +640,36 @@
       "extra": {
         "proceeding": "26-74"
       },
-      "first_seen": "2026-11-19T20:06:16.936137+00:00",
+      "first_seen": "2026-11-20T06:04:08.501044+00:00",
+      "is_new": true
+    },
+    {
+      "id": "FCC ECFS:26110083243",
+      "source": "FCC ECFS",
+      "category": "regulatory",
+      "type": "Comment",
+      "title": "Kevin Mottus, Outreach Director at California Brain Tumor Association: COMMENT (FCC 26-74)",
+      "url": "https://www.fcc.gov/ecfs/document/26110083243/1",
+      "agency": "FCC",
+      "identifier": "FCC 26-74",
+      "date": "2026-10-22",
+      "deadline": null,
+      "summary": "",
+      "score": 80,
+      "domains": [
+        "air",
+        "spectrum",
+        "supply-chain"
+      ],
+      "matched_terms": [],
+      "watchlist": {
+        "key": "gn-26-74",
+        "label": "GN 26-74 (Unleashing American Drone Dominance)"
+      },
+      "extra": {
+        "proceeding": "26-74"
+      },
+      "first_seen": "2026-11-20T06:04:08.501044+00:00",
       "is_new": true
     },
     {
@@ -2045,7 +2073,7 @@
         "docket_total_comments": 1669
       },
       "first_seen": "2026-11-19T20:06:16.936137+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "Federal Register:2026-15659",
@@ -2352,6 +2380,86 @@
       "extra": {},
       "first_seen": "2026-09-01T04:00:06.000510+00:00",
       "is_new": false
+    },
+    {
+      "id": "CourtListener:72380208",
+      "source": "CourtListener",
+      "category": "litigation",
+      "type": "Court Docket",
+      "title": "Anthropic PBC v. United States Department of War",
+      "url": "https://www.courtlistener.com/docket/72380208/anthropic-pbc-v-united-states-department-of-war/",
+      "agency": "COURT OF APPEALS FOR THE D.C. CIRCUIT",
+      "identifier": "26-1049",
+      "date": "2026-03-09",
+      "deadline": null,
+      "summary": "Anthropic PBC v. United States Department of War",
+      "score": 70,
+      "domains": [
+        "supply-chain",
+        "air"
+      ],
+      "matched_terms": [],
+      "watchlist": {
+        "key": "dji-cadc-1260h",
+        "label": "DJI 1260H appeal (D.C. Circuit)"
+      },
+      "extra": {},
+      "first_seen": "2026-11-20T06:04:08.501044+00:00",
+      "is_new": true
+    },
+    {
+      "id": "CourtListener:71665018",
+      "source": "CourtListener",
+      "category": "litigation",
+      "type": "Court Docket",
+      "title": "SZ DJI Technology Co., Ltd. v. DOD",
+      "url": "https://www.courtlistener.com/docket/71665018/sz-dji-technology-co-ltd-v-dod/",
+      "agency": "COURT OF APPEALS FOR THE D.C. CIRCUIT",
+      "identifier": "25-5367",
+      "date": "2025-10-16",
+      "deadline": null,
+      "summary": "2899 Other Statutes APA/Review Agency",
+      "score": 70,
+      "domains": [
+        "supply-chain",
+        "air"
+      ],
+      "matched_terms": [
+        "dji"
+      ],
+      "watchlist": {
+        "key": "dji-cadc-1260h",
+        "label": "DJI 1260H appeal (D.C. Circuit)"
+      },
+      "extra": {},
+      "first_seen": "2026-11-20T06:04:08.501044+00:00",
+      "is_new": true
+    },
+    {
+      "id": "CourtListener:70808134",
+      "source": "CourtListener",
+      "category": "litigation",
+      "type": "Court Docket",
+      "title": "Hesai Technology Co., Ltd v. DOD",
+      "url": "https://www.courtlistener.com/docket/70808134/hesai-technology-co-ltd-v-dod/",
+      "agency": "COURT OF APPEALS FOR THE D.C. CIRCUIT",
+      "identifier": "25-5256",
+      "date": "2025-07-16",
+      "deadline": null,
+      "summary": "2899 Other Statutes APA/Review Agency",
+      "score": 70,
+      "domains": [
+        "supply-chain",
+        "air"
+      ],
+      "matched_terms": [],
+      "watchlist": {
+        "key": "dji-cadc-1260h",
+        "label": "DJI 1260H appeal (D.C. Circuit)"
+      },
+      "extra": {},
+      "first_seen": "2026-11-20T06:04:08.501044+00:00",
+      "is_new": true
     },
     {
       "id": "CourtListener:73245454",
@@ -3139,7 +3247,7 @@
       ],
       "watchlist": null,
       "extra": {
-        "amount": 41814896.0,
+        "amount": 41814895.99,
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-11-16T15:02:00.576370+00:00",
@@ -3225,6 +3333,33 @@
       },
       "first_seen": "2026-11-19T07:05:32.477830+00:00",
       "is_new": false
+    },
+    {
+      "id": "USAspending:70B06C26C00000158",
+      "source": "USAspending",
+      "category": "procurement",
+      "type": "Award",
+      "title": "CLEO ROBOTICS LABS INC.: SBIR PHASE III AWARD FOR CLEO DD1/DRONUT CONFINED-SPACE AERIAL DRONE SYSTEMS, AIR VEHICLES, FIELD REPAIR KITS, SHIPPING,",
+      "url": "https://www.usaspending.gov/award/CONT_AWD_70B06C26C00000158_7014_-NONE-_-NONE-",
+      "agency": "Department of Homeland Security",
+      "identifier": "70B06C26C00000158",
+      "date": "2026-09-24",
+      "deadline": null,
+      "summary": "SBIR PHASE III AWARD FOR CLEO DD1/DRONUT CONFINED-SPACE AERIAL DRONE SYSTEMS, AIR VEHICLES, FIELD REPAIR KITS, SHIPPING, AND ON-SITE TRAINING AT THREE CBP LOCATIONS.",
+      "score": 30,
+      "domains": [
+        "air"
+      ],
+      "matched_terms": [
+        "drone"
+      ],
+      "watchlist": null,
+      "extra": {
+        "amount": 1036717.5,
+        "award_type": "DEFINITIVE CONTRACT"
+      },
+      "first_seen": "2026-11-20T06:04:08.501044+00:00",
+      "is_new": true
     },
     {
       "id": "USAspending:15A00026CAQA00266",
@@ -3331,6 +3466,33 @@
       "is_new": false
     },
     {
+      "id": "USAspending:89233126FNA400803",
+      "source": "USAspending",
+      "category": "procurement",
+      "type": "Award",
+      "title": "ANDURIL INDUSTRIES, INC.: THE TASK ORDER INCLUDES THE BASE YEAR TO INCLUDE OPERATIONS AND SUSTAINMENT. THE EFFORT SUPPORTS DEFENSE NUCLEAR SECURIT",
+      "url": "https://www.usaspending.gov/award/CONT_AWD_89233126FNA400803_8900_89233126DNA000072_8900",
+      "agency": "Department of Energy",
+      "identifier": "89233126FNA400803",
+      "date": "2026-07-28",
+      "deadline": null,
+      "summary": "THE TASK ORDER INCLUDES THE BASE YEAR TO INCLUDE OPERATIONS AND SUSTAINMENT. THE EFFORT SUPPORTS DEFENSE NUCLEAR SECURITY (DNS/NA-70) IN THE DESIGN, DEVELOPMENT, INTEGRATION, TESTING, DEPLOYMENT, AND SUSTAINMENT OF COLLABORATIVE AUTONOMOUS SYSTEMS FO",
+      "score": 30,
+      "domains": [
+        "defense"
+      ],
+      "matched_terms": [
+        "autonomous systems"
+      ],
+      "watchlist": null,
+      "extra": {
+        "amount": 5769619.0,
+        "award_type": "DELIVERY ORDER"
+      },
+      "first_seen": "2026-11-20T06:04:08.501044+00:00",
+      "is_new": true
+    },
+    {
       "id": "USAspending:W58RGZ26F0365",
       "source": "USAspending",
       "category": "procurement",
@@ -3407,6 +3569,29 @@
       },
       "first_seen": "2026-11-16T15:02:00.576370+00:00",
       "is_new": false
+    },
+    {
+      "id": "USAspending:89233126FNA400787",
+      "source": "USAspending",
+      "category": "procurement",
+      "type": "Award",
+      "title": "ANDURIL INDUSTRIES, INC.: PROCURE THE BASE YEAR COSTS WITH BASE YEAR OPERATIONS AND SUSTAINMENT, AND 5-YEAR OPERATIONS AND SUSTAINMENT SUPPORT WIT",
+      "url": "https://www.usaspending.gov/award/CONT_AWD_89233126FNA400787_8900_89233126DNA000072_8900",
+      "agency": "Department of Energy",
+      "identifier": "89233126FNA400787",
+      "date": "2026-05-15",
+      "deadline": null,
+      "summary": "PROCURE THE BASE YEAR COSTS WITH BASE YEAR OPERATIONS AND SUSTAINMENT, AND 5-YEAR OPERATIONS AND SUSTAINMENT SUPPORT WITH OPTIONS. LOS ALAMOS NATIONAL LABORATORY (LANL) SITE. PROVIDING A COUNTER UNCREWED AIRCRAFT SYSTEM (CUAS) PLATFORM FOR THE NATION",
+      "score": 30,
+      "domains": [],
+      "matched_terms": [],
+      "watchlist": null,
+      "extra": {
+        "amount": 9073144.0,
+        "award_type": "DELIVERY ORDER"
+      },
+      "first_seen": "2026-11-20T06:04:08.501044+00:00",
+      "is_new": true
     },
     {
       "id": "USAspending:15F06726F0000269",
@@ -3639,29 +3824,6 @@
       "is_new": false
     },
     {
-      "id": "USAspending:FA868925FB010",
-      "source": "USAspending",
-      "category": "procurement",
-      "type": "Award",
-      "title": "GENERAL ATOMICS AERONAUTICAL SYSTEMS, INC.: IRIS DELIVERY ORDER (DO) 1 FOR INDIA MQ-9B FMS",
-      "url": "https://www.usaspending.gov/award/CONT_AWD_FA868925FB010_9700_FA868925DB001_9700",
-      "agency": "Department of Defense",
-      "identifier": "FA868925FB010",
-      "date": "2025-09-09",
-      "deadline": null,
-      "summary": "IRIS DELIVERY ORDER (DO) 1 FOR INDIA MQ-9B FMS",
-      "score": 30,
-      "domains": [],
-      "matched_terms": [],
-      "watchlist": null,
-      "extra": {
-        "amount": 467543429.98,
-        "award_type": "DELIVERY ORDER"
-      },
-      "first_seen": "2026-11-16T15:02:00.576370+00:00",
-      "is_new": false
-    },
-    {
       "id": "USAspending:N0001925F0971",
       "source": "USAspending",
       "category": "procurement",
@@ -3712,6 +3874,29 @@
       "is_new": false
     },
     {
+      "id": "USAspending:W900KK25FA120",
+      "source": "USAspending",
+      "category": "procurement",
+      "type": "Award",
+      "title": "GRIFFON AEROSPACE, INC.: DELIVERY ORDER FOR A LOW-COST LAUNCHER.",
+      "url": "https://www.usaspending.gov/award/CONT_AWD_W900KK25FA120_9700_W900KK24D0025_9700",
+      "agency": "Department of Defense",
+      "identifier": "W900KK25FA120",
+      "date": "2025-08-07",
+      "deadline": null,
+      "summary": "DELIVERY ORDER FOR A LOW-COST LAUNCHER.",
+      "score": 30,
+      "domains": [],
+      "matched_terms": [],
+      "watchlist": null,
+      "extra": {
+        "amount": 1075042.15,
+        "award_type": "DELIVERY ORDER"
+      },
+      "first_seen": "2026-11-20T06:04:08.501044+00:00",
+      "is_new": true
+    },
+    {
       "id": "USAspending:FA868925FB007",
       "source": "USAspending",
       "category": "procurement",
@@ -3758,29 +3943,6 @@
       "is_new": false
     },
     {
-      "id": "USAspending:N0001925F2142",
-      "source": "USAspending",
-      "category": "procurement",
-      "type": "Award",
-      "title": "INSITU, INC.: SCANEAGLE SPARES",
-      "url": "https://www.usaspending.gov/award/CONT_AWD_N0001925F2142_9700_N0001922D0038_9700",
-      "agency": "Department of Defense",
-      "identifier": "N0001925F2142",
-      "date": "2025-05-30",
-      "deadline": null,
-      "summary": "SCANEAGLE SPARES",
-      "score": 30,
-      "domains": [],
-      "matched_terms": [],
-      "watchlist": null,
-      "extra": {
-        "amount": 1111640.44,
-        "award_type": "DELIVERY ORDER"
-      },
-      "first_seen": "2026-11-19T07:05:32.477830+00:00",
-      "is_new": false
-    },
-    {
       "id": "USAspending:19AQMM25F0189",
       "source": "USAspending",
       "category": "procurement",
@@ -3822,29 +3984,6 @@
       "extra": {
         "amount": 2999721.92,
         "award_type": "DELIVERY ORDER"
-      },
-      "first_seen": "2026-11-16T15:02:00.576370+00:00",
-      "is_new": false
-    },
-    {
-      "id": "USAspending:N0001424C1324",
-      "source": "USAspending",
-      "category": "procurement",
-      "type": "Award",
-      "title": "UNIVERSITY OF MAINE SYSTEM: INVESTIGATE AND ENHANCE THE MANUFACTURING TECHNOLOGIES USED FOR THE FABRICATION OF UNMANNED SURFACE VESSELS (USVS) AND R",
-      "url": "https://www.usaspending.gov/award/CONT_AWD_N0001424C1324_9700_-NONE-_-NONE-",
-      "agency": "Department of Defense",
-      "identifier": "N0001424C1324",
-      "date": "2024-07-12",
-      "deadline": null,
-      "summary": "INVESTIGATE AND ENHANCE THE MANUFACTURING TECHNOLOGIES USED FOR THE FABRICATION OF UNMANNED SURFACE VESSELS (USVS) AND RELATED MARITIME STRUCTURES DEVELOP DIGITAL MANUFACTURING SOFTWARE TOOLS WHICH ARE PROCESS-AWARE THAT DRIVE DESIGN CHOICES TOWARDS",
-      "score": 30,
-      "domains": [],
-      "matched_terms": [],
-      "watchlist": null,
-      "extra": {
-        "amount": 9000000.0,
-        "award_type": "DEFINITIVE CONTRACT"
       },
       "first_seen": "2026-11-16T15:02:00.576370+00:00",
       "is_new": false
@@ -3914,33 +4053,6 @@
       "extra": {
         "amount": 24749987.76,
         "award_type": "DELIVERY ORDER"
-      },
-      "first_seen": "2026-11-16T15:02:00.576370+00:00",
-      "is_new": false
-    },
-    {
-      "id": "USAspending:693KA923C00012",
-      "source": "USAspending",
-      "category": "procurement",
-      "type": "Award",
-      "title": "I3 FEDERAL LLC: EVALUATION OF HAZARDS POSED BY LITHIUM-BATTERY POWERED UNMANNED AIRCRAFT SYSTEMS AND OTHER DANGEROUS GOODS INTEGRATED IN",
-      "url": "https://www.usaspending.gov/award/CONT_AWD_693KA923C00012_6920_-NONE-_-NONE-",
-      "agency": "Department of Transportation",
-      "identifier": "693KA923C00012",
-      "date": "2023-09-11",
-      "deadline": null,
-      "summary": "EVALUATION OF HAZARDS POSED BY LITHIUM-BATTERY POWERED UNMANNED AIRCRAFT SYSTEMS AND OTHER DANGEROUS GOODS INTEGRATED INTO THE DESIGN.",
-      "score": 30,
-      "domains": [
-        "air"
-      ],
-      "matched_terms": [
-        "unmanned aircraft"
-      ],
-      "watchlist": null,
-      "extra": {
-        "amount": 3612061.55,
-        "award_type": "DEFINITIVE CONTRACT"
       },
       "first_seen": "2026-11-16T15:02:00.576370+00:00",
       "is_new": false
@@ -4304,7 +4416,7 @@
       "watchlist": null,
       "extra": {},
       "first_seen": "2026-11-19T20:06:16.936137+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "Regulations.gov:FAA-2007-0001-1023",
@@ -4328,7 +4440,7 @@
       "watchlist": null,
       "extra": {},
       "first_seen": "2026-11-19T20:06:16.936137+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "Regulations.gov:FAA-2026-15051-0001",
@@ -4928,8 +5040,8 @@
     {
       "name": "Regulations.gov",
       "status": "ok",
-      "detail": "35 kept",
-      "count": 35
+      "detail": "36 kept",
+      "count": 36
     },
     {
       "name": "FCC ECFS",
@@ -4952,8 +5064,8 @@
     {
       "name": "CourtListener",
       "status": "ok",
-      "detail": "9 kept; 1 query error(s)",
-      "count": 9
+      "detail": "12 kept",
+      "count": 12
     },
     {
       "name": "USAspending",
@@ -4963,27 +5075,27 @@
     }
   ],
   "stats": {
-    "total": 176,
-    "new": 5,
+    "total": 180,
+    "new": 10,
     "by_category": {
-      "regulatory": 103,
+      "regulatory": 104,
       "procurement": 60,
-      "litigation": 9,
+      "litigation": 12,
       "legislative": 4
     },
     "by_domain": {
-      "air": 141,
-      "supply-chain": 78,
+      "air": 145,
+      "supply-chain": 82,
       "spectrum": 16,
-      "defense": 11,
+      "defense": 12,
       "ground": 9
     },
     "by_source": {
       "FCC ECFS": 61,
       "USAspending": 60,
-      "Regulations.gov": 23,
+      "Regulations.gov": 24,
       "Federal Register": 19,
-      "CourtListener": 9,
+      "CourtListener": 12,
       "Congress.gov": 4
     }
   },
@@ -5053,6 +5165,19 @@
       "latest": "2026-11-04"
     },
     {
+      "key": "dji-cadc-1260h",
+      "label": "DJI 1260H appeal (D.C. Circuit)",
+      "category": "litigation",
+      "agency": "",
+      "domain": [
+        "supply-chain",
+        "air"
+      ],
+      "deadline": null,
+      "count": 3,
+      "latest": "2026-03-09"
+    },
+    {
       "key": "commerce-icts-232",
       "label": "Commerce ICTS / Section 232 (UAS supply chain)",
       "category": "regulatory",
@@ -5064,6 +5189,19 @@
       "deadline": null,
       "count": 1,
       "latest": "2025-08-08"
+    },
+    {
+      "key": "ustr-301",
+      "label": "USTR Section 301 (Drone Investigation)",
+      "category": "regulatory",
+      "agency": "USTR",
+      "domain": [
+        "supply-chain",
+        "air"
+      ],
+      "deadline": null,
+      "count": 1,
+      "latest": "2026-11-19"
     },
     {
       "key": "guard-act",
@@ -5118,19 +5256,6 @@
       "latest": "2026-09-22"
     },
     {
-      "key": "ustr-301",
-      "label": "USTR Section 301 (Drone Investigation)",
-      "category": "regulatory",
-      "agency": "USTR",
-      "domain": [
-        "supply-chain",
-        "air"
-      ],
-      "deadline": null,
-      "count": 0,
-      "latest": ""
-    },
-    {
       "key": "ndaa",
       "label": "NDAA (UAS provisions)",
       "category": "legislative",
@@ -5153,25 +5278,12 @@
       "deadline": null,
       "count": 0,
       "latest": ""
-    },
-    {
-      "key": "dji-cadc-1260h",
-      "label": "DJI 1260H appeal (D.C. Circuit)",
-      "category": "litigation",
-      "agency": "",
-      "domain": [
-        "supply-chain",
-        "air"
-      ],
-      "deadline": null,
-      "count": 0,
-      "latest": ""
     }
   ],
   "deadlines": [
     {
       "deadline": "2026-12-03",
-      "days": 14,
+      "days": 13,
       "title": "Privacy Act of 1974; System of Records",
       "identifier": "Docket No. DOT-OST-2026-3862",
       "category": "regulatory",
@@ -5180,7 +5292,7 @@
     },
     {
       "deadline": "2026-12-04",
-      "days": 15,
+      "days": 14,
       "title": "Agency Information Collection Activities; Proposed eCollection eComments Requested; SAFER SKIES State, Local, Tribal, and Territorial Counter-UAS Information Collection",
       "identifier": "OMB Number 1110-0090",
       "category": "regulatory",
