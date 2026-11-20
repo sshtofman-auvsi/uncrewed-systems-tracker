@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-20T06:04:08.501044+00:00",
-  "generated_human": "2026-11-20 06:04 UTC",
+  "generated_at": "2026-11-20T19:41:12.092313+00:00",
+  "generated_human": "2026-11-20 19:41 UTC",
   "demo": false,
   "items": [
     {
@@ -45,6 +45,35 @@
       "is_new": false
     },
     {
+      "id": "FCC ECFS:26110085018",
+      "source": "FCC ECFS",
+      "category": "regulatory",
+      "type": "Notice",
+      "title": "Qualcomm Incorporated: NOTICE OF EXPARTE (FCC 26-74)",
+      "url": "https://www.fcc.gov/ecfs/document/26110085018/1",
+      "agency": "FCC",
+      "identifier": "FCC 26-74",
+      "date": "2026-11-20",
+      "deadline": null,
+      "summary": "",
+      "score": 80,
+      "domains": [
+        "air",
+        "spectrum",
+        "supply-chain"
+      ],
+      "matched_terms": [],
+      "watchlist": {
+        "key": "gn-26-74",
+        "label": "GN 26-74 (Unleashing American Drone Dominance)"
+      },
+      "extra": {
+        "proceeding": "26-74"
+      },
+      "first_seen": "2026-11-20T19:41:12.092313+00:00",
+      "is_new": true
+    },
+    {
       "id": "Regulations.gov:USTR-2026-0497-0007",
       "source": "Regulations.gov",
       "category": "regulatory",
@@ -70,7 +99,7 @@
       },
       "extra": {},
       "first_seen": "2026-11-20T06:04:08.501044+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:26110084738",
@@ -158,12 +187,12 @@
       "is_new": false
     },
     {
-      "id": "FCC ECFS:26110084600",
+      "id": "FCC ECFS:26110084598",
       "source": "FCC ECFS",
       "category": "regulatory",
       "type": "Notice",
       "title": "Correctional Leaders Association: NOTICE OF EXPARTE (FCC 26-74)",
-      "url": "https://www.fcc.gov/ecfs/document/26110084600/1",
+      "url": "https://www.fcc.gov/ecfs/document/26110084598/1",
       "agency": "FCC",
       "identifier": "FCC 26-74",
       "date": "2026-11-13",
@@ -183,8 +212,8 @@
       "extra": {
         "proceeding": "26-74"
       },
-      "first_seen": "2026-11-18T00:39:19.615283+00:00",
-      "is_new": false
+      "first_seen": "2026-11-20T19:41:12.092313+00:00",
+      "is_new": true
     },
     {
       "id": "FCC ECFS:26110084611",
@@ -641,7 +670,7 @@
         "proceeding": "26-74"
       },
       "first_seen": "2026-11-20T06:04:08.501044+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:26110083243",
@@ -670,7 +699,7 @@
         "proceeding": "26-74"
       },
       "first_seen": "2026-11-20T06:04:08.501044+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:26110081760",
@@ -2046,17 +2075,17 @@
       "is_new": false
     },
     {
-      "id": "Regulations.gov:FAA-2026-4558-1630",
+      "id": "Regulations.gov:FAA-2026-4558-1629",
       "source": "Regulations.gov",
       "category": "regulatory",
       "type": "Comment",
-      "title": "Comment on Designation – Restrict the Operation of Unmanned Aircraft in Close Proximity  to a Fixed Site Facility: Comment from American Chemistry Council",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1630",
+      "title": "Comment on Designation – Restrict the Operation of Unmanned Aircraft in Close Proximity  to a Fixed Site Facility: Comment from Karin L",
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1629",
       "agency": "FAA",
       "identifier": "FAA-2026-4558",
       "date": "2026-08-06",
       "deadline": null,
-      "summary": "Comment from American Chemistry Council",
+      "summary": "Comment from Karin L",
       "score": 80,
       "domains": [
         "air"
@@ -2072,8 +2101,8 @@
       "extra": {
         "docket_total_comments": 1669
       },
-      "first_seen": "2026-11-19T20:06:16.936137+00:00",
-      "is_new": false
+      "first_seen": "2026-11-20T19:41:12.092313+00:00",
+      "is_new": true
     },
     {
       "id": "Federal Register:2026-15659",
@@ -2405,7 +2434,7 @@
       },
       "extra": {},
       "first_seen": "2026-11-20T06:04:08.501044+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "CourtListener:71665018",
@@ -2433,7 +2462,7 @@
       },
       "extra": {},
       "first_seen": "2026-11-20T06:04:08.501044+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "CourtListener:70808134",
@@ -2459,7 +2488,7 @@
       },
       "extra": {},
       "first_seen": "2026-11-20T06:04:08.501044+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "CourtListener:73245454",
@@ -3359,7 +3388,7 @@
         "award_type": "DEFINITIVE CONTRACT"
       },
       "first_seen": "2026-11-20T06:04:08.501044+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:15A00026CAQA00266",
@@ -3490,7 +3519,7 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-11-20T06:04:08.501044+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:W58RGZ26F0365",
@@ -3591,7 +3620,7 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-11-20T06:04:08.501044+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:15F06726F0000269",
@@ -3894,7 +3923,7 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-11-20T06:04:08.501044+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:FA868925FB007",
@@ -4779,30 +4808,6 @@
       "is_new": false
     },
     {
-      "id": "Regulations.gov:FAA-2026-14129-0001",
-      "source": "Regulations.gov",
-      "category": "regulatory",
-      "type": "Document",
-      "title": "Dirt Drone Solutions, LLC - Petition",
-      "url": "https://www.regulations.gov/document/FAA-2026-14129-0001",
-      "agency": "FAA",
-      "identifier": "FAA-2026-14129",
-      "date": "2026-10-26",
-      "deadline": null,
-      "summary": "Dirt Drone Solutions, LLC - Petition",
-      "score": 20,
-      "domains": [
-        "air"
-      ],
-      "matched_terms": [
-        "drone"
-      ],
-      "watchlist": null,
-      "extra": {},
-      "first_seen": "2026-10-26T22:22:50.630622+00:00",
-      "is_new": false
-    },
-    {
       "id": "Federal Register:2026-21053",
       "source": "Federal Register",
       "category": "regulatory",
@@ -5040,8 +5045,8 @@
     {
       "name": "Regulations.gov",
       "status": "ok",
-      "detail": "36 kept",
-      "count": 36
+      "detail": "35 kept",
+      "count": 35
     },
     {
       "name": "FCC ECFS",
@@ -5076,7 +5081,7 @@
   ],
   "stats": {
     "total": 180,
-    "new": 10,
+    "new": 3,
     "by_category": {
       "regulatory": 104,
       "procurement": 60,
@@ -5085,15 +5090,15 @@
     },
     "by_domain": {
       "air": 145,
-      "supply-chain": 82,
-      "spectrum": 16,
+      "supply-chain": 83,
+      "spectrum": 17,
       "defense": 12,
       "ground": 9
     },
     "by_source": {
-      "FCC ECFS": 61,
+      "FCC ECFS": 62,
       "USAspending": 60,
-      "Regulations.gov": 24,
+      "Regulations.gov": 23,
       "Federal Register": 19,
       "CourtListener": 12,
       "Congress.gov": 4
@@ -5148,8 +5153,8 @@
         "supply-chain"
       ],
       "deadline": null,
-      "count": 16,
-      "latest": "2026-11-18"
+      "count": 17,
+      "latest": "2026-11-20"
     },
     {
       "key": "dji-ca9",
