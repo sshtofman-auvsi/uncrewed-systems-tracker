@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-21T05:57:06.938217+00:00",
-  "generated_human": "2026-11-21 05:57 UTC",
+  "generated_at": "2026-11-21T14:26:33.140892+00:00",
+  "generated_human": "2026-11-21 14:26 UTC",
   "demo": false,
   "items": [
     {
@@ -71,7 +71,7 @@
         "proceeding": "26-74"
       },
       "first_seen": "2026-11-21T05:57:06.938217+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:26110085018",
@@ -670,7 +670,7 @@
         "proceeding": "26-74"
       },
       "first_seen": "2026-11-21T05:57:06.938217+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:26110083338",
@@ -699,7 +699,7 @@
         "proceeding": "26-74"
       },
       "first_seen": "2026-11-21T05:57:06.938217+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:26110081760",
@@ -2102,7 +2102,7 @@
         "docket_total_comments": 1669
       },
       "first_seen": "2026-11-21T05:57:06.938217+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "Federal Register:2026-15659",
@@ -3021,7 +3021,7 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-11-21T05:57:06.938217+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "Federal Register:2026-15483",
@@ -3195,7 +3195,7 @@
         "award_type": "DEFINITIVE CONTRACT"
       },
       "first_seen": "2026-11-21T05:57:06.938217+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:697DCK26C00206",
@@ -3421,7 +3421,7 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-11-21T05:57:06.938217+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:1605C126P00014",
@@ -3598,7 +3598,7 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-11-21T05:57:06.938217+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:89233126FNA400803",
@@ -3648,7 +3648,7 @@
         "award_type": "BPA CALL"
       },
       "first_seen": "2026-11-21T05:57:06.938217+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:W58RGZ26F0365",
@@ -3961,7 +3961,7 @@
         "award_type": "PURCHASE ORDER"
       },
       "first_seen": "2026-11-21T05:57:06.938217+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:19AQMM25F1638",
@@ -4057,7 +4057,7 @@
         "award_type": "DEFINITIVE CONTRACT"
       },
       "first_seen": "2026-11-21T05:57:06.938217+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:W58RGZ24C0031",
@@ -4107,7 +4107,7 @@
         "award_type": "DEFINITIVE CONTRACT"
       },
       "first_seen": "2026-11-21T05:57:06.938217+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:693KA823F00244",
@@ -5104,7 +5104,7 @@
   ],
   "stats": {
     "total": 180,
-    "new": 12,
+    "new": 0,
     "by_category": {
       "regulatory": 104,
       "procurement": 60,
