@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-21T22:51:47.998295+00:00",
-  "generated_human": "2026-11-21 22:51 UTC",
+  "generated_at": "2026-11-22T05:31:37.930058+00:00",
+  "generated_human": "2026-11-22 05:31 UTC",
   "demo": false,
   "items": [
     {
@@ -644,41 +644,12 @@
       "is_new": false
     },
     {
-      "id": "FCC ECFS:26110083285",
-      "source": "FCC ECFS",
-      "category": "regulatory",
-      "type": "Comment",
-      "title": "Kevin Mottus, Outreach Director at California Brain Tumor Association: COMMENT (FCC 26-74)",
-      "url": "https://www.fcc.gov/ecfs/document/26110083285/1",
-      "agency": "FCC",
-      "identifier": "FCC 26-74",
-      "date": "2026-10-22",
-      "deadline": null,
-      "summary": "",
-      "score": 80,
-      "domains": [
-        "air",
-        "spectrum",
-        "supply-chain"
-      ],
-      "matched_terms": [],
-      "watchlist": {
-        "key": "gn-26-74",
-        "label": "GN 26-74 (Unleashing American Drone Dominance)"
-      },
-      "extra": {
-        "proceeding": "26-74"
-      },
-      "first_seen": "2026-11-21T05:57:06.938217+00:00",
-      "is_new": false
-    },
-    {
-      "id": "FCC ECFS:26110083338",
+      "id": "FCC ECFS:26110083192",
       "source": "FCC ECFS",
       "category": "regulatory",
       "type": "Comment",
       "title": "Kevin Mottus, Outreach Director CA Brain Tumor Assn.: COMMENT (FCC 26-74)",
-      "url": "https://www.fcc.gov/ecfs/document/26110083338/1",
+      "url": "https://www.fcc.gov/ecfs/document/26110083192/1",
       "agency": "FCC",
       "identifier": "FCC 26-74",
       "date": "2026-10-22",
@@ -698,8 +669,37 @@
       "extra": {
         "proceeding": "26-74"
       },
-      "first_seen": "2026-11-21T05:57:06.938217+00:00",
-      "is_new": false
+      "first_seen": "2026-11-22T05:31:37.930058+00:00",
+      "is_new": true
+    },
+    {
+      "id": "FCC ECFS:26110083243",
+      "source": "FCC ECFS",
+      "category": "regulatory",
+      "type": "Comment",
+      "title": "Kevin Mottus, Outreach Director at California Brain Tumor Association: COMMENT (FCC 26-74)",
+      "url": "https://www.fcc.gov/ecfs/document/26110083243/1",
+      "agency": "FCC",
+      "identifier": "FCC 26-74",
+      "date": "2026-10-22",
+      "deadline": null,
+      "summary": "",
+      "score": 80,
+      "domains": [
+        "air",
+        "spectrum",
+        "supply-chain"
+      ],
+      "matched_terms": [],
+      "watchlist": {
+        "key": "gn-26-74",
+        "label": "GN 26-74 (Unleashing American Drone Dominance)"
+      },
+      "extra": {
+        "proceeding": "26-74"
+      },
+      "first_seen": "2026-11-22T05:31:37.930058+00:00",
+      "is_new": true
     },
     {
       "id": "FCC ECFS:26110081760",
@@ -2102,7 +2102,7 @@
         "docket_total_comments": 1669
       },
       "first_seen": "2026-11-21T22:51:47.998295+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "Federal Register:2026-15659",
@@ -2940,6 +2940,34 @@
       "is_new": false
     },
     {
+      "id": "USAspending:W31P4Q21F0297",
+      "source": "USAspending",
+      "category": "procurement",
+      "type": "Award",
+      "title": "TEXTRON SYSTEMS CORPORATION: THIS IS A RESEARCH AND DEVELOPMENT SERVICE FOR THE SUSTAINMENT OF UNMANNED AIRCRAFT SYSTEM'S COMMAND, CONTROL, COMMUNICA",
+      "url": "https://www.usaspending.gov/award/CONT_AWD_W31P4Q21F0297_9700_W31P4Q20D0029_9700",
+      "agency": "Department of Defense",
+      "identifier": "W31P4Q21F0297",
+      "date": "2021-08-30",
+      "deadline": null,
+      "summary": "THIS IS A RESEARCH AND DEVELOPMENT SERVICE FOR THE SUSTAINMENT OF UNMANNED AIRCRAFT SYSTEM'S COMMAND, CONTROL, COMMUNICATIONS, COMPUTER AND INTELLIGENCE SYSTEMS FOR THE ONE SYSTEM REMOTE VIDEO TERMINAL AND RELATED COMPONENTS WINDOWS 7 SOFTWARE BUILD.",
+      "score": 38,
+      "domains": [
+        "air"
+      ],
+      "matched_terms": [
+        "unmanned aircraft",
+        "unmanned aircraft system"
+      ],
+      "watchlist": null,
+      "extra": {
+        "amount": 725638.34,
+        "award_type": "DELIVERY ORDER"
+      },
+      "first_seen": "2026-11-22T05:31:37.930058+00:00",
+      "is_new": true
+    },
+    {
       "id": "USAspending:692M1523F00178",
       "source": "USAspending",
       "category": "procurement",
@@ -3249,35 +3277,6 @@
       "extra": {
         "amount": 1799448.0,
         "award_type": "DELIVERY ORDER"
-      },
-      "first_seen": "2026-11-16T15:02:00.576370+00:00",
-      "is_new": false
-    },
-    {
-      "id": "USAspending:W56KGU25C0009",
-      "source": "USAspending",
-      "category": "procurement",
-      "type": "Award",
-      "title": "VIRGINIA POLYTECHNIC INSTITUTE & STATE UNIVERSITY: BROAD AGENCY ANNOUNCEMENT FOR VIRGINIA TECH WITHIN AN EXISTING COUNTER UAS (CUAS) SOFTWARE",
-      "url": "https://www.usaspending.gov/award/CONT_AWD_W56KGU25C0009_9700_-NONE-_-NONE-",
-      "agency": "Department of Defense",
-      "identifier": "W56KGU25C0009",
-      "date": "2025-03-18",
-      "deadline": null,
-      "summary": "BROAD AGENCY ANNOUNCEMENT FOR VIRGINIA TECH WITHIN AN EXISTING COUNTER UAS (CUAS) SOFTWARE",
-      "score": 34,
-      "domains": [
-        "air",
-        "defense"
-      ],
-      "matched_terms": [
-        "uas",
-        "counter uas"
-      ],
-      "watchlist": null,
-      "extra": {
-        "amount": 4666000.0,
-        "award_type": "DEFINITIVE CONTRACT"
       },
       "first_seen": "2026-11-16T15:02:00.576370+00:00",
       "is_new": false
@@ -3678,6 +3677,33 @@
       "is_new": false
     },
     {
+      "id": "USAspending:70B02C26F00000208",
+      "source": "USAspending",
+      "category": "procurement",
+      "type": "Award",
+      "title": "BARFIELD INC: ANAFI UKR SUAS",
+      "url": "https://www.usaspending.gov/award/CONT_AWD_70B02C26F00000208_7014_70B02C26A00000005_7014",
+      "agency": "Department of Homeland Security",
+      "identifier": "70B02C26F00000208",
+      "date": "2026-07-27",
+      "deadline": null,
+      "summary": "ANAFI UKR SUAS",
+      "score": 30,
+      "domains": [
+        "air"
+      ],
+      "matched_terms": [
+        "suas"
+      ],
+      "watchlist": null,
+      "extra": {
+        "amount": 765683.4,
+        "award_type": "BPA CALL"
+      },
+      "first_seen": "2026-11-22T05:31:37.930058+00:00",
+      "is_new": true
+    },
+    {
       "id": "USAspending:140D0426F0680",
       "source": "USAspending",
       "category": "procurement",
@@ -3792,29 +3818,6 @@
       "watchlist": null,
       "extra": {
         "amount": 75729570.39,
-        "award_type": "DELIVERY ORDER"
-      },
-      "first_seen": "2026-11-16T15:02:00.576370+00:00",
-      "is_new": false
-    },
-    {
-      "id": "USAspending:W15P7T26F0089",
-      "source": "USAspending",
-      "category": "procurement",
-      "type": "Award",
-      "title": "LEIDOS, INC.: PROCURE TACTICAL EDGE COMPUTER KITS",
-      "url": "https://www.usaspending.gov/award/CONT_AWD_W15P7T26F0089_9700_W15P7T23D0003_9700",
-      "agency": "Department of Defense",
-      "identifier": "W15P7T26F0089",
-      "date": "2026-04-10",
-      "deadline": null,
-      "summary": "PROCURE TACTICAL EDGE COMPUTER KITS",
-      "score": 30,
-      "domains": [],
-      "matched_terms": [],
-      "watchlist": null,
-      "extra": {
-        "amount": 128482452.0,
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-11-16T15:02:00.576370+00:00",
@@ -5104,7 +5107,7 @@
   ],
   "stats": {
     "total": 180,
-    "new": 1,
+    "new": 4,
     "by_category": {
       "regulatory": 104,
       "procurement": 60,
@@ -5112,10 +5115,10 @@
       "legislative": 4
     },
     "by_domain": {
-      "air": 149,
+      "air": 150,
       "supply-chain": 83,
       "spectrum": 17,
-      "defense": 13,
+      "defense": 12,
       "ground": 9
     },
     "by_source": {
@@ -5311,7 +5314,7 @@
   "deadlines": [
     {
       "deadline": "2026-12-03",
-      "days": 12,
+      "days": 11,
       "title": "Privacy Act of 1974; System of Records",
       "identifier": "Docket No. DOT-OST-2026-3862",
       "category": "regulatory",
@@ -5320,7 +5323,7 @@
     },
     {
       "deadline": "2026-12-04",
-      "days": 13,
+      "days": 12,
       "title": "Agency Information Collection Activities; Proposed eCollection eComments Requested; SAFER SKIES State, Local, Tribal, and Territorial Counter-UAS Information Collection",
       "identifier": "OMB Number 1110-0090",
       "category": "regulatory",
