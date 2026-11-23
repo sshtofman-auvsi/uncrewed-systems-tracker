@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-23T06:11:11.712927+00:00",
-  "generated_human": "2026-11-23 06:11 UTC",
+  "generated_at": "2026-11-23T23:30:37.789347+00:00",
+  "generated_human": "2026-11-23 23:30 UTC",
   "demo": false,
   "items": [
     {
@@ -340,12 +340,12 @@
       "is_new": false
     },
     {
-      "id": "FCC ECFS:26110084404",
+      "id": "FCC ECFS:26110084412",
       "source": "FCC ECFS",
       "category": "regulatory",
       "type": "Notice",
-      "title": "GPS Innovation Alliance: NOTICE OF EXPARTE (FCC 26-74)",
-      "url": "https://www.fcc.gov/ecfs/document/26110084404/1",
+      "title": "Gogo Business Aviation LLC: NOTICE OF EXPARTE (FCC 26-74)",
+      "url": "https://www.fcc.gov/ecfs/document/26110084412/1",
       "agency": "FCC",
       "identifier": "FCC 26-74",
       "date": "2026-11-12",
@@ -369,12 +369,12 @@
       "is_new": false
     },
     {
-      "id": "FCC ECFS:26110084412",
+      "id": "FCC ECFS:26110084404",
       "source": "FCC ECFS",
       "category": "regulatory",
       "type": "Notice",
-      "title": "Gogo Business Aviation LLC: NOTICE OF EXPARTE (FCC 26-74)",
-      "url": "https://www.fcc.gov/ecfs/document/26110084412/1",
+      "title": "GPS Innovation Alliance: NOTICE OF EXPARTE (FCC 26-74)",
+      "url": "https://www.fcc.gov/ecfs/document/26110084404/1",
       "agency": "FCC",
       "identifier": "FCC 26-74",
       "date": "2026-11-12",
@@ -4666,17 +4666,17 @@
       "is_new": false
     },
     {
-      "id": "Regulations.gov:FAA-2026-14788-0001",
+      "id": "Regulations.gov:FAA-2024-2230-0004",
       "source": "Regulations.gov",
       "category": "regulatory",
       "type": "Document",
-      "title": "Davidson Drone Services, LLC - Petition",
-      "url": "https://www.regulations.gov/document/FAA-2026-14788-0001",
+      "title": "Wirz Drone LLC - Petition for Extension",
+      "url": "https://www.regulations.gov/document/FAA-2024-2230-0004",
       "agency": "FAA",
-      "identifier": "FAA-2026-14788",
+      "identifier": "FAA-2024-2230",
       "date": "2026-11-10",
       "deadline": null,
-      "summary": "Davidson Drone Services, LLC - Petition",
+      "summary": "Wirz Drone LLC - Petition for Extension",
       "score": 20,
       "domains": [
         "air"
@@ -4690,17 +4690,17 @@
       "is_new": false
     },
     {
-      "id": "Regulations.gov:FAA-2024-2230-0004",
+      "id": "Regulations.gov:FAA-2026-14788-0001",
       "source": "Regulations.gov",
       "category": "regulatory",
       "type": "Document",
-      "title": "Wirz Drone LLC - Petition for Extension",
-      "url": "https://www.regulations.gov/document/FAA-2024-2230-0004",
+      "title": "Davidson Drone Services, LLC - Petition",
+      "url": "https://www.regulations.gov/document/FAA-2026-14788-0001",
       "agency": "FAA",
-      "identifier": "FAA-2024-2230",
+      "identifier": "FAA-2026-14788",
       "date": "2026-11-10",
       "deadline": null,
-      "summary": "Wirz Drone LLC - Petition for Extension",
+      "summary": "Davidson Drone Services, LLC - Petition",
       "score": 20,
       "domains": [
         "air"
