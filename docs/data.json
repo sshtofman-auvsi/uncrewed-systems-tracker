@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-23T23:30:37.789347+00:00",
-  "generated_human": "2026-11-23 23:30 UTC",
+  "generated_at": "2026-11-24T08:48:01.661051+00:00",
+  "generated_human": "2026-11-24 08:48 UTC",
   "demo": false,
   "items": [
     {
@@ -2940,34 +2940,6 @@
       "is_new": false
     },
     {
-      "id": "USAspending:W31P4Q21F0297",
-      "source": "USAspending",
-      "category": "procurement",
-      "type": "Award",
-      "title": "TEXTRON SYSTEMS CORPORATION: THIS IS A RESEARCH AND DEVELOPMENT SERVICE FOR THE SUSTAINMENT OF UNMANNED AIRCRAFT SYSTEM'S COMMAND, CONTROL, COMMUNICA",
-      "url": "https://www.usaspending.gov/award/CONT_AWD_W31P4Q21F0297_9700_W31P4Q20D0029_9700",
-      "agency": "Department of Defense",
-      "identifier": "W31P4Q21F0297",
-      "date": "2021-08-30",
-      "deadline": null,
-      "summary": "THIS IS A RESEARCH AND DEVELOPMENT SERVICE FOR THE SUSTAINMENT OF UNMANNED AIRCRAFT SYSTEM'S COMMAND, CONTROL, COMMUNICATIONS, COMPUTER AND INTELLIGENCE SYSTEMS FOR THE ONE SYSTEM REMOTE VIDEO TERMINAL AND RELATED COMPONENTS WINDOWS 7 SOFTWARE BUILD.",
-      "score": 38,
-      "domains": [
-        "air"
-      ],
-      "matched_terms": [
-        "unmanned aircraft",
-        "unmanned aircraft system"
-      ],
-      "watchlist": null,
-      "extra": {
-        "amount": 725638.34,
-        "award_type": "DELIVERY ORDER"
-      },
-      "first_seen": "2026-11-22T05:31:37.930058+00:00",
-      "is_new": false
-    },
-    {
       "id": "USAspending:692M1523F00178",
       "source": "USAspending",
       "category": "procurement",
@@ -3702,6 +3674,33 @@
       },
       "first_seen": "2026-11-22T05:31:37.930058+00:00",
       "is_new": false
+    },
+    {
+      "id": "USAspending:W58RGZ26F0359",
+      "source": "USAspending",
+      "category": "procurement",
+      "type": "Award",
+      "title": "INTEGRATE DG LLC: UAS PROJECT OFFICE, LAUNCHED EFFECTS HAS A REQUIREMENT TO PURCHASE DRONES.",
+      "url": "https://www.usaspending.gov/award/CONT_AWD_W58RGZ26F0359_9700_W58RGZ26G0068_9700",
+      "agency": "Department of Defense",
+      "identifier": "W58RGZ26F0359",
+      "date": "2026-07-09",
+      "deadline": null,
+      "summary": "UAS PROJECT OFFICE, LAUNCHED EFFECTS HAS A REQUIREMENT TO PURCHASE DRONES.",
+      "score": 30,
+      "domains": [
+        "air"
+      ],
+      "matched_terms": [
+        "uas"
+      ],
+      "watchlist": null,
+      "extra": {
+        "amount": 64015279.0,
+        "award_type": "DELIVERY ORDER"
+      },
+      "first_seen": "2026-11-24T08:48:01.661051+00:00",
+      "is_new": true
     },
     {
       "id": "USAspending:140D0426F0680",
@@ -5107,7 +5106,7 @@
   ],
   "stats": {
     "total": 180,
-    "new": 0,
+    "new": 1,
     "by_category": {
       "regulatory": 104,
       "procurement": 60,
@@ -5314,7 +5313,7 @@
   "deadlines": [
     {
       "deadline": "2026-12-03",
-      "days": 10,
+      "days": 9,
       "title": "Privacy Act of 1974; System of Records",
       "identifier": "Docket No. DOT-OST-2026-3862",
       "category": "regulatory",
@@ -5323,7 +5322,7 @@
     },
     {
       "deadline": "2026-12-04",
-      "days": 11,
+      "days": 10,
       "title": "Agency Information Collection Activities; Proposed eCollection eComments Requested; SAFER SKIES State, Local, Tribal, and Territorial Counter-UAS Information Collection",
       "identifier": "OMB Number 1110-0090",
       "category": "regulatory",
