@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-24T08:48:01.661051+00:00",
-  "generated_human": "2026-11-24 08:48 UTC",
+  "generated_at": "2026-11-24T22:00:26.407888+00:00",
+  "generated_human": "2026-11-24 22:00 UTC",
   "demo": false,
   "items": [
     {
@@ -216,12 +216,12 @@
       "is_new": false
     },
     {
-      "id": "FCC ECFS:26110084598",
+      "id": "FCC ECFS:26110084600",
       "source": "FCC ECFS",
       "category": "regulatory",
       "type": "Notice",
       "title": "Correctional Leaders Association: NOTICE OF EXPARTE (FCC 26-74)",
-      "url": "https://www.fcc.gov/ecfs/document/26110084598/1",
+      "url": "https://www.fcc.gov/ecfs/document/26110084600/1",
       "agency": "FCC",
       "identifier": "FCC 26-74",
       "date": "2026-11-13",
@@ -241,8 +241,8 @@
       "extra": {
         "proceeding": "26-74"
       },
-      "first_seen": "2026-11-20T19:41:12.092313+00:00",
-      "is_new": false
+      "first_seen": "2026-11-24T22:00:26.407888+00:00",
+      "is_new": true
     },
     {
       "id": "FCC ECFS:26110084611",
@@ -644,41 +644,12 @@
       "is_new": false
     },
     {
-      "id": "FCC ECFS:26110083285",
-      "source": "FCC ECFS",
-      "category": "regulatory",
-      "type": "Comment",
-      "title": "Kevin Mottus, Outreach Director at California Brain Tumor Association: COMMENT (FCC 26-74)",
-      "url": "https://www.fcc.gov/ecfs/document/26110083285/1",
-      "agency": "FCC",
-      "identifier": "FCC 26-74",
-      "date": "2026-10-22",
-      "deadline": null,
-      "summary": "",
-      "score": 80,
-      "domains": [
-        "air",
-        "spectrum",
-        "supply-chain"
-      ],
-      "matched_terms": [],
-      "watchlist": {
-        "key": "gn-26-74",
-        "label": "GN 26-74 (Unleashing American Drone Dominance)"
-      },
-      "extra": {
-        "proceeding": "26-74"
-      },
-      "first_seen": "2026-11-22T14:12:44.310821+00:00",
-      "is_new": false
-    },
-    {
-      "id": "FCC ECFS:26110083338",
+      "id": "FCC ECFS:26110083192",
       "source": "FCC ECFS",
       "category": "regulatory",
       "type": "Comment",
       "title": "Kevin Mottus, Outreach Director CA Brain Tumor Assn.: COMMENT (FCC 26-74)",
-      "url": "https://www.fcc.gov/ecfs/document/26110083338/1",
+      "url": "https://www.fcc.gov/ecfs/document/26110083192/1",
       "agency": "FCC",
       "identifier": "FCC 26-74",
       "date": "2026-10-22",
@@ -698,8 +669,37 @@
       "extra": {
         "proceeding": "26-74"
       },
-      "first_seen": "2026-11-22T14:12:44.310821+00:00",
-      "is_new": false
+      "first_seen": "2026-11-24T22:00:26.407888+00:00",
+      "is_new": true
+    },
+    {
+      "id": "FCC ECFS:26110083243",
+      "source": "FCC ECFS",
+      "category": "regulatory",
+      "type": "Comment",
+      "title": "Kevin Mottus, Outreach Director at California Brain Tumor Association: COMMENT (FCC 26-74)",
+      "url": "https://www.fcc.gov/ecfs/document/26110083243/1",
+      "agency": "FCC",
+      "identifier": "FCC 26-74",
+      "date": "2026-10-22",
+      "deadline": null,
+      "summary": "",
+      "score": 80,
+      "domains": [
+        "air",
+        "spectrum",
+        "supply-chain"
+      ],
+      "matched_terms": [],
+      "watchlist": {
+        "key": "gn-26-74",
+        "label": "GN 26-74 (Unleashing American Drone Dominance)"
+      },
+      "extra": {
+        "proceeding": "26-74"
+      },
+      "first_seen": "2026-11-24T22:00:26.407888+00:00",
+      "is_new": true
     },
     {
       "id": "FCC ECFS:26110081760",
@@ -2075,17 +2075,17 @@
       "is_new": false
     },
     {
-      "id": "Regulations.gov:FAA-2026-4558-1629",
+      "id": "Regulations.gov:FAA-2026-4558-1630",
       "source": "Regulations.gov",
       "category": "regulatory",
       "type": "Comment",
-      "title": "Comment on Designation – Restrict the Operation of Unmanned Aircraft in Close Proximity  to a Fixed Site Facility: Comment from Karin L",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1629",
+      "title": "Comment on Designation – Restrict the Operation of Unmanned Aircraft in Close Proximity  to a Fixed Site Facility: Comment from American Chemistry Council",
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1630",
       "agency": "FAA",
       "identifier": "FAA-2026-4558",
       "date": "2026-08-06",
       "deadline": null,
-      "summary": "Comment from Karin L",
+      "summary": "Comment from American Chemistry Council",
       "score": 80,
       "domains": [
         "air"
@@ -2101,8 +2101,8 @@
       "extra": {
         "docket_total_comments": 1669
       },
-      "first_seen": "2026-11-22T23:19:42.552989+00:00",
-      "is_new": false
+      "first_seen": "2026-11-24T22:00:26.407888+00:00",
+      "is_new": true
     },
     {
       "id": "Federal Register:2026-15659",
@@ -3700,7 +3700,7 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-11-24T08:48:01.661051+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:140D0426F0680",
@@ -4314,30 +4314,6 @@
       "is_new": false
     },
     {
-      "id": "Regulations.gov:FAA-2024-0025-0024",
-      "source": "Regulations.gov",
-      "category": "regulatory",
-      "type": "Supporting Material",
-      "title": "U.S. DOT/FAA - Inspection Programs for Single-Engine Turbine-Powered Airplanes and Unmanned Aircraft; and Miscellaneous Maintenance-Related Updates - Final Rule - Regulatory Impact Analysis (April 2026)",
-      "url": "https://www.regulations.gov/document/FAA-2024-0025-0024",
-      "agency": "FAA",
-      "identifier": "FAA-2024-0025",
-      "date": "2026-11-10",
-      "deadline": null,
-      "summary": "U.S. DOT/FAA - Inspection Programs for Single-Engine Turbine-Powered Airplanes and Unmanned Aircraft; and Miscellaneous Maintenance-Related Updates - Final Rule - Regulatory Impact Analysis (April 2026)",
-      "score": 22,
-      "domains": [
-        "air"
-      ],
-      "matched_terms": [
-        "unmanned aircraft"
-      ],
-      "watchlist": null,
-      "extra": {},
-      "first_seen": "2026-11-10T22:57:55.441177+00:00",
-      "is_new": false
-    },
-    {
       "id": "Regulations.gov:FAA-2024-0025-0023",
       "source": "Regulations.gov",
       "category": "regulatory",
@@ -4447,6 +4423,59 @@
       },
       "first_seen": "2026-07-31T08:51:48.417697+00:00",
       "is_new": false
+    },
+    {
+      "id": "Federal Register:2026-23953",
+      "source": "Federal Register",
+      "category": "regulatory",
+      "type": "Final Rule",
+      "title": "Safety Zone; Pasquotank River Harbor, Elizabeth City, NC",
+      "url": "https://www.federalregister.gov/documents/2026/11/24/2026-23953/safety-zone-pasquotank-river-harbor-elizabeth-city-nc",
+      "agency": "Homeland Security Department, Coast Guard",
+      "identifier": "Docket Number USCG-2026-1411",
+      "date": "2026-11-24",
+      "deadline": null,
+      "summary": "The Coast Guard is establishing a temporary safety zone for certain navigable waters on the Pasquotank River, at Elizabeth City, NC. The safety zone is needed to protect personnel, vessels, and the marine environment from potential hazards associated with an over-the- water drone display. The entry of vessels or persons into this zone is prohibited unless specifically authorized by the Captain of the Port, Sector North Carolina, or their designated representative.",
+      "score": 20,
+      "domains": [
+        "air"
+      ],
+      "matched_terms": [
+        "drone"
+      ],
+      "watchlist": null,
+      "extra": {
+        "comment_url": null,
+        "dockets": [
+          "Docket Number USCG-2026-1411"
+        ]
+      },
+      "first_seen": "2026-11-24T22:00:26.407888+00:00",
+      "is_new": true
+    },
+    {
+      "id": "Regulations.gov:FAA-2026-15353-0001",
+      "source": "Regulations.gov",
+      "category": "regulatory",
+      "type": "Document",
+      "title": "Crabtree Drone Services LLC  - Petition",
+      "url": "https://www.regulations.gov/document/FAA-2026-15353-0001",
+      "agency": "FAA",
+      "identifier": "FAA-2026-15353",
+      "date": "2026-11-24",
+      "deadline": null,
+      "summary": "Crabtree Drone Services LLC  - Petition",
+      "score": 20,
+      "domains": [
+        "air"
+      ],
+      "matched_terms": [
+        "drone"
+      ],
+      "watchlist": null,
+      "extra": {},
+      "first_seen": "2026-11-24T22:00:26.407888+00:00",
+      "is_new": true
     },
     {
       "id": "Regulations.gov:FAA-2026-15249-0001",
@@ -5064,8 +5093,8 @@
     {
       "name": "Federal Register",
       "status": "ok",
-      "detail": "21 kept",
-      "count": 21
+      "detail": "22 kept",
+      "count": 22
     },
     {
       "name": "Regulations.gov",
@@ -5105,16 +5134,16 @@
     }
   ],
   "stats": {
-    "total": 180,
-    "new": 1,
+    "total": 181,
+    "new": 6,
     "by_category": {
-      "regulatory": 104,
+      "regulatory": 105,
       "procurement": 60,
       "litigation": 12,
       "legislative": 4
     },
     "by_domain": {
-      "air": 150,
+      "air": 151,
       "supply-chain": 83,
       "spectrum": 17,
       "defense": 12,
@@ -5124,7 +5153,7 @@
       "FCC ECFS": 62,
       "USAspending": 60,
       "Regulations.gov": 23,
-      "Federal Register": 19,
+      "Federal Register": 20,
       "CourtListener": 12,
       "Congress.gov": 4
     }
