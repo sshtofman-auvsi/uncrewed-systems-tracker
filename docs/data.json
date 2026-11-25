@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-25T07:22:30.050533+00:00",
-  "generated_human": "2026-11-25 07:22 UTC",
+  "generated_at": "2026-11-25T21:13:56.625558+00:00",
+  "generated_human": "2026-11-25 21:13 UTC",
   "demo": false,
   "items": [
     {
@@ -670,7 +670,7 @@
         "proceeding": "26-74"
       },
       "first_seen": "2026-11-25T07:22:30.050533+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:26110083338",
@@ -699,7 +699,7 @@
         "proceeding": "26-74"
       },
       "first_seen": "2026-11-25T07:22:30.050533+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:26110081760",
@@ -2075,17 +2075,17 @@
       "is_new": false
     },
     {
-      "id": "Regulations.gov:FAA-2026-4558-1629",
+      "id": "Regulations.gov:FAA-2026-4558-1630",
       "source": "Regulations.gov",
       "category": "regulatory",
       "type": "Comment",
-      "title": "Comment on Designation – Restrict the Operation of Unmanned Aircraft in Close Proximity  to a Fixed Site Facility: Comment from Karin L",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1629",
+      "title": "Comment on Designation – Restrict the Operation of Unmanned Aircraft in Close Proximity  to a Fixed Site Facility: Comment from American Chemistry Council",
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1630",
       "agency": "FAA",
       "identifier": "FAA-2026-4558",
       "date": "2026-08-06",
       "deadline": null,
-      "summary": "Comment from Karin L",
+      "summary": "Comment from American Chemistry Council",
       "score": 80,
       "domains": [
         "air"
@@ -2101,7 +2101,7 @@
       "extra": {
         "docket_total_comments": 1669
       },
-      "first_seen": "2026-11-25T07:22:30.050533+00:00",
+      "first_seen": "2026-11-25T21:13:56.625558+00:00",
       "is_new": true
     },
     {
@@ -2733,7 +2733,7 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-11-25T07:22:30.050533+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:70RSAT26FR0000028",
@@ -2994,7 +2994,7 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-11-25T07:22:30.050533+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "USAspending:692M1523F00178",
@@ -4428,6 +4428,54 @@
       "is_new": false
     },
     {
+      "id": "Regulations.gov:FAA-2026-14456-0004",
+      "source": "Regulations.gov",
+      "category": "regulatory",
+      "type": "Document",
+      "title": "Malone Drone Services LLC - Petition (Revised)",
+      "url": "https://www.regulations.gov/document/FAA-2026-14456-0004",
+      "agency": "FAA",
+      "identifier": "FAA-2026-14456",
+      "date": "2026-11-25",
+      "deadline": null,
+      "summary": "Malone Drone Services LLC - Petition (Revised)",
+      "score": 20,
+      "domains": [
+        "air"
+      ],
+      "matched_terms": [
+        "drone"
+      ],
+      "watchlist": null,
+      "extra": {},
+      "first_seen": "2026-11-25T21:13:56.625558+00:00",
+      "is_new": true
+    },
+    {
+      "id": "Regulations.gov:FAA-2026-14456-0003",
+      "source": "Regulations.gov",
+      "category": "regulatory",
+      "type": "Document",
+      "title": "Malone Drone Services LLC - Response to Request for Information",
+      "url": "https://www.regulations.gov/document/FAA-2026-14456-0003",
+      "agency": "FAA",
+      "identifier": "FAA-2026-14456",
+      "date": "2026-11-25",
+      "deadline": null,
+      "summary": "Malone Drone Services LLC - Response to Request for Information",
+      "score": 20,
+      "domains": [
+        "air"
+      ],
+      "matched_terms": [
+        "drone"
+      ],
+      "watchlist": null,
+      "extra": {},
+      "first_seen": "2026-11-25T21:13:56.625558+00:00",
+      "is_new": true
+    },
+    {
       "id": "Federal Register:2026-23953",
       "source": "Federal Register",
       "category": "regulatory",
@@ -5102,8 +5150,8 @@
     {
       "name": "Regulations.gov",
       "status": "ok",
-      "detail": "35 kept",
-      "count": 35
+      "detail": "37 kept",
+      "count": 37
     },
     {
       "name": "FCC ECFS",
@@ -5137,16 +5185,16 @@
     }
   ],
   "stats": {
-    "total": 181,
-    "new": 5,
+    "total": 183,
+    "new": 3,
     "by_category": {
-      "regulatory": 105,
+      "regulatory": 107,
       "procurement": 60,
       "litigation": 12,
       "legislative": 4
     },
     "by_domain": {
-      "air": 151,
+      "air": 153,
       "supply-chain": 83,
       "spectrum": 17,
       "defense": 12,
@@ -5155,7 +5203,7 @@
     "by_source": {
       "FCC ECFS": 62,
       "USAspending": 60,
-      "Regulations.gov": 23,
+      "Regulations.gov": 25,
       "Federal Register": 20,
       "CourtListener": 12,
       "Congress.gov": 4
