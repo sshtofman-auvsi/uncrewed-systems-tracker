@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-26T21:01:43.499124+00:00",
-  "generated_human": "2026-11-26 21:01 UTC",
+  "generated_at": "2026-11-27T07:08:03.790584+00:00",
+  "generated_human": "2026-11-27 07:08 UTC",
   "demo": false,
   "items": [
     {
@@ -644,41 +644,12 @@
       "is_new": false
     },
     {
-      "id": "FCC ECFS:26110083192",
-      "source": "FCC ECFS",
-      "category": "regulatory",
-      "type": "Comment",
-      "title": "Kevin Mottus, Outreach Director CA Brain Tumor Assn.: COMMENT (FCC 26-74)",
-      "url": "https://www.fcc.gov/ecfs/document/26110083192/1",
-      "agency": "FCC",
-      "identifier": "FCC 26-74",
-      "date": "2026-10-22",
-      "deadline": null,
-      "summary": "",
-      "score": 80,
-      "domains": [
-        "air",
-        "spectrum",
-        "supply-chain"
-      ],
-      "matched_terms": [],
-      "watchlist": {
-        "key": "gn-26-74",
-        "label": "GN 26-74 (Unleashing American Drone Dominance)"
-      },
-      "extra": {
-        "proceeding": "26-74"
-      },
-      "first_seen": "2026-11-26T07:11:57.026849+00:00",
-      "is_new": false
-    },
-    {
-      "id": "FCC ECFS:26110083243",
+      "id": "FCC ECFS:26110083285",
       "source": "FCC ECFS",
       "category": "regulatory",
       "type": "Comment",
       "title": "Kevin Mottus, Outreach Director at California Brain Tumor Association: COMMENT (FCC 26-74)",
-      "url": "https://www.fcc.gov/ecfs/document/26110083243/1",
+      "url": "https://www.fcc.gov/ecfs/document/26110083285/1",
       "agency": "FCC",
       "identifier": "FCC 26-74",
       "date": "2026-10-22",
@@ -698,8 +669,37 @@
       "extra": {
         "proceeding": "26-74"
       },
-      "first_seen": "2026-11-26T07:11:57.026849+00:00",
-      "is_new": false
+      "first_seen": "2026-11-27T07:08:03.790584+00:00",
+      "is_new": true
+    },
+    {
+      "id": "FCC ECFS:26110083338",
+      "source": "FCC ECFS",
+      "category": "regulatory",
+      "type": "Comment",
+      "title": "Kevin Mottus, Outreach Director CA Brain Tumor Assn.: COMMENT (FCC 26-74)",
+      "url": "https://www.fcc.gov/ecfs/document/26110083338/1",
+      "agency": "FCC",
+      "identifier": "FCC 26-74",
+      "date": "2026-10-22",
+      "deadline": null,
+      "summary": "",
+      "score": 80,
+      "domains": [
+        "air",
+        "spectrum",
+        "supply-chain"
+      ],
+      "matched_terms": [],
+      "watchlist": {
+        "key": "gn-26-74",
+        "label": "GN 26-74 (Unleashing American Drone Dominance)"
+      },
+      "extra": {
+        "proceeding": "26-74"
+      },
+      "first_seen": "2026-11-27T07:08:03.790584+00:00",
+      "is_new": true
     },
     {
       "id": "FCC ECFS:26110081760",
@@ -2102,7 +2102,7 @@
         "docket_total_comments": 1669
       },
       "first_seen": "2026-11-26T21:01:43.499124+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "Federal Register:2026-15659",
@@ -2170,39 +2170,6 @@
         "docket_total_comments": 3929
       },
       "first_seen": "2026-07-10T18:09:10.408312+00:00",
-      "is_new": false
-    },
-    {
-      "id": "USAspending:W58RGZ26F0363",
-      "source": "USAspending",
-      "category": "procurement",
-      "type": "Award",
-      "title": "GRIFFON AEROSPACE, INC.: IN SUPPORT OF EXECUTIVE ORDER- UNLEASHING DRONE DOMINANCE, THE ARMY CONTRACTING COMMAND-REDSTONE ARSENAL ESTABLISHED THE",
-      "url": "https://www.usaspending.gov/award/CONT_AWD_W58RGZ26F0363_9700_W58RGZ26G0061_9700",
-      "agency": "Department of Defense",
-      "identifier": "W58RGZ26F0363",
-      "date": "2026-07-09",
-      "deadline": null,
-      "summary": "IN SUPPORT OF EXECUTIVE ORDER- UNLEASHING DRONE DOMINANCE, THE ARMY CONTRACTING COMMAND-REDSTONE ARSENAL ESTABLISHED THE BASIC ORDERING AGREEMENT TO PROCURE DRONES AND DRONE DOMINANT COMPONENTS.",
-      "score": 80,
-      "domains": [
-        "air",
-        "spectrum",
-        "supply-chain"
-      ],
-      "matched_terms": [
-        "drone",
-        "drone dominance"
-      ],
-      "watchlist": {
-        "key": "gn-26-74",
-        "label": "GN 26-74 (Unleashing American Drone Dominance)"
-      },
-      "extra": {
-        "amount": 37004023.84,
-        "award_type": "DELIVERY ORDER"
-      },
-      "first_seen": "2026-11-16T15:02:00.576370+00:00",
       "is_new": false
     },
     {
@@ -2941,6 +2908,35 @@
       "is_new": false
     },
     {
+      "id": "USAspending:6913G626F40012N",
+      "source": "USAspending",
+      "category": "procurement",
+      "type": "Award",
+      "title": "THE MITRE CORPORATION: ENGINEERING SERVICES TO SUPPORT GNSS ANTENNA TOUGHENING AND COUNTER-UNMANNED AIRCRAFT SYSTEMS FOR NATIONAL SECURITY AND",
+      "url": "https://www.usaspending.gov/award/CONT_AWD_6913G626F40012N_6901_6913G623D300002_6901",
+      "agency": "Department of Transportation",
+      "identifier": "6913G626F40012N",
+      "date": "2025-12-17",
+      "deadline": null,
+      "summary": "ENGINEERING SERVICES TO SUPPORT GNSS ANTENNA TOUGHENING AND COUNTER-UNMANNED AIRCRAFT SYSTEMS FOR NATIONAL SECURITY AND CRITICAL INFRASTRUCTURE. TASK ORDER AWARD.",
+      "score": 38,
+      "domains": [
+        "air",
+        "defense"
+      ],
+      "matched_terms": [
+        "unmanned aircraft",
+        "counter-unmanned"
+      ],
+      "watchlist": null,
+      "extra": {
+        "amount": 700000.0,
+        "award_type": "DELIVERY ORDER"
+      },
+      "first_seen": "2026-11-27T07:08:03.790584+00:00",
+      "is_new": true
+    },
+    {
       "id": "USAspending:692M1522F00222",
       "source": "USAspending",
       "category": "procurement",
@@ -3283,17 +3279,17 @@
       "is_new": false
     },
     {
-      "id": "USAspending:692M1526F00097",
+      "id": "USAspending:697DCK26C00209",
       "source": "USAspending",
       "category": "procurement",
       "type": "Award",
-      "title": "GENERAL DYNAMICS INFORMATION TECHNOLOGY, INC.: UNMANNED AIRCRAFT SYSTEMS (UAS) FOR NAS INSPECTIONS",
-      "url": "https://www.usaspending.gov/award/CONT_AWD_692M1526F00097_6920_692M1522D00005_6920",
+      "title": "DEVORTO CORPORATION: BAA CALL 001-2026  DEVELOPMENT OF NON-SYSTEM SPECIFIC TECHNOLOGY TO INTEGRATE UNMANNED AIRCRAFT SYSTEMS (UAS) INTO THE N",
+      "url": "https://www.usaspending.gov/award/CONT_AWD_697DCK26C00209_6920_-NONE-_-NONE-",
       "agency": "Department of Transportation",
-      "identifier": "692M1526F00097",
-      "date": "2026-07-29",
+      "identifier": "697DCK26C00209",
+      "date": "2026-09-16",
       "deadline": null,
-      "summary": "UNMANNED AIRCRAFT SYSTEMS (UAS) FOR NAS INSPECTIONS",
+      "summary": "BAA CALL 001-2026  DEVELOPMENT OF NON-SYSTEM SPECIFIC TECHNOLOGY TO INTEGRATE UNMANNED AIRCRAFT SYSTEMS (UAS) INTO THE NAS",
       "score": 34,
       "domains": [
         "air"
@@ -3304,11 +3300,11 @@
       ],
       "watchlist": null,
       "extra": {
-        "amount": 1799448.0,
-        "award_type": "DELIVERY ORDER"
+        "amount": 705461.0,
+        "award_type": "DEFINITIVE CONTRACT"
       },
-      "first_seen": "2026-11-16T15:02:00.576370+00:00",
-      "is_new": false
+      "first_seen": "2026-11-27T07:08:03.790584+00:00",
+      "is_new": true
     },
     {
       "id": "USAspending:693KA824F00073",
@@ -3450,6 +3446,34 @@
       },
       "first_seen": "2026-11-21T05:57:06.938217+00:00",
       "is_new": false
+    },
+    {
+      "id": "USAspending:19AQMM27F0024",
+      "source": "USAspending",
+      "category": "procurement",
+      "type": "Award",
+      "title": "SKYDIO, INC: UNMANNED AIRCRAFT SYSTEMS (UAS) WITH ASSOCIATED SPARE PARTS AND OPERATOR PROFICIENCY TRAINING.",
+      "url": "https://www.usaspending.gov/award/CONT_AWD_19AQMM27F0024_1900_19AQMM25D0186_1900",
+      "agency": "Department of State",
+      "identifier": "19AQMM27F0024",
+      "date": "2026-10-27",
+      "deadline": null,
+      "summary": "UNMANNED AIRCRAFT SYSTEMS (UAS) WITH ASSOCIATED SPARE PARTS AND OPERATOR PROFICIENCY TRAINING.",
+      "score": 30,
+      "domains": [
+        "air"
+      ],
+      "matched_terms": [
+        "unmanned aircraft",
+        "uas"
+      ],
+      "watchlist": null,
+      "extra": {
+        "amount": 690822.8,
+        "award_type": "DELIVERY ORDER"
+      },
+      "first_seen": "2026-11-27T07:08:03.790584+00:00",
+      "is_new": true
     },
     {
       "id": "USAspending:1605C126P00014",
@@ -4066,29 +4090,6 @@
         "award_type": "DEFINITIVE CONTRACT"
       },
       "first_seen": "2026-11-21T05:57:06.938217+00:00",
-      "is_new": false
-    },
-    {
-      "id": "USAspending:W58RGZ24C0031",
-      "source": "USAspending",
-      "category": "procurement",
-      "type": "Award",
-      "title": "GENERAL ATOMICS AERONAUTICAL SYSTEMS, INC.: GRAY EAGLE PERFORMANCE BASED LOGISTICS 2024-2029",
-      "url": "https://www.usaspending.gov/award/CONT_AWD_W58RGZ24C0031_9700_-NONE-_-NONE-",
-      "agency": "Department of Defense",
-      "identifier": "W58RGZ24C0031",
-      "date": "2024-04-23",
-      "deadline": null,
-      "summary": "GRAY EAGLE PERFORMANCE BASED LOGISTICS 2024-2029",
-      "score": 30,
-      "domains": [],
-      "matched_terms": [],
-      "watchlist": null,
-      "extra": {
-        "amount": 796752104.0,
-        "award_type": "DEFINITIVE CONTRACT"
-      },
-      "first_seen": "2026-11-16T15:02:00.576370+00:00",
       "is_new": false
     },
     {
@@ -5190,7 +5191,7 @@
   ],
   "stats": {
     "total": 183,
-    "new": 1,
+    "new": 5,
     "by_category": {
       "regulatory": 107,
       "procurement": 60,
@@ -5198,10 +5199,10 @@
       "legislative": 4
     },
     "by_domain": {
-      "air": 154,
-      "supply-chain": 83,
-      "spectrum": 17,
-      "defense": 12,
+      "air": 155,
+      "supply-chain": 82,
+      "spectrum": 16,
+      "defense": 13,
       "ground": 9
     },
     "by_source": {
@@ -5262,7 +5263,7 @@
         "supply-chain"
       ],
       "deadline": null,
-      "count": 17,
+      "count": 16,
       "latest": "2026-11-20"
     },
     {
@@ -5397,7 +5398,7 @@
   "deadlines": [
     {
       "deadline": "2026-12-03",
-      "days": 7,
+      "days": 6,
       "title": "Privacy Act of 1974; System of Records",
       "identifier": "Docket No. DOT-OST-2026-3862",
       "category": "regulatory",
@@ -5406,7 +5407,7 @@
     },
     {
       "deadline": "2026-12-04",
-      "days": 8,
+      "days": 7,
       "title": "Agency Information Collection Activities; Proposed eCollection eComments Requested; SAFER SKIES State, Local, Tribal, and Territorial Counter-UAS Information Collection",
       "identifier": "OMB Number 1110-0090",
       "category": "regulatory",
