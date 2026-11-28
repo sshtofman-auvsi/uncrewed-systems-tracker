@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-27T20:47:14.591278+00:00",
-  "generated_human": "2026-11-27 20:47 UTC",
+  "generated_at": "2026-11-28T06:41:33.327536+00:00",
+  "generated_human": "2026-11-28 06:41 UTC",
   "demo": false,
   "items": [
     {
@@ -242,7 +242,7 @@
         "proceeding": "26-74"
       },
       "first_seen": "2026-11-27T20:47:14.591278+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:26110084611",
@@ -340,35 +340,6 @@
       "is_new": false
     },
     {
-      "id": "FCC ECFS:26110084412",
-      "source": "FCC ECFS",
-      "category": "regulatory",
-      "type": "Notice",
-      "title": "Gogo Business Aviation LLC: NOTICE OF EXPARTE (FCC 26-74)",
-      "url": "https://www.fcc.gov/ecfs/document/26110084412/1",
-      "agency": "FCC",
-      "identifier": "FCC 26-74",
-      "date": "2026-11-12",
-      "deadline": null,
-      "summary": "",
-      "score": 80,
-      "domains": [
-        "air",
-        "spectrum",
-        "supply-chain"
-      ],
-      "matched_terms": [],
-      "watchlist": {
-        "key": "gn-26-74",
-        "label": "GN 26-74 (Unleashing American Drone Dominance)"
-      },
-      "extra": {
-        "proceeding": "26-74"
-      },
-      "first_seen": "2026-11-12T23:16:51.136954+00:00",
-      "is_new": false
-    },
-    {
       "id": "FCC ECFS:26110084404",
       "source": "FCC ECFS",
       "category": "regulatory",
@@ -398,36 +369,32 @@
       "is_new": false
     },
     {
-      "id": "FCC ECFS:26110084204",
+      "id": "FCC ECFS:26110084412",
       "source": "FCC ECFS",
       "category": "regulatory",
-      "type": "Comment",
-      "title": "Mckinley Stallard: COMMENT (FCC 26-22)",
-      "url": "https://www.fcc.gov/ecfs/search/search-filings/filing/26110084204",
+      "type": "Notice",
+      "title": "Gogo Business Aviation LLC: NOTICE OF EXPARTE (FCC 26-74)",
+      "url": "https://www.fcc.gov/ecfs/document/26110084412/1",
       "agency": "FCC",
-      "identifier": "FCC 26-22",
-      "date": "2026-11-09",
+      "identifier": "FCC 26-74",
+      "date": "2026-11-12",
       "deadline": null,
-      "summary": "I believe DJI has provided quality drone products for a long time at a great price, with first hand experience at great customer service. I aspire to start my own business soon after completing my part 107 exam. I have always been a customer of DJI. I would like to see their new drones come to market.",
+      "summary": "",
       "score": 80,
       "domains": [
         "air",
+        "spectrum",
         "supply-chain"
       ],
-      "matched_terms": [
-        "drone",
-        "part 107",
-        "dji",
-        "26-22"
-      ],
+      "matched_terms": [],
       "watchlist": {
-        "key": "et-26-22",
-        "label": "ET 26-22 / DA-26-592 (DJI Security Assessment — comment by Aug 28, 2026)"
+        "key": "gn-26-74",
+        "label": "GN 26-74 (Unleashing American Drone Dominance)"
       },
       "extra": {
-        "proceeding": "26-22"
+        "proceeding": "26-74"
       },
-      "first_seen": "2026-11-10T01:17:41.671836+00:00",
+      "first_seen": "2026-11-12T23:16:51.136954+00:00",
       "is_new": false
     },
     {
@@ -450,6 +417,39 @@
       "matched_terms": [
         "dji",
         "public safety",
+        "26-22"
+      ],
+      "watchlist": {
+        "key": "et-26-22",
+        "label": "ET 26-22 / DA-26-592 (DJI Security Assessment — comment by Aug 28, 2026)"
+      },
+      "extra": {
+        "proceeding": "26-22"
+      },
+      "first_seen": "2026-11-10T01:17:41.671836+00:00",
+      "is_new": false
+    },
+    {
+      "id": "FCC ECFS:26110084204",
+      "source": "FCC ECFS",
+      "category": "regulatory",
+      "type": "Comment",
+      "title": "Mckinley Stallard: COMMENT (FCC 26-22)",
+      "url": "https://www.fcc.gov/ecfs/search/search-filings/filing/26110084204",
+      "agency": "FCC",
+      "identifier": "FCC 26-22",
+      "date": "2026-11-09",
+      "deadline": null,
+      "summary": "I believe DJI has provided quality drone products for a long time at a great price, with first hand experience at great customer service. I aspire to start my own business soon after completing my part 107 exam. I have always been a customer of DJI. I would like to see their new drones come to market.",
+      "score": 80,
+      "domains": [
+        "air",
+        "supply-chain"
+      ],
+      "matched_terms": [
+        "drone",
+        "part 107",
+        "dji",
         "26-22"
       ],
       "watchlist": {
@@ -670,7 +670,7 @@
         "proceeding": "26-74"
       },
       "first_seen": "2026-11-27T20:47:14.591278+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:26110083243",
@@ -699,7 +699,7 @@
         "proceeding": "26-74"
       },
       "first_seen": "2026-11-27T20:47:14.591278+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "FCC ECFS:26110081760",
@@ -2075,17 +2075,17 @@
       "is_new": false
     },
     {
-      "id": "Regulations.gov:FAA-2026-4558-1629",
+      "id": "Regulations.gov:FAA-2026-4558-1630",
       "source": "Regulations.gov",
       "category": "regulatory",
       "type": "Comment",
-      "title": "Comment on Designation – Restrict the Operation of Unmanned Aircraft in Close Proximity  to a Fixed Site Facility: Comment from Karin L",
-      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1629",
+      "title": "Comment on Designation – Restrict the Operation of Unmanned Aircraft in Close Proximity  to a Fixed Site Facility: Comment from American Chemistry Council",
+      "url": "https://www.regulations.gov/comment/FAA-2026-4558-1630",
       "agency": "FAA",
       "identifier": "FAA-2026-4558",
       "date": "2026-08-06",
       "deadline": null,
-      "summary": "Comment from Karin L",
+      "summary": "Comment from American Chemistry Council",
       "score": 80,
       "domains": [
         "air"
@@ -2101,7 +2101,7 @@
       "extra": {
         "docket_total_comments": 1669
       },
-      "first_seen": "2026-11-27T20:47:14.591278+00:00",
+      "first_seen": "2026-11-28T06:41:33.327536+00:00",
       "is_new": true
     },
     {
@@ -2732,35 +2732,6 @@
       "is_new": false
     },
     {
-      "id": "Federal Register:2026-15417",
-      "source": "Federal Register",
-      "category": "regulatory",
-      "type": "Notice",
-      "title": "Notice of Availability of the Final Programmatic Environmental Assessment and FONSI/ROD",
-      "url": "https://www.federalregister.gov/documents/2026/07/30/2026-15417/notice-of-availability-of-the-final-programmatic-environmental-assessment-and-fonsirod",
-      "agency": "Transportation Department, Federal Aviation Administration",
-      "identifier": "2026-15417",
-      "date": "2026-07-30",
-      "deadline": null,
-      "summary": "The Federal Aviation Administration (FAA) announces the availability of the Final Programmatic Environmental Assessment (PEA) and Finding of No Significant Impact (FONSI)/Record of Decision (ROD), following the FAA's evaluation of the potential environmental effects of its decision related to unmanned aircraft systems (UAS) (drone) package delivery operations in the United States.",
-      "score": 48,
-      "domains": [
-        "air"
-      ],
-      "matched_terms": [
-        "unmanned aircraft",
-        "uas",
-        "drone"
-      ],
-      "watchlist": null,
-      "extra": {
-        "comment_url": null,
-        "dockets": []
-      },
-      "first_seen": "2026-07-30T08:28:48.549293+00:00",
-      "is_new": false
-    },
-    {
       "id": "USAspending:15DDHQ25C00000022",
       "source": "USAspending",
       "category": "procurement",
@@ -2962,34 +2933,6 @@
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-11-16T15:02:00.576370+00:00",
-      "is_new": false
-    },
-    {
-      "id": "USAspending:W31P4Q21F0297",
-      "source": "USAspending",
-      "category": "procurement",
-      "type": "Award",
-      "title": "TEXTRON SYSTEMS CORPORATION: THIS IS A RESEARCH AND DEVELOPMENT SERVICE FOR THE SUSTAINMENT OF UNMANNED AIRCRAFT SYSTEM'S COMMAND, CONTROL, COMMUNICA",
-      "url": "https://www.usaspending.gov/award/CONT_AWD_W31P4Q21F0297_9700_W31P4Q20D0029_9700",
-      "agency": "Department of Defense",
-      "identifier": "W31P4Q21F0297",
-      "date": "2021-08-30",
-      "deadline": null,
-      "summary": "THIS IS A RESEARCH AND DEVELOPMENT SERVICE FOR THE SUSTAINMENT OF UNMANNED AIRCRAFT SYSTEM'S COMMAND, CONTROL, COMMUNICATIONS, COMPUTER AND INTELLIGENCE SYSTEMS FOR THE ONE SYSTEM REMOTE VIDEO TERMINAL AND RELATED COMPONENTS WINDOWS 7 SOFTWARE BUILD.",
-      "score": 38,
-      "domains": [
-        "air"
-      ],
-      "matched_terms": [
-        "unmanned aircraft",
-        "unmanned aircraft system"
-      ],
-      "watchlist": null,
-      "extra": {
-        "amount": 725638.34,
-        "award_type": "DELIVERY ORDER"
-      },
-      "first_seen": "2026-11-25T07:22:30.050533+00:00",
       "is_new": false
     },
     {
@@ -3251,6 +3194,34 @@
       "is_new": false
     },
     {
+      "id": "USAspending:697DCK26C00170",
+      "source": "USAspending",
+      "category": "procurement",
+      "type": "Award",
+      "title": "SPS ARS LLC: BAA CALL 001-2026 DEVELOPMENT OF NON-SYSTEM SPECIFIC TECHNOLOGY TO INTEGRATE UNMANNED AIRCRAFT SYSTEMS (UAS) INTO THE NA",
+      "url": "https://www.usaspending.gov/award/CONT_AWD_697DCK26C00170_6920_-NONE-_-NONE-",
+      "agency": "Department of Transportation",
+      "identifier": "697DCK26C00170",
+      "date": "2026-09-17",
+      "deadline": null,
+      "summary": "BAA CALL 001-2026 DEVELOPMENT OF NON-SYSTEM SPECIFIC TECHNOLOGY TO INTEGRATE UNMANNED AIRCRAFT SYSTEMS (UAS) INTO THE NAS",
+      "score": 34,
+      "domains": [
+        "air"
+      ],
+      "matched_terms": [
+        "unmanned aircraft",
+        "uas"
+      ],
+      "watchlist": null,
+      "extra": {
+        "amount": 627872.0,
+        "award_type": "DEFINITIVE CONTRACT"
+      },
+      "first_seen": "2026-11-28T06:41:33.327536+00:00",
+      "is_new": true
+    },
+    {
       "id": "USAspending:697DCK26C00206",
       "source": "USAspending",
       "category": "procurement",
@@ -3305,6 +3276,62 @@
       },
       "first_seen": "2026-11-27T07:08:03.790584+00:00",
       "is_new": false
+    },
+    {
+      "id": "USAspending:697DCK26C00174",
+      "source": "USAspending",
+      "category": "procurement",
+      "type": "Award",
+      "title": "ANRA TECHNOLOGIES, INC.: BAA CALL 001-2026 DEVELOPMENT OF NON-SYSTEM SPECIFIC TECHNOLOGY TO INTEGRATE UNMANNED AIRCRAFT SYSTEMS (UAS) INTO THE NA",
+      "url": "https://www.usaspending.gov/award/CONT_AWD_697DCK26C00174_6920_-NONE-_-NONE-",
+      "agency": "Department of Transportation",
+      "identifier": "697DCK26C00174",
+      "date": "2026-09-16",
+      "deadline": null,
+      "summary": "BAA CALL 001-2026 DEVELOPMENT OF NON-SYSTEM SPECIFIC TECHNOLOGY TO INTEGRATE UNMANNED AIRCRAFT SYSTEMS (UAS) INTO THE NAS",
+      "score": 34,
+      "domains": [
+        "air"
+      ],
+      "matched_terms": [
+        "unmanned aircraft",
+        "uas"
+      ],
+      "watchlist": null,
+      "extra": {
+        "amount": 630000.0,
+        "award_type": "DEFINITIVE CONTRACT"
+      },
+      "first_seen": "2026-11-28T06:41:33.327536+00:00",
+      "is_new": true
+    },
+    {
+      "id": "USAspending:697DCK26C00173",
+      "source": "USAspending",
+      "category": "procurement",
+      "type": "Award",
+      "title": "ANRA TECHNOLOGIES, INC.: BAA CALL 001-2026 DEVELOPMENT OF NON-SYSTEM SPECIFIC TECHNOLOGY TO INTEGRATE UNMANNED AIRCRAFT SYSTEMS (UAS) INTO THE NA",
+      "url": "https://www.usaspending.gov/award/CONT_AWD_697DCK26C00173_6920_-NONE-_-NONE-",
+      "agency": "Department of Transportation",
+      "identifier": "697DCK26C00173",
+      "date": "2026-09-16",
+      "deadline": null,
+      "summary": "BAA CALL 001-2026 DEVELOPMENT OF NON-SYSTEM SPECIFIC TECHNOLOGY TO INTEGRATE UNMANNED AIRCRAFT SYSTEMS (UAS) INTO THE NAS",
+      "score": 34,
+      "domains": [
+        "air"
+      ],
+      "matched_terms": [
+        "unmanned aircraft",
+        "uas"
+      ],
+      "watchlist": null,
+      "extra": {
+        "amount": 611400.0,
+        "award_type": "DEFINITIVE CONTRACT"
+      },
+      "first_seen": "2026-11-28T06:41:33.327536+00:00",
+      "is_new": true
     },
     {
       "id": "USAspending:693KA824F00073",
@@ -4020,29 +4047,6 @@
       "is_new": false
     },
     {
-      "id": "USAspending:19AQMM25F0189",
-      "source": "USAspending",
-      "category": "procurement",
-      "type": "Award",
-      "title": "QUANTUM-SYSTEMS INC: PURCHASE OF VECTOR DRONES SYSTEMS AND UPGRADES.",
-      "url": "https://www.usaspending.gov/award/CONT_AWD_19AQMM25F0189_1900_19AQMM25D0182_1900",
-      "agency": "Department of State",
-      "identifier": "19AQMM25F0189",
-      "date": "2024-12-20",
-      "deadline": null,
-      "summary": "PURCHASE OF VECTOR DRONES SYSTEMS AND UPGRADES.",
-      "score": 30,
-      "domains": [],
-      "matched_terms": [],
-      "watchlist": null,
-      "extra": {
-        "amount": 19592152.9,
-        "award_type": "DELIVERY ORDER"
-      },
-      "first_seen": "2026-11-16T15:02:00.576370+00:00",
-      "is_new": false
-    },
-    {
       "id": "USAspending:19AQMM26F0930",
       "source": "USAspending",
       "category": "procurement",
@@ -4141,33 +4145,6 @@
       "watchlist": null,
       "extra": {
         "amount": 9949556.33,
-        "award_type": "DELIVERY ORDER"
-      },
-      "first_seen": "2026-11-16T15:02:00.576370+00:00",
-      "is_new": false
-    },
-    {
-      "id": "USAspending:W31P4Q21F0254",
-      "source": "USAspending",
-      "category": "procurement",
-      "type": "Award",
-      "title": "TEXTRON SYSTEMS CORPORATION: THIS EFFORT IS TO SUPPORT SUSTAINMENT OF UNMANNED AIRCRAFT FLIGHT CONTROL SYSTEMS.",
-      "url": "https://www.usaspending.gov/award/CONT_AWD_W31P4Q21F0254_9700_W31P4Q20D0029_9700",
-      "agency": "Department of Defense",
-      "identifier": "W31P4Q21F0254",
-      "date": "2021-08-04",
-      "deadline": null,
-      "summary": "THIS EFFORT IS TO SUPPORT SUSTAINMENT OF UNMANNED AIRCRAFT FLIGHT CONTROL SYSTEMS.",
-      "score": 30,
-      "domains": [
-        "air"
-      ],
-      "matched_terms": [
-        "unmanned aircraft"
-      ],
-      "watchlist": null,
-      "extra": {
-        "amount": 4170510.21,
         "award_type": "DELIVERY ORDER"
       },
       "first_seen": "2026-11-16T15:02:00.576370+00:00",
@@ -5149,8 +5126,8 @@
     {
       "name": "Federal Register",
       "status": "ok",
-      "detail": "22 kept",
-      "count": 22
+      "detail": "21 kept",
+      "count": 21
     },
     {
       "name": "Regulations.gov",
@@ -5190,10 +5167,10 @@
     }
   ],
   "stats": {
-    "total": 183,
+    "total": 182,
     "new": 4,
     "by_category": {
-      "regulatory": 107,
+      "regulatory": 106,
       "procurement": 60,
       "litigation": 12,
       "legislative": 4
@@ -5209,7 +5186,7 @@
       "FCC ECFS": 62,
       "USAspending": 60,
       "Regulations.gov": 25,
-      "Federal Register": 20,
+      "Federal Register": 19,
       "CourtListener": 12,
       "Congress.gov": 4
     }
@@ -5398,7 +5375,7 @@
   "deadlines": [
     {
       "deadline": "2026-12-03",
-      "days": 6,
+      "days": 5,
       "title": "Privacy Act of 1974; System of Records",
       "identifier": "Docket No. DOT-OST-2026-3862",
       "category": "regulatory",
@@ -5407,7 +5384,7 @@
     },
     {
       "deadline": "2026-12-04",
-      "days": 7,
+      "days": 6,
       "title": "Agency Information Collection Activities; Proposed eCollection eComments Requested; SAFER SKIES State, Local, Tribal, and Territorial Counter-UAS Information Collection",
       "identifier": "OMB Number 1110-0090",
       "category": "regulatory",
